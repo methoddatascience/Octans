@@ -1,0 +1,11 @@
+Cognitive disorders like intellectual disability, autism, Alzheimer's disease and psychiatric illnesses place a heavy burden on healthcare systems, patients and families alike. While scientists have identified hundreds of genes underlying such disorders, the majority of causes remain to be solved.
+
+The EU-funded GENCODYS (Genetic and epigenetic networks in cognitive dysfunction) initiative aimed to uncover how mutations in genes cause the brain to dysfunction. Armed with this information, consortium members hope to develop cures for multiple cognitive disorders.
+
+Scientists from Iran, Pakistan and seven EU states worked with a patient network organisation to identify common mechanisms leading to cognitive impairment. They uncovered 150 genes to add to the 400 that were already linked to early onset cognitive disorders (those that manifest before 18 years of age).
+
+By the project's end, GENCODYS had established a biobank and database containing DNA samples and clinical data for over 13,000 individuals with a cognitive disorder. Having found the disorder's causes for many of the patients, researchers subsequently developed diagnostic genetic tests that, along with genetic counselling, will immediately benefit patients.
+
+The researchers also developed animal models to help dissect the complex neurological pathways disturbed by mutations in newly identified cognitive disorder genes. They used genetically well-characterised fruit fly and mouse models to measure impairments in neurodevelopment, learning and memory, and other behaviours.
+
+Finally, researchers developed drug targets to repair cognitive function, which may eventually lead to cures in humans. To that end, they used mammalian neuronal cell models as well as the characterized animal models to further investigate promising therapeutic interventions.

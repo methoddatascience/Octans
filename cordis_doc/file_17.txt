@@ -1,0 +1,432 @@
+Executive summary:
+
+Summary
+
+Alzheimer's disease is the most common age-related neurodegerative disorder, and one of the most devastating diagnoses that patients and their families can receive. Currently approximately 10 % of those over 65 years old have Alzheimer's disease, and both the direct and indirect cost of Alzheimer's care is estimated at greater than 100 billion USD in the US alone. As the number of elderly people increase rapidly in the coming years, it is estimated (Lancet 16 December 2006) that people with dementia will rise enormous to 81 million by the year 2040. Consequently, the health care cost in many European countries will increase dramatically and prove to be a significant burden on the national health finances.
+
+BRAINHEALTHFOOD Consortium coordinated by the Department of Biosciences, University of Eastern Finland and including leading experts from several European countries representing strong experience in bioactive chemistry, metabolomics and neurology addressed the key bioactive compounds present in blackcurrants (Ribes nigrum) juice residues that may possess neuroprotective properties, and thus provide novel functional ingredients to formulate berry juices and other food products which may help to prevent Alzheimer's disease. Based on the neurological research, blackcurrant anthocyanin-rich extract was found to possess neuroprotective activity and reduce effectively ROS production. In collaboration with SMEs, different amounts of neuroprotective extracts were added into several berry and fruit juices and dietary supplements. Polyphenols, sensory and taste analysis was made from selected juice combinations. Only minor decrease in anthocyanins with storage at 4 ºC was observed, but levels more than halved after 4 weeks at room temperature suggesting that novel "BrainHealth" - juices should be kept at 4 ºC to preserve their health promoting properties. This project led to the identification of many juice combinations for European SMEs of potential commercial applications. In this project, we also found significant variation in the polyphenol content between commercial blackcurrant juices in different European countries suggesting that intake of polyphenols from German and Polish ready-to-drink beverages was clearly higher than that from Finnish and British beverages. Different amounts of neuroprotective blackcurrant extracts were added into various food products. Our work demonstrated that blackcurrant juice extract can be added particularly well into drinkable yoghurts without negative impact on taste at moderate concentrations suggesting that drinkable yoghurts may be attractive food matrix to add "BrainHealth" improving polyphenol extracts for wide-scale potential to improve health and well-being of elderly population.
+
+This project very successfully exploited the results of neurological research and the clinical trial where polyphenol-enriched blackcurrant juice modulated glucose responses in human subjects. Based on these results, Finnish dietary supplement company successfully combined in the novel way the neuroprotective anthocyanin-extract and other berry extracts for the development of novel commercial dietary supplement product containing significant amounts of polyphenols of relevance for human health and well-being for European and international markets.
+
+Via SME and RTD collaboration, we found new opportunities for the effective exploitation of blackcurrant juice residues in Europe, and this consortium successfully developed several novel research based health products for European and international markets. In the next stage, efforts will be focused for the international marketing of "Brain Health Food" products developed in this project.
+
+Project Context and Objectives:
+
+A summary of project context and objectives
+
+Alzheimer's disease (AD) is the most common age-related neurodegerative disorder, and one of the most devastating diagnoses that patients and their families can receive. Currently ~ 10 % of those over 65 years old have Alzheimer's disease, and both the direct and indirect cost of Alzheimer's care is estimated at greater than$100 billion in the US alone and in the UK to be ~25 million EUROS. As the number of elderly people increase rapidly in the coming years, it is estimated (Lancet 16 December 2006) that people with dementia will rise enormous to 81 million by the year 2040. Consequently, the health care cost in many European countries will increase dramatically and prove to be a significant burden on the national health finances.
+
+Although the precise mechanism of Alzheimer's disease is not understood, a central consequence of disease is accumulation of amyloid-beta protein in the brain cells which is proposed to be derived from a combination of oxidative stress and inflammation. New findings in recent epidemiological studies suggest that drinking three or more glasses of fruit or vegetable juice per week, could even reduce the risk of developing of AD by over 50 % compared with those who drank less than one serving per week. This finding is supported by numerous recent in vitro studies demonstrating that polyphenolics from vegetables, berries and fruits possess neuroprotective activities by acting via a free radical scavenging function, directly inhibiting the accumulation of amyloid beta or affecting the signalling pathways of inflammation and other process linked to AD. These accumulating and encouraging observations provide interesting avenues for dietary means to delay the onset of Alzheimer's disease development and design special foods for those elderly people who are at high risk for the disease. However, before novel polyphenolic-based dietary means are considered for viable commercial applications and for practical value in reducing AD risk, more information will be needed about the specific mechanisms by which fruit or vegetable polyphenolics exert their neuroprotective action to enable to design best combinations of phenolics for neuroprotection ability. SMEs must outsource such studies to RTDs (e.g universities) due their limited resources, but by such an outsourcing they can confidently and credibly exploit the great business opportunities in this growing food and non-food sector.
+
+In Europe, berries represent an excellent natural source of polyphenolic compounds. Blackcurrant, in particular, contains a significant amount of many bioactive polyphenolics, and therefore is a natural target for the preparation of bioactive food ingredients for a variety of applications. However, for a business to be profitable in this area it would require inexpensive sources of polyphenolics and therefore harvested (fresh) berries in EU regions may not be cost effective sources of polyphenolics for the formulation of products for worldwide markets. In this consortium, we address this issue by exploitation of blackcurrant juice residue, which is an abundant bio-waste from the food industry and is a massively enriched polyphenolic material. Today, there is only a very limited knowledge available about the neuroprotection activity of blackcurrant polyphenolics, and very little is known about the neuroprotection activity of juice residues or their different fractions; information which is necessary background for the credible commercial exploitation of juice residues. In this consortium we will support SMEs by addressing this issue through the integration of European level research collaboration from biochemical and metabolomics (SCRI, MTT, UKU,TTZ) knowledge into strong neurological expertise (Neurology, UKU) to determine, which fractions and polyphenolic compounds from blackcurrant juice residues provides strongest neurological protection in vitro models and in Alzheimer model system, and in this way provide a solid basis for SMEs to construct novel juices and dietary supplements and other applications in food industry.
+
+Specifically, our overall objective is to assist the SMEs, in the form of a mutually beneficial consortium, to develop new innovative bioactive based food products for European and global markets. To reach this, we have collected leading experts from different European countries representing strong experience from bioactive chemistry, metabolomics and neurology to identify and determine the best fractions from blackcurrant processing extracts, which together with the SMEs will facilitate the development and formulation of novel products for growing markets.
+
+Specific objectives are:
+-Development of at least 5 pilot nutraceutical and juice products
+-To identify of bioactive compounds possessing neuroprotection activity from blackcurrant processing waste residues, identification which polyphenolic compounds (2-4) and fractions (3-6) from blackcurrant possessing strongest neuroprotective properties using human neuroblastoma cells (SH-SY5Y) by measuring cellular oxidative stress parameters and biochemical changes related to neuroprotection; first results from polyphenolics and fractions within 6 months of the project start, and rest of the results within 19 months of the project initiated.
+-To determine the role of bioactive compounds in reducing the risk of Alzheimer's disease, polyphenolic enriched fractions (2-3) from blackcurrant waste extract prepared in a dietary formulate reduce amyloid beta protein and improves cognitive behaviour in a mouse model of Alzheimer's disease, first results achieved within 16 months, and the final results by the 23 months of the project started.
+-To determine the bioactive compounds and antioxidant activity in commercial blackcurrant juices in Europe and to determine the recovery of polyphenols, the levels of bioactive phenolics (anthocyanins, proanthocyanins, myricetin, quercetin, kaempferol and isorhamnetin) and antioxidant capacity from commercial blackcurrant juice products (25-30 juices) from European countries (Finland, Germany and UK) and estimate the recovery/ intake of polyphenolics; results will be achieved by the 20 months of the project started.
+-To determine the bioavailability of polyphenolics from extracts in human clinical trials, bioavailability of major phenolics (anthocyanins, myricetin, quercetin, kaempferol and isorhamnetin) from polyphenolic enriched blackcurrant material will be determined by the identification of polyphenol metabolites formed via the passage through the small intestine of healthy subjects after the consumption of blackcurrant enriched juice in human trials, results from bioavailability of polyphenolics will be achieved by the end of 13 months of the project start.
+-Total utilization of blackcurrant processing waste; to develop cost effective and environmentally friendly methods to extract bioactive compounds from blackcurrant processing waste material at a viable scale within 12 months of project initiated.
+-Development about 10 different ingredients from processing waste for a variety of purposes (food and nutraceutical industry, cosmetic industry; dried cake (powders) introduced into ten different food applications by 23 months of the project start.
+-To help SMEs in the development of berry juices and dietary supplements for reducing risks of Alzheimer's disease development, three berry juices, two supplements by the 23 months of the project start.
+-To help SMEs to determine and monitor the quality of the new products (biochemical composition, safety, storability, stability, etc.), determination the content of bioactive phenolics (anthocyanins, myricetin, quercetin, kaempferol and isorhamnetin) and antioxidant capacity in "BrainHealth"-juice product candidates (blackcurrant, blueberry and strawberry/cranberry) after additions of different amounts of neuroprotective extracts into juice by HPLC and MS spectrometric analysis, results will be achieved by the end of 19 months of the project, determination the content of bioactive phenolics (anthocyanins, proanthocyanins, myricetin, quercetin, kaempferol and isorhamnetin) and antioxidant capacity in "BrainHealth"- dietary supplement candidates (2 supplements) after additions of different amounts of neuroprotective extracts (2-4) into supplements by HPLC analysis; results will be achieved by the 15 months of the project started.
+-To ensure the exploitation and dissemination of results during the project; to help SMEs with the development of industrial scale production of end products in their own factories; analysis of marketing of novel products, to help SMEs for finding international marketing partners for new products; to increase skill base of SMEs of the new knowledge by training and exchange of RTDs; to help SMEs to prepare strategies and promotion material for marketing new products; to prepare scientific publications for international journals
+
+Project Results:
+
+A description of the main S&T results/foregrounds
+
+3.1 (WP 1) Raw material processing
+
+Main responsible partner: ttz, (and SCRI)
+
+Main Objectives
+
+To press the frozen blackcurrant juice residue to achieve a dryer cake, to investigate the effect of enzymes on cell-wall loosening of the cake material, to determine the impact of pressing conditions on the polyphenol content.
+
+To grind and dry cakes to enable for the development of efficient extraction methods for polyphenols in the cake, water/solvent, super-critical fluid extraction techniques; To optimize the purification and stabilization procedures to obtain target molecules at a pilot scale.
+
+Total utilization of blackcurrant processing waste; to develop cost effective and environmentally friendly methods to extract bioactive compounds from blackcurrant processing waste material at a viable scale
+
+To analyze bioactive compounds from different stages during the fractionation of cakes
+
+Summary of main results:
+Cost effective methods for the extraction of bioactive compounds from blackcurrant processing waste were developed at the project (TTZ, Germany). Drying of blackcurrant press-cake is a necessary step to extract bioactive compounds from juice residues. Compared to air drying, freeze drying is a faster, method, but the energy needs for freezing and sublimation is high, and is an expensive method. However, air-force oven drying is less energy consuming, but requires much more time. Different ways of grinding of press-cake was evaluated (electrical kitchen chopper and cross hammer) and sufficient levels of particle size was achieved with different methods. However, press-cake with wet drying was found unsuitable method for grinding juice residues. It was also found that cross hammer mill was efficient methods to grind press cake without the need of additional sieving step.
+
+3.2 (WP2) Research and development of products
+
+Main responsible partner: UEF, MTT, SCRI
+
+Main Objectives
+
+-To identify of bioactive compounds possessing neuroprotection activity from blackcurrant processing waste residues, identification which polyphenolic compounds and fractions from blackcurrant possessing strongest neuroprotective properties using human neuroblastoma cells (SH-SY5Y)
+-To determine the role of bioactive compounds and polyphenol-rich fractions in reducing the risk of Alzheimer's disease prepared in a dietary formulate to reduce amyloid beta protein and improves cognitive behaviour in a mouse model of Alzheimer's disease
+-To determine the bioavailability of polyphenols from blackcurrant juice enriched with polyphenol extracts in human clinical trials
+-To determine the content of bioactive phenolics in "BrainHealth" product candidates after addition of different amounts of neuroprotective extracts (juice products, dietary supplements and other food products)
+
+Neuroprotective activity of blackcurrant polyphenols and extracts
+
+Neuroprotective activity of blackcurrant polyphenols:
+
+In this work we screen first the potential neuroprotective ability of major blackcurrant bioactive compounds, and then we screen polyphenol-rich extracts. Myricetin and quercetin were found the most interesting bioactive compounds to affect neuroprotective activity.
+
+MYRICETIN:
+Neuroprotective activity of myricetin was tested in human neuroblastoma cells stably overexpressing APP 751 isoform (SH-SY5Y-APP751) by measuring conventional stress parameters. To test whether myricetin effects the survival of SH-SY5Y-APP751 cells, MTT-assay was used to assess cell viability in cells treated with myricetin and/or staurosporine (induces apoptosis). Myricetin concentrations did not have effect on survival of SH-SY5Y-APP751 cells. When cells were treated with 1µM staurosporine, survival decreased approximately 40% when compared to controls (pless than0.0001). Different concentrations of myricetin did not significantly improve survival when cells were treated with both staurosporine and myricetin, although a small trend towards the improved survival was observed. To test whether myricetin has a positive effect on cells survival after longer exposure of staurosporine, we first tested different staurosporine concentrations. When 0.2 µM staurosporine was used for 19 hours, it decreased survival approximately 40%.
+
+QUERCETIN:
+As with myricetin, neuroprotective activity of quercetin was tested in SH-SY5Y-APP751 by measuring stress parameters related to neuroprotection. To study whether the different concentrations of quercetin effects the survival of SH-SY5Y-APP751 cells, cultures were treated with quercetin. Results shows that quercetin concentrations from 0.1 µM to 5 µM did not have effect on survival of the SH-SY5Y-APP751 cells. Significant decrease of survival was observed when quercetin concentrations ranging from 10 µM to 30 µM were used.
+
+NEUROPROTECTIVE ACTIVITY OF ANTHOCYANIN-ENRICHED BLACKCURRANT FRACTIONS:
+
+Our next goal was to assess whether fractions extracted from blackcurrant also affect ROS production. Among the tested fractions, anthocyanins were the best in terms of neuroprotection. In the experiment, after 60 minutes menadion treatment, anthocyanin-enriched blackcurrant extracts significantly abolished ROS production.
+
+Quercetin activates cellular defence against oxidative stress via Nrf2
+
+Although the precise mechanisms of AD is not known, growing scientific evidence suggest that oxidative stress, including free radicals, plays a key role in Alzheimer's disease and the major site of increasing oxidative damage is the cytoplasm of vulnerable neurons. The brain is more susceptible to oxidative stress than other major organ because of its high oxygen consumption. Interestingly, although it accounts only 2 % of the body weight, it consumes about 25 % of the respired oxygen. Furthermore, it is known that neurons are very sensitive to oxidative stress as their metabolic rate is about five times that of other brain cells. Problematic for brain health is also low levels of antioxidant enzymes (superoxidase dismutase, glutathione and catalyse) in the brain compared to, for example, the liver or kidney, which further predisposes brain to oxidative stress. Inflammation may also play an important contributor to neuronal damages in early stages of Alzheimer's disease development.
+
+Neuroprotection activity in mice model of Alzheimer's disease
+
+Available transgenic lines of mice (APPswe) at the University of Eastern Finland (Kuopio Campus, Department of Neurobiology under Professor Heikki Tanila) harbouring a human amyloid beta domain and mutations linked to Swedish familiar AD pedigrees, enables to ask whether dietary supplementation would influence on behaviour and AD-pathology in a mouse model of Alzheimer's disease. In the original plan two trials were planned to perform, but we extended trials for three. In the first trial, we provide mice drinking "water" basic blackcurrant juice (control water) for long term trials. Second, three different blackcurrant preparations were prepared in a dietary form and transgenic mice young mice receive the blackcurrant supplemented diet for 3-4 months, and thereafter, in the second, (older mice) trials with most promising blackcurrant preparations will be last for 12 months. During the experiments, observations on the learning and memory abilities will be tested in the Morris water maze, the CUED water maze, and spatial water maze tests. At the end of experiments, histological analysis of brain pathology as well as the accumulation of amyloid proteins by ELISA and APP western blots will be analyzed (UKU). Our primary aim was to produce solid scientific information about the neuroprotection activity of blackcurrant extracts and its bioactive compounds, and thus will be essential information for all SMEs to the development of novel "BrainHealth" products from blackcurrant.
+
+Summary of the main results:
+
+-Blackcurrant polyphenols, quercetin and myricetin reduces ROS production in SH-SY5Y-APP751 cells suggesting that blackcurrant bioactive compounds mediate neuroprotection at least partly by modulation of antioxidant defence systems.
+
+-Quercetin treatment elevated Nrf2 expression levels, key transcription factors behind antioxidant defence against oxidative stress providing further evidence for antioxidant defence
+-Quercetin reduced APP maturation-altered trafficking of APP in the secretary pathway suggesting that this blackcurrant bioactive compound seem to affect APP processing
+-Quercetin effectively and dose-dependently reduced IL-6 concentration suggesting that blackcurrant may affect key biochemical events behind inflammation-central component behind Alzheimer's disease process
+-Anthochyanin rich extracts reduce effectively ROS production and will be important polyphenol-rich extracts for neuroprotective food applications
+-Anthocyanin-rich extracts (low to moderate concentrations) improve neurological traits-neuphobia, avoidance time; high doses needed to improve significantly memory abilities
+-Our results supported by recent mice data by Shih et al (J Nutr Biochem 2010), cognitive improvement by blackcurrant anthocyanin-extracts was related with enhanced expression of Nrf2, suggesting that antioxidant defence plays a role in blackcurrant mediated response to oxidative stress
+-Our clinical, mice and cell model data are in line with recent clinical data by Karlsen et al. (2007, J Nutr 137) where 300 mg Medox supplementation (blackcurrant+bilberry antchocyanins) for three weeks (120 persons) modulate inflammation markers in plasma (Nf-kappa, IL-6 etc) suggesting that BRAINHEALTHFOOD products containing at least 300 mg/day of anthocyanins may lead health beneficial effects of clinical relevance.
+
+IMPLICATIONS FOR PRODUCT DESIGN
+
+-Results offers solid basis for the construction of BrainHealth-juices/supplements for SMEs, based on the research findings, anthocyanin-rich extracts (provided by BerryPharma) have been introduced into different juice products (fruit juices (Indulleida); berry juices (Werder-Frucht, Vin-Kon and Aito-Onni) and dietary supplements (Pharmia). Many pilot products are close to commercialized stage for large-scale production.
+-Blackcurrant anthocyanin-rich extracts is a relatively cheap material and important component for many applications
+-Our results suggests that quercetin and related flavonols may mediate important additional health benefits, and introducing flavonol-rich extracts into "Health-mixtures with blackcurrant anthocyanins"- may offer important additional health benefits (fruit juices + blackcurrant). Neuroprotective activity towards Alzheimer's disease protection may benefits if distinct polyphenols providing specific activity (flavonol-rich extracts, apple, other fruits, pomegranate (tannins), resveratrol-rich extracts (grape) can be combined in the special food items (juices/supplements).
+-Blackcurrant anthocyanins are poorly bioavailable and relatively easy for degradation during processing, and therefore other more bioavailable anthocyanins (such as from bilberry, crowberry, chokeberry etc) may provide health benefits over blackcurrant in certain food applications.
+
+Objectives:
+
+A clinical trial was carried out at the University of Eastern Finland, Kuopio campus, Finland, in August-September 2009. The aims of the study were to investigate
+
+-the bioavailability of anthocyanins and other polyphenols from the two blackcurrant juices with different polyphenol contents (a control juice and b polyphenol-enriched juice)
+-the effects of these sugar-sweetened juices (5 g added sucrose/100 ml) on blood glucose and insulin concentrations.
+
+Summary of main results
+
+To determine the bioavailability of different polyphenols and glycemic responses after consumption of 300 ml of blackcurrant juice and blackcurrant juice enriched with polyphenol ( derived from crowberry) extract. Randomized, controlled, double-blind cross-over study each subject (14 subjects) participated in two 8-h postprandial tests, on separate days, at least 5 days apart. After consumption of the juice (300 ml, blackcurrant and crowberry enriched blackcurrant juice) blood samples were drawn at 15, 30, 45, 60, 90, 120, 150 and 180 min for glucose and insulin measurements. A baseline 12-h urine was collected during the night before the test, and 0-2, 2-4, 4-6 and 6-8 h samples were collected after consumption of the juice. 20 µl injections for polyphenols were analyzed in duplicate on a LCQ-DECA LC-MS system (ThermoFinnigan Ltd), comprising a Surveyor autosampler, pump and photodiode array (PAD) detector and a Thermo mass spectrometer ion trap.
+
+Conclusions:
+
+Our data suggest that adding polyphenol extract such as that from crowberry containing different types of polyphenols into blackcurrant juice may be a viable means to modulate blood glucose and insulin levels, one of the major risk factors behind Alzheimer's disease development.
+
+Publications/Manuscript:
+
+Phenolic compounds in urine and glucose responses after polyphenol enriched black currant juice consumption
+By Törrönen, R, McDougal, G, Stewart, D and Karjalainen, R
+
+Bioactive phenolics in "BrainHealth" products
+
+In this project, one of our important work were to analyze of health promoting phenolic compounds from different juice products from SMEs, pilot products made in the project, and bioactive compounds in the potential extracts suitable for material in the product formulations. First, we evaluate the intake of polyphenols from current blackcurrant juices in European countries by analyzing polyphenol content of major juice products.
+
+Summary of main results
+Vitamin C and polyphenol contents (anthocyanins, proanthocyanidins, phenolic acids and flavonols) were analyzed in commercial blackcurrant juice products purchased from various European countries (Finland, Poland, Germany, United Kingdom) using HPLC methods. The aim was to study variation between countries, as well as evaluate the intake of polyphenols from commercial juices. There was significant variation in the contents of polyphenols and vitamin C between countries. Expressed as the ready-to-drink beverages, German, Polish, Finnish and British products averaged anthocyanin contents of 38, 32, 12 and 7.5 mg/2.5 dl, proanthocyanidin contents of 27, 24, 10 and 1.2 mg/2.5 dl, flavonol contents of 16, 15, 5.2 and 1.9 mg/2.5 dl and phenolic acid contents of 12, 8.9, 3.7 and 1.5 mg/2.5 dl,and respectively. The mean vitamin C content was highest in British (70 mg/2.5 dl) and lowest in Finnish products (15 mg/2.5 dl). The intake of polyphenols from German and Polish ready-to-drink beverages was clearly higher than that from Finnish and, especially, British beverages.
+
+Screening of anthocyanin concentrations in commercial berry extracts and food supplements
+
+In order to speed-up the commercial development of "BrainHealth" dietary supplements, we screen the most potential blackcurrant and related berry anthocyanin extracts, which may be suitable for the construction of dietary supplements and other products possessing BrainHealth beneficial properties. Our aim was to find blackcurrant anthocyanin extract showing stable polyphenol concentrations and therefore would be suitable for neurological trials.
+
+Identification of high quality blackcurrant Anthocyanin extracts
+
+One of the high quality blackcurrant anthocyanin extract was from BerryPharma (Swiss Company). We analyzed both liquid and powder concentrates, and they both contain high amount of anthocyanins, and liquid concentrates was found suitable for "BrainHealth" juice development, and powder for the development of dietary supplements.
+
+Summary of main results:
+
+- A very large variation was found in the anthocyanin concentration between different commercial food supplements, from 5 mg/capsule to 80 mg/capsule
+- Many supplements contain only a very tiny amounts of anthocyanins, and therefore expected health benefits will be minimal
+- In some supplement manufactures, labeled information in the anthocyanin content was fairly well in line with real amounts as revealed by our lab analysis
+- We found high quality blackcurrant anthocyanin extracts, which lead to further analysis and were found suitable for neurological analysis and later for product development
+Bioactive phenolics in "BrainHealth"-juice candidates
+
+Summary of main results
+
+In order to help SMEs to the development of novel health juices, RTDs analyzed polyphenols from a high number of different juices and juice combinations provided by SMEs. Companies selected the most important juices and juice combinations where different amounts of blackcurrant "neuroprotective" extracts were added.
+
+3. 3 (WP 2.3) Development of novel products
+
+Main Objectives
+
+-Development of at least 5 pilot dietary supplements and juice products
+-Development about 10 different ingredients, other products, from processing waste for a variety of purposes
+
+Main responsible partner: UEF, MTT, SCRI, ttz and all SMEs
+
+Development of cake-derived products (10 different other products)
+
+Summary of main results
+
+In this work we have analyzed bioactive compounds from a wide range of blackcurrant concentrated powders and we also tested the suitability of blackcurrant derived extracts (as powder forms) into different food applications (MTT, UEF and ttz joint work). We have shown high variability in the polyphenol content among commercial blackcurrant extracts suggesting the need for standardization for their reliable use in food applications. Different levels of polyphenols can be added into various food applications. Results suggest that polyphenol-rich extracts made from juice residue may be widely exploited in different cereal products.
+
+Development of juice products
+
+Objectives
+
+To determine the content of bioactive phenolics and sensory analysis in "BrainHealth"- juices after additions of different amounts of neuroprotective extracts into end products.
+
+Summary of main results
+
+Examples of juice products
+
+Example 1: Juices developed for Aito-Onni/Finnish berry-juice producer
+
+MarjaVakka (bought by Viinitalo Aito-Onni) produces berry juices that are marketed for special hospitals and other specific customer segments. Their product portfolio consists of the following juices: blackcurrant, strawberry, bilberry, lingonberry and blackcurrant/strawberry juices. AITO-ONNI wants to extend its product portfolio with novel multi-juice products targeted for special customer segments such as central hospitals.
+
+Sensory analysis of the juices
+
+Eight persons evaluated the juice drinks using following grading system from 1 to 5 (from not enjoyable to excellent).
+
+The products made of juices were evaluated a bit worse than the products made of juice concentrates. The reason for this is Brix of the used juices. They were lower than the standards used to transform the concentrates to juices. However, the tastes were very fresh but a bit watery. The juice drinks with the extracts were evaluated as good as the juice drinks without the extracts.
+
+Example 2: Juices developed for Werder Frucht: Sensory analysis of WERDER's pilot juices
+
+WERDER FRUCHT is extremely involved and established on the local market of juices in the eastern region of Germany and therefore working with local berry varieties such as blackcurrant but also elderberries, blueberries, strawberries, raspberries and chokeberries.
+
+WERDER FRUCHT is very interested to complete its product portfolio with multi-fruit juices supplemented with polyphenol rich extracts so BrainHealth multi-fruit juices such as multi-berry juices for example or blackcurrant-sunchoke juice.
+
+Based on the neuroprotective research carried out by Finnish RTD partners, results indicate that blackcurrant anthocyanin-rich extract possess health promoting properties which most likely lead to juices of potential "BrainHealth" benefits.
+
+Eight persons evaluated the juices using following grading system from 1 to 5 (from not enjoyable to excellent).
+
+Each existing commercially available juice drink from WERDER was compared with pilot BrainHealth juices with addition of liquid Blackcurrant extract for colour, flavour and taste. The tasters graded and commented the juices
+
+The only exception is the Apple + sea buckthorn (Hippophae L.) juice, which was not positively evaluated in term of colour. This result was expected since the addition of intensively red/purple coloured blackcurrant extract led to a red-orange blood orange like coloured juice.
+
+Example 3: Juices developed for Indulleida, a Spanish juice producer
+
+INDULLEIDA, a spanish food processing company, produces a variety of fruit juices, concentrates and fruit fibers for domestic and international markets. Local productions (apple, pear, orange etc.) are the main raw material for food processing. Fruit concentrates are particularly important part of special juice products for international markets (e.g. Japan, Middle East, etc.).
+
+INDULLEIDA wants to extend its product portfolio especially with novel multi-juice fruit concentrates targeted for domestic and international markets.
+
+Total Anthocyanins
+
+Neuroprotective anthocyanin-extract was added into several fruit juices provided by Indulleida, and the impact of extract on juce quality and bioactive content were determined by SCRI. For example, the total anthocyanins were measured according to the pH differential method of Cheng and Breen 2. The absorbances at 510 and 700 nm were measured as 2% solutions in buffers at pH1.0 and 4.5. The molar concentration was calculated by dividing absorbance [A510-A700 at pH 1.0 - A510-A700 at pH 4.5] by 26900, the molar extinction coefficient of cyanidin-3-glucoside. Results were expressed as milligrams of cyanidin-3-glucoside equivalents per 100 gram of sample.
+
+Development of dietary supplements
+
+PHARMIA OY, a Finnish company, is one of the leading manufacturers of dietary supplements. Dietary supplements based on berry raw material are promising avenue for the design tailor-made "premium" health-promoting/wellness products for baby-boom generation.PHARMIA wants to extend its product portfolio with novel multi-dietary supplements targeted for special customer segments in domestic and international markets. Based on the neuroprotective research carried out by Finnish RTD partners, results indicate that blackcurrant anthocyanin-rich extract possess health promoting properties which most likely lead to juices of potential "BrainHealth" benefits.The principal aim of PHARMIA is to produce "high premium" products for special markets, and therefore blackcurrant anthocyanin-rich extract were combined with unique properties of wild berries. PHARMIA made pilot products by combining blackcurrant powder and crowberry powder, and indicated that even the polyphenol concentrations up to 100-300 mg/tablets/daily dose can be achieved (see Deliverable 18).
+
+R&D based strategic product plan (PH, UEF)
+
+In collaboration with Pharmia, a Finnish dietary supplement company, we (PH, UEF) discussed different approached to development "BrainHealth" dietary supplement which would also been suitable for international markets.
+
+Our neurological work revealed that blackcurrant anthocyanin extract (from BerryPharma) possess neuroprotective activity and reduces effectively ROS production. This high quality anthocyanin extract was commercially available via business to business, and therefore was a good raw material for dietary supplement development. However, to be successful in the international markets (Japan, South-Korea etc), blackcurrant extract is not alone enough interesting, and therefore we screen the potential wild-berries which could complement health properties, and to create Exotic northern market value for the supplement.
+
+We found that Crowberry is a very interesting wild-berry that might add health benefits to the blackcurrant and create exotic value for marketing. Crowberry grows in northern hemisphere, and produces annually relatively stable yields due to wind pollination systems, while bilberry yields varies widely (due to insect pollination), and yield fluctuation creates problems for food manufacturing companies.
+
+Product development: Example of very successful RTD and SME collaboration
+
+Based on the results of neurological work (in vitro cell work, mice work) and clinical trial, Pharmia and UEF came to conclusion that novel "BrainHealth" dietary supplements will be formulated from blackcurrant anthocyanin extract and crowberry powder.
+
+Pharmia have prepared two pilot supplements; In the first case blackcurrant powder and crowberry powder (obtained from Finnish company, Kiantama) was combined, which yielded a relatively big tablet. Surface structure and organoleptic properties was quite OK, but could be improved.
+
+Dissemination of Results and IPR
+
+Responsible RTDs: UEF (UKU) and MTT
+
+Objectives
+
+Marketing analysis and consumer preference towards novel products
+
+Dissemination: Scientific publications, other presentations, IPR
+
+Marketing analysis
+
+
+Summary of main results
+
+Aging is the dominant demographic trend across Europe, North America and many areas in Asia. The trend is also clear that aging populations are showing s strong concern and desire to improve their personal health and wellbeing. Special food products improving overall mental performance, enhancing cognitive ability, learning and memory as well as protecting the brain from damages is set to become one of the hottest areas in the industry, according to analysis of Euromonitor (2009). There are currently about 390 million people over the age of 65 in the world and expected to increase to 800 million by 2025. According to Alzheimer's disease statistics, dementia affects one in 20 people over the age of 65, and about 24 million people are currently thought to be affected worldwide. However, although consumer research clearly suggest that older consumers are a key driver for the brain health food markets, only a very few products exists in the markets targeted for older population. Therefore, a primer opportunity exists for both food industry and dietary supplement makers to promote brain health ingredients to the aging target demographic, according to Euromonitor.
+
+IPR-Protection of scientific discoveries
+
+Objectives:
+
+Suitable strategies for protecting of IPR will be evaluated (Trademarks, brands, logos, patents etc) (UKU).
+
+Summary of main results
+
+Overall objective of RTD performers in the BRAINHEALTHFOOD project is to provide research knowledge, which will help SMEs to develop novel products. In addition to research knowledge, RTD performers will bring novel research and technological procedures for the potential exploitation of intellectual property rights. A number of different types of Intellectual Property Rights (IPR) will be carefully evaluated and implemented in this project to protect new innovations leading for novel products in the markets or for defensive strategic reasons. These include patents, trademarks, copyright and (secret) know-how.
+
+Dissemination
+
+Summary of main results
+
+In order to efficiently to transfer the knowledge and technology from RTDs into SMEs at the European level, which will lead novel "Brainhealth" products, collaboration between RTDs and SMEs started already in the first year to speed up the product development.
+
+In collaboration between Finnish RTDs and Pharmia SME, novel pilot dietary supplement was successfully produced. Based on the neurological analysis (cell-cultures and mice trials) we found the blackcurrant anthocyanin extract (from BerryPharma) that possessed neuroprotective activity and reduced effectively ROS production. This high quality anthocyanin extract was commercially available via business to business, and therefore was a good raw material for the development of dietary supplement and juice products. Pharmia targets "neuroprotective supplements" for international markets, and therefore we screen the potential wild-berries which could complement health properties, and to create exotic northern market value for the supplement. We found that crowberry is a very interesting wild-berry that might add health benefits to the blackcurrant and create exotic value for marketing. Pharmia successfully developed a very nice looking, and good tasting tablet of relatively small size, which contains a significant amount of polyphenols suggesting that polyphenols can be added into tablets in the concentrations of relevance for human health.
+
+In order to develop novel "BrainHealth" juices, we first analyzed polyphenols from several current juices from SMEs. In collaboration with SMEs, neuroprotective blackcurrant extract were added into every SMEs specific juices. Optimal doses of extracts were determined, and polyphenols amounts analyzed. Several novel "BrainHealth" berry juice products (Aito-Onni,Werder-Frucht and Vin-Kon) and fruit juice products (Indulleida) were developed. Organoleptic and taste properties were analyzed from "Health" juices.
+
+In order to determine how long time the polyphenols remain "active" in the juice products, we analyzed the stability of polyphenols from different berry and fruit juices added blackcurrant "neuroprotective" extracts. We mainly focused on the anthocyanins, because this is known to be sensitive for degradation. Our results clearly suggest that juices containing additional amounts of polyphenols should not be kept at room temperatures, but preferably at 4 ºC in order to preserve the health beneficial properties in the juices.
+
+We also analyzed bioactive compounds from a wide range of blackcurrant concentrated powders and tested the suitability of blackcurrant derived extracts (as powder forms) into different food applications. Different levels of polyphenols were added into several food applications. Our results suggest that drinkable yoghurts and certain bakery products may be attractive food matrix to add "BrainHealth" improving polyphenol ingredients for wide-scale potential to improve health and well-being among elderly population.
+
+Marketing and consumer preference analysis was also performed. Our analysis suggests that core segment of premium health products are well-educated, well-informed mid-lifers and older people (mostly female). Personal health relevance important factors behind purchase decision suggesting that products should be carefully designed to offer health benefits for specific customer segments. These health oriented core consumer segment make also purchase decision independently from price.
+
+Dissemination of Results and IPR
+
+Responsible RTDs: UEF (UKU) and MTT
+
+Objectives
+
+Marketing analysis and consumer preference towards novel products
+
+Dissemination: Scientific publications, other presentations, IPR
+
+Marketing analysis
+
+
+Summary of main results
+
+Aging is the dominant demographic trend across Europe, North America and many areas in Asia. The trend is also clear that aging populations are showing s strong concern and desire to improve their personal health and wellbeing. Special food products improving overall mental performance, enhancing cognitive ability, learning and memory as well as protecting the brain from damages is set to become one of the hottest areas in the industry, according to analysis of Euromonitor (2009). There are currently about 390 million people over the age of 65 in the world and expected to increase to 800 million by 2025. According to Alzheimer's disease statistics, dementia affects one in 20 people over the age of 65, and about 24 million people are currently thought to be affected worldwide. However, although consumer research clearly suggest that older consumers are a key driver for the brain health food markets, only a very few products exists in the markets targeted for older population. Therefore, a primer opportunity exists for both food industry and dietary supplement makers to promote brain health ingredients to the aging target demographic, according to Euromonitor.
+
+IPR-Protection of scientific discoveries
+
+Objectives:
+
+Suitable strategies for protecting of IPR will be evaluated (Trademarks, brands, logos, patents etc) (UKU).
+
+Summary of main results
+
+Overall objective of RTD performers in the BRAINHEALTHFOOD project is to provide research knowledge, which will help SMEs to develop novel products. In addition to research knowledge, RTD performers will bring novel research and technological procedures for the potential exploitation of intellectual property rights. A number of different types of Intellectual Property Rights (IPR) will be carefully evaluated and implemented in this project to protect new innovations leading for novel products in the markets or for defensive strategic reasons. These include patents, trademarks, copyright and (secret) know-how.
+
+Dissemination
+
+Summary of main results
+
+In order to efficiently to transfer the knowledge and technology from RTDs into SMEs at the European level, which will lead novel "Brainhealth" products, collaboration between RTDs and SMEs started already in the first year to speed up the product development.
+
+In collaboration between Finnish RTDs and Pharmia SME, novel pilot dietary supplement was successfully produced. Based on the neurological analysis (cell-cultures and mice trials) we found the blackcurrant anthocyanin extract (from BerryPharma) that possessed neuroprotective activity and reduced effectively ROS production. This high quality anthocyanin extract was commercially available via business to business, and therefore was a good raw material for the development of dietary supplement and juice products. Pharmia targets "neuroprotective supplements" for international markets, and therefore we screen the potential wild-berries which could complement health properties, and to create exotic northern market value for the supplement. We found that crowberry is a very interesting wild-berry that might add health benefits to the blackcurrant and create exotic value for marketing. Pharmia successfully developed a very nice looking, and good tasting tablet of relatively small size, which contains a significant amount of polyphenols suggesting that polyphenols can be added into tablets in the concentrations of relevance for human health.
+
+In order to develop novel "BrainHealth" juices, we first analyzed polyphenols from several current juices from SMEs. In collaboration with SMEs, neuroprotective blackcurrant extract were added into every SMEs specific juices. Optimal doses of extracts were determined, and polyphenols amounts analyzed. Several novel "BrainHealth" berry juice products (Aito-Onni,Werder-Frucht and Vin-Kon) and fruit juice products (Indulleida) were developed. Organoleptic and taste properties were analyzed from "Health" juices.
+
+In order to determine how long time the polyphenols remain "active" in the juice products, we analyzed the stability of polyphenols from different berry and fruit juices added blackcurrant "neuroprotective" extracts. We mainly focused on the anthocyanins, because this is known to be sensitive for degradation. Our results clearly suggest that juices containing additional amounts of polyphenols should not be kept at room temperatures, but preferably at 4 ºC in order to preserve the health beneficial properties in the juices.
+
+We also analyzed bioactive compounds from a wide range of blackcurrant concentrated powders and tested the suitability of blackcurrant derived extracts (as powder forms) into different food applications. Different levels of polyphenols were added into several food applications. Our results suggest that drinkable yoghurts and certain bakery products may be attractive food matrix to add "BrainHealth" improving polyphenol ingredients for wide-scale potential to improve health and well-being among elderly population.
+
+Marketing and consumer preference analysis was also performed. Our analysis suggests that core segment of premium health products are well-educated, well-informed mid-lifers and older people (mostly female). Personal health relevance important factors behind purchase decision suggesting that products should be carefully designed to offer health benefits for specific customer segments. These health oriented core consumer segment make also purchase decision independently from price.
+In the final dissemination plan, we have formulated and executed about how blackcurrant blackcurrant extracts possessing neuroprotective activity will be introduced into berry and fruit juices and dietary supplements and other food products in practice in collaboration with SMEs resulting several novel products for commercialization. Several novel products and pilot products are close to wide-scale exploitation. For each SMEs, specific sales promotion material is prepared. All relevant R&D transferred via three project meetings (Helsinki, York and Barcelona) and by RTD visit in SMEs.
+
+For public interests, novel scientific findings of the project were presented at the scientific meetings (York 2009 Int Polyphenol and health, Barcelona 2010 Int Polyphenol Conf, Barcelona 2011 Int Dementia Conf.), scientific publications produced; for EU public and consumers, novel findings of the project were presented in public media (Country level, TV, radio and newspapers, EU-newsletters), and were presented in popular medical and food events. Local news, VOX TV channel, several newspapers already presented news from the project.
+
+Potential Impact:
+
+The potential impact
+
+Economic state of the Alzheimer's disease (AD) for health care
+
+Alzheimer's disease (AD) is the most common age-related neurodegerative disorder, and one of the most devastating diagnoses that patients and their families can receive. Currently ~ 10 % of those over 65 years old have Alzheimer's disease. The human life span is increasing and it is estimated that the number of elderly people suffering dementia will be dramatically increasing in the coming years as the baby-boomer generation becomes older. Consequently, the health care costs, estimated in 2005 to have a global value of 232.5 BILLION EUROS and an associated European cost of 88.7 Billion EUROS 2005 , will also dramatically rise in many European countries. Any methods to reduce the suffering at both the personal and economic levels would be welcomed and therefore our overall aim in the project is to bring research based novel food products for reducing huge health care costs and providing means for SMEs to take advantage of this great business opportunity
+
+There are only limited medical ways to delay onset or slow the progression of AD. However, recent experimental data suggest that diets containing various phenolic compounds, with their associated antioxidant capacity, can reduce the risk of the development of AD. Consistent with experimental data is epidemiological data indicating that regular use of fruit and vegetable juice could reduce the risk of Alzheimer's development by over 50 % (Kame project). This may offer avenues for the development of novel dietary-based means for neuroprotection by exploiting the numerous sources of plant phenolic compounds. Consequently, foods containing neuroprotective activity may become important means to reduce global health care costs as well as offering enormous business potential in the field of food and nutraceutical industry
+
+Implications of project results
+
+Intake of polyphenols from blackcurrant juices in Europe
+
+In this project we demonstrated that the intake of polyphenols from commercial blackcurrant juices varies widely in Europe, and the intake of polyphenols from German and Polish ready-to-drink beverages was clearly higher than that from Finnish and, especially, British beverages (Mattila et al. 2011, Food Chemistry, in press).
+
+Intake of health-promoting polyphenols can be greatly increased from juices if polyphenol-rich extracts would be added into juices.
+
+Based on the epidemiological data ( 2006) indicating that regular use of fruit and vegetable juice could reduce the risk of Alzheimer's development by over 50 %, impact of special polyphenol-rich juices on elderly health and well-being as well as health care costs would be significant.
+
+Neuroprotective activity of blackcurrant extracts
+
+In this project, we showed that blackcurrant flavonols, (quercetin and myricetin) effectively reduce ROS production, modulate APP processing reduce IL-6 concentration suggesting that blackcurrant flavonols affect key biochemical neuroprotective functions behind Alzheimer's disease process
+
+Furthermore, we showed that anthochyanin-rich extracts reduce effectively ROS production and will be important polyphenol extracts for neuroprotective food applications
+
+We also provided in vivo evidence that anthocyanin-rich extracts (low to moderate concentrations) improve neurological traits-neuphobia, avoidance time; high doses needed to improve significantly memory abilities using mice model of Alzheimer's disease.
+
+Our results are supported by recent mice data by Shih et al (J Nutr Biochem 2010), cognitive improvement by blackcurrant anthocyanin-extracts was related with enhanced expression of Nrf2, suggesting that antioxidant defence plays a role in blackcurrant mediated response to oxidative stress; as well as rat data (Malin et al. 2011, Nutrition 27: 338-342) indicating that considerable degree of age-related object memory decline can be prevented and reversed by blueberry anthocyanin-rich diet.
+These scientific findings provided solid basis for the development of novel "BRAINHEALTHFOOD" applications targeted for elderly health and well-being.
+
+Impact of polyphenol-rich extract on juice health properties
+
+In this project, we also carried out clinical trial and showed that blackcurrant juice enriched with polyphenol extract provide health beneficial properties over basic juice supporting the results of mice model of Alzheimer's disease.
+
+Our data suggest that adding polyphenol extract such as that from crowberry containing different types of polyphenols into blackcurrant juice may be a viable means to modulate blood glucose and insulin levels, one of the major risk factors behind Alzheimer's disease development.
+
+This clinical finding provided further evidence that health promoting properties of juices and other food products can be improved by adding polyphenol extracts into food items, and the intake of polyphenols from "tailor-made foods" can lead enough high concentrations in the plasma of relevance for human health ( Karlsen et al. 2007, J Nutr 137).
+
+Novel juice products developed in the project
+
+In this project, based on neurological findings, we added blackcurrant extract into several juice backgrounds of each SMEs.
+
+For berry producers, Aito-Onni, Vin-Kon and Werder-Frucht, several novel berry juices were prepared (e.g. blackcurrant+lingonberry/bilberry/chokeberry), properties of taste, flavor and polyphenol content were determined. Many of the novel juices are ready for commercial exploitation, and they are important additions for product portfolio, and are expected to bring significant revenue stream to SMEs.
+
+For Indulleida, fruit producer, blackcurrant neuroprotective extract were added into several fruit juice backgrounds (apple, pear, kaki, orange etc), taste, flavor and polyphenol content were determined. Many of the novel juices are ready for commercial exploitation, and they will be important additions for product portfolio. Novel juice concentrates containing high levels of polyphenols will be marketed for Asian markets.
+
+Based on the bioactive analysis, many of the tailor-made juices contained several fold times polyphenols compared with original juices implicating that polyphenol intake of these novel juices will be very high to the current juices consumed in Europe (Mattila et al. Food Chem, in press.)
+
+Implications for profitability of SMEs
+
+These tailor-made "BrainHealth" juices will be selled partly via special health stores, and these special products can be sell with high marginal, and therefore they will bring significant profits for SMEs. Special juice concentrates will be marketed for Asia, and they are expected to bring strong cash flow to SMEs.
+
+Part of the health juices will marketed via retail stores, and profit marginal will be lower than those sell with special health stores, but volumes will be very big.
+
+In general, demands of "BrainHealth" juices will be increasing in the near future, and therefore profit margins will be healthy.
+
+
+Novel dietary supplements developed in the project
+
+In this project, we successfully developed in collaboration with Finnish dietary supplement maker, Pharmia, novel "BrainHealth" dietary supplement. Based on the results of neurological work (in vitro cell work, mice work) and clinical trial, Pharmia and UEF came to conclusion that novel "BrainHealth" dietary supplements will be formulated from blackcurrant anthocyanin extract and crowberry powder.
+
+Pharmia successfully developed a very nice looking, and good tasting tablet of relatively small size, but contains a significant amount of polyphenols, both anthocyanins and proanthocyanidins.
+
+This data provide solid evidence that polyphenols were successfully added into tablets in the concentrations of relevance for human health.
+Implications for profitability of SMEs
+
+These novel "BrainHealth" dietary supplements are now ready for international markets. In many ways, these are "high-value" premium products containing blackcurrant anthocyanin extract and extracts from wild-berry, an attractive combination for Asian markets.
+
+It is expected that these dietary supplements will bring significant revenue stream and profits for Pharmia in the next few years.
+
+Novel other food products developed in the project
+
+In this project, blackcurrant extracts in different doses (amounts of polyphenols) also introduced into ten different cereal and dairy products. Results suggest that blackcurrant extract can be added particularly well into drinkable yoghurts without negatively impacting on taste at moderate concentrations. Therefore, our results suggest that drinkable yoghurts may be attractive food matrix to add "BrainHealth" improving polyphenol ingredients for wide-scale potential to improve health and wellbeing among elderly population.
+
+Implications for profitability of SMEs
+
+This work opens new possibilities for small SMEs and berry farmers to sell dry powders of blackcurrant juice extracts for bakeries and dairy industry and other food producers. This possibility bring new revenue stream for many SMEs in Europe operating in berry business.
+
+It is important that fractioned extracts containing different polyphenols will be of high demand in the various sectors from bakery to pharma. This will open doors for academic people establishing new business for rural areas. Fractioned dried blackcurrant juice extracts will be an excellent material from Europe to export Asian and other international markets.
+
+Wider societal implications
+
+Exploitation of berry waste material
+
+Raw material cost is an important element of profitable business in the developing of food ingredients for domestic and international markets. In this project we have demonstrated effective procedures for the extraction of bioactive compounds from blackcurrant juice residues. This blackcurrant waste material contains massive amount of polyphenols, and is therefore extremely suitable for functional food ingredients and other applications.
+
+Currently blackcurrant juice residue is poorly exploited, it is mainly used as cattle feeding or fertilization. In addition, most of the juice residue is transported to landfills. The transport of cake will cause air pollution as well as its putrefying in landfills. Because the juice producers transport the cake to landfill, this will increase transport costs, loading of cake and landfill costs. Therefore, exploitation of blackcurrant processing waste will be beneficial to the environment as well as to the grower by reducing transportation and waste management costs.
+
+We have demonstrated that dried juice residue (dried cake) can be very successfully added into various food matrix, cereal products and many dairy products. Dried cake would be very excellent and inexpensive material for many food applications. Raw material cost is one important barrier why functional types of incredients is only a minor scale added into cereal or dairy products.
+
+The price of blackcurrant cake (waste material) rarely exceeds 300 EUROS per tonne with an extreme of 500 EUROS per tonne. For other functional ingredients with specific beneficial health benefits, the raw material costs are normally in the region of 500-3500 EUROS per tonne, up to 7-fold more expensive.
+
+The project benefits GAP by replacing imported juice and blackcurrant with European based non-surplus plant. Changes that increase the growing and use of European based plants without need of new subsidies are important for CAP.
+
+Our work clearly demonstrated that blackcurrant waste material, juice residue, is an important and excellent biomaterial for a number of food applications. Furthermore, our work demonstrate that more effective use of blackcurrant waste material save environment, and bring new business opportunities for rural areas, as dried cake can be exploited in wide range of products. Although the functional properties of blackcurrant cake are excellent, only few blackcurrant cake based ingredients are available. This creates excellent business opportunities for the development of novel products for growing health and wellness markets.
+
+Stimulation of European collaboration
+
+In this project, we have created excellent collaboration between industry (SMEs) and scientists working in different countries in Europe. Via this collaboration, we have successfully exploited modern research tools to identify the most important bioactive compounds from blackcurrants possessing neuroprotective activity, exploited this information to the development of novel "health" juice products and dietary supplements for European and international markets.
+
+Industrial partners wants further collaboration, and primarily we are seeking possibilities to develop further our products for international markets. Several new SMEs and big companies are expressed their interest for collaboration.
+
+In this project, we have in a novel way integrated plant bioactive, food research and neurology, which have successfully led several joint European publications and manuscripts in leading journals, and presentations in international meetings.
+
+List of Websites:
+
+http://www.uku.fi/brainhealthfood/

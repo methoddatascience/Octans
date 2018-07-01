@@ -1,0 +1,274 @@
+Executive Summary:
+
+The PARADISE Coordination Action is an EC-funded project involving eight European countries (Germany, Spain, Italy, Belgium, United Kingdom, Poland, Finland, and Switzerland) with the goal of testing and implementing a novel approach to collecting comparable data about psychosocial difficulties experienced in common by individuals with brain disorders (or neuropsychiatric conditions). To test this approach, the PARADISE project selected a representative and heterogeneous sample of conditions: dementia, depression, epilepsy, migraine, multiple sclerosis, Parkinson’s disease, schizophrenia, stroke and substance dependency.
+
+The motivation for PARADISE was the realization that although there is strong evidence that the overall personal, social and economic costs of brain disorders are high, these costs have been underestimated. This is because of a lack of relevant data. These disorders have been defined in terms of diagnostic criteria which, though invaluable in identifying the underlying health problem and its etiology, will not include the full range of psychosocial difficulties that actually shape the lived experience of persons with these disorders. More recently the Resolution of 19 February, 2009 on Mental Health at the European Parliament has called for ‘an integrated and coordinated’ mental health strategy to serve the needs of people with brain disorders.
+
+The theoretical foundation of PARADISE is that the lived experience of persons with brain disorders is only partially explained by the specific signs and symptoms of any given health condition. Rather, and in addition, the difficulties people with these conditions experience in their day-to-day lives – the difficulties and problems that matter to them – are outcomes of an interaction between their health conditions and physical, social and attitudinal features of the world in which they live, as well as psychological factors that make up their individuality. These difficulties and problems – called disabilities in the International Classification of Functioning, Disability and Health (ICF, WHO, 2001) – are experienced as obstacles to full participation in all areas of life, such as self-care, education and employment, family and community life. The working hypothesis of the PARADISE project is horizontal epidemiology – the claim that the psychosocial difficulties that matter to people and shape their lives, are experienced across brain disorders and, hence, need to be measured comparably in order to understand the relative burden of brain disorders.
+
+Building on systematic literature reviews for each of the nine brain disorders, patient focus groups and interviews, extensive input from clinical experts, and secondary analyses of existing databases PARADISE identified salient psychosocial difficulties and environmental and psychological determinants of the onset and course of these difficulties that are experienced in common across conditions. This information was used to build a draft data collection tool called the PARADISE Protocol that was applied to collect harmonized data with a coherent conceptual basis, generating comparable data across brain disorders, and was used to construct a metric of psychosocial difficulties.
+
+The final product of PARADISE is a Protocol with 24 questions on psychosocial difficulties, from which a profile of psychosocial difficulties of patients can be generated and compared, or a summary score created as a metric of the extent of difficulties. The Protocol in addition includes 11 determinants of the extent of difficulty, which also have been operationalized by clear, easy to comprehend questions.
+
+The PARADISE Protocol, and the harmonized data that it collects, creates the scientific evidence for PARADISE’s principal contribution to the European call for mental health strategy and for a future European strategy on brain disorders: that such strategies should augment purely medical interventions and open the door to a wide range of health and social interventions that address the psychosocial difficulties that are most relevant to people with those conditions.
+
+Project Context and Objectives:
+
+The PARADISE Coordination Action is an EC-funded project involving eight European countries (Germany, Spain, Italy, Belgium, United Kingdom, Poland, Finland, and Switzerland) with the ultimate goal of testing and implementing a novel approach to collecting comparable data about psychosocial difficulties experienced in common by individuals with brain disorders (or neuropsychiatric conditions). The main hypothesis of PARADISE is that there is a considerable degree of commonality in psychosocial difficulties across brain disorders, evidence for which is not now available because of the lack of systematic information. This hypothesis was called ‘horizontal epidemiology’ for brain disorders to highlight the difference from the standard brain disorder-specific, silo-like, or vertical approach.
+
+To test this approach, the PARADISE project selected a representative and heterogeneous sample of conditions: dementia, depression, epilepsy, migraine, multiple sclerosis, Parkinson’s disease, schizophrenia, stroke and substance dependency. Psychosocial difficulties were defined in terms of the conceptualization of health and disability found in the World Health Organization’s (WHO) International Classification of Functioning, Disability and Health (ICF). Psychosocial difficulties (PSDs) are disabilities that result from an interaction between the underlying health condition and environmental and personal factors, that is, impairments in body functions (including mental functions), activity limitations and participation restrictions. Impairments and activity limitations are functional decrements of capacity, and so are components of a person’s health state. Participation restrictions go beyond the health state to include restrictions in a person’s performance of actions, tasks and behaviours in his or her actual environment.
+
+PARADISE was broken down into eight interconnected Work Packages (WPs) with specific aims that form an integrated research strategy.
+
+In WP1 brain-condition specific literature reviews on psychosocial difficulties and their determinants, as well as focus groups to understand psychosocial difficulties from the person’s own perspective were carried out. Information about the difficulties people actually experienced was then compared with what is described in the literature about the nine brain disorders we consider. Additionally, datasets on brain disorders from large, longitudinal European national and multi-national studies, as well as the content of validated and broadly applied patient reported outcome instruments (PRO) were analysed. The specific objectives of WP1 were:
+
+- to acquire and summarize information about the psychosocial difficulties that are actually experienced by patients with the brain disorders under consideration in the PARADISE project, namely dementia, depression, epilepsy, migraine, multiple sclerosis, Parkinson's disease, schizophrenia, stroke and substance use disorders;
+- to review systematically the European literature for each disorder under consideration to extract information about psychosocial difficulties and determinants of the onset, evolution and intensity of each mental or neurological disorder;
+- to harmonize the categories of information concerning psychosocial difficulties and determinants as extracted from the literature; and
+- to identify datasets on brain disorders from large, longitudinal European national and multi-national studies, published and unpublished, and to contact the principal investigators to secure access to these datasets.
+
+In WP2 standard statistical techniques were applied to harmonize the information gathered in WP1 with data derived from the World Mental Health Survey and other relevant international neurological and psychiatric surveys. The idea here was to identify those commonly experienced psychosocial difficulties that explain the most about the lives and problems of people with different brain disorders. The specific objectives proposed for WP2 were:
+
+- to analyse the harmonized information extracted from the literature in order to identify common and disorder-specific psychosocial difficulties as well as commonalities and differences in the other categories of information;
+- to analyse and harmonize information from both the literature and patient input studies for comparison;
+- to analyse the integrated and harmonized dataset compiling all variables contained in the datasets from large European studies, and including as well those international neurological and psychiatric surveys for which micro data is available; and
+- to identify European experts for a subsequent expert consensus meeting.
+
+Information gathered in WP1 and WP2 was then used in WP3 to draft a new protocol for collecting and documenting psychosocial difficulties. This protocol underwent close scrutiny by European experts, and a pilot version to be implemented in WP4 was proposed. The specific objectives proposed for WP3 were:
+
+- to hold an expert consensus meeting to discuss and finalize the harmonized protocol;
+- to draft a proposal for a harmonized protocol for documenting psychosocial difficulties based on the results of WP1 and WP2.
+
+In WP4, training materials were developed and train-the-trainer programmes conducted to prepare health professionals to collect information using the protocol in clinical practice. Following this phase, the protocol was implemented in a large sample of persons with dementia, depression, epilepsy, migraine, multiple sclerosis, Parkinson’s disease, schizophrenia, stroke or substance dependency. The objectives proposed for WP4 were:
+
+- to develop training materials for the implementation and coordination by the partners of the harmonised protocol for documenting psychosocial difficulties;
+- to train the clinical partners (P2-UAM, P3-INNCB, P7-UEA, P8-IPN and P10-JAH) within the scope of a “train the trainers” programme in the documentation of horizontal information about psychosocial difficulties of brain disorders;
+- to coordinate the implementation of the protocol for documenting horizontal information about psychosocial difficulties of brain disorders by the clinical partners;
+- to record the implementation by the clinical partners of the harmonised protocol for documenting psychosocial difficulties.
+
+In WP5 the data collected during the WP4 was collapsed and analysed to determine whether the harmonized protocol lived up to expectations in corroborating the PARADISE hypothesis of horizontal epidemiology. Statistical models and techniques were applied to show that ‘horizontal’ documentation is feasible and that the collected information is valid and sensitive to change over time. Lastly, in line with the overall objective of PARADISE, a direct metric of disability for brain disorders was constructed based on those PSDs commonly experience independently of the brain disorder. The specific objectives proposed for WP5 were:
+
+- to determine whether all relevant categories of information necessary for a truly horizontal epidemiology of psychosocial difficulties across brain disorders have been taken into account in the harmonized protocol for documenting psychosocial difficulties for brain disorders;
+- to develop statistical models that exhibit change over time of psychosocial difficulties, across brain disorders;
+- to collect and analyse the feedback provided by clinical partners during the implementation of the harmonized protocol;
+- to demonstrate that horizontal epidemiology is both feasible and provides the best data to fully understand the lived experience of brain disorders and more fully informs us of the incidence and prevalence of these difficulties;
+- to demonstrate that data restricted to diagnostic criteria of the brain disorders under consideration do not allow us to fully explain the quality of life of persons with these disorders;
+- to develop a harmonized data analysis strategy for analyzing data consistent with a horizontal epidemiology of brain disorders.
+
+In WP6 based on the results of the previous WP1 to WP5 recommendations for data collection in brain disorders were proposed and the metric of data collection developed in the scope of PARADISE disseminated in a stakeholders conference. The specific objectives proposed for WP6 were:
+
+- to prepare a draft of the final report with recommendations;
+- to convene a stakeholders conference to inform the scientific and policy communities of the feasibility and desirability of data documentation for psychosocial difficulties associated with brain disorders that is consistent with, and in time will help to produce, a horizontal epidemiology of these difficulties.
+
+WP7 had the core objective of disseminating the results of the PARADISE project throughout all project phases. The specific objectives proposed for WP7 were:
+
+- to provide information about the project and its aims to all interested stakeholders from the outset of the coordination action;
+- to ensure that, through the use of suitable dissemination tools, communities of target groups are informed of the aims and results of this coordination action and its potential benefits;
+- to make the results of this coordination action available in an accurate and understandable manner;
+- to disseminate the final report and recommendations that has been endorsed at the stakeholders conference described in WP6.
+
+Finally, in WP8 the management and coordination actions needed in PARADISE were carried out. The specific objectives proposed for WP8 were:
+
+- to manage the project according to approved plans;
+- to coordinate the work packages and their deliverables and milestones;
+- to ensure project results of high quality;
+- to monitor, track and control the progress of the project, the costs, financial and scheduling changes;
+- to ensure that the required reporting is prepared and delivered timely.
+
+Project Results:
+
+WP1 Reviews of literature and patient input
+
+Planned duration: months 1 – 14; Actual duration: months 1 - 18
+
+The objectives proposed for Work Package 1 (WP1) were to include information from patients with the brain disorders under considerations - dementia, depression, epilepsy, migraine, multiple sclerosis, Parkinson's disease, schizophrenia, stroke and substance use disorders - about psychosocial difficulties; to review systematically the European literature (post-2000) for each disorder under consideration and literature on brain disorders in general; to harmonize the categories of information regarding psychosocial difficulties contained in the identified literature; and to identify datasets on brain disorders from European national and multi-national studies, published and unpublished, and the corresponding principal investigators to secure access to these datasets.
+
+The key results of WP1 were:
+
+In the scope of the patient input study, 56 patients participated in 9 focus groups. No focus groups but individual interviews were performed with patients with dementia in the first phases of the disease and with caregivers of patients in advance phases of the disease. In total, four patients with dementia and 7 caregivers were interviewed.
+
+Nine systematic literature reviews, one for each of the brain disorders under consideration, were conducted. Overall a total of 10348 studies were retrieved in the electronic searches in Medline and PsychInfo. From these a total of 2587 were included after the abstract screening. Eventually, a total of 901 publications were included after the full text screening and included in the systematic reviews. One of the clearest results of the reviews was that psychosocial difficulties are usually reported as specific difficulties but only as part of the summary scores of questionnaires. If one wants to know the specific difficulties addressed in the investigation, it is necessary to analyse the specific items of the questionnaires separately.
+
+Due to this fact, clinical researchers who carried out the brain disorder-specific reviews were requested to select the three PROs or outcome instruments that, in their experience treating patients with the disorders in the project, best captured the PSDs their patients experienced. Twenty-seven PROs and outcome instruments were selected and their content analysed. Additionally, the clinical researchers reported for each brain disorder which PSDs were the most salient for their patients, on the basis of the results of their literature reviews, and their own clinical
+
+The key achievement of WP1 was a broad and comprehensive list of psychosocial difficulties and their determinants relevant across brain disorders from different perspectives.
+
+WP2 Analyses of harmonized review results and datasets
+
+Planned duration: months 14 – 19; Actual duration: months 14 – 21
+
+The objectives proposed for Work Package 2 (WP2) were to analyse the harmonized information extracted from the literature in order to identify common and disorder-specific psychosocial difficulties as well as commonalities and differences in the other categories of information; and to analyse the integrated and harmonized dataset compiling all variables contained in the datasets from large European studies, and including as well those international neurological and psychiatric surveys for which micro data is available.
+
+The key results of WP2 were:
+
+Data compiled and harmonized in the literature review in WP1 was descriptively analyzed to identify the most frequent psychosocial difficulties encountered by persons with brain disorders as reported in the studies. In addition, data on other information categories, such as study characteristics (e.g., study design, intervention, outcome variables used), patient characteristics, as well as onset, evolution and intensity of the extracted psychosocial difficulties along with their determinants were analyzed. Regarding psychosocial difficulties mentioned in the studies, the most frequent were: mobility problems, which was reported in 93 studies, emotional functions (in general) in 112 studies, anxiety in 97 studies, depressive mood and symptoms in 191 studies and pain in 106 studies. Using the criterion of PSDs addressed in more than 10% of the publications, the most common PSDs across conditions were: Cognitive functions (in general); Emotional functions (in general); Emotional functions: depressive mood and symptoms (in general), Emotional functions: anxiety (state), Pain and Global information about psychosocial areas summarized in overall scores of activities of daily living, global functioning or global disability, social functioning, and quality of life. Change over time of PSDs shared across conditions was reported mostly in observational and qualitative studies. While in cognitive functions in general a trend towards no change or improvement over time was observed in most conditions, in specific functions such as attention, executive or memory functions the trend goes towards no change or worsening. Patient treatment was shared as a determinant across at least seven conditions. Demographic features, aspects of the health condition and social support were determinants shared across at least five conditions. The small overlap across conditions might reflect the fact that determinants were rarely assessed in included literature.
+
+From 26 identified large studies or databases, 12 were selected for the analyses: the Multisite Trial of Combined Pharmacotherapies and Behavioral Interventions for Alcohol Dependence (COMBINE), the Rhode Island Methods to Improve Diagnostic Assessment and Services (MIDAS), the National Institute of Mental Health (NIMH) Collaborative Depression Study, the American Migraine Prevalence and Prevention (AMPP) Study, the New York State Multiple Sclerosis Consortium (NYSMSC) and the the National Alzeihmer’s Coordinating Center (NACC) databases, the Sonya Slifka Longitudinal Multiple Sclerosis Study, Parinson and Non Motor Symptoms (PRIAMO), the Registry of the Competence Network on Parkinson’s Disease (CNP), the European Schizophrenia Cohort (EuroSC), the European Schizophrenia Outpatient Health Outcomes (SOHO) and WMHS. Although all studies were contacted, only the datasets from NESARC, NACC and WMHS were made available to the PARADISE consortium. One of the major difficulties in the data analysis of the NACC was that the sample sizes for individual diagnostic categories were small and lacked power. Regression models (all using random effects) to detect consistent patterns of change in scores over time in the outcome variables as a function of change in the predictors were performed but no consistent pattern in the predictors of PSDs could be identified. The analysis of the Clinical Dementia Scale, however, revealed that as the dementia progresses a larger proportion of respondents report difficulties across all items. The most common problems reported are those with memory, orientation, household activities and participating in community activities. The analysis of the Neuropsychiatric Inventory Questionnaire showed that behavioural problems are common in dementia with a significant proportion of respondents reporting anxiety, agitation, depression, apathy and irritability as dementia progresses. The analysis of the Geriatric Depression Scale showed that symptoms of depression, such as loss of energy and interest are fairly common among older persons with dementia. The analysis of the Functional Assessment Questionnaire showed that problems with instrumental activities of daily living are very common in dementia, and tend to progress as the severity of dementia increases over time. The analysis of the World Mental Health Survey was carried out for all conditions and stratified by health condition: Depression, Drug abuse, Alcohol abuse, Headache, Stroke and Neurological. Although these are mental disorders, a significant proportion of respondents reported that they had a serious physical disability in the last 12 months and that they have been treated unfairly and discriminated against because of that disability. The areas of discrimination reported were in access to health care and insurance, public facilities, and in the manner in which they were treated when they went to health care services. A large proportion of these respondents reported that they accepted this discrimination as a fact of life and tended to keep it to themselves. PSDs were ubiquitous across the three groups of disorders. Respondents in all disorders reported significantly worse scores in the physical and mental health sub-scales of the SF-12. The analysis of age and sex indicates that PSDs were reported more frequently by older respondents across all disorders, but no significant differences in reporting were seen between men and women.
+
+WP3 Producing a harmonized protocol for documenting psychosocial difficulties
+
+Planned duration: months 1 – 21; Actual duration: months 1 – 21
+
+The objectives proposed for Work Package 3 (WP3) were to draft a proposal for a harmonized protocol for documenting psychosocial difficulties based on the results of WP1 and WP2; and to hold an expert consensus meeting to discuss and finalize the harmonized protocol;
+
+The key results of WP3 were:
+
+In light of the results of WP1 and WP2, and using the WHO developed Composite International Diagnostic Interview (CIDI), the Study on Global Aging and Adult Health (SAGE) as well as the World Health Survey (WHS) as models, a draft of a harmonized protocol for documenting psychosocial difficulties was produced. The starting point for the selection of PSD and their determinants was the list of PSDs addressed in the 27 PROs or outcome instruments identified in the literature reviews. If a PSD was addressed in at least one of the PROs or outcome instruments and had also been identified in at least two of the three sources of information (literature reviews, qualitative study and clinical input), this PSD was selected for inclusion into the data collection protocol. If a PSD had only been included in one of the sources of information, then if it had been identified in the literature reviews of at least two brain disorders and in those in &gt; 20% of the studies included in the reviews, then the PSD was also included in the PARADISE protocol. If not, then if it had been included in the patient input studies for more than three brain disorders, or in the clinical input for more than three brain disorders, in both cases it was included in the protocol. This first selection of PSDs and determinants was then was critically evaluated by a panel of six external experts. The experts were asked to provide additional PSDs and determinants they thought were missing in the protocol based on their experience of patients with the selected brain disorders. For most of the PSDs and determinants, questions from questionnaires and clinical instruments and national and international health surveys were identified and used. In a few cases, where no standard question was available, new questions were developed. Response options were homogenized to be the same for all PSDs questions, namely None, Mild, Moderate, Severe, Extreme, Don’t know and not applicable. The response options for environmental determinants ranged from No positive influence to Strong positive influence and from No negative influence to Strong negative influence. The determinants referring to personal characteristics, such as personality or self-efficacy, were collected with standard questionnaires, such as the 10-item short version of the Big Five Inventory and items of the General Self-Efficacy Scale. For those instruments the original questions and response options were kept. The protocol also contained a section in which participants were asked 1) whether there are problems or difficulties not mentioned during the interview but which they would like to add and 2) to mention up to five problems or difficulties in areas of life that are the most troubling or burdensome for them. For these, the participants were also asked when it was that they first occurred, how they had changed over time, and whether something influenced their change. The feasibility and clarity of the protocol were piloted in interviews with four patients, two with depression, one with schizophrenia and one with Parkinson Disease.
+
+WP4 Implementation of the harmonized protocol for documenting psychosocial difficulties
+
+Planned duration: months 20 – 36 ; Actual duration: months 20– 34
+
+The objectives proposed for Work Package 4 (WP4) were: to develop training materials for the implementation and coordination by the partners of the harmonised protocol for documenting psychosocial difficulties; to train the clinical partners within the scope of a “train the trainers” programme in the documentation of horizontal information about psychosocial difficulties of brain disorders; to coordinate the implementation of the protocol for documenting horizontal information about psychosocial difficulties of brain disorders by the clinical partners; and to record the implementation by the clinical partners of the harmonised protocol for documenting psychosocial difficulties.
+
+The key results of WP4 were:
+
+The development, on the basis of previous training development experiences, of a two-day ‘train the trainer’ course. Course materials and a first draft of the training manual on how to perform interviews with the PARADISE Protocol were as well developed. P1-LMU coordinated and supported the data collection efforts in all centres (P2-UAM, P3-INNCB, P7-UEA, P8-IPN and P10-JAH) by coordinating the translation process, providing support regarding the ethical approvals, providing templates, documentation sheets and needed materials for data collection, developing an Access database for data entry and keeping and circulating a documentation file of the state of recruiting throughout the process. P2-UAM, P3-INNCB, P7-UEA, P8-IPN and P10-JAH recruited the sample, performed 80 interviews, as planned, per health condition and entered the data in the databases. Altogether 722 subjects were interviewed, at least 80 per health condition, as planned. Due to cognitive limitations interviews were carried out with proxies for eight persons with Depression, two with Stroke, 21 with Dementia and one with Substance Use Disorder. Mean interview duration ranged from 51.05 minutes in Migraine to 133.97 minutes in Dementia. Data collection was timely finished and the pre-defined sample sizes were achieved by all partners.
+
+WP5 Harmonized data analysis strategy
+
+Planned duration: months 30 - 40; Actual duration: months 32- 40
+
+The objectives proposed for Work Package 5 (WP5) were: to determine whether all relevant categories of information necessary for a truly horizontal epidemiology of psychosocial difficulties across brain disorders have been taken into account in the harmonized protocol for documenting psychosocial difficulties for brain disorders; to develop statistical models that exhibit change over time of psychosocial difficulties, across brain disorders; to collect and analyse the feedback provided by clinical partners during the implementation of the harmonized protocol; to demonstrate that horizontal epidemiology is both feasible and provides the best data to fully understand the lived experience of brain disorders and more fully informs us of the incidence and prevalence of these difficulties; to demonstrate that data restricted to diagnostic criteria of the brain disorders under consideration do not allow us to fully explain the quality of life of persons with these disorders; to develop a harmonized data analysis strategy for analysing data consistent with a horizontal epidemiology of brain disorders.
+
+The key results of WP5 were:
+
+For testing the hypothesis of ‘horizontal epidemiology’, the following criteria were set to the data collected in WP4. A PSD was considered associated with a brain disorder if at least 25% of patients reported it as a difficulty, independently of the severity (Mild, Moderate, Severe or Extreme). A PSD could be said to be commonly experienced across brain disorders if 1) the PSD was associated to 5 out of the 9 brain disorders and 2) among the 5 both neurological conditions (epilepsy, migraine, multiple sclerosis, Parkinson, stroke) and psychiatric conditions (dementia, depression, schizophrenia, substance dependency) were represented. The same criteria were used for testing whether there are environmental determinants with cross-cutting influence, either positive or negative.
+
+The PARADISE data collection protocol included 64 PSDs. In 57 of the 64 PSDs more than 25% of the participants of at least 5 brain disorders reported difficulties. In all 57, both neurological and psychiatric brain disorders were represented. Considering environmental determinants influencing the PSDs either positively or negatively, seventeen out of 20 fulfil the criteria as common influences of PSDs. The four not fulfilling these criteria were ‘costs of the medication’, ‘assistive devices’, ‘access to alcohol’ and ‘access to illegal drugs’. Data gathered in the implementation phase provided therefore first evidence supporting the hypothesis of horizontal epidemiology in brain disorders: Psychosocial difficulties and environmental determinants of those difficulties are experienced in common across brain disorders.
+
+The data of 722 persons with brain disorders gathered in WP4 was used to construct a metric of the impact of brain disorders on people’s lives, based on the psychosocial difficulties (PSDs) that are experienced in common. The set of 64 questions addressing PSDs in the draft of the PARADISE protocol were first reduced based on statistical considerations, patient’s perspective and clinical expertise. Rasch analyses for polytomous data were also applied. A valid and reliable metric with 24 items was eventually created. The metric includes the following PSD:
+
+1. How much of a problem did you have due to not feeling rested and refreshed during the day?
+2. How much of a problem did you have with loss of interest?
+3. How much of a problem did you have with your appetite?
+4. How much of a problem did you have with sleeping, such as falling asleep, waking up frequently during the night or waking up too early in the morning?
+5. How much of a problem did you have being so irritable that you started arguments, shouted at people or even hit people?
+6. How much of a problem did you have with being slowed down or feeling as if things were moving too fast around you?
+7. How much of a problem did you have with feeling sad, low or depressed?
+8. How much of a problem did you have with worry or anxiety?
+9. How much of a problem did you have with not being able to cope with all the things that you had to do?
+10. How much bodily ache or pain did you have?
+11. How much difficulty did you have in concentrating on doing something for ten minutes?
+12. How much difficulty did you have in remembering to do important things?
+13. How much difficulty did you have in making decisions?
+14. How much difficulty did you have in starting and maintaining a conversation?
+15. How much difficulty did you have in walking a long distance such as a kilometre (or equivalent)?
+16. How much difficulty did you have in grooming or dressing, toileting or eating?
+17. How much difficulty did you have in sexual activities?
+18. How much difficulty did you have in staying by yourself for a few days?
+19. How much difficulty did you have with looking after your health, such as eating well, exercising and taking your medicines?
+20. How much difficulty did you have in initiating and maintaining a friendship?
+21. How much difficulty did you have in getting along with people who are close to you?
+22. How much difficulty did you have in your day-to-day work or school?
+23. How much difficulty did you have with managing your money?
+24. How much difficulty did you have in joining in community activities (for example, festivities, religious or other activities) in the same way as anyone else can?
+
+The same data was used to select the most important determinants of PSD to be considered in a data collection strategy following the idea of horizontal epidemiology. The 59 determinants included in the original PARADISE protocol were split into three major groups: “personal or demographical factors”, “psychological factors” and “environmental determinants”. The most relevant determinants of PSD were then identified by means of random forest regression using the PSD metric score described above as the dependent variable. Eventually the 11 most important determinants were selected: four environmental factors (built environment, weather or climate, attitudes of family or others and health problems of members of the family), four psychological variables (changes in personality, adaptation, self-esteem and self-worth), and three personal or demographical factors (presence of comorbidities, own appraisal of health status and experience of stressful life events).
+
+In summary, the major result of WP5 is a valid and reliable metric of PSD called PARADISE 24. The 24 questions of this metric cover problems and difficulties experienced in 12 mental functions, 10 activities and participation domains, in pain and in sexual functions and proved to cover the complete severity continuum of PSDs. Additionally, the eleven most relevant ones across brain disorders based on the hypothesis of horizontal epidemiology, were also included in the PARADISE-24 protocol. In the case of and stressful life events we state in the PARADISE-24 protocol that “To develop the PARADISE Protocol the Social Readjustment Rating Scale and the Self-Administered Comorbidity Questionnaire were used and their use is recommended to address these two determinants”. The questionnaires are not included in the protocol tough because researchers might decide to apply other instruments to measure these determinants. Researchers are encouraged to use these set of determinants to build a profile of the impact of the environment and to select suitable treatment strategies. The PARADISE 24 metric will allow researchers to directly collect comparable and standardised information from persons with brain disorders which can be integrated in a single score to estimate the impact of those disorders on people’s lives. To our knowledge, this is the first such metric constructed to make comparisons over time and between persons and groups of persons with different brain disorders.
+
+WP6 Final recommendations and report
+
+Planned duration: months 32 – 42
+
+The objectives proposed for Work Package 6 (WP6) were: to prepare a draft of the final report with recommendations; and to convene a stakeholders conference to inform the scientific and policy communities of the feasibility and desirability of data documentation for psychosocial difficulties associated with brain disorders that is consistent with, and in time will help to produce, a horizontal epidemiology of these difficulties.
+
+The key results of WP6 were:
+
+Major result of WP6 is a document setting out the PARADISE recommendations to guide European countries in the collection and analysis of data concerning psychosocial difficulties associated with brain disorders, as well as environmental and individual psychological determinants of the onset, extent and course of these difficulties.
+
+The recommendations in addition focus on the feasibility and importance of systematic data collection and analysis for the development and evaluation of health and social interventions that can address the psychosocial difficulties experienced in common by individuals with brain disorders. These difficulties are associated with the underlying health conditions, but are shaped by social and attitudinal environmental factors and individual psychological factors. Although the features of brain disorders constitute serious health problems that must be addressed, the PARADISE results show that, in addition, psychosocial difficulties constitute the obstacles individuals with these conditions confront in their lives – obstacles that limit their inclusion and full participation in society. The PARADISE recommendations (short summary) are:
+
+1. Harmonize data and adopt the approach of horizontal epidemiology
+2. Enhance existing social and psychological interventions to complement medical interventions for psychosocial difficulties
+3. Measure the psychosocial difficulties associated with brain disorders for intervention evaluation
+4. Engage in longitudinal data collection efforts about psychosocial difficulties and their determinants
+5. Enrich European strategies in mental health and brain disorders by strengthening the focus on psychosocial difficulties and their determinants
+
+A Final PARADISE Meeting, held in Brussels on February 20th, 2013 was an opportunity for the PARADISE consortium to present and discuss the five PARADISE Recommendations, with a focus on the potential impact of these recommendations on major European players in brain disorder research and policy development, European Commission, WHO, and the European Brain Council, as well as among prominent researchers and other stakeholders.
+
+The objectives of the meeting were to assemble high level stakeholders in European brain disorder research and policy in order to disseminate the results of the PARADISE project and its final recommendations and to provide a platform for planning future work and sources of funding. Besides members of the PARADISE Consortium, external experts participating at the meeting were: Paul Arteel, Executive Director of the Global Alliance of Mental Illness Advocacy networks (GAMIAN Europe), Dr. Roberto Bertollini, WHO’s Representative to the European Union and Chief Scientist and WHO Representative to the European Union, Dr. Mary Baker, president of the European Brain Council, Audrey Craven, president of the European Federation of Neurological Associations and of the European Headache Alliance, Dr. Philippe Cupers, Head of Sector ‘Neuroscience’ DG Research and Innovation, Directorate Health, European Commission, Prof. Monica Di Luca , Federation of European Neuroscience Societies, Ass. Prof. Daniela Eser-Valeri, Ludwig-Maximilian University Munich, Dr. Josep Maria Haro, Research Director of Saint John of God Health Park, coordinator of the EU project ROAMER (A Roadmap for Mental Health Research in Europe), Dr. Antti Holopainen, Järvanpää Addiction Hospital, Prof. Cyril Hoschl, director of the European Psychiatric Association, Prof. Richard Hughes, president of the European Federation of Neurological Societies, Prof. Jürg Kesselring, president of the Swiss Multiple Sclerosis Society, Dr. Lars Kristiansen, Executive Director of the Federation of European Neuroscience Societies, Dr. David McDaid, London School of Economics and Political Science, Prof. Jesús de Pedro Cuesta, Carlos III Institute of Health, Madrid, Dr. Victor Perez, Hospital Universitario la Princesa, Institut de Recerca, Hospital de la Santa Creu i Sant Pau, Barcelona, Prof. Martin Prince, Co-Director KHP/ LSHTM Centre for Global Mental Health, Head of HSPRD Centre for Public Mental Health, Institute of Psychiatry in London, Jürgen Scheftlein, DG Health and Consumers Protection, European Commission, Prof. Timothy Steiner, Imperial College London, Prof. Kristian Wahlbeck, THL -National Institute for Health and Welfare, University of Helsinki, and Prof. Richard Williams, University of Glamorgan, UK, Chair of the Academy of Medical Royal Colleges in Wales, Head of Royal College of Psychiatrists in Wales, director of Conferences in the Royal College of Psychiatrists.
+
+WP7 Dissemination
+
+Actual duration: 1-42
+
+The objectives of this WP were: to ensure that, through the use of suitable dissemination tools, communities of target groups are informed of the aims and results of this coordination action and its potential benefits; to disseminate the final report and recommendations that has been endorsed at the stakeholders conference
+
+The key achievements were related to:
+
+• the identification of the target audience to whom the dissemination messages should be directed
+• the creation and maintenance of the PARADISE website (www.paradiseproject.eu)
+• the definition of the dissemination plan
+• the design and implementation of the main communication tools, such as logo, brochure and poster
+• the distribution of dissemination material at relevant national and international conferences within and outside the EU and for contacts with media
+• the participation to more than 60 national and international conferences and seminars where the project has been mentioned and its dissemination material displayed
+• the publication of four articles in peer review journals
+• the organisation of a Final Stakeholder Conference
+• the implementation of follow up dissemination activities related to the Final Conference
+
+WP8 Management
+
+Actual duration: months 1 – 42
+
+This WP has included the overall project management, ensuring that a proper co-ordination across tasks and across partners was maintained, to achieve the project goals within the time and budget constraints.
+
+According to Art. II.6.5, project management activities included: the overall legal, ethical, financial and administrative management, the maintenance of the Consortium Agreement as well as the other management activities, foreseen by Annex I (such as communication with the European Commission, administration of the financial contribution, reporting and organisation of project meetings).
+
+Objectives of this WP were: to link together the project components; to maintain communication with the EC; to establish and adopt common operational procedures; to ensure consistent technical reporting to the EC; to ensure compliance of all beneficiaries with the obligations derived by the grant agreement; to ensure a correct and timely financial management and reporting; address risks that may impair the progress towards the objectives of the project and suggest strategies to anticipate and minimize these risks whenever possible.
+
+Key achievements of this WP were:
+
+• Distribution of pre-financing and periodic payments in line with the Grant Agreement;
+• Collection of interim financial and technical data in order to monitor project status and to pave the way toward official reports;
+• Preparation of the Periodic Reports at months 18 and 42 and Final Report;
+• Preparation of Amendment requests;
+• Monitoring of achievement of milestones and deliverables;
+• Assessment of deliverable contents.
+• Organisation of annual meetings and Teleconferences;
+• Ensuring a smooth communication among partners.
+
+Potential Impact:
+
+The PARADISE Coordination Action was an EC-funded project involving eight European countries with the goal of testing and implementing a novel approach to collecting comparable data about psychosocial difficulties experienced in common by individuals with brain disorders (or neuropsychiatric conditions). The motivation for PARADISE was the realization that although there is strong evidence that the overall personal, social and economic costs of brain disorders are high, these costs have been underestimated. This is because of a lack of relevant data. These disorders have been defined in terms of diagnostic criteria which, though invaluable in identifying the underlying health problem and its etiology, will not include the full range of psychosocial difficulties that actually shape the lived experience of persons with these disorders.
+
+The theoretical foundation of PARADISE is that the lived experience of persons with brain disorders is only partially explained by the specific signs and symptoms of any given health condition. Rather, and in addition, the difficulties people with these conditions experience in their day-to-day lives – the difficulties and problems that matter to them – are outcomes of an interaction between their health conditions and physical, social and attitudinal features of the world in which they live, as well as psychological factors that make up their individuality. These difficulties and problems – called disabilities in the International Classification of Functioning, Disability and Health (ICF, WHO, 2001) – are experienced as obstacles to full participation in all areas of life, such as self-care, education and employment, family and community life.
+
+The working hypothesis of the PARADISE project is horizontal epidemiology – the claim that the psychosocial difficulties that matter to people and shape their lives, are experienced across brain disorders and, hence, need to be measured comparably in order to understand the relative burden of brain disorders.
+
+Building on systematic literature reviews for each of the nine brain disorders, patient focus groups and interviews, and extensive input from clinical experts, PARADISE identified salient psychosocial difficulties and environmental and psychological determinants of the onset and course of these difficulties that are experienced in common across conditions. This information was used to build a draft data collection tool called the PARADISE Protocol that collected harmonized data with a coherent conceptual basis, generating comparable data across brain disorders, and was used to construct a metric of psychosocial difficulties.
+
+The final product of PARADISE is a Protocol with 24 questions on psychosocial difficulties, from which a profile of psychosocial difficulties of patients can be generated and compared, or a summary score created as a measure of the extent of difficulties. The Protocol in addition includes 11 determinants of the extent of difficulty, which also have been operationalized by clear, easy to comprehend questions.
+
+The PARADISE Protocol, and the harmonized data that it collects, creates the scientific evidence for PARADISE’s principal contribution to the European call for mental health strategy and for a future European strategy on brain disorders: that such strategies should augment purely medical interventions and open the door to a wide range of health and social interventions that address the psychosocial difficulties that are most relevant to people with those conditions.
+
+Comparable disability information is essential for evaluating the essential goal of health systems -namely improving the health of the population. In an era of epidemiological transition, with the resulting increase in a reliance on informal care giving, it is essential that we have a means for assessing costs and the health gains that accrue from these when the burden of care will inevitably fall outside of the health system care burden. Tracking the impact of interventions – both public health and clinical – requires a scalable metric, and one that encompasses the full continuum of health – and this is the merit of the PARADISE metric.
+
+As ageing trends guarantee the increase in chronic brain disorders, and falling birth-rates and changes to the family structure signal increasing pressure on the family as a source of informal care, the currently estimated 800 billion Euros per year spent on brain disorders will sharply increase. The PARADISE approach and recommendations will be essential to meeting this European challenge in the future.
+
+Results of the PARADISE project doubtless support the horizontal epidemiology hypothesis so that an important impact in clinical practice, research and policy making are expected and encouraged.
+
+Consequences and needed implementation actions for clinicians, researchers and policy makers have been specifically formulated and worked out in the light of each of the five PARADISE recommendations as shown in the attached document.
+
+The first major dissemination activity of the PARADISE project was its successful Final Stakeholder Conference held in Brussels on February 20th, 2013, in which the PARADISE consortium presented and discussed the five PARADISE Recommendations and the PARADISE 24 protocol, to major European players in brain disorder research and policy development, the European Commission, WHO, and the European Brain Council, as well as to prominent researchers and other stakeholders.
+
+This conference was followed by a personal invitation to present the PARADISE recommendations and the PARADISE-24 protocol with special accent on policy implications to leaders of the European Commission in a meeting with Officers of the Mental Health Unit at the EU, Directorate-General for Health and Consumer Protection (DG SANCO).
+
+The PARADISE-24 protocol is also being taken into account in the current development of a Model Disability Survey (MDS), a project initiated and supported by the World Bank and the WHO. The development of the Model Disability Survey is grounded in the choice to evolve beyond the traditional disability data collection strategy of defining a population of individuals who are labelled as ‘disabled’ in terms of the health conditions or body dysfunctions they have, and then probe the difficulties they have as a consequence. The Model Disability Survey asks people – not previously identified in terms of the health conditions – what they do, or do not do, in their lives. These kinds of questions concern how people actually function in multiple domains given the environmental barriers and facilitators that constitute their real life situation. Although the MDS targets the general population, it shares with PARADISE the understanding of psychosocial difficulties, or disability, and this overlapping make the results of PARADISE a valuable data source for the development of the survey.
+
+The second major dissemination activity are three core scientific papers targeting the testing of the hypothesis of horizontal epidemiology (Understanding the impact of brain disorders: towards a ‘horizontal epidemiology’ of psychosocial difficulties and their determinants), the development of a metric of psychosocial difficulties to be used across brain disorders (PARADISE 24: a measure to assess the impact of brain disorders on people’s lives) and the identification of the most relevant environmental factors to be considered across conditions (PARADISE 24: measurement of environmental, personal and psychological factors). All three high impact papers will be published in peer reviewed journals with high impact factors and should make the PARADISE project and its results accessible to researchers and clinicians worldwide.
+
+Outlook
+
+Although the aim of data harmonization is a clear priority of PARADISE, the difficulty of convincing the responsible agents to move toward comparability should not be underestimated: advocacy will be required, even though it is easy to make the case that harmonization will lead to considerable long term costs savings and benefits. Social interventions can be developed and applied much more quickly than medical interventions, which often require trials and regulatory agency approval.
+
+The PARADISE metric, supported by increased longitudinal data collection, can greatly enhance the capacity for policy reformers to make the economic arguments that are essential for reforms in long term care as well as responses to the impact of population ageing and the epidemiological swing toward non-communicable diseases and multiple morbidity at the population level.
+
+The notion of disability targeted by this metric should be put in the context of other important notions, such as wellbeing, autonomy and dignity. Measurement of disability could play into the economic argument about how to mitigate the costs of long term care by enhancing functioning.
+
+PARADISE results can be used, not only to make the long term economic argument, but to show the importance of increasing focus on brain disorders in coordinate mental health strategies. In short, the PARADISE results are economic and policy tools for great significance and impact.
+
+List of Websites:
+
+http://paradiseproject.eu/

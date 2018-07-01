@@ -1,0 +1,385 @@
+Executive Summary:
+
+Brain disorders represent the first economic challenge for the current and future European healthcare. A Cost Study recently published, indicated that 1.2 million EU citizens live with Parkinson Disease (PD), which ahs been indicated as one of the 12 most costly diseases in Europe. Extensive research has indicated as a key aspect in PD pathogenesis a failure of plasticity processes occurring at the cortico-striatal synapse. The overall major goal of REPLACES has been to characterize corticostriatal synaptic plasticity from molecular aspects to clinical neurophysiology, involving behavioural and morphological analysis of the basal ganglia system, with the final aim to identify and characterize novel and innovative rescue strategies.
+
+Thus, the specific project objectives were:
+
+1. Characterization of the physiological mechanisms underlying cortico-striatal plasticity in pre and postsynaptic compartment
+
+Results obtained from the molecular and electrophysiological characterization of pre- and postsynaptic aspects of synaptic plasticity, in physiological conditions allowed the beneficiaries to reformulate the current knowledge on the cortico-striatal plasticity by integrating data on dopamine (DA) and glutamate transmission and related signal transduction. This information laid the cornerstone for a subsequent analysis of the PD pathophysiology.
+
+2 Characterization of the pathological mechanisms underlying altered cortico-striatal plasticity in experimental animal models and in PD patients:
+
+This objective was aimed to provide the first clear-cut demonstration of the disrupting effects of intraneuronal alpha-synuclein accumulation on cortico-striatal synaptic plasticity and to identify the changes in protein composition of pre- and postsynaptic compartments in animal models and PD patients. Results obtained allowed to characterize mechanisms underlying impaired cortico-striatal plasticity in experimental parkinsonism and to verify them in PD patients. Importantly, plasticity parameters have been analysed in 2 different models of 6-OHDA induced experimental parkinsonism, one transgenic model of truncated alpha-synuclein and a viral model of alpha-synuclein. Results have been further recapitulated in MPTP-induced parkinsonisms in non-human primates and validated in PD patients.
+
+3. Restorative approaches for synaptic alterations in PD animal models
+
+This objective opened a broad perspective on the restorative therapeutic approaches currently available, addressing the use of i) intrastriatal ventral mesencephalic (VM) graft tissue, ii) L-DOPA and other alternative pharmacological treatments, i.e. pramipexole and mGluR5 antagonists, and iii) Cell-Permeable Peptides for recovery of behavioural, morphological and molecular alterations and synaptic plasticity changes. Importantly, results within this objective have been obtained cross-species, going from rodent to non-human primate models of PD.
+
+In particular, the project led to the validation in non human primates of a novel therapeutic approach to reduce L-DOPA induced dyskinesia.
+
+In addition the consortium converged efforts to obtain key trasferable tools:
+
+1. the development of a novel in vitro model to study the molecular determinants that control the functional crosstalk between dopaminergic and glutamatergic system
+2. the development of a new in vivo model of PD based on targeted overexpression of α-synuclein in the nigrostriatal and corticostriatal pathways that actually fills a critical gap in the scenario of experimental models available, allowing the Consortium to reproduce pathological aspects associated with the progression of PD;
+3. the design of novel rescue approaches including design and production of new cell-permeable peptides.
+
+Project Context and Objectives:
+
+A study recently published by European Neuropsychopharmacology in 2011, Olesen et al, 2011) declares that Europe spends more resources on brain disorders than on cardiovascular diseases and cancer combined together. The value, including direct and indirect costs, equals to 798 billion euro. These costs continue to rise as the European population lives longer. Brain disorders represent the first economic challenge for the current and future European healthcare. Nowadays, 514 million of European citizens are living with a brain disorder. Parkinson is among the 12 most costly brain diseases in Europe, with a total expenditure, including direct and indirect costs, of 14 billion euro per year. Therefore, intensive research is still needed to fully understand the biological basis of the disease and to find a better therapeutic strategy.
+
+This background represents the frame in which REPLACES project developed its purpose, with the overall aim to characterize cortico-striatal synaptic plasticity from molecular aspects to clinical neurophysiology, involving behavioural as well as morphological analysis of the basal ganglia system. To this, the consortium has benefited from convergent efforts of multidisciplinary approaches allowing for:
+
+1. the development of a novel in vitro model providing a functional tool for studying the molecular determinants that control the functional crosstalk between dopaminergic system and glutamatergic system;
+2. the development of a new progressive in vivo model of PD based on targeted overexpression of alpha-synuclein in the nigrostriatal and corticostriatal pathways, which actually fills a critical gap in the scenario of experimental models available, allowing the consortium to reproduce all pathological aspects associated with PD;
+3. the molecular analysis of postsynaptic glutamate receptors and/or presynaptic cytomatrix-scaffolding proteins and their interactions with the DA system in physiological and pathological conditions both in physiology and in pathology which took advantages from new in vitro-in vivo models and allowed for the identification of innovative targets;
+4. the ultrastructural analysis of physiological and pathological protein-protein interactions and characterization of critical molecular targets involved in PD, which is opening new perspective in the development of therapeutic strategies.
+
+Thus, the specific project objectives were:
+
+1. Characterization of the physiological mechanisms underlying cortico-striatal plasticity in pre and postsynaptic compartment
+
+Results obtained from the molecular and electrophysiological characterization of pre- and postsynaptic aspects of synaptic plasticity, in physiological conditions allowed the beneficiaries to reformulate the current knowledge on the cortico-striatal plasticity by integrating data on dopamine (DA) and glutamate transmission and related signal transduction. This information laid the cornerstone for a subsequent analysis of the PD pathophysiology.
+
+2 Characterization of the pathological mechanisms underlying altered cortico-striatal plasticity in experimental animal models and in PD patients:
+
+This objective was aimed to provide the first clear-cut demonstration of the disrupting effects of intraneuronal alpha-synuclein accumulation on cortico-striatal synaptic plasticity and to identify the changes in protein composition of pre- and postsynaptic compartments in animal models and PD patients. These studies also helped to identify the molecular targets in pre and/or postsynaptic glutamatergic terminals that are altered in experimental models of PD (rodents and primates) and in PD patients, and how these alterations contribute to the pathological changes observed in the DAergic system. Results obtained allowed to characterize mechanisms underlying impaired cortico-striatal plasticity in experimental parkinsonism and to verify them in PD patients. Importantly, plasticity parameters have been analysed in 2 different models of 6-OHDA induced experimental parkinsonism, one transgenic model of truncated alpha-synuclein and a viral model of alpha-synuclein. Results have been further recapitulated in MPTP-induced parkinsonisms in non-human primates and validated in PD patients.
+
+3. Restorative approaches for synaptic alterations in PD animal models
+
+This objective opened a broad perspective on the restorative therapeutic approaches currently available, addressing the use of i) intrastriatal ventral mesencephalic (VM) graft tissue, ii) L-DOPA and other alternative pharmacological treatments, i.e. pramipexole and mGluR5 antagonists, and iii) Cell-Permeable Peptides for recovery of behavioural, morphological and molecular alterations and synaptic plasticity changes. Importantly, results within this objective have been obtained cross-species, going from rodent to non-human primate models of PD.
+
+In particular, the project led to the validation in non human primates of a novel therapeutic approach to reduce L-DOPA induced dyskinesia.
+
+Project Results:
+
+WP1: Analysis of the role of NMDA receptor subunits and metabotropic glutamate receptor subtypes and their interaction with the DA system in synaptic plasticity (month 1-24).
+
+WP1 led to better understand of the functional interactions between glutamate and DA receptors, and focused on understanding the role of these interactions in the synaptic plasticity under physiological conditions at the corticostriatal synapses level. Results obtained in this WP played a fundamental role defining the appropriate therapeutic targets to compensate the loss of plasticity in PD founded in the following WPs. The achieved results showed a clear cut contribution of both DA and mGluR receptors in affecting NMDA receptor composition. In particular, the results achieved underlie the role of D1, but not D2, and mGluR 1-5 receptors in the regulation of compositions/number of NMDA receptors at corticostriatal synapses.
+
+The most significative key achievements of this WP were represented by:
+
+1. The obtainment of a cortico-striatal primary cultures that displayed functional dendritic spines after 15 days in vitro, providing an easy access to synaptic processes controlling cortico-striatal connections. The development of this co-culture resulted fundamental in vitro studies, because simple striatal cultures do not develop spines and they do not represent a correct study in vitro model of the structure. Cortical neurons were isolated from embryonic (E15.5) wild-type mice and striatal neurons from embryonic mice (E15.5) expressing GFP under the control of beta-actin. This isolation permitted the quantification of dendritic spine development (Fig. 1) and patch-clamp recording of the striatal neurons visualized by GFP fluorescence. The shape (mushroom) and density of the spines resembled those founded in these neurons, in situ.
+
+In the absence of cortical neurons, cultured striatal MSNs display rare spontaneous inhibitory post-synaptic current (IPSC) and no excitatory post-synaptic current (EPSC); the striatal MSNs, when co-cultured with cortical neurons (Fig. 2), display EPSCs with characteristics similar to those described in other cultured spiny neurons (i.e. hippocampal neurons).
+
+This procedure was shared in the consortium; in particular, the process was transferred to P3(LIN), which used the information for a full characterization of the presynaptic CAZ in vitro.
+
+2. Characterization of functional and molecular interaction between DA receptors and NMDA receptor complex: short term D1 stimulation is sufficient to modulate NMDA receptor composition, particularly decreasing the GluN2A/D1 interaction and GluN2A synaptic level, indicating D1 stimulation as a promising therapeutic target (see also Del.D5).
+
+Biochemical analyses were performed to identify NMDA receptor subunit composition in synaptic fractions isolated from corticostriatal slices and intact animals following DA receptors stimulation.
+
+Short-term activation (45 minutes, corticostriatal slices) of D1 receptor (D1 agonist SKF38393) significantly decreased the level of NR2A subunit in the postsynaptic density (PSD), whereas inhibition of the D1 receptor (D1 receptor antagonist SCH23390) resulted in a lower NR2B subunit level (Fig. 3). The same results were obtained by in vivo (i.p.) modulation of D1 receptor function. Interestingly, SKF38393 treatment was also sufficient to modulate the formation of D1-NMDA receptor complexes leading to a significant reduction of NR2A/D1 interaction as tested by coimmunoprecipitation assays (Fig. 3).
+
+No modification of NMDA receptor subunit composition was observed by using shorter D1 activation/inhibition schedule (10 minutes).
+
+Based on these observations, we conclude that short-term selective activation/inhibition of DA receptors D1-type lead to a specific remodeling of NR2A/NR2B containing NMDA receptors in the corticostriatal synapses, indicating physiological interaction between dopaminergic and glutamatergic system within dendritic spines of medium spiny neurons.
+
+Contributing Partners CO1, P2, P9
+
+WP2: Characterization of pre and postsynaptic scaffolding proteins and the related receptors at corticostriatal synapses and their role in DA-dependent synaptic plasticity (month 1-36).
+
+The major goal of this workpackage was represented by studying plasticity mechanisms at corticostriatal synapses under physiological conditions at the molecular level, focussing on dynamics of the scaffolding elements both at pre- and post-synaptic sites. The major results obtained demonstrated the role of MAGUK/NMDA receptors complexes and mGluRs in the regulation of corticostriatal plasticity as well as on spine morphology, and provided a detailed picture of CAZ composition at corticostriatal synapse, analysing at the ultrastructural level the distribution of Piccolo and Basson at striatal presynaptic terminals.
+
+In particular, key achievements of this WP were represented by:
+
+A full biochemical and structural characterization of pre- and post-synaptic compartments of the cortical striatal synapse in experiments performed cross-species, from rodents, to primate non human and human samples. These results highlight protein complexes, previously non identified, these complexes results relevant for supporting plasticity events at cortico-striatal synapses. As to the CAZ complexes, Bassoon and Piccolo labelling has been observed in asymmetric perforated synapses respectively, suggesting that Bassoon and Piccolo are present in very active synapses. In term of localization, Bassoon was detected in some tyrosine hydroxylase-positive terminals and fibers, whereas Piccolo was localized only in some dopaminergic terminals but was not seen in fibers. These data suggest that Bassoon and Piccolo play complementary but distinct roles at the active zone of the synapses.
+
+As to PSD, the role of NMDA/MAGUK complexes in governing cortico-striatal plasticity has been assessed; corticostriatal slices were incubated with cell-permeable peptides as identified and characterized in WP10, TAT2A or TAT2B peptides, to test the effects of a reduced NR2A or NR2B localization at synaptic sites on dendritic spine morphology of MSNs. Any significant change in dendritic spine morphology was observed after the treatment with TAT2B. However, statistical analysis revealed a significant increase in spine head width after treatment with TAT2A, suggesting that the reduction of NR2A-containing NMDA receptor activity is per se sufficient to induce an enlargement of dendritic spine size (Fig. 4).
+
+In addition, three Shank partners were studied: Homer, GKAP and a new identified protein, Rich2, allowing to a better understand of mechanism and underlying plasticity at corticostriatal synapse. In particular, novel pathways of endocytosis and recycling of AMPA receptors have been identified. (Fig. 5, see also Del 5).
+
+Contributing Partners CO1, P2,P3,P4,P9
+
+WP3: Development and characterisation of a new rodent model of PD based on bilateral overexpression of alpha-synuclein in the nigrostriatal and/or corticostriatal pathways using recombinant adeno-associated viral vectors (rAAV-alpha-syn) (month 1-48).
+
+The leading hypothesis of WP3 was that accumulation of alpha-synuclein in nigrostriatal axons (early PD) and corticostriatal axons (advanced PD) contributes to neuronal dysfunction and symptom development because of an interference with basic processes of synaptic transmission.
+
+1. In particular, the major result is represented by the obtainment of an innovative animal model of PD based on targeted overexpression of alpha-synuclein in the nigrostriatal and corticostriatal pathways and its full physiological, biochemical and behavioural characterization, which resulted possible thanks to the involvement of methodological expertise from many partners (CO1, P2, P4,P5 P6), A detailed study of the time-course of neurodegenerative changes induced by overexpression of alpha-synuclein in the nigrostriatal pathway were performed (Fig. 6), and the accompanying functional changes have been assessed in a battery of motor behaviour tests.
+
+In addition, the changes in striatal dopamine release, induced by alpha-synuclein overexpression, were measured using in vivo amperometry (Fig. 7). The results showed a marked impairment in both release and re-uptake of dopamine which precedes the onset of degenerative signs in the transduced dopamine neurons.
+
+From a molecular point of view however, any significant alteration of the synaptic level of any PSD-associated protein i.e., glutamate receptor subunits (NR2A, NR2B, GluR1), NMDA receptor interacting-proteins (PSD-95, rabphilin-3A) and PSD-associated kinases (CaMKII) was found and any relevant modification of the molecular composition of striatal PSD was suggested at this time point in rAAV-alpha-syn rats.
+
+2. The novel rAAV-alpha-syn model has been also evaluated in comparison to classical 6-OHDA parkinsonian rat model and to a mice transgenic for truncated form of alpha-synuclein (1-120) available in the consortium. Nigral over-expression of either truncated or wild-type human alpha-syn causes a reduction of striatal DA levels and selectively blocks the induction of long-term potentiation (LTP) in identified striatal cholinergic neurons. Surprisingly, this condition mimicking early-stage PD does not affect LTP recorded from striatal spiny neurons, although both forms of synaptic plasticity are DA-dependent. This early-stage synaptic dysfunction of cholinergic network is associated with mild memory and motor symptoms. However, a complete toxin-induced SN lesion impairs LTP in both neuronal subtypes mimicking the severe motor and cognitive symptoms observed in advanced PD. Striatal cholinergic dysfunction triggered by nigral over-expression of alpha-syn causes early movement and memory deficits and represents a precocious biological marker of the disease.
+
+Overall, the rAAV-alpha-syn model can be considered as a innovative and previously unavailable progressive model of the disease, see also Del D 7.
+
+Contributing Partners: CO1, P2, P6, P4, P7
+
+WP4: Analysis of pre and postsynaptic glutamate receptors and/or cytomatrix proteins, and their interaction with the DA system in primates, rodents models (6-OHDA rats and rAAV-alpha-syn rats) and in PD patients (month 12-54).
+
+WP4 analysed molecular alterations in pre- and post-synaptic compartment of the corticostriatal synapse in pathological conditions, representing a logical follow-up of the previous ones.
+
+The key point of this WP is embodied by the characterization of corticostriatal synapse in rodent models of Parkinson disease, primates as well as human specimens obtained from parkinsonism patients. The results achieved in this WP described the composition of presynaptic cytomatrix and post synaptic density in rodent as well as non human primate models of PD, and a full molecular characterization of corticostriatal synapse in human samples obtained from PD patients.
+
+In particular, key achievements were represented by:
+
+1. molecular characterization of different animal models of the disease obtained with different toxin as well as viral approaches, and in different species allowed the Consortium to identify “molecular synaptic traits” of the disease.
+
+The molecular characterization has been carried out cross-species and in both the CAZ and the PSD.
+
+At the PSD level an aberrant increase of NR2A subunits at synaptic site was demonstrated to be a key pathogenic element in the glutamatergic synapse in different models of experimental parkinsonism.
+
+First of all. NMDA receptor was characterized at synaptic sites of the 6-OHDA experimental model of PD (Fig. 8).
+
+Levels of NMDA receptor subunits and other PSD-associated proteins were measured from homogenate and purified triton insoluble postsynaptic fractions (TIFs) enriched in PSD proteins (Gardoni et al., 2001; Picconi et al., 2004; Gardoni et al., 2006) from striatum of sham-operated, Fully lesioned (FL) and Partially lesioned (PL) rats, by Western Blot analysis. PL animals were characterized by a dramatic increase in the NR2A immunostaining in the TIF (P = 0.007 compared to FL and P = 0.002 compared to sham-operated), suggesting the presence of a profound rearrangement of the NMDA receptor composition compared to sham-operated rats. These profound differences in NMDA receptors in the postsynaptic compartment of PL rats suggest that NR2-type regulatory subunits are resulted sensitive to plastic changes induced by the differential degree of DA denervation. NMDA receptor subunits NR2A and NR2B interact with membrane-associated guanylate kinases (MAGUK). This interaction governs their trafficking and clustering at synaptic sites (Gardoni, 2009). Whether alterations in the synaptic abundance of NR2A and NR2B found in parkinsonian animals entail abnormalities of their interaction with MAGUK members have been tested. Co-immunoprecipitation studies performed in the homogenate fraction show a dramatic increase of NR2A binding to PSD-95 in PL compared to sham-operated rats (see Figure 9; +98.1% ± 21.5%, P &lt; 0.005). As previously reported (Gardoni et al., 2006), any modification of NR2A-PSD-95 co-precipitation was found in FL compared to sham-operated rats. These data suggest that the NR2A subunit level at the synaptic site is the major player in early phases of PD and results sensitive to distinct degrees of DA denervation.
+
+Levels of NMDA receptor subunits were evaluated from homogenate and TIF from striatum of control, MPTP monkey with mild motor alterations and MPTP monkey that recovered a normal motor behaviour (Fig. 10).
+
+2. Results obtained in 3 different rodent models (6-OHDA, rAAV-alpha-syn rats and alpha-syn transgenic mice) and in a well consolidated model of primate non-human (MPTP-treated Macaca fascicularis) have been validated in human specimens obtained from PD patients (see also Del D 6)
+
+Post-mortem material of the striatum from PD patients (n=21) and aged matched control subjects (n=22) was used to verify and to confirm the modification of NMDA receptor composition at synaptic sites observed in experimental parkinsonism also in the human pathology (tissue from P4-INSERM). PD patients were characterized by a significant increase in the NR2A immunostaining in the TIF that was accompanied by a concomitant decrease of NR2B protein level in the same subcellular compartment, thus leading to a significant increase of NR2A/NR2B at synaptic sites (p&lt;0.01).
+
+Overall, alterations in NMDA receptor complex composition have been observed in MPTP primate models, PD patients brain specimens and recapitulated in 6-OH-DA rodent models.
+
+3. We found that hippocampal long-term potentiation is altered in both a neurotoxic and transgenic model of Parkinson’s disease and this plastic alteration is associated with an impaired dopaminergic transmission and a decrease of NR2A/NR2B subunit ratio in synaptic N-methyl-D-aspartic acid receptors (in collaboration with CO1 UMIL). Deficits in hippocampal-dependent learning were also found in hemiparkinsonian and mutant animals.
+
+Contributing Partners: CO1, P2, P3, P4, P6, P7, P9
+
+WP5: Analysis of the morphological changes occurring in the DA-denervated striatum and their influence on the induction of neuroplasticity at corticostriatal synapses in rodents (6-OHDA rats and rAAV-alpha-syn rats) (month 12-54).
+
+WP5 aimed to better understand the consequences of dopaminergic denervation on corticostriatal plasticity seen in PD, and also in light of the results achieved in WP4. In particular, the analysis of animals with variable degree of dopaminergic denervation allowed a better understanding of how plasticity is taking place during the development and the evolution of the disease.
+
+Results achieved using a complex combination of ultrastructural analysis and electrophysiology provided a detailed analysis of morphological changes and plasticity in both early and late phases of PD.
+
+In particular:
+
+1. An additional model of late phase of the disease have been obtained. The early stage of the disease was produced by partial lesion of the dopaminergic system provoked by intrastriatal 6-OHDA striatal injection. The end stage model was produced by a unilateral full lesion of the substantia nigra and over-expression of alpha-synuclein in cortico-striatal pathway by cortical injection of AAV for alpha-synuclein. The plasticity of the cortico-striatal pathway was analysed using electron microscopy as the test was previously done on rats with unilateral full 6-OHDA lesion. The terminals containing alpha-synuclein were making asymmetric synapses with the head of the dendritic spines as expected from the terminals of the cortico-striatal pathway. While in animals with 6-OHDA lesion all indexes of cortico-striatal plasticity, only the number of perforated synapses increased in the animals with double lesion and less than in animal with full dopaminergic lesion only. In animals with partial lesion the plasticity of the corticostriatal pathway was intermediate to that seen in animal with full lesions. Altogether, these data might explain the lack of response of intellectual impairment to dopaminergic treatment at end stage Parkinson’s disease. It might also account for the absence of compensatory effects seen at end stage of the disease.
+2. the finding,using two transgenic models of PD, revealed that nigral over-expression of either truncated or wild-type human alpha-syn causes a reduction of striatal DA levels and selectively blocks the induction of long-term potentiation (LTP) in identified striatal cholinergic neurons. Surprisingly, this condition mimicking early-stage PD does not affect LTP recorded from striatal spiny neurons; although, both forms of synaptic plasticity are DA-dependent. This early-stage synaptic dysfunction of cholinergic network is associated with mild memory and motor symptoms. However, a complete toxin-induced SN lesion impairs LTP in both neuronal subtypes mimicking the severe motor and cognitive symptoms observed in advanced PD. Striatal cholinergic dysfunction triggered by nigral over-expression of alpha-syn causes early movement and memory deficits and represents a precocious biological marker of the disease.
+
+More generally this WP allowed developing models of Parkinson’s disease covering the whole course of the disease evolution, and the results highlighted a difference between plasticity evoked in corticostriatal versus cholinergic interneurons in different models of early phases of PD, confirming that different degrees of Dopamine denervation differentially affect plasticity in different compartments of striatum (see also Del D.8)
+
+Contributing Partners: P2, P4, P6
+
+WP6: Analysis of the excitability of cortical and subcortical structures after repetitive cortical stimulation in physiological conditions, parkinsonian rodents models and PD patients (month 12-54).
+
+The main advance of this WP6 aimed to establish a new set of methods to investigate synaptic plasticity in subcortical structures in human subjects. The results allowed, for the first time, to examine whether corticostriatal plasticity in human PD patients resembles that seen in the animal models, and to try to find a strictly link between clinical and experimental studies.
+
+In particular:
+
+1. A method that uses transcranial magnetic stimulation of the brain, using measures of corticospinal excitability as an indication of plasticity in motor cortical synapses, has been set up. Plasticity has been examined firstly in healthy subject and more recently in patients with Parkinson’s disease; results showed that patients who do not have levodopa induced dyskinesias have normal depotentiation when on their usual L-DOPA treatment. However, depotentiation is absent in patients who have severe dyskinesias in response to l-dopa treatment. For the first time, failure of depotentiation in the rat model of Parkinson’s disease can be seen also in human patients, strengthening the case for continuing use of that model to target new therapies for Parkinson’s disease.
+2. In addition, to the process demonstrates that patients with Parkinsons disease have a specific deficit in action reprogramming in the context of predictable environmental cues.
+3. Demonstrated to be effective in human PD patients to alleviate symptoms, Paradigm of Transcranial Magnetic stimulation (TMS), has been set in rodent models of experimental parkinsonism. The achieved results showed that a single session of cortical TMS using intermittent theta-burst stimulation patter increases striatal excitability, and rescues corticostriatal long-term depression (LTD) in a significant number of field excitatory postsynaptic potentials (fEPSP) recorded from hemiparkinsonian rats. These data indicate that cortical iTBS affects neuronal activity of subcortical regions, providing experimental evidence for its use in clinical settings.
+
+Contributing Partners: P2, P4, P8
+
+WP7: Analysis of cognitive alterations induced by DA denervation in rodents PD models. Analysis of the cognitive vs motor impairment in cortical electrophysiological abnormalities as detected by transcranial stimulation in PD patients. (month 24-54).
+
+The main objective of WP7 was represented by the functional characterization of animal models of Parkinson disease as well as characterization of cognitive vs motor behaviour in patients. A full behavioural characterization of experimental models of Parkinson disease has been achieved in the WP; in addition, this WP addressed the behavioural consequences of changed plasticity and the analysis of cognitive vs motor impairment in patients with Parkinson’s disease.
+
+The latter results showed that unmedicated PD patients exhibit an action reprogramming deficit which is modulated by the surprise of the upcoming stimuli.
+
+In particular:
+
+1. the learning and memory alterations of striatal functions of unilateral AAV-alpha-syn rat model were compared, causing an approximated 50-60% reduction in striatal DA; thus, mimicking the early stage of the disease, with the responses of 6-OHDA model where the nigrostriatal pathway was fully lesioned resembling the advanced phase of PD. The two-way active avoidance (AA) paradigm tests both the ability of the animal to learn to associate a cue with a foot shock and its ability to learn a behavioural strategy preventing shock delivery. Cognitive performance of AAV-alpha-syn and control AAV-eGFP rats in the AA test was examined. This paradigm depends on the frontostriatal transmission and involves DA signalling. Performances increased in each group as training proceeded, displaying different trends. In fact, on the 2nd, 3rd and 4th day of training, AAV-alpha-syn rats reached lower AA scores than control (AAV-eGFP) rats. The same statistical analysis was performed on the number of inter-trial crossings revealing no effect and that impairment is not secondary to motor deficits.
+
+A similar deficit, although more evident, was observed in rats with a full nigral lesion following unilateral injection of 6-OHDA in the medial forebrain bundle versus sham-operated animals. The motor pattern of AAV-alpha-syn rats and 6-OHDA animals versus AAV-eGFP and sham-operated animals, respectively, were also analysed using the stepping test, a well-defined motor task for forelimb akinesia measurement. The score in this test was significantly lower in AAV-alpha-syn rats and 6-OHDA fully lesioned animals compared to AAV-eGFP and sham-operated animals, respectively. Interestingly, AAV-alpha-syn rats had a milder motor alteration than 6-OHDA-lesioned animals at the stepping test.
+
+Thus, a good correlation exists between motor performances and degree of DA denervation.
+
+2. The behavioural consequences of changed plasticity in patients with Parkinson’s disease have been also investigated. A new method to test probabilistic motor learning in human subjects using a simple keyboard task has been pioneered in this project. Using this new method the measure of how the motor system adapts and learns the likelihood of future actions from long term previous experience was possible. Working on patients with Parkinson’s disease indicates that they respond abnormally to this form of learning when tested OFF their normal therapy.
+
+Contributing partners: P2, P5, P8
+
+WP8: Analysis of the molecular and electrophysiological mechanisms underlying the restorative effect of L-DOPA and of the pathological plasticity induced by long-term treatment with this DA precursor in parkinsonian rodents and primates as well as in PD patients (month 12-54)
+
+The main objective of WP8 repesented the evaluation of the molecular and physiological mechanisms underlying the restorative effects of L-DOPA and of the pathological plasticity induced by long-term treatment with this DA precursor in parkinsonian rodents and primates as well as in PD patients. Moreover, the effect of L-DOPA on corticostriatal plasticity in PD patients has been also evaluated.
+
+In particular:
+
+1. the molecular composition of NMDA receptor in the MPTP monkey PD model and in PD patients (Fig. 11) has been analysed.
+
+Any modification of NR2A and NR2B levels was detected in total homogenate. However, PD patients were characterized by a significant increase of NR2A/NR2B ratio in the triton insoluble postsynaptic compartment compared to controls (*P&lt;0.01).
+
+Similar data were obtained in evaluating NMDA receptor subunits localization in the triton insoluble postsynaptic fraction (TIF) in putamen from control and MPTP monkeys treated with L-DOPA and showing a dyskinetic motor behaviour (Fig. 12). A significant increase of NR2A subunit levels and NR2A/NR2B ratio in the postsynaptic compartment in MPTP dyskinetic monkeys compared to control animals (NR2A/NR2B ratio, p=0.044; NR2A, p=0.0046) was detected. Again, any modification was observed in the homogenate fraction.
+
+Therefore, molecular analysis performed in rodent as well as primate models of dyskinesia and in human specimens confirmed that modification of NMDA receptor composition is a synaptic trait for motor disturbances
+
+2. To investigate, whether the presynaptic homeostatic plasticity contributes to the pathogenesis of PD and L-DOPA-induced dyskinesia, a parallel test analyzed the regulation of presynaptic CAZ proteins in the striatum and cortex of rats injected unilaterally with 6-OH dopamine (6-OHDA) and in dyskinetic animals. The quantitative analysis of expression levels of CAZ proteins in the striatum showed robust, statistically significant up-regulation of expression of presynaptic scaffolding proteins synapsin, Bassoon and Piccolo and the synaptic vesicle calcium sensor protein synaptotagmin-1 in animals with 6-OHDA-induced Parkinsonism. In addition, significantly stronger drop of levels of Bassoon and Piccolo in dyskinetic as compared to non-dyskinetic animals was observed and a similar trend was obvious for other CAZ proteins. The analysis of striatal samples from medicated human Parkinsonian patients and control individuals showed a down-regulation of CAZ proteins Bassoon and RIM. This is in good agreement with the data from animal model.
+
+The data strongly support the assumption about involvement of presynaptic homeostatic mechanisms in the pathogenesis of PD. The pronounced down-regulation of most tested presynaptic scaffolding proteins in L-DOPA treated animals suggests that the tonic supply of dopamine induces homeostatic remodeling of presynaptic release apparatus, which might contribute significantly to the development of dyskinesia.
+
+3. Dendritic plasticity has been studied in dyskinetic animals. Briefly, studies were performed in transgenic mice expressing eGFP (or TdTomato) under the control of either the D1 or the D2 receptor promoter to label direct pathway neurons (dSPN) and indirect pathway neurons (iSPN), respectively. Mice sustained unilateral 6-OHDA lesions in the MFB followed by sub chronic treatment with a low dose of L-DOPA (1 mg/kg/day; improving motor performance but not inducing dyskinesia), a higher dose of L-DOPA (6 mg/kg/day; inducing severe dyskinesia), or vehicle (saline). The results of this project show that dopamine (DA) denervation and a subsequent treatment with L-DOPA modulate the number of spines and the magnitude of stimulus-evoked dendritic calcium transients in an opposite manner in dSPN and iSPN. In dSPN, these physiological parameters are not affected by the 6-OHDA lesion, but they are down regulated by chronic L-DOPA treatment already at a low therapeutic dose. In contrast, both the number of spines and the magnitude of dendritic calcium signals are down regulated by the 6-OHDA lesion in iSPN, where they return to normal values following chronic treatment with L-DOPA at a dose inducing dyskinesia.
+
+3. Studies performed in patients revealed that patients who have dyskinesias in response to the LDOPA treatment have absent depotentiation, whereas those who do not suffer from dyskinesias have normal depotentiation, confirming further results obtained in experimental models.
+
+Contributing Partners: CO1, P2, P3, P4, P6, P7, P8
+
+WP9: Impact of neural transplantation on the restoration of corticostriatal synaptic plasticity after DA-denervation and L-DOPA treatment. Implications for graft-induced and L-DOPA-induced dyskinesia (month 24-54)
+
+The main goal of this WP was the study of synaptic plasticity in the DA-denervated rat striatum hosting transplants of embryonic ventral mesencephalic (VM) neurons. Two VM dissection protocols were used, yielding transplants enriched in dopamine neurons (“DA grafts”) or serotonin neurons (“5-HT grafts”), respectively.
+
+In particular the results obtained showed:
+
+1. A rescue of plasticity parameters recorded in vitro in DA-grafted animals, whereas 5-HT grafted ones failed.
+
+In fact, studies of synaptic plasticity in the DA-denervated rat striatum hosting transplants of embryonic ventral mesencephalic (VM) neurons have been performed. Two VM dissection protocols were used, yielding transplants enriched in dopamine neurons (“DA grafts”) or serotonin neurons (“5-HT grafts”), respectively. At 4-5 months post transplantation, acute corticostriatal slices were used to examine activity-dependent plasticity (LTD or LTP) in striatal medium-spiny neurons in the densely graft-innervated region. Patch-clamp recordings from the medium-spiny neurons showed equally low levels of spontaneous activity in all the main experimental groups (intact controls, 6-OHDA lesioned/sham-grafted rats, and 6-OHDA lesioned/DA grafted or 6-OHDA lesioned/5-HT grafted animals). Activity-dependent synaptic plasticity (LTP/LTD) was almost absent in 6-OHDA-lesioned/sham-grafted rats and 6-OHDA lesioned/5-HT grafted animals, whereas intact controls and 6-OHDA lesioned/ DA grafted animals were able to express both LTP and LTD. The data show distinct synaptic plasticity patterns in the host striatal neurons after grafting of DA-rich versus 5-HT rich VM primordia.
+
+2.Dendritic morphology has been assessed in VM trasplants, and a new technological approach has been set up. Briefly we patch and biocytin-fill SPN in corticostriatal slices, then, the identification of the cell resulted either dSPN or iSPS using immunohistochemistry, and a three-dimensional reconstructions of the dendritic arbours on confocal Z stacks using the software, Imaris, was carried out.
+
+3. A complete molecular characterization has been performed. The results did not reveal a modulation of the ionotropic receptor subunits by the transplants. Instead an unexpected and highly significant difference was found in the abundance of these proteins between the ventrolateral (VL) and the dorsolateral (DL) striatal sub-region (Fig. 13), regardless of the animals´ treatment.
+
+The high levels of expression of GluN2B subunits may confer the VL striatum a high probability to respond to repetitive high frequency activation of glutamatergic afferents with a synaptic potentiation.
+
+Contributing Partners: CO1, P2, P6, P5
+
+WP10: Potential use of cell permeable peptides to target NMDA and mGluR receptors and specific pharmacological compounds targeting these receptors to analyse the potential therapeutic effects in PD models (month 24-54)
+
+The general objective of WP10 aims to restore striatal functions in animal models of Parkinson’s disease in vivo. This goal will be partly achieved by using mimetic cell permeable TAT conjugated peptides to interfere with receptor-protein interaction. The cell permeable peptides analysed in the project were interfering with NMDA receptor complexes either with PSD-MAGUK or with mGluRs receptor and their scaffolds, or with newly identify partners. Through their action at synapse, these peptides may contribute to rebalancing the receptor composition at glutamatergic corticostriatal synapse.
+
+Therefore, in this WP a number of cell-permeable peptides have been generated using as cell penetrating moiety the TAT sequence. TAT – peptides have been administered in vivo in rodent models and in some cases their use in blocking dyskinetic behaviour have been validated in primate non human models.
+
+Importantly, functional rescue experiments performed on dyskinetic monkeys further demonstrated the beneficial effect of TAT –peptides confirming rodent data.
+
+In particular major achievements have been:
+
+1. A number of TAT-peptides interfering with GluN2A/PSD95 complexes have been generated. All of the peptides have been tested in vitro for their capability of rebalancing NMDA receptor composition at corticostriatal synapse. After the in vitro screening one particular peptide has been exploited for in vivo treatments in rodent models. A chronic dissociation of the PSD-MAGUKs/NR2A subunit interaction has been obtained through systemic injection of a cell-permeable TAT peptide fused to the last C-terminal nine amino acids of NR2A (TAT2A). PD 6-OHDA rats were treated for 3 weeks with L-DOPA plus TAT2A or TAT2A(-SDV). After the behavioural evaluation, a set of animals (n = 14 for TAT2A, and n = 13 for TAT2A(-SDV)) has been sacrificed for the molecular analysis performed by CO1 UMIL
+
+The evaluation of the drugs-induced abnormal involuntary movements (AIMs) were carried out each day at 20–140 min after L-DOPA or L-DOPA plus TAT2A or TAT2A(-SDV) injection using a validated AIMs score scale. The analysis of the percentage of parkinsonian rats developing AIMs, measured as the mean of the two last observation sessions, showed that the systemic administration of TAT2A peptide is associated with a lower incidence of dyskinetic subjects (30% Dys rats vs 70% Non Dys rats) when compared to TAT2A(-SDV) group (63% Dys rats vs 37% Non Dys rats). Consequently, parkinsonian rats chronically treated with the TAT2A peptide showed a decreased total AIMs score comparing to control group. Based on its efficacy in preventing the onset of dyskinesia in L-DOPA-treated 6-OHDA lesioned rats Tat-2A cell-permeable peptide for a large-scale production was selected to allow in vivo testing in PD monkey model. In particular, 2 grams of highly purified (&gt;90%) Tat-2A and Tat-2A(-SDV) peptides were obtained.
+
+Accurate experiments of dose finding performed in monkeys revealed that a dose of 6nmol/gr of TAT-2A administered simultaneously to L-DOPA exert a potent antidyskinetic effect also in primate non human models.
+
+2. Results achieved in this WP also identified novel protein partners for GluN2A subunit of NMDA receptors, i.e. Rabph 3A and characterize novel CPP to interfere with this complex. A two hybrid screening performed using GluN2A(839-1461) as bait, without the last 3 aa (SDV) of the PDZ-binding domain, revealed 16 new putative GluN2A-interacting proteins. One of them was the Rabphilin 3A (Rph3A). The biochemical properties of Rph3A make it a prospective participant in synaptic vesicle trafficking as well as in the regulation of both exo- and endocytosis events. Interestingly, Rph3A has been shown to be involved in Huntington’s Disease, alpha-synucleinopathy and Parkinson's Disease.
+
+Confocal and biochemical analysis revealed a high level of Rph3A co-localization with postsynaptic markers (i.e. PSD-95) and with GluN2A. To confirm Rph3A/GluN2A interaction in neuronal cells, immunoprecipitation experiments were performed in total homogenate from rat brain. Anti-Rph3A immunoprecipitates were challenged in WB with GluN2A antibody confirming the capability of Rph3A to interact with GluN2A.
+
+Analysis of Rph3A levels at corticostriatal synapses revealed an increase localization of Rph3A in the postsynaptic compartment of both 6-OHDA lesioned rats and L-DOPA treated dyskinetic rats. Notably, this analysis was paralleled by an increase of GluN2A/Rph3A complex formation. In addition, the domain responsible for GluN2A binding to Rph3A was investigated by means of production of several deletions mutants to be used in pull-down assays. These experiments indicated that GluN2A(1349-1389) domain is sufficient for Rph3A binding.
+
+Based on these results, the efficacy of Tat-GluN2A(1349-1389) peptide was tested in comparison to Tat-2A and scramble control peptide, in reducing GluN2A interaction with Rph3A and in modulating GluN2A surface synaptic levels. In vivo (i.p; 3 nmol/g) treatment with Tat-GluN2A(1349-1389) peptide decreased GluN2A interaction with Rph3A. In addition, confocal analysis revealed the capability of this peptide in reducing GluN2A surface synaptic staining;
+
+Overall, these results indicated that disruption of Rph3A/GluN2A complex by using Tat-GluN2A(1349-1389) peptide could represent an innovative and promising approach to reduce GluN2A-containing NMDA receptors in L-DOPA treated animals and to obtain a consequent reduction of the onset of L-DOPA-induced dyskinetic behaviour.
+
+Contributing Partners: CO1, P2, P5, P6, P9
+
+WP12: Project Management (month 1-54).
+
+This WP has carried out the overall project management, ensuring that a proper co-ordination across tasks and across partners will be maintained, to achieve the project goals within the time and budget constraints.
+
+According to Art. II.6.5, project management activities included: the overall legal, ethical, financial and administrative management, the maintenance of the Consortium Agreement as well as the other management activities, foreseen by Annex I (such as communication with the European Commission, administration of the financial contribution, reporting and organisation of project meetings).
+
+Objectives of this WP were: link together the project components ;maintain communication with the EC; establish and adopt common operational procedures; ensure consistent technical reporting to the EC; ensure compliance of all beneficiaries with the obligations derived by the grant agreement; ensure a correct and timely financial management and reporting; address risks that may impair the progress towards the objectives of the project and suggest strategies to anticipate and minimize these risks whenever possible; ensure respect of ethical issues and attention paid to gender issues.
+
+Key achievement of this WP were:
+
+- Distribution of pre-financing and periodical payment in line with Grant Agreement;
+- Collection of financial and scientific data each 6 months in order to monitor project status and to pave the way toward official reports;
+- Preparation of the periodical report at month 18, 36 and 54;
+- Preparation of Amendment request for project extension;
+- Monitoring of achievement of milestones and deliverables;
+- Assessment of deliverable contents.
+- Organisation of annual meetings and/or Teleconferences;
+- Ensuring a smooth communication among partners.
+
+Contributing partners: CO1 UMIL and P11 CFc
+
+Potential Impact:
+
+The project has contributed toward the expected impact listed in the work programme 2007 under the section 2.2.1 of the FP7 Health Cooperation Work Programme, which calls for “Brain and brain-related diseases”.
+
+The understanding of brain functioning at molecular, cellular and system level embodies an essential prerequisite to unravel the pathogenesis of many neurological disorders.
+
+The complexity of understanding brain functioning and diseases entails opportunities as well as responsibilities not only for the neuroscience community which is continuously fostered to develop novel tools and approaches for integrating and advancing the understanding of the nervous system, but for all stakeholders and policy makers.
+
+The fact that brain disorders are a, if not “the” major public health problem in Europe and the rest of the world cannot be denied. Data collected by the World Health Organisation in 2004 (The Priority medicines for Europe and the World report) shows that brain diseases are responsible for 35% of Europe’s total disease burden. A study commissioned by the European Brain Council and published by the European College of Neuropsycho-pharmacology (ECNP) in 2011 states that Europe spends more on brain disorders than on cardiovascular diseases and cancer combined. The value cited by the study, including direct and indirect costs, equals to 798 billion euro per year.
+
+As Europe’s population lives longer and becomes older these costs will continue to rise. Brain disorders represent the first contemporary and future economic challenge for European healthcare systems.
+
+Nowadays, 514 million of European citizens are living with a brain disorder and Parkinson Disease, afflicting more than 3 million citizens. Parkinson Disease represents one of the 12 most expensive brain diseases for the European society.
+
+These information represent facts and figures that need to be faced; in particular, the research that is currently being performed in Europe is trying to get knowledge on the causes and developmental pathways of brain diseases, in order to develop early diagnosis, prevention and treatment. Addressing these large costs for the European society requires intensified research and the creation of novel solutions (as reported in the STOA launch of EmoB, April 23rd, 2013, European Parliament, presentation by Monica DiLuca).
+
+In this frame, REPLACES fully addressed a societal challenge, bringing new knowledge on the pathophysiology of the disease and leading to new tools and innovative therapeutic strategies.
+
+In details:
+
+1) “Projects funded under this area will contribute to a better understanding of brain function and of dysfunction in disease. This knowledge will feed into translational clinical and industrial development leading to better diagnosis of brain diseases, new therapies or innovative brain-machine interfaces.”
+
+Plasticity at excitatory glutamatergic synapses in various brain areas has been well characterised in the last decade. However, only in a few cases this experimental work has generated a direct influence on the understanding of brain diseases and on the strategies to prevent neurodegeneration and to restore altered circuits causing brain dysfunction. The study of cortico-striatal plasticity offered a unique possibility since a direct link between the altered plasticity at these synapses and DA-dependent abnormalities in PD has been demonstrated. For this reason, REPLACES expanded our knowledge on the molecular, electrophysiological, morphological aspects of the synaptic plasticity at the corticostriatal projection in both physiological and pathological conditions, and improvements in treatment methodologies in PD. Furthermore, results obtained in REPLACES provided tools to study and to improve our knowledge and treatment of other neurodegenerative diseases affecting motor controls. Some of these diseases have been already partly addresses by REPLACES, i.e. dystonia.
+
+This impacts favourably on all major stakeholders:
+
+• the community, through overall innovation aspects;
+• the patients living with neurodegenerative diseases, thus helping to solve societal problems. Data collected by the World Health Organization (WHO) suggest that brain diseases are responsible for 35% of European’s total disease burden. The analysis found that 514 million citizens are affected by a brain disease. In particular Parkinson’s disease embodies one of the most common chronic neurodegenerative diseases with a prevalence of 1.2 million people affected.
+• the scientific community, through dissemination and exploitation of new knowledge and tools; in particular REPLACES provided new methodologies to study plasticity in human volunteers and patients, new animal models for neurodegenerative diseases available for the community, novel tools to restore plasticity thus ensuring innovation and transfer of knowledge.
+• the pharmaceutical and biotechnology industry, in particular the EU SMEs, reinforcing their competitiveness.
+
+2) “Translational brain research will be a core element of each topic and may contribute to an improved management of brain diseases with the potential to reduce the high health care costs related to the treatment and care of patients. Potential user sector(s) can be biomedical/pharmaceutical, software or robotics industry. “
+
+The rising number of people suffering from neurodegenerative diseases represents one of the most serious challenges right now and in the near future in Europe.
+
+Even in absence of a definitive cure to restore plasticity in neurodegenerative diseases, all studies, aimed at clarifying neural basis of plasticity and lack of plasticity in neurodegeneration, may lead to innovative potential targets that could represent a concrete background for future therapies.
+
+Finding a way to postpone the onset, stabilizing the symptoms of neurodegenerative diseases by restoring plasticity, may bring a substantial economic benefit for European society. A study carried out in US described the socio economic impact of postponing the onset of Parkinson Disease, showing that a scenario where Parkinson Disease progressed 20% slower than the base case resulted in net monetary benefits of 46,229 euro (57,822 euro including lost income) per patient.
+
+In the case of PD, although the cerebral structures undergoing neurodegeneration in PD are well characterized, the causing mechanisms of the disease are still unknown. Any cure has been found to stop the progressive course of the disease and the severe disability that may occur in its later stages. The published literature on the cost of PD in Europe as well as in other parts of the world shows that this disease is a costly illness that causes considerable strains on both the patients and on society as a whole. The total medical care costs for patients for PD are US$23 billion annually, this data has been recently estimated in the US,. This estimate is higher than most previous estimates, with implications for healthcare delivery systems worldwide. As the population of Europe ages, the costs of PD are progressively increasing. Moreover, progression of the disease leads to higher costs [see data in “Cost of Parkinson’s disease in Europe” Eur. J. Neurol. 200512 (Suppl. 1), 68–73].
+
+REPLACES generated novel information on the mechanisms underlying cortico-striatal plasticity both in physiological and pathological conditions. Further, produced data on the critical interaction between glutamate and DA in cortico-striatal transmission validating the results cross-species, in various rodent models of the disease, in non-human primate and validated the results in PD patients results the major contribution, as the biological mechanisms underlying altered plasticity at glutamatergic synapses in PD was previously unknown. This novel information was also used to develop new animal models to better investigate this pathology and to devise new innovative tools for treatments of the disease.
+
+In addition, in a larger scale, most of proteins responsible for the structural organisation of the corticostriatal synapse are involved not only in physiological motor control, but also in some aspects of synaptic loss in neurodegenerative processes occurring in PD as well as in L-DOPA and transplantation-induced dyskinesia. REPLACES also provided further novel information on the use of repetitive brain stimulation in PD and other neurodegenerative disorders. Moreover, the consortium provided data on new techniques of transplantation. In addition to these restorative approaches, the inclusion in the consortium of a company discovering and providing peptides able to target specific receptor subunits, involved in the pathogenic processes of abnormal cortico-striatal functioning, allowed to explore novel strategies in order to better motor symptoms control both in PD and in dyskinesia. Importantly, the pharmacological efficacy of these novel peptides have been exploited in all animal models used in the project, and validated in non-human primate. Therefore, results obtained in the consortium will have a larger impact, being applicable to several fields.
+
+3) Expected mechanisms for disseminating and promoting uptake of the research will be via publications in high impact journals and international high level conferences, and/or via patents.
+
+Overall the project has followed the steps envisaged at its start.
+
+1) Steps: Knowledge building (month 18-54). Target:Scientific community and societies
+2) Steps: Dissemination of preliminary results to peers community and industry (month 12, 24). Target:Scientific community and societies. Pharmaceutical industry
+3) Steps: Promotion of uptake of research results: IPR protection and exploitation plans (month 36). Target:Scientific community and societies.Pharmaceutical industry
+4) Steps: Dissemination of final perspectives to potential beneficiaries and users (month 54). Target: Patients’ and families’ associations. Public health services
+
+To facilitate the implementation of novel diagnostic and therapeutic approaches, REPLACES liaised directly with health care providers, patient organisations and International Research Foundations for Neurological Disorders through its dissemination plan. Details are reported into the WP11.
+
+Success of an European approach
+
+European researchers have made major contributions to our understanding of brain plasticity; for example they discovered the phenomenon of long-term potentiation as well as the role of excitatory glutamate receptors in plasticity and learning. Further, researchers have contributed to the discovery of the DA deficit in PD and clearly lead research on clinico-neuropathological relationships in the disease. Moreover, scientists have contributed significantly to the discovery of the mutations involved in the familial forms of PD, enhancing the understanding of the pathogenesis of both genetic and sporadic forms of the disease. The majority of animal models for basic research on PD and current symptomatic pharmacotherapy are based on European discoveries.
+
+European research has shown that the neuronal substrate of L-DOPA-induced dyskinesia includes profound changes in the interplay between dopaminergic and glutamatergic transmission in the basal ganglia circuitry, leading to aberrant synaptic plasticity. Imaging of central nervous system structure and function in PD is well developed and has assisted European neuroscientists in making major contributions to the development of cell replacement strategies for PD therapy.
+
+In the last 15 years EU has reduced its competitiveness in the field of neural basis of plasticity and its impact on neurodegenerative disorders research respect to USA, while it has remained strong in basic research on synaptic plasticity of cortical and subcortical structures. to keep the world’s leadership in this crucial area of neuroscience bringing together different expertises to cover all aspects of synaptic changes in PD results necessary. The reason for keeping a leadership is motivated by huge economic and social value that this sector involved. Accordingly, REPLACES had the possibility to bring together leaders in the field of plasticity and clinical research in Parkinson disease and it exploited this intrinsic European strength to boost pharmaceutical research on new therapeutic tools to prevent synaptic dysfunction in PD and to restore altered circuits in this pathology.
+
+The key added values of REPLACES have been:
+
+• sharing among the consortium the specific knowledge and different tools and competencies;
+• optimising the return on investment through widening the number of beneficiaries of the results;
+• sharing of the work among a network of Member States thanks to the dissemination plan;
+• definition of common methodologies that can be further replicated and transfer of new technologies;
+• maximising exploitation of results
+• generating innovative tools
+• generating new animal models
+• validating results cross-species to human subjects.
+
+REPLACES actions have been and are both durable and sustainable. These characteristics contributes to improve the European research competitiveness in the field, with respect to USA research. Results gained by the REPLACES research activities may be applied to other CNS diseases, including neurodegenerative disorders, contributing to the advance of large sectors of the scientific community, well beyond the consortium.
+
+Furthermore, the consortium is conscious that the major limitation of neurobiological research actually originates the extreme sophistication of the tools that result necessary in the generation of very specialized research teams, and provides results and set up of technological approaches, which are not immediately available to the scientific community.
+
+The division between basic and clinical science is represented by insufficient funding and the fragmentation of resources. These problems embody key barriers to the establishment of a well-structured brain research area in Europe. The results that ensue from the project are unlikely to be generated elsewhere and are therefore of great interest to the international scientific community.
+
+Replaces partnership created for this programme itself remains an active entity and continues to pursue these research activities, but equally each of the partners has a network of other active collaborations within Europe, which can form the basis of future programmes. The 'downstream' work in unravelling new disease mechanisms tends to require increasingly focused expertise and so discovery of critical receptor and post-receptor mechanisms representing possible targets for treatment of diseases.
+
+The research activities carried out in the frame of the REPLACES project certainly contributed to the advance of international research in the field and to the scientific excellence of European research area.
+
+Assumptions and external factors that may determine whether the impacts will be achieved.
+
+The original application stated that the expected impacts will be achieved if the following assumptions will be realised:
+
+1. A perfect integration between the technological approaches (electrophysiological, morphological, biochemical, and behavioural) utilised in the project by the various partners.
+
+This has been extensively proved by results obtained in different animal models
+
+2. An appropriate integration of information derived from the various levels of analysis (molecular, cellular, system, and clinical data).
+
+This has been extensively proved by results obtained in different animal models
+
+3. A coherent translation of knowledge from the animals models used in the project (cell cultures, rodents, and primates) to the findings obtained in PD patients and viceversa.
+
+This has been proved by the validation in human samples of all results achieved in rodent models; as a consequence coherent approaches of restoration have been pursued. Some of them have been translated either in patients (TMS) or in non human primate model of the disease
+
+4. The possible therapeutic approaches (both the restorative and the neuroprotective strategies) have to validate at the various levels of the project, possibly reaching a stage able to achieve the critical preclinical knowledge required to set a strategy for future pilot clinical studies.
+
+The validation of pharmacological efficacy the peptide approach in non-human primate models of dyskinesia has been reached.
+
+Thus, overall REPLACES reached the foreseen goals.
+
+List of Websites:
+
+www.replaces-pd.org

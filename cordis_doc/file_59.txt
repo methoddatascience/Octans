@@ -1,0 +1,431 @@
+Executive summary:
+
+The overall concept behind the PLASTICISE project is that restoration of the function in neurodegenerative conditions can be achieved through plasticity (the formation of new circuits in the nervous system to bypass lesions). Promoting increased plasticity in selected parts of the adult nervous system back to the level seen in children is a powerful method of enhancing recovery of function in animal models of neurological disease. Plasticity-promoting treatments could therefore be beneficial in a wide range of conditions that damage the CNS.
+
+The project developed new treatment concepts to promote plasticity and methods to measure and visualise their effects, focussing on Alzheimer's disease/tauopathy, stroke and the visual system. In parallel the project has developed new clinical tools that will be needed for clinical trials of plasticity treatments. Clinical investigations and trials were performed, concentrating patients with stroke (the chronic recovery phase, not acute neuroprotection) and Alzheimer's disease.
+
+The specific objectives of the project were to develop:
+-New treatments to modulate CNS plasticity
+-Studying plasticity at the micro level
+-A novel in vivo model of neurodegeneration
+-Promoting plasticity in animal models
+-Novel methods for studying plastic changes in human patients and primates
+-Testing plasticity modulating treatments in human patients
+
+The project combined European expertise in various areas of regenerative medicine and clinical expertise on recovery after brain and spinal cord damage. European groups lead the world in these areas of science. In spanning research from the bench to the bedside it integrated scientists in way that has not previously been achieved in this field. In doing so the project produced several landmark advances at the basic, translational and clinical level.
+
+PLASTICISE achieved a detailed molecular/cellular understanding of the synaptic changes that occur during establishment of memories, and in recovery from brain damage. This provided new knowledge which led to the development of new plasticity enhancement treatments, which will be developed for promoting recovery of function in human patients with neurodegenerative disease. A particular focus was perineuronal nets, which surround neurons to turn off plasticity in adulthood. Removal of these structures restores plasticity to adult animals. A particularly significant finding was that removing these structures with an enzyme treatment can restore normal memory to animals modelling Alzheimer's disease. At the clinical level PLASTICISE achieved new knowledge of brain connectivity following stroke and other lesions. It also developed new rehabilitation strategies based on combining plasticity with rehabilitation.
+
+PLASTICISE has started the development of new treatment strategies that address some of the fastest-growing clinical disability problems in our community, Alzheimer's disease and stroke, and has developed new treatments for spinal cord injury. It has initiated the development of new treatments to promote brain plasticity, which will restore to health patients with stroke, spinal cord injury, Alzheimers disease and other crippling CNS disorders.
+
+Website of the project: http://www.plasticise.eu
+
+Project Context and Objectives:
+
+PLASTICISE is a research consortium bringing together leading scientists, clinicians, small biotech and large pharmaceutical companies from eight different European countries. The project was launched in December 2008 for 4 years. The PLASTICISE researchers have been working together to identify new ways of promoting plasticity in the adult brain following damage.
+
+Brain diseases including Stroke, Traumatic Brain Injury, Spinal Cord injury and Alzheimer's disease represent the majority of long-term disabled people in Europe. These diseases all cause damage to the circuitry of the nervous system (brain and spinal cord), with loss of connections, axons and neurons. The loss can be gradual, as in Alzheimer's disease, rapid as in stroke, or intermediate as in the delayed neuronal loss after stroke. The concept that unites them is the belief that treatments that enhance plasticity will become one of key medications that will improve neurological function in the damaged human nervous system. The purpose of the project was to bring this moment closer.
+
+The overall hypothesis behind the project is that restoration of the function in neurodegeneration can be achieved through plasticity (the formation of new functional connections, withdrawal of inappropriate connections, modulation of synaptic strength). Promoting increased plasticity in selected parts of the adult nervous system back to the level seen in children is a powerful method of enhancing recovery of function in animal models. Plasticity-promoting treatments could therefore be beneficial in a wide range of conditions that damage the CNS.
+
+The promotion of plasticity is a generic form of treatment that will probably be useful in many conditions that damage the CNS, including stroke, traumatic brain injury, spinal cord injury, multiple sclerosis and Alzheimer's disease. These diseases make up the majority of long-term disabled people in the EU. There is currently no treatment for these conditions other than rehabilitation and behavioural therapy. Plasticity treatments will interact with these rehabilitation regimens, greatly increasing their effectiveness. Plastic changes can be maladaptive if misdirected by inappropriate rehabilitation, so the development of integrated therapeutic approaches is essential. The progress towards the development of plasticity-enhancing treatments that will be made by this project will be of great social and economic benefit.
+
+The PLASTICISE project has integrated scientists from four scientific areas;
+1) Development of methods to promote plasticity;
+2) Development of models of neurodegenerative disease;
+3) Imaging of plasticity at the macro and micro level;
+4) Study of recovery of function through plasticity in human patients with brain disorders.
+
+The concept that unites them is the belief that treatments that enhance plasticity will become one of key medications that will improve neurological function in the damaged human nervous system. The purpose of the project is to bring this moment closer.
+
+The focus of the project was the development of new treatments to promote plasticity and of methods to measure and visualise their effects, focussing on Alzheimer's disease/tauopathy, stroke and the visual system.
+
+The reason for studying the effects of promoting plasticity in both stroke and Alzheimer's disease is that in both conditions there is neuronal loss, requiring adjustments in CNS circuitry to compensate; in one case the loss is focal, in the other diffuse. The inclusion of the visual system is because ocular dominance plasticity is the most sensitive model in which to assay for compounds that promote plasticity. In non-human primates the visual system gives unique opportunities to study plasticity using fMRI and electrophysiology together. Thus, although the project uses several animal models, the focus on the ability of plastic changes to alleviate CNS dysfunction after injury melds the project into a single concept that uses the appropriate animal and human models to test the basic hypothesis. In parallel the project has developed new clinical tools that will be needed for clinical trials of plasticity treatments.
+
+The clinical work has concentrated on stroke patients (the chronic neurodegeneration phase, not acute neuroprotection) and Alzheimers disease patients. Plasticity has been driven by motor rehabilitation in stroke, by language and memory training in Alzheimer's disease, and combined rehabilitation and plasticity-promoting treatments have been tested. The clinical and basic science strands of the project developed in parallel, but with interaction around imaging methodology, and come together in the development of plans for clinical project of the treatments that have proven effective in animal models.
+
+Project Objectives
+
+The objectives of the PLASTICISE consortium were to advance the current state of the art in five areas:
+1) Improving current plasticity-promoting compounds and develop new methods for promoting plasticity.
+2) Developing new in vivo and a new in vitro model of neurodegeneration in which to study plasticity.
+3) Developing new live-imaging methods to study plasticity at the micro and macro level in vivo and in vitro.
+4) Conducting clinical studies that will develop new methods for imaging plastic changes.
+5) Establishing whether a current treatment that is hypothesised to promote plasticity in patients can improve recovery from neurodegeneration.
+
+An important aspect of the overall concept behind the work is the belief of the participants that methods for the controlled enhancement of plasticity that will be developed will be helpful for a range of conditions in which there is neuronal loss, including stroke and chronic neurodegenerative disease.
+
+The advances in state of the art that the project have been done as described in detail in the workpackage strategy, in the work packages themselves.
+
+In summary:
+
+The project will develop new treatments to modulate CNS plasticity. The fundamental requirement of the project is that it has methods to promote plasticity in the adult CNS. There are three existing treatments that have been shown to promote anatomical and physiological plasticity and to improve recovery of function after CNS damage; anti NogoA, chondroitinase and inosine. The project will develop combined treatments to enhance the efficacy of two of these current treatments, and develop novel methods of influencing plasticity.
+
+Novel outcomes from this aim:
+-Methods of increasing the efficacy of chondroitinase and anti NogoA and studying the induced plastic rearrangements at the cortical and subcortical levels
+-Confirmation that perineuronal nets and their organising molecule link protein are potential therapeutic targets
+-Examination of the role of semaphorin 3, MMP-9 and Wnts in the control of CNS plasticity
+-Identification of novel plasticity-related genes.
+
+Novel outcomes from this aim:
+-Imaging of synaptic changes in an organotypic culture model of AD.
+-In vivo imaging of synaptic plasticity in models of AD
+-In vivo imaging of synaptic plasticity ater stroke
+-Examination of remodelling of neocortical dendrites after axotomy and sprouting
+-In vivo imaging of astroglial and microglial responses to neurodegeneration
+-Assessment of plasticity-promoting treatments
+-Examination of Wnt signalling and MMP-9 at the synapse
+
+Novel outcomes from this aim:
+-A new set of animal models with Alzheimers disease related deficits generated by viral delivery of mutated Tau and/or APP proteins in selected cortical regions;
+
+Novel outcomes from this aim:
+-Tests of the efficacy of plasticity-inducing treatments at restoring neurological function following neurodegenerative lesions.
+-Test of the ability of plasticity-inducing treatments to promote plasticity in the visual system
+-Tests of the extent to which appropriate behavioural therapy can have enhanced effectiveness during a window of treatment-induced plasticity.
+
+Novel outcomes from this aim:
+-Development of human structural imaging methods to characterise the residual structural anatomy after stroke and its relationship to impairment and to response to therapeutic interventions.
+-Development of human functional imaging methods to examine recovery-related changes in distributed connectivity after stroke and neurodegenerative lesions, based on fMRI, concurrent fMRI-TMS and magnetoencephalography (MEG).
+-The application of both structural and functional imaging methodologies to identifying the potential for plastic change in individual patients, leading to stratification according to likelihood of response to various therapeutic interventions either singly or in combination.
+-Imaging of progressive changes in brain connectivity and networks during the progression of Alzheimer's disease.
+-Imaging of plastic changes following monkey retinal lesions using high resolution fMRI combined with electrophysiology, and connection tracing with Mn2+
+-Development of new imaging reagents based on Smart Contrast Agent technology.
+
+Novel outcomes from this aim:
+-Use of novel imaging methods to identify rehabilitation and plasticity treatments that will be appropriate for individual patients.
+-Test the effects of adding a plasticity-promoting intervention to existing therapies on recovery from stroke.
+-Application of memory and speech training to patients with Alzheimer's disease and other dementias affecting memory and speech. Monitoring of brain changes using functional imaging.
+-Test of plasticity-promoting treatment with cognitive therapy on the progression of -dementia.
+
+Project Results:
+
+WORKPACKAGE 1: NEW TREATMENTS TO MODULATE CNS PLASTICITY
+
+Perineuronal nets control plasticity (Fawcett, Verhaagen, Pizzorusso)
+
+The main focus of research to develop novel methods to modulate CNS plasticity has been the perineuronal net (PNN). This cartilage-like structure appears at the same time as critical periods for plasticity end, enwraps the parvalbumin (PV) interneurons that are known to modulate plasticity, and is digested by chondroitinase ABC (ChABC) that reactivates plasticity.
+
+Expression of PSA-NCAM in the glial scar (Pharmaxon)
+
+Poly a2,8 Sialic Acid is linked to NCAM when plasticity is needed (mostly during development and traumas). It has been shown that PSA-NCAM is expressed by the glial scar after spinal cord injury (SCI) and those molecular changes are correlated with the sprouting of axons. Graft of cells overexpressing PSA at the lesion site promotes functional recovery after SCI. Pharmaxon has shown that a PSA mimetic peptide PR21 enhances locomotor score after spinal cord lesion and neuroprotective effects after contusion. It was demonstrated that PR21 decreases the glial scar by decreasing the astrocytes hyperexcitability. In addition, PR21 improves locomotor recovery when intrathecally delivered for 14 days at 3 mg/kg.
+
+Anti-Nogo A immunotherapy and rehabilitation: Differential effects on functional recovery after stroke (Schwab)
+
+Plasticity in the adult brain after cerebral ischemia is facilitated by the recruitment of 'redundant' synaptic connections within the CNS, and the ability of spontaneous formation of new structural and functional circuits that can re-map related cortical and spinal cord regions. Recent studies have also shown that the spontaneous reorganization and recovery of the sensory and motor forebrain cortex as well as the spinal cord can be affected by a number of factors- such as proteins with neurite growth enhancing (e.g. BDNF) or inhibitory activity (e.g. Nogo-A, Chondroitinsulfate proteoglycans), enriched rehabilitation (ER) and specific training. Although rehabilitation is evidence based from a clinical point of view, the scientific basis to design optimal rehabilitation schedules which enhance the on-going plasticity after stroke is not fully understood concerning the aspects of timing, intensity and kind of rehabilitation. In particular, the combination of rehabilitative training with pharmacological application of growth enhancing compounds is of great interest.
+
+Changes in cortical maps following anti-NogoA treatment (Schwab, Holtmaat, Verhaagen)
+
+The often impressive degree of functional recovery that accompanies structural plasticity induced by anti-Nogo-A antibodies strongly suggests the occurrence of major changes in wiring on many levels of the CNS. Thus, recovery of locomotion after unilateral transection of all descending and ascending tracts in the spinal cord requires cortical map changes in the sensory and motor cortices. In the studies from the Schwab team animals received a unilateral photothrombotic stroke lesion to the sensory-motor cortex and were treated intrathecally for 2 weeks with an anti Nogo-A antibody.
+
+Structural plasticity in the adult brain following reinforced learning in the hippocampus (Caroni)
+
+Structural plasticity of axons beyond developmental circuit assembly processes, and in the absence of physical lesions, is a recent discovery, and an exciting addition to the plasticity repertoire of mammalian brains. Although the surface has just been scratched so far, it is clear that these novel aspects of brain plasticity may complement the functional impact of long-term plasticity mechanisms at pre-existing synapses. This is mainly due to the different time scales of the phenomena (seconds to hours, versus days to weeks), and to the spatial scale of the modifications to circuits (axons can sample synaptic territories ranging in the tens and even hundreds of microns).
+
+Brain experience-dependent plasticity is in part supported by the activity of MMP-9 in adult mouse (Kaczmarek, D-Pharm)
+
+Modifications of properties of the adult sensory cortex by elimination of sensory input (deprivation) serves as a model for studying plasticity in the adult brain. The team of Kaczmarek studied the effects of short- and long-term deprivation (sparing one row of vibrissae) upon the barrel cortex. The response to stimulation (exploration of a new environment) of the spared row was examined with [14C]-2-deoxyglucose autoradiography and c-Fos immunohistochemistry. Both methods found large increases of the functional cortical representation of the spared row of vibrissae, extending into parts of the barrel cortex previously activated by the deprived vibrissae. With both methods, the greatest expansion of spared input was observed in cortical layer IV. In this way, we established a model, which was applied for examining involvement of matrix metalloproteinase 9 (MMP-9), upon experience-dependent cortical plasticity.
+
+WORKPACKAGE 2: STUDYING PLASTICITY AT THE MICRO LEVEL IN RESPONSE TO NEURODEGENERATION
+
+Observing synaptic plasticity in organotypic slice culture models (Caroni, Fawcett)
+
+The team of Pico Caroni (PC) has been investigating how structural plasticity is regulated during the maturation of hippocampal circuits and in mature circuits. They found evidence that the earliest born subpopulation of principal neurons has a dominant effect on circuit maturation, and that this takes place first in CA3. Mossy fiber terminals by Lsi1 granule cells establish filopodial synapses onto parvalbumin (PV) interneurons, and these synapses drive maturation of PV basket cells. This maturation of the basket cells in CA3 is a prerequisite for their maturation in CA1, suggesting that regulation in CA3 drives maturation of the entire hippocampal loop.
+
+In vivo imaging of synaptic plasticity in models of AD (Helmchen)
+
+The collaboration of the teams of Fritjof Helmchen (FH) and Roger Nitsch (University of Zurich) has resulted in significant insights about in vivo remodelling of neural circuit activity in transgenic Alzheimer mice (work by Annapoorna Bhat). We expressed the genetically encoded calcium indicator Yellow Cameleon 3.60 (YC3.60) in mouse somatosensory neocortex using AAV constructs (Fig. 2). The spontaneous neuronal activity rates of the exact same layer 2/3 neurons were then repeatedly measured over up to 8 weeks.
+
+In vivo imaging of synaptic plasticity after stroke (Helmchen, Schwab, Holtmaat)
+
+The teams of Martin Schwab (MS) and FH have conducted collaborative experiments to assess, in rodents in vivo, the synaptic changes that can occur following stroke. Wolfgang Omlor from the team of FH and Anna-Sophia Wall from the team of MS have made very good progress in their collaborative experiments with the following goals:
+1) long-term functional imaging of identified neuronal populations before and after stroke in the contralesional intact hemisphere in order to directly observe compensatory functional changes in these populations
+2) optical motor mapping using channelrhodopsin-2 (ChR2). In ChR-2 expressing mice a motor map can be generated using this light-activatable channel. The goal of this development is to assess the change in the motor map following a large-scale stroke and ultimately relate it to recovery of motor behaviour.
+
+Remodelling of neocortical dendrites after axotomy and sprouting (Schwab, Helmchen)
+
+Mice with genetically labelled pyramidal neurons (thy-1-YFP) in the motor cortex were subjected to defined lesions of the corticospinal tracts in the lower thoracic spinal cord, combined with injection of a retrograde tracer. The team of MS has evaluated the density of spines on the axotomized corticospinal neurons at 3, 7, and 21 days after the injury. Spine density of the dendritic segment proximal to the soma (in layer 5) declined as early as 3 days after injury, far preceding the onset of somatic atrophy. In the distal segment (in layer 2/3), spine loss was slower and less severe than in the proximal segment. Axotomy of corticospinal axons in the brainstem (pyramidotomy) induced a comparable reduction of spine density, demonstrating that the loss is not restricted to the neurons axotomized in the thoracic spinal cord.
+
+In vivo imaging of astroglial and microglial responses to neurodegeneration (Helmchen)
+
+The Fritjof Helmchen (FH) team (in collaboration with R. Nitsch, UZH) has performed in vivo two-photon imaging experiments to measuring structural dynamics of microglial cells in AD mice. To this end we used crossed APPsweArc;Cx3CR1 +/- mice, in which GFP is expressed in cortical microglial cells. Two-photon microscopy enables us to resolve the fine microglia processes, which are highly dynamic structures.
+
+Functional plasticity of neocortical circuits in normal mice and neurodegeneration (Holtmaat, Helmchen) model mice
+
+The team of Anthony Holtmaat (AH) investigated the effect of a focal stroke on functional map changes in the mouse barrel cortex. Rose Bengal is injected in the tail vein and the cortex is illuminated with a green light through a small pinhole on a cranial window implant. The illumination causes thrombosis and results in local ischemia. In the example below the stroke was targeted at the cortical area representing the delta-whisker. After the stroke delta-whisker stimulation failed to produce an intrinsic optical signal response, whereas the stimulation of a neighboring control whisker continue to elicit responses.
+
+
+Assessment of plasticity-promoting treatments (Helmchen, Schwab, Holtmaat, Schneider, Pizzorusso)
+
+The teams of FH and MS have now a fully operating procedure to obtain longitudinal data aiming at investigating network shifts, astroglial and microglial responses after a degenerative process following different rehabilitation paradigms (early versus delayed training, training combined with Anti-Nogo A immunotherapy) using calcium imaging.
+
+Neurodegeneration and Wnt signalling (Caroni)
+The team of Pico Caroni (PC) investigated how experience regulates the structure of a defined neuronal circuit in adult mice. Enriched environment (EE) produced a robust and reversible increase in hippocampal stratum lucidum synapse numbers, mossy fiber terminal (LMT) numbers, and spine plus synapse densities at LMTs, whereas a distinct mechanism depending on Rab3a promoted LMT volume growth. In parallel, EE increased postsynaptic CA3 pyramidal neuron Wnt7a/b levels. Inhibiting Wnt signaling through locally applied sFRP-1 suppressed the effects of EE on synapse numbers and further reduced synapse numbers in control mice. Wnt7 applied to CA3 mimicked the effects of EE on synapse and LMT numbers. CA3 Wnt7a/b levels were enhanced by excitatory activity and reduced by sFRP-1.
+
+Secretion and actions of MMP-9 at the synapse (Kaczmarek)
+
+The team of Leszek Kaczmarek (LK) has made significant progress towards visualizing MMP activity live in situ in neuronal cultures. They found that MMP-9 causes spine transformation towards thinner spines. The team of LK has further assessed whether endogenous MMP-9 can reproduce the effect of exogenous MMP-9 on spine morphology. They have used dissociated hippocampal neuronal culture, performed a RFP transfection (7DIV) and incubated the slices with FITC-labelled gelatin (as MMP-9 substrate).
+
+WORKPACKAGE 3: A NOVEL IN VIVO MODEL OF NEURODEGENERATION
+
+Development of the appropriate AAV vectors for the expression of human tau and APP in the mouse brain (Schneider/Aebischer, Spillantini)
+
+Several aspects are motivating the development of viral vectors for the modelling of cognitive neurodegenerative disorders:
+i) Manage a focal transgene expression to target the pathology in a specific brain structure. This permits to avoid any confounding behavioural consequences of widespread transgene expression, such as motor impairments caused by brainstem/spinal cord degeneration;
+ii) Produce an acute perturbation of an adult system and thereby avoid compensatory mechanisms occurring during development; and
+iii) Generate a model system easily applicable to genetically modified mouse lines to assess functional interactions between genes in vivo.
+
+Intracerebroventricular injections in neonates
+
+In parallel to focal vector injections performed in the lab of James Fawcett (JF) and Maria Grazia Spillantini (MGS), the team of BS/PA has further developed the method for intracerebroventricular (ICV) injection of AAV vectors in the neonatal mouse brain (P3/P4). The aim was to improve the reliability of the intracerebral injections using stereotaxic techniques. The ICV injection of AAV is a convenient way to target large brain areas. However, this model system presents an inherent variability due to the methodology, but this variability can be mastered using the setup developed by the team of PA.
+
+Characterization of the expression of P301S tau using AAV vectors (Spillantini, Fawcett, Schneider/Aebischer)
+
+One of the objectives of PLASTICISE was to produce a novel model of neurodegenerative disease through viral vector expression of mutant tau. The main form of tau that was chosen was the P301S mutant, which leads to frontotemporal dementia in humans. Nevertheless, we also analysed in parallel experimental groups the pathology induced by wild-type forms of tau, as well as a rapidly aggregating variant, tau 3-PO. Transgenic mice expressing the P301S tau mutant display a progressive global tauopathy with neuronal loss and disability. Our objective was to produce a focal form of tauopathy, more amenable to experimental manipulation, and more rapidly progressing due to high levels of expression. AAV vectors were produced to express either control, normal tau, or P301S tau or the rapidly aggregating 3-PO tau variant (also indicated as tau M123).
+
+Intracerebroventricular (ICV) injections in mouse neonates
+
+In the BS/PA lab, experiments were designed to induce widespread expression in the mouse forebrain, by injecting tau-expressing AAV6 vectors in the lateral ventricles of mouse neonates. The development of the tau pathology was monitored in adult animals, by immunohistopathology, biochemistry and monitoring of motor behavior.
+
+Injections in the sensorimotor cortex
+
+The first local viral injections were made into the rat sensorimotor cortex. After one month, expression of mutant tau was clearly seen, with hyperphosphorylated tau in many neurons. At three months after injection, there was intense tau pathology in the injected area, and focal neuronal loss. However, we did not record a reproducible loss of function in a skilled reaching task.
+
+Injections in the entorhinal cortex
+
+The second set of injections were made unilaterally into the entorhinal cortex. Both normal mice and TASTPM mice, which model Alzheimer's disease through production of mutant APP and mutant presenilin, were injected (Dassie et al., Neurobiology of Aging, 2012). There was retrograde transport of virus to the hippocampus and other regions, and axons containing human tau were also seen in the hippocampus and elsewhere. Over eight months following virus injection there was clear and increasing tau pathology with neuronal loss in the entorhinal cortex and also loss of neurons in the CA1 region of the hippocampus. We saw no sign of an interaction between tau and Aß pathology, with neither form of pathology causing an increase in the other.
+
+Injections in the perirhinal cortex
+
+The third model in which we induced focal tau pathology was injection of the perirhinal cortex. This area of cortex is involved in object recognition memory, and lesions within it have been shown to cause memory deficits. Animals received three injections of AAV6-P301S tau vector on each side of the brain, to enable transduction of the whole of this long cortical region. Tau pathology as seen by histology developed as in the previous model, with clear tauopathy and neuronal loss by two months after injections. These mice were tested behaviourally and showed an object recognition memory deficit compared to AAV6-wt Tau or AAV6-FPmax used as controls for the mutation and for the injection.
+
+Characterization of the P301S tau transgenic line (Spillantini, Fawcett)
+
+The P301S tau transgenic mouse line is a model of human tauopathy, overexpressing human P301S mutant tau under a murine Thy1.2 promoter that presents abundant tau pathology and neuronal cell loss. The team of MGS has tested transgenic P301S mice in the novel object recognition (NOR) test. The NOR is a perirhinal cortex - dependent test, as a lesion of the perirhinal cortex abolishes OR memory. Transgenic P301S mice show a temporal progression of the object recognition memory deficit. Based on the results obtained above with injection of the AAV-tau vector as well as using the P301S tau transgenic mice, the experiment to test the efficacy of plasticity-enhancing treatment was performed by targeting the perirhinal cortex.
+
+Rescue of the tau-induced behavioural deficits by plasticity-enhancing treatments (Spillantini, Fawcett)
+
+In the P301S human tau transgenic mouse line, the team of MGS determined the presence of the object recognition (OR) memory deficit at 3 months of age.
+
+In AAV-P301S tau injected mice we also confirmed that their OR memory was impaired in association with neurodegenerative tauopathy. ChABC treatment also reversed the functional deficit in AAV-P301S human tau-injected mice 2 weeks after treatment. However, one month later, animal performance in the test returned to the level observed before the ChABC treatment. In conclusion, the plasticity-enhancing treatment is able to transiently rescue brain function, presumably by favouring synaptic connections that enhance performance in cognitive tasks. However, it will be important to explore how to maintain this effect over time in conditions where the accumulation of pathologic forms of tau chronically perturbs neuronal functions.
+
+WORKPACKAGE 4: PROMOTING PLASTICITY IN ANIMAL MODELS OF NEURODEGENERATION
+
+Visual cortical plasticity in Crtl1 null double mutants (Fawcett, Pizzorusso)
+
+The teams of Tommaso Pizzorusso (TP) and James Fawcett (JF) have collaborated to study the role of perineuronal nets (PNN) in cortical plasticity using the cartilage link protein-1 (Crtl-1) null double mutants. The results have shown that Crtl1 mutant animals have attenuated perineuronal nets and retain ocular dominance plasticity and plasticity of the sensory projection in the cuneate nucleus into adulthood. This collaborative work has been published (Carulli D. et al, Brain, 2010). Following this first study, the teams of TP and JF have gone beyond the task by analyzing plasticity in non visual structures to assess learning and memory mechanisms, object recognition memory, synaptic plasticity in perirhinal cortex of these Crtl1 mutants. The results show that the genetic attenuation of PNNs in adult brain Crtl1 knockout mice dramatically enhances long term object recognition memory and facilitates synaptic plasticity mechanisms thought to underlie the encoding of memory. Identical prolongation of memory follows digestion of PNNs in the perirhinal cortex with chondroitinase ABC.
+
+Role of Sema3A on the inhibitory effect of PNNs on synaptic plasticity (Pizzorusso, Verhaagen, Fawcett)
+
+The teams of TP, Joost Verhaagen (JV) and JF have successfully collaborated on this project in the last two years. Perineuronal nets (PNNs) are substructures of the neural extracellular matrix with the ability to produce an inhibitory effect on synaptic plasticity in the visual cortex. However, the molecular mechanisms underlying this inhibitory effect are still unknown.
+
+A.Effect of chondroitinase ABC (chABC) treatment on functional recovery from stroke (Schwab)
+
+The effect of chondroitinase ABC (chABC) on functional recovery has been shown after the first year of PLASTICISE. In brief, stroke has been induced by means of intracortical injection of endothelin 1 in the cortical representation of the forelimb in the rat. The model has been developed during the first year of the project by the team of MS.
+
+B.Effect of anti-Nogo antibody treatment on functional recovery from stroke (Schwab)
+
+The combination of pharmacological application of neuroprotective/ neuro-boosting drugs with neuro-rehabilitation after stroke is of great interest from the clinical point of view. It is important to know which treatment is correlated with which outcome in what type of patient. Until now this question has been addressed by clinicians, physiotherapists and occupational therapists intuitively. In the animal model we can model the clinical situation and try different treatment setups. It has been very unclear whether neuroprotective or regenerative treatments, for example, should precede rehabilitation training or vice versa or whether they should even be given simultaneously.
+
+C. Effects of anti-Nogo-A antibodies on corticospinal connectivity after stroke (Schwab)
+
+Many earlier studies from the group of MS and other laboratories have shown that interfering with the Nogo-A - Nogo receptor pathway by antibodies, receptor bodies, KO, or pharmacological agents significantly enhance recovery in particular of skilled fore- and hind limb movements in adult rats. In collaboration with laboratory of G.KARJE (Chicago) they could recently show that these effects are also seen in aged rats and when the antibody is applied (for a duration of 2 weeks) 1 or 2 months after the MCAO stroke lesion.
+
+D. Effect of chondroitinase ABC (chABC) treatment on cortical plasticity (Pizzorusso)
+
+Partial motor recovery after stroke is thought to be sustained by neuronal plasticity, particularly in areas close to the lesion site. It still unknown if treatments acting exclusively on cortical plasticity of perilesional areas could result in behavioural amelioration. The team of TP tested whether enhancing plasticity in the ipsilesional cortex using local injections of chondroitinase ABC (ChABC) could promote recovery of skilled motor function in a focal cortical ischemia of forelimb motor cortex in rats. Using the skilled reaching test, we found that acute and delayed ChABC treatment induced recovery of impaired motor skills in treated rats. vGLUT1, vGLUT2, and vGAT staining indicated that functional recovery after acute ChABC treatment was associated with local plastic rearrangements of the excitatory cortical circuitry positive for VGLUT2. ChABC effects on vGLUT2 staining were present only in rats undergoing behavioural training.
+
+Development of rehabilitation procedures (Schwab)
+
+The team of MS has developed a 3-story cage where they can follow rats 24h per day over several weeks during their normal behaviour. The animals receive a transponder which is transplanted under their skin allowing the animals behavior to be monitored continuously over weeks. The cage is equipped with different tasks (including a pellet reaching task) which force the rats to train themselves. Animals with a brain or spinal cord injury and kept in the cage for weeks can be compared with lesioned animals kept in regular cages and receiving a specific grasping training etc.
+
+Assessment of the plasticity-inducing treatments developed by the different PLASTICISE teams
+
+The idea of this task is to develop novel methods of promoting plasticity following what has been found to be efficient in workpackage 1. We provided below a summary of the different plasticity-enhancing treatments that have been developed by the consortium and tested on several animal models and conditions.
+
+A.Combined treatment with anti NogoA and chondroitinase in spinal cord injury (Schwab, Fawcett)
+
+The two most consistently successful treatments for spinal cord injury at present are anti NogoA and chondroitinase. Their mechanisms of action are somewhat different, but there are also suggestions that both actions may involve the Nogo receptor.
+
+B.Treatment of memory deficit induced by P301S tau (Spillantini, Fawcett, Aebischer)
+
+In WP3 we developed a novel model of focal Alzheimer pathology through injection of AAV vectors expressing mutant forms of tau into the perirhinal cortex. These animals had a severe deficit in the novel object recongnition memory.
+
+C.Effect of PSA-NCAM modulator on locomotor recovery (Pharmaxon)
+
+Pharmaxon (PHX) has shown that a PSA mimetic peptide PR21 enhances locomotor score after spinal cord lesion and neuroprotective effects after contusion. It was demonstrated that PR21 decreases the glial scar by decreasing the astrocytes hyperexcitability (see figures in WP1).
+
+D.Assessment of ß-Adducin mutant mice for learning and memory (Caroni)
+
+The team of Pico Caroni (PC) has shown that mice lacking the plasticity-regulated protein ß-Adducin fail to assemble new synapses upon enhanced plasticity, and exhibit diminished long-term hippocampal memory upon environmental enrichment. Enrichment enhanced the disassembly and assembly of dynamic subpopulations of synapses. Upon enrichment, stable assembly of new synapses depended on the presence of ß-Adducin, disassembly involved b-Adducin phosphorylation through protein kinase C, and both were required for augmented learning. In the absence of ß-Adducin enrichment still led to an increase in spine structures, but the assembly of synapses at those spines was compromised.
+
+E.Involvment of MMPs in plasticity
+
+Testing one of D-PHARM compound for seizures (Kaczmarek, D-Pharm)
+
+The team of Leszek Kaczmarek (LK) established a model, which was applied for examining involvement of matrix metalloproteinase 9 (MMP-9), upon experience-dependent cortical plasticity. MMP-9 is an enzyme implicated in plastic modification of the neuronal connections. We found that, in the adult mouse brain, experience-dependent plasticity is in part supported by the activity of MMP-9. This study has been published in 2012 (see reference below: Kaliszewska A. et al., Cerebral Cortex 22: 2160-2170).
+
+Role of MMPs in ocular-dominance plasticity (Pizzorusso)
+
+The team of TP has studied the role of matrix metalloproteases (MMP) in ocular-dominance plasticity. We infused the visual cortex of monocularly deprived critical period rats with the broad spectrum MMP inhibitor GM6001. We found that this treatment prevents the potentiation of the non-deprived eye after 7 days of monocular deprivation. Furthermore, GM6001 seems to prevent the late increase of spine density occuring after monocular deprivation. This data has been published in Cerebral Cortex (Spolidoro et al., 2012; see below).
+
+F.EphA4 synergizes with Nogo-A to restrict axonal growth after spinal cord injury (Schwab)
+
+As already presented in the previous report, the team of MS have been screening several candidates for the NogoA receptor. The team of MS has been screening molecular candidates that may explain why in myelin of adult Nogo-A knockout mice, there is only a partial reduction in neurite outgrowth inhibition. The remaining activity might be due to a compensatory upregulation of other growth inhibitory or repulsive molecules. We searched for potential compensating molecular candidates by screening the intact adult spinal cord for transcripts whose expression levels were upregulated in the absence of Nogo-A. Affymetrix GeneChip and quantitative RT-PCR (qRT-PCR) analyses revealed an increase of several ephrins and semaphorins, as well as of their receptors Ephs and Plexins. In particular, ephrinA3 was found significantly enriched in adult myelinating oligodendrocytes of Nogo-A KO mice. We showed that recombinant ephrinA3 inhibits neurite outgrowth of postnatal cortical neurons in an EphA4-dependent manner, and that EphA4 KO cortical neurons are less inhibited by Nogo-A KO myelin than wild-type (WT) neurons. Furthermore, ephrinA3 KO-derived myelin was less growth inhibitory than WT-derived myelin, but more inhibitory than Nogo-A KO-derived myelin. In vivo, Nogo-A / EphA4 double KO mice showed enhanced axonal sprouting and regeneration after spinal cord injury compared to single Nogo-A KO and EphA4 KO mice.
+
+WORKPACKAGE 5: NOVEL METHODS FOR STUDYING PLASTIC CHANGES IN HUMAN PATIENTS AND PRIMATES
+
+Assessment of plasticity after stroke using new imaging methods (Ward, Weiller)
+
+The focus of this task has been to evaluate Dynamic Causal Modelling (DCM) as a tool for analysing functional imaging data in order to measure brain connectivity. Functional MRI (fMRI) allows us to look at activity in distributed brain regions. The team of Nick Ward (NW) has been using an analysis technique called DCM to determine whether the measures of connectivity will be useful in assessing treatment or recovery related changes in patient groups.
+
+Their initial goal was to provide face validity for the fMRI-DCM connectivity measures. To do this they were able to measure the influence of left primary motor cortex (M1) on right M1 during right hand grip both neurophysiologically using transcranial magnetic stimulation (TMS) and using functional brain imaging (fMRI) in the same subjects. DCM-derived coupling parameters between primary motor cortices appear to reflect age-related decline in interhemispheric inhibition (measured with TMS).
+
+In this section, we will describe advances in
+(i) Dynamic Causal Modelling (DCM) as a tool for analysing functional magnetic resonance imaging (fMRI) data in stroke patients during affected hand movement;;
+(ii) DCM as a tool for analysing functional imaging data in stroke patients at rest;
+(iii) Magnetoencephalography (MEG) data examining direct corticomuscular coherence;
+(iv) MEG data examining intracortical connectivity;
+(vi) methodological advances in imaging analysis.
+
+Assessment using fMRI combined with fibre tracking (Ward)
+
+This task has focussed on combining fMRI data with probabilistic fibre tracking based on diffusion tensor imaging (DTI) data. The fibre tracking provides prior information about the likely connections of brain regions seen to be active during motor, language or cognitive tasks. In this way, separate subsytems of brain regions can be described, based on likely connection patterns. This approach has been successful in Freiburg (team of CW) and has resulted in a high level publication.
+
+Assessment of progressive neurodegeneration in Alzheimer dementia and temporo-frontal dementia (Weiller)
+
+The work in this task has included the development of fully automated methods for assessing regional atrophy in progressive neurodegenerative diseases by the team of Cornelius Weiller (CW). This work has been able to demonstrates regional atrophy over short periods of time (6 months). Furthermore it was possible to distinguish different patterns of atrophy in 3 variants of frontotemporal lobar degeneration (FTLD) - behavioural variant FTLD, progressive nonfluent aphasia (PNFA), semantic dementia (semD) (see published work from Frings et al., 2011).
+
+Concurrent fMRI and TMS (Ward, Rothwell)
+
+Another way of examining connectivity, or the causal influence of brain regions on one another, is concurrent TMS-fMRI. Concurrent TMS-fMRI is a technique which allows us to examine the influence of one targeted brain region on the rest of the distributed brain network under examination. In addition, it is possible to test how this influence changes in different 'states'. For example the teams of Nick Ward (NW) and John Rothwell (JR) have previously examined the change in influence of ipsilateral dorsolateral premotor cortex (PMd) on other cortical motor regions during hand grip compared to rest.
+
+Short-term effects of plasticity drivers (Ward, Weiller, Rothwell)
+
+1. Change connectivity
+
+The team of NW has successfully collected data functional and structural imaging data, neurophysiological data and behavioural data on approximately 19 chronic stroke patients undergoing 2 weeks of intense physiotherapy augmented with either repetitive or sham TMS just prior to each treatment session. The analysis techniques described in task 1 (DCM) has been applied to these data to to examine the relationship between cortico-cortical connectivity measures (fMRI-DCM) and improvement in motor scores with 2 weeks of intensive treatment (Figure 23). This work has been presented at the Organisation of Human Brain Mapping meeting in 2011 (Boudrias et al, OHBM 2011).
+
+2. Brain imaging changes in stroke patients following constraint-induced movement therapy
+
+As reported last year, the group of CW has looked at brain imaging changes in chronic stroke patients treated with constraint induced movement therapy (CIMT). Here the hypothesis was that patterns of 'recovery-related' brain reorganisation would be different depending on whether the descending pyramidal tract (PT) was affected or not.
+
+3. Brain imaging changes in stroke patients following mirror training therapy
+
+The group of CW performed an fMRI experiment to look at the possible mechanism of action of mirror training therapy (MTr).There is interest in whether this can be of some benefit in helping to improve motor function and/or reduce post-stroke pain. Here, healthy subjects were asked to perform a right hand task with either a mirror or non-reflective board in front of them. The group found that MTr remodels the motor system by functionally connecting hand movement to the ipsilateral sensorimotor cortex. On a system level, it leads to interference of the neural circuit related to motor programming and observation of the trained hand with the illusionary movement of the untrained hand.
+
+High resolution mapping of visual system plasticity (Logothetis)
+
+The study of cortical reorganization is being pursuit by the team of Nikos Logothetis (NL) in a cohort of human patients with occipital cortical lesions, in collaboration with the Department of Ophthalmology at the University of Tuebingen (Prof. Ulrich Schiefer). The team of NL has been studying the effect of V1+ lesions in patients with hemianopia and quadrandanopia. They have systematically looked at the retinotopic structure and performed a population receptive field analysis. So far 6 patients have been analyzed and compared to 12 normal hemisphere controls. The retinotopy of extrastriate areas remains generally stable, though specific changes in population RF parameters have been observed in select cases.
+
+Re-organization of visual areas after retinal lesions (Logothetis)
+
+The group of Nikos Logothetis (NL) has recently published the characterization of the retinal lesion (Fischer et al., 2012) and wrote the manuscript on visual cortex organization in the macaque with macular degeneration.
+
+Behavioural correlates of re-organization in the visual system (Logothetis)
+
+The study of cortical reorganization is performed by the team of Nikos Logothetis (NL) in a cohort of human patients with occipital cortical lesions, in collaboration with the Department of Ophthalmology at the University of Tuebingen (Prof. Ulrich Schiefer).
+
+As a first step a number of patients have been recruited and have been scanned with fMRI in order to map their visual areas. To this end, for each patient the visual areas are characterized by using a) classical retinotopic mapping and b) population receptive field mapping. In addition, the motion sensitivity of the patients' visual areas was assessed by using random-dot-kinematograms (RDKs) of different motion coherence.
+
+Development of new probes for neuroimaging (Logothetis)
+
+The team of NL has been developing 'smart' biochemical functional markers that detect neuronal activity in real time and translate it into the changes in MR contrast permits a direct visualization of neural activation independent of the state of the vascular system. The goal of the chemistry group is development of these responsive probes. Their relativity is modulated reversibly and fast by changes in the physiological environment, specifically changes in pH and concentrations of certain ions or neurotransmitters. Recently, the series of complexes being responsive to calcium ions was synthesized and characterized. A novel series of complexes which affects the MR signal in the presence of extracellular concentrations of calcium in buffer solutions and buffered artificial extracellular matrix (AECM) was synthesized and analyzed.
+
+WORKPACKAGE 6: TESTING PLASTICITY MODULATING TREATMENTS IN HUMAN PATIENTS
+
+Effects of currently available drivers of plastic change on reorganization in the human brain after stroke (Ward, Rothwell, Weiller)
+
+Cornelius Weiller (CW) and his team use transcranial direct current stimulation to improve learning in stroke patients with hemiparesis. 20 stroke patients are included in the ongoing study.
+The team of John Rothwell (JR) has concentrated its effort on the development of a clinical trial with stroke patients to assess whether repetitive transcranial magnetic stimulation (rTMS) can improve the response to therapy in chronic stroke patients.
+
+TMS and behavioural measures of plasticity can provide information on:
+a) the amount of change after an intervention, e.g. changes in motor connections or functional ability;
+b) the ease of inducing change, e.g. amount of change induced by an rTMS protocol, or the rate at which a new task can be learned.
+
+Cognitive training in patients with neurodegenerative diseases (Weiller)
+
+The team of Cornelius Weiller (CW) has performed a clinical trial on the effects of mirror training on behaviour of stroke patients and on fMRI activation. The clinical trial design is presented in Figure 4 below. This clinical trial has now been completed. A combination of fMRI, DCM and DTI tracking has been used to assess the effects of mirror training on the healthy brain.
+
+Effects of new interventions in recovery (Rothwell, Ward)
+
+The team of John Rothwell (JR) has completed in 2010 a 2 week randomised control trial of add-on rTMS therapy for arm/hand function in chronic stroke. A publication presented the main clinical results has been published in 2012 (Talelli P et al.; see below). The introduction of a standardised therapy for arm/hand control for use in add-on therapy trials has been published in 2010 (Wallace et al., 2010).
+
+The team of JR has been studying the responses of individual people to brain stimulation interventions. These kind of therapies are indeed widely used by many groups BUT responses vary a lot between different individual people meaning that the overall population effect is noisy. This turned out to be also the case with the plasticity-enhancing treatments; people react very differently to the treatment. So the goal of this study is based on the concept that the therapeutic benefit will improve if we can target stimulation to people in whom it has biggest effect.
+
+Clinical trial of anti-Nogo A in spinal cord injury (Schwab, Novartis)
+
+The anti-Nogo- A trial initiated by the team of Martin Schwab (MS) is run by Novartis in a European and a North American clinical network (more than 12 clinics currently involved). The trial involved the application of the anti-Nogo-A antibody (human IgG against human Nogo-A) first intrathecally and later as bolus injections to acutely injured spinal cord injury patients.
+
+The Phase 1 trial was initiated in June 2006 with 3 cohorts of acute ASIA A thoraco-lumbar lesion patients. Application of the anti-Nogo-A antibody was done by external pumps, following an increasing dosage and exposure up to 30 days of continuous intrathecal infusion. For safety reasons the following cohorts were treated with bolus injections (several intrathecal injections of Nogo-A antibodies within the first month after injury).
+
+Potential Impact:
+
+IMPACT OF PLASTICISE
+
+The proposed project capitalized on combined expertise in different areas of regenerative medicine. Furthermore, PLASTICISE involves collaborative interactions that allow us to merge our unique and complementary expertise in the field, from the bench to the bedside.
+
+Impact on science
+
+PLASTICISE has been designed to address the societal-economic impacts of neurodegenerative diseases, integrated with advanced research, aligned with what is required to identify and validate optimal treatment regimens. This requires a detailed molecular/cellular understanding of synaptic change to provide new knowledge for developing new plasticity enhancement treatments for promoting recovery of function in human patients with neurodegenerative disease. As described above, major achievements done throughout the grant both in the pre-clinical and clinical settings have seen that PLASTICISE is going beyond the state of the art. These scientific highlights have been largely disseminated to the scientific community through peer-reviewed publications, talks and poster presentations.
+
+Economic benefits
+
+In Europe overall, neurological damage accounts for 40% of people severely disabled and who require daily help (Wade and Hewer, 1997; Office of Population Censuses and Surveys, 1998). Neurodegenerative diseases, including stroke and Alzheimer's disease, are the major causes of chronic disability in European communities. With the increasing number of elderly people, coupled with successful treatment of non-neurological causes of chronic illness, the incidence of neurodegenerative disease will increase. In total, by 2013 it has been estimated that there will be some 8.5 million European citizens afflicted with a neurodegenerative disorder.
+
+Impact on society
+
+Degenerative diseases create a life-altering experience for the person with injury, for their partner, parents, siblings, and children. The impact on and subsequent dimishment of body functions associated with the diseases can cause depression and loss of self-esteem. Given the diversity of degenerative diseases indicated above, pathological manifestation can occur at any age: either as a child, during an individual's most productive years, or as an aged person. In most cases, patients require continuous physical and medical care depending on the disease, severity of manifestation, degree of disability, and location of injury. The burden of care giving most frequently falls on the partner. Care giving partners are often severely stressed, particularly due to health issues that arise after tissue degeneration initiates and suffer emotional stress that is comparable to or greater than those of the injured partner.
+
+MAIN DISSEMINATION AND EXPLOITATION ACTIVITIES
+
+PLASTICISE teams have placed a particular emphasis throughout the grant period to disseminate their work and scientific highlights to the scientific community, the European Commission, patient associations and public at large. You will find here a summary of the different actions taken:
+
+1. Development of the project website
+
+The project website - http://www.plasticise.eu - was developed early 2009 and was online in April 2009. The website is updated every month with news and events. As part of a communication campaign towards the public and patient associations, the design of the PLASTICISE website has been completed modified in 2011 and a new website has been published at the beginning of November 2011 (still online). The goal of this public web site is to communicate about the PLASTICISE research to the European Commission, patients associations and general public. The project management team has placed particular attention to creating an attractive content that would be understandable for a lay audience.
+
+2. Dissemination to the scientific community
+
+Participation to international conferences, poster presentations and lectures. The full list of international conference attendance by the PLASTICISE teams is available on the ECAS portal. In addition, a pop-up banner has been created in 2012 to present the PLASTICISE consortium in international meetings. As an example of these events, Isabelle Weiss from the Management team has presented the PLASTICISE consortium at the TERMIS meeting, September 5-8th, 2012 in Vienna (see http://www.wc2012-vienna.org/ online). TERMIS stands for 'Tissue Engineeting International and Regenerative Medicine Society'. The banner was part of a booth presenting several European-funded projects in the Exhibitor area of the Congress Center. The booth has been very well visited and many scientists took the PLASTICISE flyer.
+
+List of publications. The full list of publications is available on the ECAS portal. Below you will find the list of collaborative publications originated from the coordinated work within the consortium.
+
+Work Package 1
+-Carulli D, Pizzorusso T, Kwok JC, Putignano E, Poli A, Forostyak S, Andrews MR, Deepa SS, Glant T, Fawcett JW. Animals lacking link protein have attenuated perineuronal nets and persistent plasticity. Brain. 2010 Jun 20.
+-Gunnar Dick, Jessica C. F. Kwok, Chin Lik Tan, Joao Nuno Alves, Erich Ehlert, Kazuyuki Sugahara, Joost Verhaagen & James W. Fawcett. Semaphorin 3A interacts with Chondroitin Sulphate type E (CS-E) in binding to glycosamino-glycans (GAGs) of perineuronal nets (PNNs) in rodent brain. Under revision.
+-Fawcett JW, Schwab ME, Montani L, Brazda N, Muller H-W (2012) Defeating inhibition of regeneration by scar and myelin components. In: Handbook of Clinical Neurology (Verhaagen J, McDonald JW, eds), Elsevier
+-Tam Vo, Daniela Carulli, Erich M.E. Ehlert,, Gunnar Dick, Vasil Mecollari, Elizabeth B. Moloney, Gera Neufeld, Fred de Winter, Jessica C.F. Kwok, James W. Fawcett, Joost Verhaagen. The Chemorepulsive Axon Guidance Protein Semaphorin 3A is a Constituent of Perineuronal Nets in the Adult Rodent Brain. Under revision.
+-Romberg C, Yang S, Melani R, Andrews MR, Spillantini MG, Bussey TJ, Fawcett JW, Pizzorusso T, Saksida LM. Depletion of perineuronal nets enhances memory and long-term depression (submitted to PNAS)
+
+Work Package 3
+-Zhao RR, Muir EM, Alves JN, Rickman H, Allan AY, Kwok JC, Roet KC, Verhaagen J, Schneider BL, Bensadoun JC, Ahmed SG, Yáñez-Muñoz RJ, Keynes RJ, Fawcett JW, Rogers JH. Lentiviral vectors express chondroitinase ABC in cortical projections and promote sprouting of injured corticospinal axons. J Neurosci Methods. 2011 Sep 30;201(1):228-38. Epub 2011 Aug 9.
+-E. Dassie, M. R. Andrews, J.-C. Bensadoun, M. Cacquevel, B. L. Schneider, P. Aebischer, F. S. Wouters, I. Hussain, D. R. Howlett, M. G. Spillantini, J. W. Fawcett. Focal expression of mutant tau via AAV induces neurofibrillary tangle formation, neuronal loss, neuroinflammation and memory impairment in an APP mouse model. Neurobiology of Disease 2012 Dec 25
+
+Work Package 5
+-Bestmann S, Swayne O, Blankenburg F, Ruff CC, Teo J, Weiskopf N, Driver J, Rothwell JC, Ward NS. The role of contralesional dorsal premotor cortex after stroke as studied with concurrent TMS-fMRI. J Neurosci. 2010 Sep 8;30(36):11926-37.
+
+Work Package 6
+-Talelli, P., Dileone, M., Hoad, D., Cheeran, B, Oliver, R., Van Den Bos, M., Hammerbeck, U., Cloud, G., Ball, J., Marsden, J., Ward, N.S., Di Lazzaro, V., Greenwood, R. and Rothwell, J.C. (2012). Theta Burst Stimulation in the rehabilitation of the upper limb: a semi-randomised, placebo-controlled trial in chronic stroke patients. Neurorehabilitation and Neural Repair, in press
+-Wallace AC, Talelli P, Dileone M., Oliver R, Ward N, Cloud G, Greenwood R, Dilazzaro V and Rothwell JC (2010). Standardizing the intensity of upper limb treatment in rehabilitation medicine. Clinical Rehabilitation 24, 471-478.
+
+Patent and commercial exploitation
+
+One patent has been approved during the second reporting period. This patent has been granted to James Fawcett (#1a) on Treatment of CNS damage with the reference number 10179661.3-2406. Two patents have also been submitted during the second period. One by Leszek Kaczmarek (#10) on A method and a system for processing an image comprising dendritic spines (Reference number: EP11461530.5). One by Martin Schwab (#2a) on 'A novel Nogo-A specific receptor'. These applications have been done in collaboration with the local tech transfer offices, supported by PLASTICISE Management team.
+
+Cooperation with other research programmes
+There have been successful interactions with other projects to promote either scientific exchanges and capacity building of young scientists.
+
+Scientific:
+
+Many PIs from PLASTICISE are involved in other EC and non-EC grants, where there is sometimes an overlap of partners. A table presenting these shared scientific objectives is available in the attached pdf.
+
+Joint 2010 meeting with NeuGene:
+
+In addition, the 2010 PLASTICISE annual meeting was organized jointly with NeuGene (see http://www.neugene.eu online), another European Consortium, focussing on the use of gene therapy as a new approach to CNS diseases. The meeting took place in Barcelona from the 13th to the 15th of January 2010. The 1st and 3rd day of the meeting, the consortia met separately to discuss the scientific progress within the different WPs, project planning and management issues. On the 2nd day, the members of the two consortia (around 60 persons all together) met for a proper scientific conference with presentations and shared discussions from members of the two networks. Dinners and lunches were also jointly organized to promote interactions between the two consortia.
+
+Young scientist Capacity building:
+Online TOPEA tutorial programme - TOPEA is an initiative from Dando, Weiss and Colucci to provide complementary training to the young scientists coming from several EC-funded projects. The TOPEA programme is exclusively dedicated to young researchers, providing them with complementary training in degenerative processes / regenerative medicine and soft skills (e.g; grant writing, project management, IP protection, communication and outreach). TOPEA represents series of online tutorials and summer schools where the young scientists are presenting their scientific achievements to their peers. The list of web tutorials can be found under: http://www.dwc-alliance.com/pages/training.html
+
+List of Websites:
+still online

@@ -1,0 +1,9 @@
+Potassium channels are responsible for mediating neural signal transmission through regulating cellular entry or exit of various signalling molecules or ions.Although humans have 70 ion channels, only a few have been linked to disease. In that respect, mutations in four out of five KCNQ channels are known to cause cardiac arrhythmias and neurological diseases.
+
+The main objective of the EU-funded ‘Cell biology of rare monogenic neurological disorders involving kcnq channels’ (NEUROKCNQPATHIES) project was to unravel the cell biology mechanisms underlying rare monogenic neurological disorders associated with KCNQ family members. More specifically, project partners wished to identify the processes that control KCNQ channel function, including their modulation by second messengers, biogenesis, targeting and transcriptional control.
+
+As a first step, the team analysed the biochemical and biophysical properties of the mutations associated with these disorders by performing structure-function studies. They studied how these mutations affected trafficking of KCNQ receptors within the cell, their membrane insertion, assembly and degradation. Also, the mechanisms underlying KCNQ regulation by neurotransmitters and control of gene transcription were investigated.
+
+Important achievements of the project included the generation of transgenic animal models to study the pathology of these diseases and the identification of new drugs that modulate KCNQ channels.
+
+Collectively, project findings allowed scientists to gain a more precise idea of the role of KCNQ channels in disease. The molecular information generated is expected to aid the discovery of drugs with promising pharmacological and therapeutic potential.

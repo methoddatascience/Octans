@@ -1,0 +1,19 @@
+Pharmaceutical research usually employs animal models and convectional cell culture methods to study disease. However, fundamental differences in developmental and physiological aspects between humans and the commonly used animal models constitute a major bottleneck. For brain disorders, such as neurodegenerative and developmental diseases especially, existing methods fail to recapitulate the complexity of the human brain, causing major pharmaceutical companies to severely downsize their respective research.
+
+To address this issue, scientists of the ERC-funded Mini Brains project developed a stem cell-derived three-dimensional organoid culture system, termed cerebral organoids. “The idea was to use these cerebral organoids as a highly cost-effective tool in the discovery and development of therapies for neurodegenerative and developmental diseases, ″ explains project leader Dr Jürgen Knoblich.
+
+Cerebral organoid technology
+
+Researchers cultured human embryonic stem cell lines and induced pluripotent stem cells under specific growth conditions to promote the differentiation into several brain tissues. More specifically, they generated the in vitro primitive cell layer called neuroectoderm, where the nervous system derives from and maintained it in a specific scaffold to support complex tissue growth.
+
+After approximately 20 days of culture in a bioreactor, neuroepithelial tissue surrounding a fluid-filled cavity was formed, reminiscent of a cerebral ventricle. “Ten days later defined brain regions, including a cerebral cortex, retina, meninges as well as choroid plexus, developed,″ continues Dr Knoblich. Although they could survive indefinitely in the bioreactor, the lack of circulation prohibited brains from growing further.
+
+Clinical potential of cerebral organoids
+
+Scientists were able to grow organoids affected by microcephaly, a human genetic disorder in which brain size is significantly reduced. Intriguingly, they observed that while the neuroepithelial tissue was smaller compared to normal organoids, microcephaly organoids were characterised by increased neuronal outgrowth. This led Dr Knoblich and his team to suggest that, in patients with microcephaly, neural differentiation during brain development happens prematurely at the expense of stem and progenitor cells, affecting brain size.
+
+In another part of the project, researchers used organoids to study complex interactions, such as cell migration and axon growth, between different developing brain regions. Emphasis was given to the inhibitory GABAergic interneurons, which play a central role in brain activity regulation and are associated with epilepsy, schizophrenia and autism. Naturally, these interneurons emerge in a ventral part of the human brain and migrate over a long distance to the dorsal regions. If this migration, which is guided by various chemical signals such as CXCR4, fails then epileptic seizures can occur.
+
+Furthermore, researchers combined bioengineering to improve the architecture of organoids. They used microfilaments to generate floating scaffolds that maintained their self-organising properties but displayed enhanced structure.
+
+Using patient-specific cerebral organoids for research and drug screening offers an alternative to animal experiments, reducing costs and animal use. It also has the potential to decrease the cost of drug development, reduce the brain disease burden and increase the rate of approved drugs for brain disorders. “The clinical potential of cerebral organoids is tremendous; for the first time, we can develop organoids derived from patients’ blood or skin cells. This will provide new insights into the mechanisms that lead to neurological disorders,″ envisages Dr Knoblich. With a new ERC-funded project, Mini Brain, scientists hope to bring neurological research a step further.

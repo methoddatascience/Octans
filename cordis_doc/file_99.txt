@@ -1,0 +1,876 @@
+Executive Summary:
+
+MBG-BRIDGE is a capacity-building project aiming to develop the Department of Molecular Biology and Genetics (MBG) at Bogazici University (Istanbul, Turkey) into an internationally competitive research centre in the field of Molecular Biology. A strategic action plan to focus research orientations of MBG, to develop human and infrastructure resources and to overcome scientific isolation was carried out. The acronym BRIDGE emphasizes the three scientific disciplines, Brain Research, Immunology and Disease Genetics in which MBG could attain critical mass, develop fruitful internal and external collaborations, and strengthen its position as a national centre of excellence.
+
+In terms of infrastructure development, MBG-BRIDGE established three core facilities (ABC cores) for DNA Analysis (A-core), Bioimaging (B-core) and Cell Biology (C-core) to provide expert-supervised facilities for state of the art scientific research and technical training of research staff. The facilities support sophisticated analysis of biological samples through molecular sequence and bioinformatic analysis, confocal microscopy and extended in vitro research capabilities. New equipment for confocal microscopy, genome analysis and bioinformatic analysis was integrated into the facilities. Experienced researchers were recruited to organize the facilities and to provide scientific training. The new capabilities in bioimaging and sequence analysis allowed MBG scientists to re-shape their research programs, to increase the quality of scientific research, and to engage in new internal and international collaborations.
+
+Human resources at MBG were developed further through the strategic recruiting of expert scientists in the fields of Bioinformatics, Bioimaging, Cancer Research, and Cell Biology to support the newly established technical core facilities. MBG scientists and recruited researchers were intensively trained through internal and external research training programs in the form of technical workshops, secondments to partner institutions and in-house training. The combination of these measures transferred new scientific and technical expertise to MBG and helped to complement and expand the technical approaches and scientific orientation of BRIDGE research fields.
+
+To overcome scientific isolation, to increase awareness of MBG on an international level and to establish research partnerships with European research institutions, MBG-BRIDGE organized a total of 5 international scientific workshops on BRIDGE topics, 23 seminars by internationally renown scientists, and performed 23 short term scientific missions (secondments). In total MBG-BRIDGE promoted the interaction between MBG and 47 international research institutions in 15 countries.
+
+MBG-BRIDGE reached out to the general public and the wider scientific community by organizing information days for members of science clubs and science-oriented highschools and opening scientific events, such as workshops and seminars to the local scientific community.
+
+A final analysis of MBG’s research potential was performed by a team of independent expert evaluators and the outcome of the assessment was communicated to local, regional, and national public bodies to inform them about MBG’s research potential, its enhanced technical and scientific capabilities and to lobby for continuation funding to sustain project measures and to further develop MBG.
+
+As a result of these measures, MBG is now much better connected with the European and international research community, able to employ higher scientific quality standards, benefits from novel and better organized technical infrastructures, and increased the number of internal and external collaborations, primarily in Neuroscience, Cancer Biology, Immunology and Disease Genetics.
+
+Project Context and Objectives:
+
+Main objective of MBG-BRIDGE was to develop the Department of Molecular Biology and Genetics (MBG) at Bogaziçi University (Istanbul, Turkey) into an internationally recognized research centre by increasing its technological and human resources, by improving the quality and focus of research directions in molecular biology, and by aggravating critical mass in three research areas that are relevant to human health.
+
+MBG was founded as the first national research-oriented institution in the field of Molecular Biology and Genetics in 1977 and is embedded in the academic framework of a Turkish state university. MBG is one of the leading national centres of research in molecular biology and human molecular genetics with a tradition in genetic research on inherited human disorders. MBG today is a major contributor in this field, both at the level of basic research and as a developer / provider for clinical diagnostic testing. In the last ten years MBG has extended the scope of its research topics to include the immunology, developmental neuroscience, and cancer research, providing an opportunity for functional studies on disease mechanisms. Because of its academic setting within one of the nations highest-ranking educational institution, MBG contributes to the education and training of excellent young scientists in the field of molecular biology, biotechnology and clinical genetics. All members of MBG maintain active research programs predominantly oriented towards molecular and developmental neuroscience, cancer genetics, immunology, plant biotechnology and biodiversity, including their health-related aspects. Despite the fact that MBG has demonstrated its potential to make significant contributions to basic and applied aspects of biomedical research in the past, its complete unfolding into a true internationally renown and competitive centre of excellence was severely compromised by:
+
+• The lack of permanent research partnerships with international research centers,
+• Its limited exposure to scientific exchange,
+• Its lack of coordinated and strategic focussing of research directions,
+• Its inability to prevent excellent early career scientists from orienting elsewhere , and
+• Its lack of important technical and scientific capacities on site.
+
+MBG-BRIDGE targeted these weaknesses and threats by expanding and strategically developing technical, human, and intellectual resources, by streamlining the scope of MBG’s research orientation, and by developing long-term collaborations with international research partners. The long-term goal of MBG is to emerge as a national leader and internationally renown centre of competence in modern and advanced fields of molecular biology and genetic research. BRIDGE stands as an acronym for three scientific disciplines, including their basic, applied and clinical aspects, in which MBG has the potential to attain critical mass and make significant contributions: Brain Research, Immunology, and Disease Genetics. MBG-BRIDGE aims to foster interactions in these fields and to facilitate the development of new research programs that include functional studies in vivo and in vitro through the use and development of animal and cell culture models for genetic disorders.
+
+MBG-BRIDGE addresses these needs through a coherent action plan that includes the following objectives:
+
+O1 – Development of strategic partnerships with leading ERA research institutions.
+O2 – Development of human resources.
+O3 – Increasing mobility of researchers.
+O4 – Development of research infrastructures.
+O5 – Focusing of research orientation.
+O6 – Facilitation of communication between researchers.
+O7 – Increasing MBG visibility.
+
+O1 – Development of strategic partnerships with leading ERA research institutions
+
+MBG aims to overcome scientific isolation and lack of technological expertise through the development of strategic partnerships with leading European research institutions. These research partnerships will enable the mutual exchange of technical and scientific know-how by exchanging researchers between the partner institutions and MBG. Scientists from partner institutions will be able to assess, evaluate, and advise on research directions at MBG. Three platforms were established by MBG-BRIDGE to enable scientific interactions between MBG and potential partners: the seminar series “Advances in Molecular Biology”, the workshop program “Istanbul: Ideas and Initiatives, and a two-way mobility program for the exchange of researchers between MBG and partner institutions. An international scientific Advisory Board constituted from members of partner institutions assisted MBG-BRIDGE in the coordination of these activities and helped to increase their impact on the development of MBG’s research potential. A routinely organized seminar series, Advances in Molecular Biology, aims to overcome regional isolation and to advertise MBG and its research potential at local and international levels. Leading scientists from European research institutions will be hosted at MBG to engage in scientific communication and to inform MBG scientists about recent developments in relevant scientific fields. Five strategic workshops organized on MBG’s primary research focuses (Neuroscience, Human Genetics, Cancer Biology and Immunology) allowed for the exploration and initiation of collaborations between MBG scientists and the establishment of new research partnerships between MBG and European research institutions.
+
+A mobility program allowed a large number of MBG scientists to spend extended time at host laboratories of partner institutions to gain new technical expertise, to learn about organizational structures of technological core facilities and their management and to initiate or intensify collaborations with partner institutions.
+
+O2 – Development of human resources
+
+MBG developed its human resources through the strategic recruitment of four experienced researchers who brought new and previously unavailable technological and scientific expertise to MBG. The newly recruited personnel transferred scientific know-how and technical expertise in genome analysis with a focus on next generation technologies and bioinformatic analysis, in cell biology, with a focus on analysis of phenotypes and experimental parameters in in vitro systems, in functional analysis with focus on gene expression and protein-protein interaction analysis, in advanced bioimaging, and in the generation of in vivo models of genetic diseases.
+
+MBG scientists and recruited personnel received training at technical and scientific training centers, in partner laboratories and through in-house workshops to extend their level of expertise and practical abilities for the better exploitation of emerging and critical technologies in their research programs.
+
+O3 – Increasing mobility of researchers
+
+MBG researchers and scientists from partner institutions engaged in mutual visits and extended visits at the respective site to transfer unavailable technologies and scientific know-how to MBG with an emphasis on strengthening MBG’s research potential in four strategic research fields (neuroscience, disease genetics, immunology, and cancer biology). The exchange of scientific personnel between MBG and partner institutions also aimed at gaining better expertise in the organization and management of technological core facilities and their efficient implementation and exploitation in MBG research.
+
+O4 – Development of research infrastructure
+
+MBG upgraded its research infrastructure through the purchases of two critical equipments for bioimaging and genome analysis that allowed MBG to enter new research directions that were previously unavailable. Installation of a confocal microscope allowed MBG to perform analysis of gene and protein expression and dynamic imaging in vivo and in vitro. Installation of a genome analyzer increased MBG’s ability to study gene expression and disease genotypes in a cost- and time-efficient manner. Newly acquired instrumentation as well as existing equipment was integrated into three central technological core facilities (ABC cores), which provide a technical and intellectual framework for studies that require DNA analysis, bioimaging, or in vitro work. The facilities are expert-supervised and provide guidance and technical training to MBG scientists in these technologies.
+
+O5 – Focusing of research orientation
+
+MBG made an attempt to focus its research orientation onto three prioritized research fields in which it posses a strong intellectual background, could attain sufficient critical mass and technical expertise, and which are relevant research fields in modern molecular biology. Research focus was set on neuroscience, especially developmental aspects, human genetics, especially the genetics of inherited human disorders, and cancer / immunology. Additional strength within these disciplines was created through the organization of strategic workshops on each field and through pointed short-term scientific missions (secondments) to partner institutions. Synergies between the research fields emerged through novel approaches and research project aiming at cross-disciplinary research.
+
+O6 – Facilitation of communication between researchers
+
+MBG-BRIDGE contributed to communication of researchers on a local and international level through the communication platforms: seminar, workshops, and secondment. First-hand exchange of scientific information is a key requirement for successful science and research development. Increased communication between MBG and outside scientist should be beneficial for MBG research in the sense that scientific results can be obtained faster and of higher quality level.
+
+O7 – Increasing MBG visibility
+
+Through the implementation of project activities, such as workshops, seminars, secondments, public events and through facilitated communication, MBG will become more visible at the national and international level. MBG scientists had a chance to convince potential international collaboration partners of its research potential and its value in joint research projects. In addition, MBG-BRIDGE communicated its potential and difficulties in the current research situation to local and national government bodies, policy makers, and funding agencies.
+
+Project Results:
+
+1. MBG-BRIDGE results in brief
+
+All major objectives of MBG-BRIDGE have been achieved: human, technical and intellectual resources have been developed. MBG scientists connected with a large segment of the international research community and have established strong collaborative ties with partner institutions. Bogazici University and MBG have become widely known within the community and new research project have been formulated. The achievements with respect to the projects objectives can be summarized as follows:
+
+Development of human resources
+
+Four experienced researchers have been recruited during the project period, three of which continue to be employed at MBG either as permanent faculty and research group leader (2 researchers), or as a research associate funded through a FP7 People Brain Circulation instrument (1 researcher). The recruited researchers transferred new expertise in genome analysis, bioinformatics, bioimaging, cell biology and cancer biology to MBG and disseminated their respective expertise through their involvement with technical core facilities (ABC cores) and internal research collaborations. MBG scientists were exposed to numerous training facilities through scientific workshops at MBG, technical workshops at international training centers, technical workshops on site, training of facility users and through short-term scientific missions at partner institutions.
+
+Increasing mobility of researchers
+
+In total, 27 scientists moved between MBG and 22 international research centers for short-term scientific missions or training purposes. Of those 17 MBG scientists spent a combined 20 months in host laboratories outside Turkey and 6 scientists from European research centers visited MBG for a combined duration of 3 months. An additional 4 researchers received training at international scientific training centers in the form of special topic courses on next-generation sequencing, melanoma cell biology, or zebrafish and drosophila genetics and genomics. The secondment and training activities contributed to the transfer of scientific knowledge and the transfer and establishment of new technologies and research approaches in the disciplines of genome analysis, bioinformatics, laboratory animal models of disease, plant biotechnology, and fluorescent-assisted cell analysis.
+
+Development of research infrastructures
+
+New technological resource centers have been established at MBG that provide new or improved technical research capabilities. Core facilities have been established for DNA/Sequence and bioinformatic analysis (A-core), Bioimaging (B-core) and Cell Biology / in vitro capabilities (C-core). Two core facilities were organized around critical new equipment, such as a Laser-scanning confocal microscope and a Genome Analyzer, that has been purchased with EC funding. The core facilities provide basic research service and intensive technological training to MBG scientists and enhance the standards and the quality of scientific research at MBG.
+
+Focusing of research orientation
+
+An attempt has been made to strengthen MBG’s research in neuroscience, cancer / immunology, and disease genetics through strategic recruiting, scientific workshops, and fostering internal and international collaborations. Some critical mass of researchers in these fields has been achieved and collaborations between disciplines have increased. However, further condensation of research efforts is still possible.
+
+Facilitation of communication between researchers
+
+MBG-BRIDGE provided three several communication platforms that allowed MBG researchers to interact with scientists from 47 international research institutions in the form of seminars (23 seminars), scientific workshops (5 workshops), and secondments (23 incoming and outgoing secondments). The five MBG workshops on neuroscience, immunology, disease genetics and genome biology had more than 1.000 registered participants allowing a much wider scientific community to benefit from MBG-BRIDGE activities.
+
+Development of strategic partnerships with EU research institutions
+
+MBG scientists interacted with 47 international research institutions, some of which have become closer and ongoing collaboration partners. Strong ties have been achieved partnering research groups at the Vlanders Institute of Biotechnology (VIB), the Georg-August University in Göttingen, The Swiss Institute for Asthma and Allergy Research (SIAF), the University of Antwerp, the KU Leuven and IGV. Researchers from these institutions are engaged in collaboration projects at eye level.
+
+Increasing MBG visibility.
+
+The combination of the above measures (workshops, seminars, secondments, public events) greatly contributed to a much wider recognition of MBG as a research center on national and international levels. Through scientific interactions, MBG scientists could convince outside collaboration partners of their high research potential and quality of research. Public events, including project kick-off and closure, and associated media presence generated awareness of MBG among the general public and national and regional authorities.
+
+2. MBG-BRIDGE results by workpackages
+
+WP1 – Management
+
+Included tasks:
+
+T1.1 – Project monitoring
+T1.2 – Executive committee (BRIDGE-EC)
+T1.3 – Steering committee
+T1.4 – International scientific Advisory Board
+T1.5 – Reporting
+T1.6 – Management of Ethical Issues
+T1.7 – Installation of the FP7-BRIDGE office (PR/ADMIN)
+
+Included deliverables:
+
+D1.1 – Report on FP7-BRIDGE office installation (month 3)
+D1.2 – Report Kick-off meeting (month 2)
+D1.3 – Report on Ethical Issues (month 15, 33)
+D1.4 – Report on the outcome of Steering committee meetings (month 6, 12, 18, 24, 30, 36, 48)
+D1.5 – Report on the outcome of Advisory board meetings (month 12, 24, 36, 48)
+
+Summary of achievements and significant results in WP 1
+
+7 / 7 Tasks completed 100 %
+15 / 15 Deliverables submitted 100 %
+
+• BRIDGE office installed and project tasks efficiently distributed
+• Kick-off meeting organized and high level of visibility achieved
+• Steering committee engaged and tasks distributed
+• Scientific Advisory board engaged
+• Project tasks and scientific needs efficiently communicated to relevant authorities
+• New Ethical guidelines formulated and monitored
+• Necessary financial administration procedures established and implemented
+• Project reports and deliverables reported timely
+• Strategic guidelines for continuing development of MBG formulated
+• Research potential of MBG successfully communicated to local administration,
+funding agencies, scientific community, and general public
+
+The majority of activities performed in WP1 were strictly administrative and relevant to planning, organization, and management of project events and tasks, such as internal communication, communication with the EC, financial management and reporting. Of the included tasks, four tasks produced valuable foreground and are discussed in more detail below:
+
+Kick-off meeting
+
+A formal project kick-off event was organized over three days, between February 15 – 17, 2010, to address, inform, and guide project stakeholders, including the project management body, the general public, the scientific community, the local biotech industry, the administration of Bogazici University, the Steering committee and the international Scientific Advisory board. The kick off event marked the constitutive meetings of the enlarged Steering committee and the Scientific Advisory board to familiarize them with project objectives, to organize task distributions and to receive ex-ante feedback on planned project activities and their realization. The kick-off event included the start of the projects official scientific seminar series (Advances in Molecular Biology), which created wide visibility of the project among the local scientific community. A formal opening ceremony was held under the auspices of the Minister for EU affairs, Egemen Bağış, generating wider public recognition of the project through national media coverage. Therefore, the Kick-off event contributed significantly to visibility of the project and its goals, but it also contributed to visibility of MBG and Bogazici University among the scientific community, as well as local and national authorities, such as funding agencies and government institutions and the general public at the beginning of the project.
+
+Management of Ethical Issues
+
+Although, largely an administrative task, the necessity to monitor ethical issues with respect to the use of equipment funded by the project, required the establishment of Ethical guidelines and monitoring procedures in alignment with EU regulation that were not previously implemented at MBG. New ethical, technical, and safety guidelines were also developed for biosafety level II laboratories in accordance with international standards (C-core) and new administrative procedures for monitoring of ethical issues for the use of biological samples and research protocols were created along EC ethical issues tables. Thus project participation positively impacted internal policies and resulted in compliance with contemporary guidelines.
+
+Scientific Advisory board
+
+The appointment of an external body of scientific advisors to MBG was an entirely new policy and directly related to execution of the project. MBG-BRIDGE was able to recruit a board of four dedicated and expert scientists from the KU Leuven, BE (Bassem Hassan, developmental neuroscience), the Babraham Institute, UK (Michael Coleman, neuronal degeneration and disease), the Swiss Institute for Asthma and Allergy Research, CH (Cezmi Akdis, Immunology) and the University of Antwerp, BE (Vincent Timmerman, hereditary disease and animal models), in line with research fields in which MBG-BRIDGE wanted to generate concentration at MBG. The SAB members brought both their scientific and organizational expertise in managing research centers to MBG. In the course of the project the SAB has been a rich source of constructive criticism as well as organizational and scientific advise. The SAB has participated in the organization of MBG-BRIDGE events (such as workshops, seminars and secondments), has introduced new contacts to MBG, and assisted in identifying the most relevant collaboration partners. SAB members critically reviewed the research of MBG scientists and discussed their impressions and recommendations in detail. MBG values these new benefits and will nominate a similar board with similar responsibility as a standing SAB beyond the duration of MBG-BRIDGE.
+
+Steering Committee
+
+MBG-BRIDGE kept close ties with relevant local authorities and institutions by appointing them to an extended Steering Committee. Members were recruited from the local administration of Bogazici University, initially the governmental State Planning Organization, SMEs and non-profit, non-governmental organizations, such as EMBO and ERC. Engagement in the board kept the representatives abreast of MBG’s needs for further development and structural and infrastructural changes, some of which could be realized, such as provision of additional research space.
+
+Added value
+
+MBG has significantly benefited from implementing project management procedures and policies that will remain relevant beyond execution of the project. In particular, financial administration and monitoring of ethical and safety guidelines have created important instruments at MBG and Bogazici University. Through a learning experience, MBG-BRIDGE and Bogazici University have collected valuable experience for further and smoother participation in EC-funded projects. A number of financial instruments and policies had to be established due to prior limited experience. The active and regular involvement of SAB members in MBG activities and their close look into MBG research have contributed to establishments of lasting research partnerships, manifested by ongoing and funded research projects, between the institutions.
+
+WP2 – Upgrading and Restructuring of Research Equipment
+
+Included tasks:
+
+T2.1 – Acquisition of a Confocal Microscope
+T2.2 – Acquisition of a Genome Analyzer
+T2.3 – Calibration and optimization of research equipment
+T2.4 – Implementation of an Analytical core facility (A-core)
+T2.5 – Implementation of a Bioimaging core facility (B-core)
+T2.6 – Implementation of a Cell Biology core facility (C-core)
+
+Included deliverables:
+
+D2.1 – Report on Confocal Microscope purchasing, installation and calibration (month 6)
+D2.2 – Report on Genome Analyzer purchasing, installation and calibration (month 6)
+D2.3 – Report on implementation of A core (month 12)
+D2.4 – Report on implementation of B core (month 18)
+D2.5 – Report on implementation of C core (month 12)
+
+Summary of achievements and significant results in WP 2
+
+6 / 6 Tasks completed 100%
+5 / 5 Deliverables submitted 100%
+
+• Procurement, installation and calibration of a Confocal Microscope System
+• Upgrade of a 405 nm laser on the Laser-scanning Confocal Microscope System
+• Procurement, installation and calibration of a Genome Analyzer platform
+• Establishment of a core facility for DNA / sequence analysis (A-core):
+• Integration of Genome Analyzer and supporting technical equipment
+• Integration of a bioinformatics platform
+• Expert-supervised training of facility users and scientific guidance
+• Initiation of the Turkish Reference Genome project
+• Establishment of a Genome Server platform (http://turkiyegenomprojesi.boun.edu.tr/)
+• Establishement of a core facility for bioimaging (B-core):
+• Integration of optical and histology equipment
+• Expert-supervised training of facility users and scientific guidance
+• Enhanced bioimaging capabilities and development of novel technical approaches
+• Establishment of a core facility for Cell Biology (C-core):
+• Extended technical capabilities
+• Expert-supervised training of facility users and scientific guidance
+• Implementation of biosafety level II guidelines
+• Implementation of Ethical guidelines in Biological Research
+
+The overall objective of WP2 was to establish three expert-supervised technological resource centres to provide state of the art research equipment and practical guidance to MBG scientists, including instrument training and assistance on experimental design and analysis. Three technical core facilities (ABC cores) for DNA / sequence analysis (A-core), microscopic analysis of biological samples (B-core), and for in vitro experimentation (C-core) were constructed. Relevant, existing equipment was bundled and integrated into the new facilities. For two facilities (A-core, B-core) new infrastructure components (confocal microscope, genome analyzer) were procured, installed and calibrated. The facilities are managed by scientific experts, including the experienced researchers recruited in WP 3, to maintain integrity of the equipment, to organize workflow within the facility, to organize user schedules, to train MBG scientists in the use of the equipment and to provide guidance on experimental design, execution and analysis. All core facilities are functional and frequently used.
+
+Implementation of an Analytical core facility (A-core)
+
+A new core facility for analysis of DNA samples and sophisticated sequence analysis has been established through project funding and complementary funding obtained from the Bogazici University Scientific Research Program (BAP). The new facility is based on a Beckman GeXP Genome analyzer for DNA sequencing, fragment analysis, SNP analysis and expression analysis (acquired through EC funding) and a bioinformatics cluster for in silico analysis of large data sets (acquired through BAP). The facility was implemented into a newly designed research space of 15m2 within MBG and is equipped with necessary instrumentation for sample preparation and storage, and provides online access to sequence results and specialized software for data analysis on the server cluster. Major considerations for the planning of the facility included the provision of a research facility with high technological standard on site, the provision of a technical and intellectual environment for genome analysis, the independence from commercial service providers, the provision of efficient turn-over times and generation of fast results, optimization of cost efficiency, and the provision of technical protocols and training of users.
+
+The facility is operational since 04/2011 and is administered by Dr. Müge Türet (MBG) and Dr. Cemalettin Bekpen, an experienced researcher recruited through WP 3, who brought his profound experience in analysis of genome data and large data sets to MBG. The availability of an automated, fast, and efficient system on site lifted the dependency of MBG research groups from commercial service providers resulting in timely service and cost-efficiency of the procedure. The ability of the system to perform different types of fragment analysis (such as AFLP, STR, MLPA and SNP) and quantitative gene expression analysis of up to 5700 genes concurrently is beneficial for MBG research laboratories that usually process large numbers of samples. The A-core routinely provides sequencing and DNA analysis service, provides training to MBG research staff and guidance during offline analysis of samples. Between 04/2011 and 06/2013 a total of 1.532 samples were processed on 54 service days. In-house sequencing by the facility provides distinct advantages over commercial options through significantly faster turnover times (24 h compared to 7 days) and the ability to customize of sample and analysis conditions. Additional benefit comes from the ability to optimize and to troubleshoot custom routines for difficult or unique samples. Bioinformatic service was previously unavailable at MBG due to lacking technical equipment and intellectual resources. The generation of the facility successfully generated this expertise and allows for efficient exploitation and analysis of next-generation sequencing approaches, which were a major revolution in gene expression analysis during the last five years. Several MBG scientists have successfully made use of these new opportunities and exploit next-generation sequencing in their research programs, largely independently and routinely.
+
+The A-core was instrumental in the realization of the Turkish Genome project by an international team of scientists led by the facility manager and recruited researcher Dr. Cemalettin Bekpen. The facility provided the necessary bioinformatics infrastructure for the project during which the full genomes of 17 individuals of Turkish origin were sequenced and analyzed and handled the validation of genome and SNP data. The Turkish Genome project provides important genetic background data on SNP distribution within the Turkish population, which are relevant for the identification of disease causing mutations and development of personalized medicine. The data and additional information are publicly available under: http://turkiyegenomprojesi.boun.edu.tr
+
+Implementation of a Bioimaging core facility (B-core)
+
+A new core facility for standard and advanced microscopy analysis of biological samples was established by restructuring existing optical equipment and acquisition of a LEICA SP5-AOBS confocal microscope through project funds. An in depth comparison of available confocal microscope systems was performed prior to purchase with special emphasis on value for money, user friendliness, technical performance, technical specifications, and versatility. After a laser upgrade during project period 2, the laser-scanning confocal microscope is now equipped with 405, 458, 476, 488, 518, 523, 543, and 633 nm laser lines, an accusto-optical beamsplitter and three detectors for multiplex imaging. 32m2 of new space were allocated to the establishment of the facility and the confocal microscope system was installed within the facility after construction work ended in 10/2010. The facility is equipped with the LEICA SP5-AOBS confocal microscopy system, a ZEISS Axioscope 2 fluorescent microscope, a LEICA MZ-FL16 fluorescent stereomicroscope, several small preparation microscopes and dedicated image processing computers and software. The microscopy section of the unit is separated from an adjacent histology section, which comprises a LEICE CM3050S cryostat, a Campden vibrosclicer, benchtop stereomicroscopes, and histological staining equipment for preparation of microscopic samples and gene and protein expression analysis (in situ hybridization, immunohistochemistry). The microscopy system allows for simultaneous multi-channel fluorescent imaging, three dimensional reconstruction of tissue samples, spectral unmixing and dye separation, fluorescent resonant energy transfer (FRET) assays, fluorescence recovery after photobleaching (FRAP), laser ablation, light-induced dye conversion, and photostimulation of photo-switchable GFP variants.
+
+The facility is operational since 11/2010 and administered by Dr. Stefan H. Fuss and Dr. Stefan A. Koestler, an experienced researcher, who has been recruited through WP 3. The facility managers oversee the maintenance of instruments and their proper use, schedule the availability of the equipment and provide training and scientific advise to facility users. During the course of the project, 42 MBG scientists from 10 (out of 14) MBG research groups have been intensively and individually trained in confocal microscopy. A typical training session lasts 10 – 16 hours, depending on the prior experience of the scientist. During training sessions general principles of confocal microscopy are discussed and followed by technical instruction on the microscope itself. In an independent session guidance on the specific user sample is provided and imaging routines are optimized. Typical samples include histological tissue sections, whole mount zebrafish larva, preparations of zebrafish and Drosophila brains and live or fixed cultured cells. The confocal microscope is heavily used with a 78% occupancy based on an 8 h/day, 5 days/week calculation and has been utilized for 3.360h between 11/2010 and 06/2013. The installation of the confocal microscope and reorganization of the facility had a strong impact on research capabilities of MBG. New scientific approaches based on optical methods have been developed and included into MBG research programs. Currently, plans for further extension of the facility are developed, including enhanced live cell imaging capabilities to broaden the range of applications.
+
+Implementation of a Cell Biology core facility (C-core)
+
+MBG-BRIDGE project funding enabled leverage for construction of an extended core facility for in vitro cell culture work and implementation of updated security and biosafety guidelines for use of cultured cells, according to US Center for Disease Control and Prevention (CDC) and the EU Council Directive 90/679/EEC of 26/11/90 on the protection of workers from risks related to exposure to biological agents at work, OJ No. L 374. New research space of 32m2 was made available and restructured into a state of the art biosafety level II cell culture facility equipped with three laminar flow hoods, 6 cell culture incubators, small microscopy equipment, and equipment for fluorescent-assisted cell sorting.
+
+The facility is operational since 01/2011 and is administered by Dr. Sahru Yüksel and Dr. Ibrahim Yaman, an experienced researcher recruited through WP 3. The team oversees usage of the facility and provides routine training to MBG scientists including biosafety training and application support. The facility is continuously used by 8 (out of 14) MBG research groups and is in close proximity to B- and A-cores. A mini workshop on fluorescence-assisted cell sorting was organized by the C-core in 11/2011.
+
+Added value WP2
+
+The established three core facilities increased the scientific standards at MBG and allow MBG researchers to generate high quality scientific results. In particular the new microscopy equipment and bioinformatics capabilities allowed MBG researchers to devise new research programs based on technology that was previously unavailable. Research at MBG is largely dependent on PhD and MSc students and experienced postdocs are the exception. The facilities provide better training of research staff and young scientists, assure compliance with biosafety and ethical guidelines in conduct of research and enable MBG scientists to obtain higher quality scientific results.
+
+As of the date of this report, the following publications have been generated as a direct result of WP2:
+
+Whole genome sequencing of 16 Turkish genomes reveals functional private alleles and impact of genetic interactions with Europe, Asia and Africa. Can Alkan, Pınar Kavak, Mehmet Somel, Omer Gokcumen, Serkan Uğurlu, Elif Dal, Kuyaş Buğra-Bilge, Tunga Güngör, S. Cenk Sahinalp, Nesrin Özören, Cemalettin Bekpen, (Under revision at BMC Genomics)
+
+A polymorphism in IRF4 affects human pigmentation through a tyrosinase-dependent MITF/TFAP2A pathway. Praetorius C, Grill C, Stacey SN, Metcalf AM, Gorkin DU, Robinson KC, Van Otterloo E, Kim RS, Bergsteinsdottir K, Ogmundsdottir MH, Magnusdottir E, Mishra PJ, Davis SR, Guo T, Zaidi MR, Helgason AS, Sigurdsson MI, Meltzer PS, Merlino G, Petit V, Larue L, Loftus SK, Adams DR, Sobhiafshar U, Emre NC, Pavan WJ, Cornell R, Smith AG, McCallion AS, Fisher DE, Stefansson K, Sturm RA, Steingrimsson E.
+
+SIK2 Is Involved in the Negative Modulation of Insulin-Dependent Muller Cell Survival and implicated in Hyperglycemia Induced Cell Death. Kuser-Abali G, Ozcan F, Ugurlu A, Uysal A, Fuss SH, Bugra-Bilge K. Invest Ophthalmol Vis Sci. 2013 Apr 18. doi:pii: iovs.12-10729v1. 10.1167/iovs.12-10729.
+
+Feedback from rhodopsin controls rhodopsin exclusion in Drosophila photoreceptors. Vasiliauskas D, Mazzoni EO, Sprecher SG, Brodetskiy K, Johnston RJ Jr, Lidder P, Vogt N, Celik A, Desplan C. Nature. 2011 Oct 9;479(7371):108-12.
+
+Binary cell fate decisions and fate transformation in the Drosophila larval eye. Mishra AK, Tsachaki M, Rister J, Ng J, Celik A, Sprecher SG. PLoS Genet. 2013 Dec;9(12):e1004027.
+
+Primate segmental duplication creates novel promoters for the LRRC37 gene family within the 17q21.31 inversion polymorphism region. Bekpen C, Tastekin I, Siswara P, Akdis CA, Eichler EE. Genome Res. 2012 Jun;22(6):1050-8.
+
+Temporal patterning of Drosophila medulla neuroblasts controls neural fates. Li X, Erclik T, Bertet C, Chen Z, Voutev R, Venkatesh S, Morante J, Celik A, Desplan C. Nature. 2013 Jun 27;498(7455):456-62. doi: 10.1038/nature12319.
+
+T-cell and antibody responses to phospholipase A2 from different species show distinct cross-reactivity patterns. Sin BA, Akdis M, Zumkehr J, Bezzine S, Bekpen C, Lambeau G, Akdis CA. Allergy. 2011 Dec;66(12):1513-21.
+
+Novel NLRP3/cryopyrin mutations and pro-inflammatory cytokine profiles in Behcet's syndrome patients. Yüksel S, Eren E, Hatemi G, Sahillioglu AC, Gültekin Y, Demiröz D, Akdis C, Fresko I, Ozören N. Int Immunol. 2013 Oct 17.
+
+Genome-wide copy number variation in sporadic amyotrophic lateral sclerosis in the Turkish population: deletion of EPHA3 is a possible protective factor. Uyan Ö, Ömür Ö, Ağım ZS, Özoğuz A, Li H, Parman Y, Deymeer F, Oflazer P, Koç F, Tan E, Özçelik H, Başak AN.
+
+MENA is a transcriptional target of the Wnt/beta-catenin pathway. Najafov A, Seker T, Even I, Hoxhaj G, Selvi O, Ozel DE, Koman A, Birgül-İyison N. PLoS One. 2012;7(5):e37013. doi: 10.1371/journal.pone.0037013
+
+As of the date of this report, the following patent applications have been made as a direct result of WP2:
+
+Pub. No.: WO/2013/160807, International Application No.: PCT/IB2013/053079, International Filing Date: 18.04.2013, IPC:A61K 47/48 (2006.01)
+
+Applicants: SAHILLIOGLU, Ali Can; OZOREN, Nesrin, Inventors: SAHILLIOGLU, Ali Can; OZOREN, Nesrin;
+
+Agent: ANKARA PATENT BUREAU LIMITED; Bestekar Sokak No: 10 Kavaklidere 06680 Ankara (TR)
+
+Priority Data: 2012/04773 24.04.2012
+
+Title: A METHOD FOR ANTIGEN DELIVERY
+
+WP3 – Recruitment of Experienced Researchers
+
+Included tasks:
+
+T3.1 – Recruitment process
+T3.2 – recruitment of experienced researcher: Genome Analysis
+T3.3 – recruitment of experienced researcher: Cell Biology
+T3.4 – recruitment of experienced researcher: Functional Analysis
+T3.5 – recruitment of experienced researcher: Disease Model
+
+Included deliverables:
+
+D3.1 – Report on recruitment of experienced researchers (month 6)
+
+Summary of achievements and significant results in WP 3
+
+5 / 5 Tasks completed 100%
+1 / 1 Deliverables submitted 100%
+
+• Researcher with expertise in Genome Analysis recruited
+• Researcher with expertise in Cell Biology recruited
+• Researcher with expertise in Functional Analysis recruited
+• Researcher with expertise in Cell Biology and Bioimaging recruited
+
+A total of four experienced scientists have been recruited to MBG who were able to bring new and previously unavailable expertise and technological know-how to MBG’s research programs. A strategic search was performed with 3 repeated advertisements in the scientific weekly journal Nature in 12/2009 and 01/2010, also contributing to visibility and dissemination of the project. MBG-BRIDGE advertised positions for faculty-level researchers with expertise in Genome Analysis / Bioinformatics, Cell Biology, including cutting edge gene silencing or screening approaches, for functional analysis, including advanced methods such as FRET to understand interactions of proteins and for a researcher with expertise in manipulation of the mouse genome.
+The following researchers were recruited:
+
+# Name recruited from period expertise project contribution
+1 Dr. Cemalettin Bekpen Washington University,Genome Science lab, Seattle, USA 04 / 2010 - 05 / 2013 Genome Analysis, Bioinformatics A-core management / training
+WS: Turkish Genome Project,
+Partnership: SIAF, Davos, CH,
+Genome server,
+Bioinfoamtic support
+2 Dr. Ibrahim Yaman TÜBITAK MAM,Food Science Institute,Gebze, TR 05 / 2010 - 05 / 2013 Cell Biology, Gene-expression analysis C-core management / training
+WS: Immunology / Cancer
+3 Dr. N.C. Tolga Emre NIH / NCI, Staudt lab, Bethesda, USA 01 / 2011 - 05 / 2013 Functional Analysis, Epigenetics WS: Immunology / Cancer
+
+4 Dr. Stefan A. Koestler University of Bonn, Rottner lab, Bonn, DE 05 / 2012 - 11 / 2012 Bioimaging, Cell Biology B-core management / training
+
+Three of the four recruited researchers have established working research groups in their respective field of expertise and were able to employ scientific personnel to conduct active research. The establishment of three new research groups, specialized on Human Genome Science (Bekpen), Cancer Biology and Epigenetics (Emre) and Molecular Toxicology / Gene expression (Yaman), transferred new technical and scientific expertise to MBG, which was disseminated through technical training, methodological lectures, workshops, and hands-on assistance during performance and evaluation of scientific experiments. One recruited researcher (Koestler) was employed as research associate to the Drosophila Neurogenetics research group and transferred new and complementary know-how to MBG, which is disseminated to MBG scientists through hands-on training in bioimaging (B-core). Three recruited researchers (Bekpen, Yaman, Koestler) are critically involved with the management and operation of three established technological core facilities (A-core, B-core, C-core) and provide service and / or technical instruction to MBG scientists through these facilities.
+
+Recruited researchers participated in the scientific and practical organization of international workshops at MBG (Task 4.2 – Establishing mutual scientific interactions with European research institutions, Task 5.5 – Information day / public lectures). All recruited researchers were able to secure appropriate research funding during the reporting period; Emre: Marie-Curie reintegration grant, EMBO-SDID; Bogaziçi University Scientific Research Fund (BAP); Yaman: Tübitak 1001, EMBO-SDIG, Bogaziçi University Scientific Research Fund (BAP); Bekpen: Tübitak 1001, Bogaziçi University Scientific Research Fund (BAP); Koestler: Marie-Curie / Tübitak Brain Co-circulation funds.
+
+Collaborative research projects between recruited researchers and MBG research groups and outside partner institutions were initiated and are ongoing. Dr. Bekpen conducted the Turkish Genome Project (detailed under Task 5.5 – Information day / public lecture) in local and international collaboration and with additional funding from Bogaziçi University Scientific Research Fund (BAP). A manuscript on the results of this collaboration has been submitted to an appropriate scientific journal and is currently under revision. Dr. Bekpen, intensively collaborated with the partner Institution SIAF, Davos, Switzerland and has published two scientific articles resulting from this collaboration, while additional manuscripts are at different stages of completion.
+
+It should be noted that the original workplan had foreseen the recruitment of a researcher with experience in manipulating the mouse genome with respect to the development of animal models of human disease. However, MBG-BRIDGE was unable to recruit such a researcher for various reasons. Only one researcher with the required experience applied for the position but could not be recruited. The animal facility, at the time of recruiting, was not fully functional. In the best interest of the project MBG-BRIDGE decided to recruit a researcher with experience in confocal microscopy to support the build-up of capacity at the B-core.
+
+WP4 – Strategic Partnership Development
+
+Included tasks:
+
+T4.1 – Establishing general connections with the European Research Community
+T4.2 – Establishing mutual scientific interactions with European research institutions
+T4.3 – Training of research staff
+T4.4 – Two-way trans-national secondments
+
+Included deliverables:
+
+D4.1 – Seminar reports (month 6, 12, 18, 24, 30, 36, 42)
+D4.2 – Report on Workshop Human Genetic Disease (month 9)
+D4.3 – Report on Workshop Neuronal Differentiation (month 14)
+D4.4 – Report on Workshop Cancer / Immunology (month 21)
+D4.5 – Training reports (month 12, 18, 24)
+D4.6 – Report on Secondments (month 6, 12, 18, 24, 30, 36, 42)
+D4.7 – Report on service activities provided by Dr. Bassem Hassan (month 42)
+
+Summary of achievements and significant results in WP 4
+
+4 / 4 Tasks completed 100%
+21 / 21 Deliverables submitted 100%
+
+• 23 seminars by invited international scientists hosted
+• 5 training activities performed
+• 5 scientific workshops organized
+• Genetics of neurological disorder
+• Advances in Immunology and Cancer Biology
+• Development and Function of the Nervous System - I
+• Development and Function of the Nervous System – II
+• First steps towards personal genomes and personalized medicine
+• 6 incoming secondments
+• 17 outgoing secondments
+
+MBG-BRIDGE provided three communication platforms that allowed MBG scientists and members of the local scientific community to interact with scientists from 47 international research institutions in the form of seminars (23 seminars), scientific workshops (5 workshops), and secondments (23 incoming and outgoing secondments). More than 1.000 participants attended the workshop activities combined allowing for communication among a large scientific audience beyond MBG proper.
+
+Seminars
+
+MBG-BRIDGE organized 23 public scientific seminars by outstanding European scientists on a variety of research topics, mainly focusing on neuroscience, immunology, cancer biology, and disease processes:
+
+# date Speaker Institution topic
+
+1 02 / 2010 Michael Coleman Babraham Institute UK Axon degeneration
+2 02 / 2010 Cezmi Akdis SIAF CH T-cell specification
+3 02 / 2010 Mübeccel Akdis SIAF CH Allergy
+4 03 / 2010 Asa Fex Svenningsen U. South. Denmark DK Schwann cell development
+5 11 / 2010 Adriano Aguzzi University of Zurich CH Prion disease
+6 09 / 2010 Astrid Limb UCL, London UK Müller glia development
+7 10 / 2010 Uwe Straehle KIT DE EUFishBioMed, Zebrafish Resource Center
+8 12 / 2010 Bassem Hassan VIB Leuven BE Drosophila eye development
+9 05 / 2011 Martin Raff UCL, London UK Autism
+10 05 / 2011 Sigrun Korsching U. Of Cologne DE Olfactory system development
+11 10 / 2011 Frederic Saudou Inst. Curie, Paris FR Huntington disease, fly models
+12 11 / 2011 Nektarios Tavernarakis University of Crete GR Neurodegeneration, necrosis, apoptosis
+13 11 / 2011 Seamus Martin Trinity College IR Cell death, apoptosis
+14 05 / 2012 Roger Patient University of Oxford UK Hematopoiesis
+15 06 / 2012 Albena Jordanova VIB Antwerp BE Peripheral neurodgeneration
+16 06 / 2012 Paola Bovolenta University of Madrid ES Eye development
+17 07 / 2012 David Hicks University of Strasbourg FR Retina devlopment, molecular clock
+18 09 / 2012 Erez Raz University of Münster DE Zebrafish germ cell devlopment
+19 09 / 2012 Christian Klaembt University of Münster DE Neuron glia interaction
+20 10 / 2012 Peter Mombaerts MPI Frankfurt DE Olfactory system development
+21 11 / 2012 Jean-Marc Fritschy University of Zurich CH GABAergic synapse plasticity
+22 03 / 2013 Maria Leptin EMBO DE Complex cell shape
+23 03 / 2013 Jonathan Howard Institute Gulbenkian PO Toxoplasma
+
+Seminars were always well attended with an average of 50 – 75 attendees and more for exceptional events when scientists with exceptional reputation were invited. The seminars by senior scientist and author Martin Raff or by the EMBO Director Maria Leptin attracted 150 participants. Thus, the seminar series combined attracted well over 1.000 scientists from the local scientific community and provided stimulating grounds for discussions on research topics collaborative projects. Typically, the interaction between the seminar speaker and MBG scientists before and after the seminar was very close, providing opportunities to present and discuss MBG research with the speaker. As a result, five new research collaborations between MBG scientists and seminar speakers were formed and five existing collaborations intensified. An increase in the opportunities for young scientists was also noticed as MBG students were accepted to six graduate programs of seminar speakers as of the time of this report, an indicator that seminar speakers noticed the strong potential of young scientists trained at MBG.
+
+Workshops
+
+MBG-BRIDGE organized 5 international scientific workshops on BRIDGE research fields:
+
+# date Speakers Institution Country
+
+1 10 / 2010 Genetics of Neurological Disorders
+
+Kevin Talbot University of Oxford UK
+David Rubinsztein University of Cambridge UK
+Vincent Timmermann VIB Antwerp BE
+Peter De Jonghe VIB Antwerp BE
+Alexis Brice Pitie Salpetriere FR
+Peter Andersen University of Umea SE
+Robert Reenan Brown University USA
+Izzet Enunlu Bogazici University TR
+Onur Bilenoğlu IONTEK (SME) TR
+Hande Çağlayan Bogazici University TR
+Devrim Gözüaçik Sabanci University TR
+Esra Battaloğlu Bogazici University TR
+
+2 04 / 2011 Advances in Immunology and Cancer Biology
+
+Mübeccel Akdis SIAF CH
+Cezmi Akdis SIAF CH
+Donald Davidson University of Edinburgh UK
+Georg Lenz Charite, Berlin DE
+Vassilis Aidinis BSRC Alexander Fleming GR
+Eric So King's College, London UK
+Sinisa Volarevic University of Rijeka CR
+Shizuo Akira Osaka University JP
+Mustafa Akkoyun FDA USA
+Cevahir Coban Osaka University JP
+Ken Ishii Osaka University JP
+Tomohiro Kurosaki Osaka University JP
+Jürgen Behrens University of Erlangen DE
+Wafik El-Deiry Penn State University USA
+Maria Rescigno European Institute of Oncology IT
+Maria Soengas Spanish National Cancer Center ES
+Batu Erman Sabanci University TR
+Ihsan Gürsel Bilkent University TR
+Ibrahim Yaman Bogazici University TR
+Uygar Tazebay Bilkent University TR
+Ahmet Koç Izmir High Technology Institute TR
+Emel Tetik Sanofi Aventis (Indsutry) TR
+Gökhan Duman Pfizer (Industry) TR
+Mehmet Emin Yusuf Altis (SME) TR
+Tolga Emre Bogazici University TR
+Elif Erson Middle East Technical University TR
+Necla Birgül Iyison Bogazici University TR
+Nesrin Özören Bogazici University TR
+Günnür Deniz Istanbul University TR
+Cemalettin Bekpen Bogazici University TR
+Aynur Başalp Tübitak MAM TR
+Barbaros Oral Uludağ University TR
+Engin Ulukaya Uludağ University TR
+Sahru Yüksel Bogazici University TR
+Mayda Gürsel Middle East Technical University TR
+Burcu Sümer RTA (SME) TR
+Onur Bilenoğlu Iontek (SME) TR
+Kıvanç Bilecen NanoBiz (SME) TR
+
+3 10 / 2011 Development and Function of the Nervous System - I
+
+Laure Bally-Cuif CNRS FR
+Ana Martin-Vilalba DKFZ DE
+Emre Yaksi NERF BE
+Stephan Neuhauss University of Zurich CH
+Pierre Vanderhaeghen University of Brussels BE
+Thomas Hummel University of Vienna AU
+Javier Morante Institudo de Neurosciencas Alicante ES
+Mathias Wernet Stanford University USA
+Oscar Marin Institudo de Neurosciencas Alicante ES
+Bassem Hassan VIB Leuven BE
+Ege Kavalali UT Southwestern USA
+Thomas Bozza Northwestern University USA
+Michael Coleman Babraham Institute UK
+Turhay Dalkara ODTÜ, Ankara TR
+Claude Desplan NYU USA
+Gülayşe Ince-Dunn Koç University TR
+Aslı Kumbasar Istanbul Technical University TR
+Kuyas Buğra-Bilge Bogazici University TR
+Stefan H. Fuss Bogazici University TR
+Arzu Çelik Bogazici University TR
+Münire Özlem Çevik Doğus University TR
+
+4 10 / 2012 Development and Function of the Nervous System - II
+
+Dietmar Schmucker VIB Leuven BE
+Carlos Ribeiro Gulbenkian Institute PO
+Cahir O'Kane University of Cambridge UK
+Sigrun Korsching University of Cologne DE
+Thomas Hummel University of Vienna AU
+Mihai Alevra University of Göttingen DE
+Leslie Vosshall The Rockefeller University USA
+Cagla Eroglu Duke University USA
+Rashmid Kaur University of Vienna AU
+Stephan Neuhauss University of Zurich CH
+Bassem Hassan VIB Leuven BE
+Derya Ayaz VIB Leuven BE
+A. Tuba Özacar Bogazici University TR
+Gülayşe Ince-Dunn Koç University TR
+Stefan H. Fuss Bogazici University TR
+Gaurav Ahuya University of Cologne DE
+Selen Zülbahar Bogazici University TR
+Resit Canbeyli Bogazici University TR
+Burak Güçlü Bogazici University TR
+Kuyas Buğra-Bilge Bogazici University TR
+
+5 01 / 2013 First Steps for Personal Genomes and Personalized Medicine
+
+Can Alkan University of Washington USA
+Cenk Sahinalp Simon Fraser University CA
+Omer Gökcümen Harvard University USA
+Nesrin Özören Bogazici University TR
+Cemalettin Bekpen Bogazici University TR
+Pınar Kavak Bogazici University TR
+Nazlı Başak Bogazici University TR
+Ahmet Gül Istanbul University TR
+Hilal Özdağ Ankara University TR
+Duran Üstek Istanbul University TR
+Nurten Akarsu Hacettepe University TR
+Bayram Yüksel Tübitak MAM TR
+
+In addition to invited workshop participants local scientists contributed to the workshop program. More than 1.000 participants combined attended the workshops, promoting interactions between scientists. As a result, 11 new collaborations between MBG scientists and workshop participants emerged. Similar to the effect observed from seminars, an increase in the number of students accepted to graduate programs at host institutions of workshop participants was noted.
+
+Secondments
+
+Short-term scientific missions (secondments) were organized by MBG-BRIDGE to transfer research routines, protocols and know-how to MBG. A total of 23 research missions were performed:
+
+Incoming: (planned: 5)
+
+# date Scientist Institution Purpose
+
+1 05 / 2010 Asa Fex Svenningsen U. South. Denmark DK Establishment of Neuron-Glia co-culture systems
+2 09 / 2010 Astrid Limb UCL London UK Transfer of Müller glia in vivo models
+3 repeatedly Bassem Hassan VIB Leuven BE IMAGO, Drosophila genetics
+4 10 / 2010 Uwe Straehle KIT, EUFishBioMed DE EUFishBiomed, Zebrafish Resource Center (EZRC)
+5 06 / 2012 Albena Jordanova VIB Antwerp BE Collaboration CMT
+6 07 / 2012 David Hicks U. of Strasbourg FR Collaboration Retina development
+
+outgoing: (planned: 15)
+
+# date Scientist Institution Purpose
+
+1 07 / 2010 Necla Birgül-Iyison University Hamburg DE Murine cancer models
+2 07 / 2010 Sahru Yüksel IFOM - IEO IT FACS
+3 04 / 2011 Esra Battaloglu VIB Antwerp BE Collaboration CMT
+4 05 / 2011 Mahmut Can Hiz CNR-IGV IT Plant transcriptomics
+5 05 / 2011 Duygu Daglikoca U. South. Denmark DK Establishment of Neuron-Glia co-culture systems
+6 06 / 2011 Cemalettin Bekpen UPF-CSIC ES Genome Sequencing
+7 06 / 2011 Gamze Küser UCL London UK Transfer of Müller glia in vivo models
+8 01 / 2012 Burçak Özeş VIB Antwerp BE Collaboration, peripheral neuropathies
+9 01 / 2012 Alperen Erdogan VIB Antwerp BE Collaboration CMT
+10 03 / 2012 Stefan Fuss KIT DE EUFishBiomed, Zebrafish Resource Center (EZRC)
+11 03 / 2012 Duygu Demiröz SIAF CH Immunology
+12 05 / 2012 Levent Bas Uppsala University SE Protein structure, enzyme kinetics
+13 06 / 2012 Nesrin Özören Babraham Institute UK Animal Facility, animal models
+14 06 / 2012 Selen Zülbahar University of Vienna AU Collaboration, Fly Olfactory system development
+15 09 / 2012 Kuyas Bugra UCL London UK Collaboration, Transfer of Müller glia in vivo models
+16 10 / 2012 Stefan Fuss University of Münster DE Collaboration, zebrafish manipulation
+17 10 / 2012 Balkan Canher CNR-IGV IT Plant transcriptomics
+
+10 of these visits were reciprocal either with secondment partners, seminar speakers or workshop participants:
+
+Reciprocal visits:
+
+1 University of Southern Denmark (Sveningsen lab)
+2 University College London (Limb lab)
+3 Vlanders Institute for Biotechnology (VIB), Leuven (Hassan, Schmucker labs)
+4 Vlanders Institute for Biotechnology (VIB), Antwerp (Jordanova, De Jonghe, Timmermann labs)
+5 Karlsruhe Institute for Technology (KIT, Straehle lab)
+6 Swiss Institute for Asthma and Allergy Research (SIAF, Akdis lab)
+7 Babraham Institute (Coleman lab)
+8 University of Vienna (Hummel lab)
+9 University of Münster (Raz lab)
+10 European Institute of Oncology (Rescigno lab)
+
+As a result, 10 out of the 23 visits served to intensify existing research interactions with outside research groups, while 10 visits established new interactions and short- or long-term collaborations. Three secondments served the purpose of transferring organizational knowledge for facility management to MBG.
+
+Training
+
+MBG scientists received technical training either at workshops organized by international training centers or in-house through ABC core facilities:
+
+Outside training (centers / workshops)
+
+# date Scientist Institution Country Topic
+
+1 07 / 2011 NC Tolga Emre IFOM/IEO IT Melanoma Workkshop
+2 08 / 2011 Stefan Fuss Woods Hole USA Zebrafish Genetics and Development
+3 10 / 2011 Sunay Usluer Wellcome Trust UK Next generation sequencing
+4 08 / 2012 Stefan A. Koestler Wellcome Trust UK Drosophila Genetics and Genomics
+
+internal training (B-core: confocal microscopy)
+
+# date Scientist Institution Lab
+
+1 10 / 2010 Mustafa Talay MBG FLY lab
+2 11 / 2010 Izzet Enünlü MBG NDAL
+3 11 / 2010 Mehmet Ozansoy MBG NDAL
+4 11 / 2010 Ece Terzioğlu MBG FLY lab
+5 11 / 2010 Xalid Bayramly MBG FISH lab
+6 12 / 2010 E. Duygu Dağlikoca MBG CMT
+7 01 / 2011 Ali Can Sahilioğlu MBG AKIL
+8 01 / 2011 Izzet Akiva MBG Cancer Signaling lab
+9 01 / 2011 Yetiş Gültekin MBG AKIL
+10 02 / 2011 Sercan Sahin MBG FLY lab
+11 02 / 2011 Ibrahim Tastekin MBG FISH lab
+12 03 / 2011 Bahar Şahin MBG FLY lab
+13 04 / 2011 Batu Erman Sabanci U. Erman Lab
+14 05 / 2011 Nuray Söğünmez MBG FISH lab
+15 05 / 2011 Murat Atasoy MBG FISH lab
+16 05 / 2011 Gamze Küser MBG Retina lab
+17 05 / 2011 Asli Uğurlu MBG Retina lab
+18 06 / 2011 Şahru Yüksel MBG AKIL
+19 07 / 2011 Arzu Çelik MBG FLY lab
+20 10 / 2011 Gönenc Çobanoğlu MBG NDAL
+21 10 / 2011 Kaan Apaydin MBG FLY lab
+22 10 / 2011 Kerem Uzel MBG FISH lab
+23 11 / 2011 Duygu Demiröz MBG AKIL
+24 01 / 2012 Burak Tepe MBG FLY lab
+25 01 / 2012 Selen Zülbahar MBG FLY lab
+26 05 / 2012 Cemalettin Bekpen MBG Bekpen lab
+27 05 / 2012 Duygu Koldere MBG FLY lab
+28 07 / 2012 Stefan Koestler MBG FLY lab
+29 09 / 2012 Neslihan Zöhrap MBG Retina lab
+30 09 / 2012 Gizem Gül MBG Yaman lab
+31 10 / 2012 Merve Kilinc MBG CMT
+32 10 / 2012 Kerem Yildirim MBG CMT
+33 11 / 2012 Cağri Cevrim MBG FLY lab
+34 11 / 2012 Güner Kacmaz MBG FLY lab
+35 02 / 2013 Tuba Özacar MBG FISH lab
+36 04 / 2013 Yusuf Enes Kazci MBG FISH lab
+37 04 / 2013 Özge Özcete MBG FISH lab
+38 04 / 2013 Ayşe Nur Menevşe MBG FISH lab
+39 04 / 2013 Ayça Yörükoğlu MBG FLY lab
+40 04 / 2013 Ayşe Candayan MBG FLY lab
+41 04 / 2013 Gamze Akgün MBG FLY lab
+42 05 / 2013 Kaan Mika MBG FLY lab
+
+internal training (others: A-core, C-core)
+
+# date Scientist Event type Topic
+
+1 04 / 2011 MBG research staff Training Workshop GeXP genome analysis (42 participants)
+2 11 / 2011 MBG research staff Training Workshop Fluorescence assisted cell sorting (27 participants)
+
+Added value
+
+The ability to closely interact with relevant researchers from European research institutions significantly increased the number of external research collaborations. MBG scientists are / have been engaged in short-term or long-term joint research projects with 25 research groups with which contacts were made through WP4. The new technical abilities gained in WP3 had a strong positive impact on this ability. First publications from these interactions become visible:
+
+Whole genome sequencing of 16 Turkish genomes reveals functional private alleles and impact of genetic interactions with Europe, Asia and Africa. Can Alkan, Pınar Kavak, Mehmet Somel, Omer Gokcumen, Serkan Uğurlu, Elif Dal, Kuyaş Buğra-Bilge, Tunga Güngör, S. Cenk Sahinalp, Nesrin Özören, Cemalettin Bekpen (Under revision at BMC Genomics)
+
+Odorant receptor gene choice and axonal wiring in mice with deletion mutations in the odorant receptor gene SR1.
+
+Fuss SH, Zhu Y, Mombaerts P. Mol Cell Neurosci. 2013 May 18. doi:pii: S1044-7431(13)00059-6. 10.1016/j.mcn.2013.05.002.
+
+Feedback from rhodopsin controls rhodopsin exclusion in Drosophila photoreceptors. Vasiliauskas D, Mazzoni EO, Sprecher SG, Brodetskiy K, Johnston RJ Jr, Lidder P, Vogt N, Celik A, Desplan C. Nature. 2011 Oct 9;479(7371):108-12.
+
+Temporal specification of neuroblasts controls neuronal diversity in the Drosophila medulla. Li X, Erclik T, Chen Z, Venkatesh S, Morante J, Çelik A, and Desplan C, Nature, 2013, 498(7455):456-62..
+
+Binary cell fate decisions and fate transformation in the Drosophila larval eye. Mishra AK, Tsachaki M, Rister J, Ng J, Celik A, Sprecher SG. PLoS Genet. 2013 Dec;9(12):e1004027.
+
+MENA is a transcriptional target of the Wnt/beta-catenin pathway. Najafov A, Seker T, Even I, Hoxhaj G, Selvi O, Ozel DE, Koman A, Birgül-İyison N. PLoS One. 2012;7(5):e37013. doi: 10.1371/journal.pone.0037013.
+
+Analysis of the Wnt/B-catenin/TCF4 pathway using SAGE, genome-wide microarray and promoter analysis: Identification of BRI3 and HSF2 as novel targets. Kavak E, Najafov A, Ozturk N, Seker T, Cavusoglu K, Aslan T, Duru AD, Saygili T, Hoxhaj G, Hiz MC, Unal DO, Birgül-Iyison N, Ozturk M, Koman A. Cell Signal. 2010 Oct;22(10):1523-35. doi: 10.1016/j.cellsig.2010.05.021.
+
+Loss-of-function mutations in HINT1 cause axonal neuropathy with neuromyotonia. Zimoń M, Baets J, Almeida-Souza L, De Vriendt E, Nikodinovic J, Parman Y, Battaloğlu E, Matur Z, Guergueltcheva V, Tournev I, Auer-Grumbach M, De Rijk P, Petersen BS, Müller T, Fransen E, Van Damme P, Löscher WN, Barišić N, Mitrovic Z, Previtali SC, Topaloğlu H, Bernert G, Beleza-Meireles A, Todorovic S, Savic-Pavicevic D, Ishpekova B, Lechner S, Peeters K, Ooms T, Hahn AF, Züchner S, Timmerman V, Van Dijck P, Rasic VM, Janecke AR, De Jonghe P, Jordanova A. Nat Genet. 2012 Oct;44(10):1080-3.
+
+Genetic spectrum of hereditary neuropathies with onset in the first year of life. Baets J, Deconinck T, De Vriendt E, Zimoń M, Yperzeele L, Van Hoorenbeeck K, Peeters K, Spiegel R, Parman Y, Ceulemans B, Van Bogaert P, Pou-Serradell A, Bernert G, Dinopoulos A, Auer-Grumbach M, Sallinen SL, Fabrizi GM, Pauly F, Van den Bergh P, Bilir B, Battaloglu E, Madrid RE, Kabzińska D, Kochanski A, Topaloglu H, Miller G, Jordanova A, Timmerman V, De Jonghe P. Brain. 2011 Sep;134(Pt 9):2664-76.
+
+Primate segmental duplication creates novel promoters for the LRRC37 gene family within the 17q21.31 inversion polymorphism region. Bekpen C, Tastekin I, Siswara P, Akdis CA, Eichler EE. Genome Res. 2012 Jun;22(6):1050-8.
+
+T-cell and antibody responses to phospholipase A2 from different species show distinct cross-reactivity patterns.
+
+Sin BA, Akdis M, Zumkehr J, Bezzine S, Bekpen C, Lambeau G, Akdis CA. Allergy. 2011 Dec;66(12):1513-21.
+
+WP5 – Dissemination of MBG Efforts
+
+Included tasks:
+
+T5.1 – Web-hosting
+T5.2 – Newsletter
+T5.3 – Advertisement of MBG in Turkey and Europe through printed materials
+T5.4 – Increase of public awareness in media
+T5.5 – Information day / public lectures
+
+Included deliverables:
+
+D5.1 – Report on hosting of website (month 3)
+D5.2 – Newsletter report (month 6, 12, 18, 24, 30, 36, 42)
+D5.3 – Report on Advertisement (month 18, 36)
+D5.4 – Report on media appearances (month 6, 12, 18, 24, 30, 36)
+D5.5 – Report on Information day (month 12, 24, 36)
+
+Summary of achievements and significant results in WP 5
+
+5 / 5 Tasks completed 100%
+19 / 19 Deliverables submitted 100%
+
+• Wesbite hosted under http://bridge.boun.edu.tr
+• 5 newsletters published
+• 1 brochure published
+• 7 information days hosted
+• 26 advertisement activities performed
+• 38 media features
+
+As explained in more detail in section 2 (Potential impact, see below) public MBG-BRIDGE events, such as kick-off meeting, seminars, and workshops have contributed significantly to visibility of MBG and to dissemination of MBG and the project to a large audience of interested local and international scientists. In addition, MBG-BRIDGE reached out to the local and international scientific community and to local administrative institutions by distributing a regular Newsletter. The Newsletters were distributed through an email list (350 recipients) and in print (1.500 each Newsletter).
+
+Newsletter (5)
+
+NL 1 08/2010
+NL2 03/2011
+NL3 08/2011
+NL4 03/2012
+NL5 03/2013
+
+The newsletters are available from http://bridge.boun.edu.tr/?q=node/16. A final newsletter summarizing the entire project and the outlook for future activities is still in preparation.
+
+Other dissemination activities
+
+MBG scientists and MBG-BRIDGE had limited appearances in public media. Details are shown under section 4.2 A2 (Dissemination activities).
+
+In addition MBG-BRIDGE organized in house (public days) and outside dissemination events, mainly at science-oriented highschools.
+
+In house events / public days:
+
+• 27.01.2011 Bayrampasa Science Center
+• 11.01.2012 Aci Okulları
+• 13.01.2012 Aci Okullari
+• 13.03.2012 Besiktas Anadolu Lisesi
+• 07.03.2013 Bayrampasa Bilim Merkezi
+• 09.05.2013 Ozel Erol Altaca Anadolu Lisesi / Mersin Fen Lisesi
+
+outside advertisement events:
+
+• 09.03.2010 İstanbul Lisesi (N. Başak)
+• 27.03.2010 Koç Lisesi (K. Buğra-Bilge)
+• 28.04.2010 Robert Lisesi (E. Battaloğlu)
+• 25.05.2010 Gazi Anadolu Lisesi (A. Çelik)
+• 23.07.2010 BU Information Day (K. Buğra-Bilge)
+• 27.07.2010 BU Information Day (N. Başak)
+• 09.11.2010 Özel Üsküdar Amerikan Lisesi (E. Battaloğlu)
+• 25.01.2011 Özel Üsküdar Amerikan Lisesi (Başak)
+• 23.02.2011 Özel Koç Lisesi (Battaloglu)
+• 21.02.2011 Sainte Pulchérie Lisesi (Buğra-Bilge)
+• 10.03.2011 Istanbul Erkek Lisesi (Buğra-Bilge)
+• 02.05.2011 Antalya Yusuf Ziya Öner Fen Lisesi (Arzu Çelik)
+• 13.05.2011 Izmir 60. Yıl Anadolu Lisesi (Buğra-Bilge)
+• 13.05.2011 Aksaray Fen Lisesi (Birgül-Iyison)
+• 23.12.2011 Aydın Fen Lisesi (Birgül-Iyison
+• 21.12.2011 Tekirdağ Fen Lisesi (Çelik Fuss)
+• 12.04.2012 Istanbul Erkek Lisesi (Başak)
+• 27.04.2012 Istanbul Atatürk Fen Lisesi (Buğra-Bilge)
+• 09.05.2012 Fatih Şehremini Anadolu Lisesi (Birgül-Iyison)
+• 28.05.2012 Kabataş Erkek Lisesi (Başak)
+• 14.12.2012 Özel Bilfen Liseleri (Çelik-Fuss)
+• 23.01.2013 Beşiktaş Atatürk Anadolu Lisesi (Battaloglu)
+• 21.02.2013 Sainte Pulchérie Lisesi (Buğra-Bilge)
+• 08.04.2013 Adana Fen Lisesi (Emre)
+• 09.05.2013 Mersin Eyüp Aygar Fen Lisesi (Çelik-Fuss)
+• 10.05.2013 Aydın Fen Lisesi (Birgül-Iyison)
+
+A public workshop was organized January 21, 2012 to inform the public and the scientific community about the results and progress on the Turkish Genome Project, an initiative led by recruited experienced researcher Dr. Cemalettin Bekpen and carried out by an international collaboration group, including the Simon Fraser University, Canada, Washington University, USA, Bilkent University, Turkey and Bogazici University MBG. The workshop was attended by 450 participants, further details are listed under WP 4.
+
+WP6 – Evaluation of MBG Research Quality and Capability
+
+Included tasks:
+
+T6.1 – Evaluation of MBG Research Quality
+
+Included deliverables:
+
+D6.1 – Evaluation report (month 48)
+
+Summary of achievements and significant results in WP 6
+
+1 / 1 Tasks completed 100%
+1 / 1 Deliverables submitted 100%
+
+• 3 evaluation activities on-site
+• Recommendations for future developments received
+• Research potential of MBG communicated to authorities and stakeholders
+
+An evaluation of MBG-BRIDGE, and to some extend of MBG, was performed by a team of independent experts that were nominated by the EC. The team of evaluators visited MBG for two times during the second half of the project to perform the evaluation work and a third time to publicly discuss the result of their assessment. The final meeting included representatives of the university’s administration and of the Istanbul Development Agency (ISTKA) and the Turkish Scientific and Technological Research Council (TÜBITAK).
+
+The assessment of the evaluators towards MBG-BRIDGE’s impact on an increased research potential were quite positive and concluded that the project was implemented formally well. MBG has regional potential and might be a major contributor the national high ranking of Bogazici University. However, weak points were also identified and the board made specific recommendations for further exploitation and development of MBG’s research potential.
+
+Major criticism included the ‘still’ lack of sufficient focusing of research directions and the rather large diversity of research topics at MBG and the lack of meaningful industry relationships. MBG, however, is an academic department and has to keep some width of fields that are covered to fulfil its educational needs. The lack of industry relationships is largely due to missing industry in the biotechnology sector. Only very small companies with very limited R&amp;D can be found in Turkey and SME’s R&amp;D is largely competitive to service provided by some MBG groups in the field of clinical diagnosis.
+
+The evaluator team formulated a strategic plan to further increase MBG’s research potential beyond MBG-BRIDGE including the following measures:
+
+• Further focusing of research topics and generation of critical mass
+• Increase researcher base through the implementation of a more attractive PhD program
+• Extension of technical capabilities towards next-generation sequencing platforms
+• Improvement of MBG and MBG-BRIDGE website
+• Establishment of a standing seminar series with international speakers
+• Establishment of a departmental Scientific Advisory Board
+• Revisions of publication policies
+• Revision of hiring policies
+
+The recommendations by the evaluators are well taken and will be adjusted to the regional and local possibilities and frameworks in which the recommendations can be realized.
+
+Potential Impact:
+
+a. Direct impact
+
+Main objective of MBG-BRIDGE was to strengthen the research capacity of the Department of Molecular Biology and Genetics at Bogazici University, to secure its leading position in the field of molecular biology on a national level, and to develop it into an internationally competitive research center.
+
+To this end critical and contemporary research instrumentation has been acquired (WP2), research infrastructures haven been developed (WP2), researchers with a high level of experience have been recruited (WP3) and scientific isolation has been targeted (WP4). The impact of these measures on the research potential of MBG is very high.
+
+The new research equipment, a state of the art laser-scanning confocal microscope and a genome analyzer, and existing equipment, a FAC sorter, are the key equipment around which new technical research laboratories were designed. A coherent development plan ensured that the new research facilities are not only used as ‘stand-alone’ unites but are supported by experienced scientific personnel and contribute to technical and scientific training of MBG scientists and support compliance with necessary ethical, technical, and safety guidelines.
+
+MBG’s entirely new ability to use cutting-edge confocal microscopy to a large extend increased the quality of ongoing research (e.g. gene expression analysis in the nervous system of model organisms) and enabled novel research projects (e.g. protein-protein interaction studies in cell culture models). The critical impact of this activity on MBG research becomes visible through the extensive use of the equipment, which is utilized 78% of regular work hours and by 10 out of 14 research groups. To this end 42 MBG scientist have been trained in confocal microscopy and used confocal microscopy in their research studies. It is noteworthy, that the microscopy facility (B-core), as the other two core facilities, provided the necessary intellectual and technical background for MBG scientists to fully exploit the capacity of the instrumentation. MBG-BRIDGE fostered the development of animal models of inherited human disorders, to this end fly models of genetically inherited neurodegenerative diseases, an endeavour which strongly depends on appropriate analysis of the ‘disease’ phenotypes using microscopy. Very promising results have been obtained so far and the study, as many other studies which are currently ongoing, will severely benefit from the high-quality imaging capabilities through higher-impact publication.
+
+Nearly all research activities at MBG require, in various ways and for diverse purposes, the analysis of DNA samples. MBG was largely dependent on commercial service providers, with little flexibility, high cost and long sample turnover times. The establishment of the DNA analysis facility to some extend relived these drawbacks and DNA samples can now be analyzed in house and in a timely manner. In particular, MBG did not have the necessary technical or intellectual capacity for complex bionformatic analysis. The DNA analysis core responded to these needs and now provides, in addition to sequencing service, strong bioinformatic support to process complex data sets. DNA sequencing has undergone several major revolutions through the development of next-generation sequencing technologies, and whole genome sequencing, exome sequencing, and transcriptome analysis have become new standards in the field. However, these approaches generate several GB of data in a single experimental run and analysis requires appropriate infrastructure but also intellectual capacities. MBG was able to recruite an experienced scientist, who was able to successfully implement these capabilities at MBG in the framework of the facility. In addition, several MBG scientists received independent training in these approaches through formal training courses at international training centers and through short-term scientific exchanges at partner laboratories. Currently, 8 out of 14 MBG research groups employ next-generation sequencing technology in their research. MBG used these new opportunities wisely by initiating the Turkish Reference Genome project, a database, build on whole-genome sequencing of 17 Turkish individuals, which provides genetic background information, which is critical for personalized medicine and disease gene identification.
+
+The construction of an additional cell culture facility responded to MBG’s need for enlarged capacity and better scientific integration and training. The new facility provides optimal working conditions and sufficient training for MBG scientists in cell culture and fluorescence-assisted cell sorting to fully exploit the research potential, to produce research results at a higher standard and in a cost-efficient manner. Several MBG scientists received formal training at international training centers and through short-term scientific missions to partner laboratories.
+
+The recruitment of experienced researchers impacted MBG’s research potential in a variety of critical ways. Three researchers were recruited at the level of research group leaders, thereby increasing the number of principal investigators by 25% (15 compared to 12). The recruiting was strategic in the sense that the new investigators would transfer complementary approaches to existing research directions and would provide the opportunity for efficient collaboration. Although, much more work is needed to attain critical mass in all research fields prioritized by MBG-BRIDGE, important steps have been made through the recruiting and international networking activities. MBG scientists formed thematic interest groups on developmental neuroscience, cancer / immunology, and disease genetics, thereby activating field-specific and interdisciplinary interaction. The recruitment, to some extend reversed gender issues and over-aging of research staff. Gender is generally skewed in Turkish academic institutions, at MBG the ratio was 2 male faculty to 10 female faculty. All recruited personnel were male, thus improving gender equality 4:9. Another important aspect is that 5 MBG faculty will retire within the next 5 years; permanent employment of new faculty provides continuity and modernization of research programs at MBG, as much as it keeps pace with contemporary educational needs.
+
+While the stronger developed western part of Turkey is more oriented towards Europe and the western world, Turkey is still geographically distant and therefore isolated from Europe. Even a metropolitan city such as Istanbul, is not situated on the direct crossroads of (scientific) communication. MBG-BRIDGE targeted the scientific isolation through an intensive mobility program to connect MBG better to the ERA. Five international scientific workshops, 15 seminars and 23 short-term scientific missions raised the awareness of Turkey as a place where high-profile research is performed and individually connected MBG and MBG scientists to European partner laboratories and institutions. As a result, MBG has now established a rather wide and very beneficial research network, engaged in multiple international collaborations, and attracted follow-up events, such as EMBO and ECRO workshops and annual conferences in the future. MBG is an academic institution, and as such, contributes to the education of young scientists. A direct result of these enforced interactions is that next-generation researchers, initially educated at MBG, are recruited more readily to graduate programs at institutions that interacted with MBG during the project. Thus MBG-BRIDGE had some contribution to internationalization of research. However, much more needs to be done to increase the flow of international researchers to MBG.
+
+The organizational structure and dissemination and evaluation activities involved the cooperation and communication with relevant authorities at the level of the local university administration, but also with other stakeholders, such as SMEs, industry and research policy makers. Project participation provided the necessary leverage to increase the number of full-time employed principle investigators and the expansion of MBG’s research space to alleviate the rather tight space situation. In total, 320m2 of additional research space were created so far with a medium-term perspective for further extension. MBG-BRIDGE, as an independent validation of MBG’s research quality, helped to set the stage for development of the Life Sciences Center at Bogazici University, a multidisciplinary research center funded by the governmental State Planning Organization (now Ministry of Development). MBG-BRIDGE is in contact with national and regional funding agencies and policy makers, which are eager to learn from the projects experience. SAB and evaluator assessment of MBG on the other hand has provided MBG with a strategic development plan for years to come to maintain and strengthen its leading national role and international competitiveness.
+
+b. Scientific impact
+
+MBG research strongly benefited from the structural and human development that were supported by the project. New research facilities provide higher-quality standards and previously unavailable research opportunities, which were readily utilized by MBG researchers as reflected by the strong occupancy of ABC cores. In addition, MBG scientists have become much more cooperative and in particular, the new expertise of recruited researchers provided ample opportunities for interactions. Two flagship examples are the Turkish Genome Project and the development of animal models of inherted disorders. The Genome Project was led by recruited experienced researcher Dr. C. Bekpen and involved four MNBG scientists, two scientists from Bogazici University, and three international scientists. A high impact publication is currently in revision. The development of animal models of human disease mainly involves two MBG and three European research groups, with which MBG got into contact during the project activities. Additional research groups are currently following a similar route.
+
+However, an ultimate measure of improved scientific quality and relevance is published scientific output. Despite improved capabilities the research performed at MBG is still time consuming and demanding. Several, high-profile research projects are currently underway but might need a little longer to come to fruition. Nevertheless, a first trend in improved capacity becomes apparent as a result of the project.
+
+Number of articles published at MBG (left) and total (middle) and average (right) Impact Factor scores of publications (source Thomson Reuters, 2012 Journal Impact Factors) per year in the five year period before (grey) and during (red) MBG-BRIDGE. The vertical lines represent average numbers over the respective periods.
+
+While there is currently only a slight increase in the number of publications per year, a strong impact is seen for the quality of published research at MBG during the project. The combined Impact Factor score for all MBG publications and the Impact Factor per article doubled during the duration of the project between 2010 and 2013. Taking into account that project measures did not affect this indicator immediately, Impact Factor scores are nearly three times as high in the second half of the project (2011 – 2013) and with a rising tendency. The increase is statistically significant at the 4.5% level. Thus, MBG-BRIDGE has created some positive impact on the average quality of research output at MBG. Full fruition of the positive effect is expected to show within 2014/2015.
+
+Bogazici University, as an academic research institution, was currently ranked as the prime Turkish University by the Thomson Reuters World University Ranking (http://www.timeshighereducation.co.uk/world-university-rankings/2013-14/world-ranking), and scored on rank 20 among Asian and 199 among world universities. Scored are teaching, international outlook, industry income, research and citations. As becomes clear from the analysis of the evaluator team, MBG is a major contributor to this result.
+
+c. Socio-economic impact
+
+MBG-BRIDGE directly contributed to employment of scientists, for three of which permanent employment could be secured. Thus, MBG-BRIDGE has enabled the implementation of three new research groups, which has wider ramifications for employment and education. The new research group leaders established active research groups and hired additional scientific personnel through independent funding, thereby contributing to an increase of young scientists that conduct research and which are educated at the nations prime educational institution. Currently, 18 young scientists are employed in the new research groups and the increased research potential made other MBG research groups more attractive. In the long run, the increased educational capacities at MBG / BU will contribute to the education / professional training of highly qualified individuals, who will be available on the job market and for the national economy. In addition, young researchers that receive excellent research training at MBG become part of scientific endeavours worldwide. MBG’s graduates are highly regarded at international graduate and postgraduate programs. To some extend, MBG therefore supplies the ERA with these highly qualified researchers, which are urgently needed in some economies, e.g. Germany. In the long run some internationally trained individuals that used MBG as a stepping-stone for their careers might return to Turkey to take academic positions, creating an effect on the national research potential as well.
+
+MBG-BRIDGE fosterd interactions between researchers and industry, although this activity is severely jeopardized by the limited biotechnology economy in Turkey. In particular the R&amp;D sector is undeveloped. However, local industry and SME were able to utilize MBG-BRIDGE events as recruiting platforms. Stronger research training and better technical capabilities at MBG might, however, might contribute to the development of start-up companies in the long run.
+
+Research at MBG, although pursuing mainly basic research orientation, is to a large degree directly relevant for human health. In particular new experimental models to understand basic and specific disease processes that were initiated by MBG-BRIDGE bear great potential for future application-oriented exploitation. The data generated during the Turkish Reference Genome Project, is publically available and provides an important information base for clinical diagnostic and clinical research in the developing field of personalized medicine.
+
+Biotechnology, in particular its health-related aspects, is a key technology prioritized by national and international policy makers, such as the national agenda 2023 and Horizon 2020. Therefore, raising the countries competitiveness and international cooperation is of high importance. MBG-BRIDGE contributed to this priority with regional capacity building through implementation of better research infrastructure and management principles , increasing the level and quality of education in the field and through fostering collaborations to internationalize research but also to advertise Turkish research on the international floor. This new level of regional and international collaboration will help to geographically balance scientific and economic development. MBG-BRIDGE has provided the opportunity for a large number of young researchers to experience international research environments through secondment programs. We hope that MBG will become an attractive institution for international young scientists in the future as well.
+
+MBG-BRIDGE contributed to reversal of brain drain, as three of the recruited researchers were Turkish nationals returning to their home country, and to gender equality and rejuvenation of research groups at MBG.
+
+d. Dissemination activities
+
+A crucial aspect of MBG-BRIDGE’s action plan to increase the competitiveness of MBG was to make MBG visible as a regional center of excellence in the field of molecular biology research. A higher level of visibility would be essential to attract collaboration partners, recruit outstanding young scientists, create industry contacts and to negotiate structural developments and additional funding opportunities. The dissemination activities therefore targeted national and the EU and associated countries, by using a project web-page, advertisements of events, personal contacts, seminars, workshops and a series of newsletters which were distributed to a large audience. The activities targeted the local scientific community, the international scientific community, the industry and the general public.
+
+Website
+
+A project website was published under http://bridge.boun.edu.tr and was designed to inform the scientific community and the general public about project activities , such as seminars and workshops. The website was also used to distribute information and to manage the utilization of research facilities established by MBG-BRIDGE. The website is currently under reorganization to summarize the outcome of the project in a more coherent way. An independent website was build to disseminate scientific information regarding the Turkish Genome Project under http://turkiyegenomprojesi.boun.edu.tr/. The database provides access to genome and SNP data and is open to the scientific community free of charge.
+
+Kick-off meeting
+
+A high level of project visibility was generated with the kick-off meeting of the project, which was designed to reach all stakeholders, including the scientific community, the administrative bodies, the industry, the local and national policy makers and the general public. The event was hosted by the Minister for EU affairs, Egemen Bagis, and attracted a high level of media coverage. In addition, seminars were launched to involve the scientific community and SAB and Steering Committees were inaugurated to communicate task distributions and project objectives.
+
+Newsletters
+
+Newsletters were the most efficient way to inform the scientific and administrative community about MBG’s research potential and project activities. Newsletters included summary reports of major project activities, such as kick-off event, seminars, workshops, secondments, core facilities, but also introduced specific research topics at MBG. Each MBG laboratory was given the opportunity to present its field of research in addition to special projects of MBG scientists that included consortia or larger groups of scientists. The newsletter were available electronically and in print. Electronic copies were sent out to an extensive email list of 350 recipients from the scientific community and adminstration. Printed versions of the newsletter were distributed at workshops, to visitors to MBG and as promotional material. More than 1.500 copies of each newsletter were distributed in print.
+
+Seminars
+
+High-profile seminars by outstanding ERA scientists were organized by MBG-BRIDGE and largely advertised as project events. The seminar series attracted a large audience of outside participants with an average 50, sometimes 150 participants per event. It thus contributed significantly to MBG and MBG-BRIDGE visibility and the venues were adorned with MBG-BRIDGE posters and promotional material. Seminars also contributed to MBG visibility through the close contact with the seminar speaker, and typically the speaker spent a full (sometimes longer) day at MBG to discuss MBG’s scientific research, and to meet individually with faculty and young scientists. As a result, young scientists are now more often recruited to graduate programs at the host institutions of seminar speakers.
+
+Workshops
+
+Workshop activities created substantial visibility among the local but also the international research community. A total of five scientific workshops were organized by MBG-BRIDGE and advertised as project events. About 150 to 200 scientists attended each workshop, therefore reaching more than 1.500 scientists. The workshop venues were supplied with promotional material (e.g. newsletters, posters, blocknotes) to advertise FP7 and the project. The workshop activity reached well beyond the local scientific community and addressed scientists from EU countries, Japan and the USA. Efforts were made to involve the local biotech and pharmaceutical industry, to provide a platform for exchange of scientific ideas and for recruiting. As a result of these activities, young researchers trained at MBG are accepted more frequently at graduate and postgraduate programs at the host institutions of workshop participants and MBG receives an increased number (although still limited) of international applications.
+
+Public days
+
+Public days at MBG were organized by mainly targeting science clubs and science-oriented secondary education institutions. A total of six public days were organized which were attended by about 60 participants per event. The participants were given overview lectures on general and hot-topics in molecular biology and received a guided tour through the research facilities of MBG. Information material, mainly on educational and research opportunities were provided. Along the same line, MBG scientists visited 37 science-oriented secondary education institutions to advertise education and research opportunities at MBG.
+
+Other dissemination activities
+
+MBG-BRIDGE issued a number of press releases before larger project events, such as kick-off, workshops and project closure. Several small overview articles were published in the local press and MBG scientists promoted the project during appearances on national television. Promotional posters were mailed to advertise workshop events.
+
+Project closure
+
+MBG-BRIDGE organized a formal project closure event, which was attended by the administration of Bogazici University, the national funding agency TÜBITAK an the regional funding agency ISTKA. The major aim of the event was to communicate the successful completion of the project and to promote MBG to these institutions with respect to continuation funding and further development. Strong support in favour of MBG was provided by the assessment and recommendations of the international Scientific Advisory Board and the team of independent expert evaluators.
+
+List of Websites:
+
+http://bridge.boun.edu.tr

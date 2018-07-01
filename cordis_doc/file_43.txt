@@ -1,0 +1,707 @@
+Executive Summary:
+
+RICHE was the response to a call under HEALTH-2009-3.3-5, with the title of 'European child health research platform'. The call text asked us to “address the diversity and fragmentation in child health research in Europe in an inclusive multidisciplinary way, identifying existing research programmes in Member States, recent advances and identification of gaps to explore road maps for the future of child health research in Europe”.
+
+Project structure:
+
+A consortium, with a final total of 23 partners, and two associate (i.e. unfunded) partners, responded to this call. We designed a project with a linear structure, where the main focus of activity moved from work on the Inventory, and Indicators and Measurement, in Year 1, to work on Gaps in Year 2, finishing with the preparation of the Roadmap in year 3. The final 6 months (Year 4) were largely dissemination. The Platform, which is instantiated in our website, supported all of the other parts, and was a focus for communication and dissemination throughout the project.
+
+Each piece focused on a specific area of work, but each fed into its successors, and all leaders and partners worked closely together. Each group produced a number of technical reports and other outputs. The final output was a Roadmap for future investment in European child health research. This has been widely disseminated, and has fed at Commission level and National level into the Horizon 2020 call preparation process.
+
+RICHE Roadmap:
+
+The RICHE Roadmap is based upon a sound, scientific evidence base, which we had gathered as part of our earlier work. The project prepared an inventory of child health research and of measurements and indicators of child health in Europe. This was collated using a web platform – which can be found at www.childhealthresearch.eu. In addition to this exercise, a formal study of the gaps in child health research was undertaken by carrying out surveys and interviews of researchers and research users across Europe. This allowed our initial views on the research gaps to be refined and corrected by an iterative process, involving, both project partners, and the wider scientific community, so seeking grounding and validation for this key phase. These results formed the basis for the RICHE Roadmap.
+
+The Roadmap is based on a life-course perspective. It covers the important phases of a child’s development, including maternal health, and pregnancy, through to adolescence and the protective and risk factors, and health services encountered throughout childhood and adolescence as he or she moves towards adulthood. RICHE looked upstream to identify where more work needed to be done to prevent avoidable physical and mental ill-health, disability and death in the population of European children aged 0-18 years. This shows how the many influences and outcomes of children’s health are interrelated; a pattern reflected in the Roadmap. It can be downloaded from the RICHE website (http://chiLdhealthresearch.eu/) or from the DCU repository - http://doras.dcu.ie/19732/.
+
+The work necessarily involved a series of value judgements, especially on setting priorities, because there are no objective and unconditionally valid answers to the question “Is there enough research on this topic?”, nor to the question “Is this a topic of significance?”. Nevertheless, the RICHE Roadmap uses an inclusive and transparent process to explain the recommendations it made, and the subjects it chose, making our values, and the reasons for judgements as explicit as possible.
+
+The report is organised into broad subject areas, that reflect the key ‘gaps’ in knowledge about children and young people, or about particular aspects of their lifestyle and health. These key areas, and selected findings within each area, are briefly summarised here.
+
+Life Course and Lifestyle:
+
+This section focuses on children as they age, and recognises the importance of continuing to research how factors before conception, during gestation and in the very early years of life can affect present and future health. The challenges that children face as they grow up are also highlighted – these can be created because of policy decisions that fail to take account of children and young people’s lives or because of the pervasive influences of individual circumstances that act ask protective or risk factors for children’s actions. The concept of resilience in childhood is also highlighted, and how research needs to focus on this important and powerful means of improving children’s lives. A key issue, throughout the life course, is mental health and well-being. Fostering well-being in children from birth, and throughout childhood will provide numerous individual and societal benefits. It deserves a greater research focus.
+
+Socio-economic and Cultural Factors
+
+The socio-economic and cultural environment in which a child is born and grows up has a potent effect on a child’s health and well-being. Inequity and inequalities in health, between and within nations depending on socio-economic circumstances, are known to affect health outcomes. Those in the poorest areas have worse health, and shorter lives than those in the wealthiest areas. Other groups are at risk of marginalisation from health services and from opportunities that can maximise their health. These include migrant children where the question is how best to support their integration into their new societies and communities, while retaining their individual identity; children in the state care system have poor health and social outcomes, so improving these, by focused research is important for the future health of these children; children from minority population groups, in particular those who travel across nations, such as the Roma, need to have focused attention, to ensure that their health outcomes begin to match those of the general European child population.
+
+Social and Community Networks:
+
+The main influences on children and young people are their immediate family and community networks. This extends from the influence of the family as a warm and nurturing environment in which to grow up – and conversely a place of the most profound danger and threat if such a family environment is toxic; to the wider influence of school, and finally the broader community. Becoming engaged and involved in community life is beneficial for the entire population, not just for the children and young people directly involved. It is an aspect of children and young people’s experience that is important for well-being and social inclusion.
+
+Environment:
+
+The term 'environment' covers several different concepts, and the RICHE Roadmap describes the physical, virtual and also the perceived environment – all of which interlink in children’s lives, and have a profound effect on their health and development. These include the physical environment, the virtual (digital) environment, physical safety, including injury prevention, and protection form crime, anti-social behaviour and violence (both as perpetrators and victims).
+
+Complex Health Issues:
+
+The majority of children in Europe are healthy, and ill-health is not a characteristic of this population as it is in, for example, an ageing population. However, there are certain health issues that affect children, and as such can blight an entire lifetime. Our Roadmap does not cover clinical issues, but takes a population perspective. There are certain disorders that have a population-wide effect and are prevalent enough in the child population to warrant particular attention from a public health viewpoint. Four specific areas of concern were identified – overweight and obesity, mental health, sexual and reproductive health, and neuro-developmental disorders.
+
+Health Services:
+
+The main research needs of the health services focuses on the prevention of poor health. Comparing health services across Europe and evaluating the means of conveying health promotion messages are important directions for health research to investigate. Indicators need developing which reflect the effect of preventive actions, particularly among younger children. Vulnerable populations, such as those in deprived communities, need to have health prevention services particularly targeted. There is little systematic evaluation of such interventions, which compromises the development of new interventions and their implementation. Those who do not access services and those who need particular attention can be identified.
+
+Public Health Infrastructure:
+
+Health surveillance is essential so that health needs can be identified and addressed effectively for the benefit of the child population. Yet, many existing sources of data are neither analysed, nor made available in a child-centric way. Children need to be made more visible in the data so that they can have more effective health promotion and health care on a population level. Specific examples include work on autism and morbidity due to injury. Europe also needs to establish proper measures and indicators of children’s health and children’s lives. We cannot act properly without first identifying and measuring the problem. Electronic health records are an emerging technology that has great potential, both for research, and for improved access to care. They need to be developed and investigated further to encourage their use across the European Union.
+
+Improving Research Capacity:
+
+It is necessary to ensure that there are enough resources, both to do research, and to make use of the research findings. To sustain research activity, specialist training for junior child health researchers is needed, as are sufficient resources to maintain a critical mass of researchers and provide attractive career paths for them. Children and young people as subjects of research need to continue to be safeguarded by a consistently ethical framework, and information collected about children needs to be accurate, comprehensive and used intelligently so that interventions and services can be correctly directed.
+
+Using the roadmap:
+
+The roadmap is a complex document, addressed to a number of different stakeholders. One key group are those who make decision bout research finding priorities. We have disseminated the roadmap widely at EU level, to reach into the process of priority setting for Horizon 2020. This has been done thought National Contact Points in each partner country, through relevant NGO's, and by sending copes to and meeting with relevant parts of the European Commission. Readers using the roadmap will most likely use it in two ways, first to make a general case for investment in Child Health Research, and secondly to target that investment, by considering the questions we have identified, and reviewing our justifications for these choices. We do not expect our work to determine future investments in child health, but we are confident that using our work would lead to better decisions overall.
+
+Conclusions:
+
+Our core value is to put children first in our work. We take the rights of the child seriously, and we are conscious that many children do not have the opportunity to exercise the right to health and healthcare that European children they ought to have. The topics in this Roadmap are pragmatic in that they are researchable (within the grasp of presently available research methods and resources) and that are likely to have a significant effect on the lives of European children. This will go a considerable distance in improving the health and well-being of European children who may not have benefited from Europe’s good fortune up until this point. At the very least, the RICHE Roadmap aims to begin a serious conversation across Europe about the need for research to focus on children and how this will ultimately benefit all members of the European population.
+
+There is a need for children to become substantially more visible in European society. At present many children’s lives are invisible to health surveillance, and to research. Sometimes they are submerged with their families, as in the case of Roma or for children of illegal and undocumented immigrant families. Even in well-documented societies, children’s circumstances are invisible as data are collected from the perspective of economically active adults, or households.
+
+Therefore, an overarching recommendation in this road map is the establishment of a European Child Health Observatory with a simple remit to make European Children, and their lives, health and attainment of rights more visible.
+
+We also recommend continuing and extending the discussion to the edge of existing child health boundaries, to address topics such as the effects on children’s health of urban design and architecture, fiscal policy (which can affect many health issues), welfare, or health effects of immigration policy.
+
+The RICHE Roadmap hopes to point the way in which children can be fully recognised and respected as forming a valuable population and whose health and well-being contributes to the health of our present and future European society.
+
+Project Context and Objectives:
+
+Project context and objectives
+
+Project origins:
+
+The project call read:
+
+“HEALTH-2009-3.3-5: European child health research platform. FP7-HEALTH-2009-single-stage. Address the diversity and fragmentation in child health research in Europe in a an inclusive multidisciplinary way, identifying existing research programmes in Member States, recent advances and identification of gaps to explore road maps for the future of child health research in Europe. Funding scheme: Coordination and Support Action (Coordinating Action)”.
+
+To interpret this we looked at evidence on the state of health of European children, and the existing calls for action on the topic. The EU Council (1) resolution on the health and well-being of European youth, noted that,“although on the whole the health of young people in Europe is satisfactory, certain fields are of particular concern such as nutrition, physical activity, alcohol abuse, sexual and mental health; particular attention should be paid to promoting a healthy lifestyle and preventive measures, especially in the context of sexual activity, alcohol abuse and drug use, smoking, eating disorders, obesity, violence.”
+
+To meet these needs they proposed “precise knowledge of the state of health, the needs and expectations of young women and men in terms of health, as well as existing practice, experience and lessons learned in this field, all duly assessed, is required both to contribute to ensuring the efficacy and efficiency of youth health policy and to aim to better take into account, within tailored strategies, the specific nature of this group, with particular reference to potential differences within the group due, inter alia, to age, sex, place of residence or socio-economic factors and giving priority to young people with fewer opportunities.” (1). Our primary goal is to support this proposal.
+
+European children are the subjects of a substantial amount of research activity. This is multi- disciplinary, multi-lingual, some commissioned, some investigator initiated, funded by many different agencies, including the European Commission. However, the overall effort is far from optimal, and the results are not used as they could be, because this research is fragmented. Much is commissioned by national governments or research agencies, and may remain known only in that country and language. European Commission funded research is commissioned by a specific Directorate General, of which there are several with identified responsibilities for children (for example, DG Research, DG SANCO, DG Education, DG Research and Consumers, DG Justice, DG Employment...). It is unnecessarily hard to get an overview of what has been done, and what is being done, and to get access to the full richness of European child health research activity. There is no coordination mechanism. Greater cohesion is needed, and the development of more effective strategies for child health research in the future.
+
+Project Context:
+
+The European Region of WHO identified four principles as the basis for their health strategy for children and adolescents (2):
+
+1. “Life-course approach. Policies and programmes should address the health challenges at each stage of development from prenatal life to adolescence.
+2. Equity. The needs of the most disadvantaged should be taken into account explicitly when assessing health status and formulating policy and planning services.
+3. Inter-sectoral action. An inter-sectoral, public health approach that addresses the fundamental determinants of health should be adopted when devising policies and plans to improve the health of children and adolescents
+4. Participation. The public and young people themselves should be involved in the planning, delivery and monitoring of policies and services.”
+
+We fully endorse these principles, and have tried to build the RICHE project around them. Specifically we chose to use a life-course framework as one of our key frameworks for understanding and classifying child health. In addition to covering research activity on the impacts of social inequity and poverty on child health, we have sought to engage with representatives of, and advocates for, the most disadvantaged in Europe. Our approach is explicitly a child public health approach, acknowledging fully the essential contribution of many other sectors of society to the production and maintenance of child health.
+
+Frameworks of child health:
+
+It was important to support a number of different approaches to thinking about child health, to researching child health, and to using research on child health. There are several frameworks for child health in common use, and we have used and supported many of these in our taxonomies, and the work built upon them. However, we adopted a life-course perspective as the key organising principle for our work on child health research, and our recommendations for future work.
+
+Life course approach:
+
+A life course approach offers an interdisciplinary framework for guiding and structuring research on health, human development and ageing (3). It is the study of health and its inverse, disease, by considering the long and short term effects of environmental exposures at each stage of development: intrauterine, early childhood, adolescence, young adulthood and later adult life (4). That this specific approach has, for many years, been an intrinsic aspect of several scientific disciplines, including psychology, sociology, demography, anthropology, and biology, and, more recently, epidemiology, reflects how the various biological and social factors - independently, additively and multiplicatively - influence physical, mental and emotional well being.
+
+This shift from a medical approach, one dominated by an adult model of risk assessment in understanding health, to a multidisciplinary life course perspective, reflects appreciation of the complex processes by which individual development is modified and moulded by external stimuli, and the extent by which the external environment is modified and moulded by the individual. This understanding builds on a model of health as, not simply the absence of disease, but a state of physical, social, and mental well-being.
+
+Bio-psycho-social model:
+
+The RICHE roadmap is the end of a three year program of work designed using the concepts of a life-course approach to child health and a bio-psycho-social model of child development (See Figure 2). The implications of this approach are that we acknowledge explicitly the many ways in which external factors, and earlier experience, acting over time, influence later outcomes. It is possible to become discouraged by the sheer complexity of the interactions. We prefer to look at this as showing the many opportunities for intervention to improve outcomes in adult life.
+
+The health of European children – a Europe that is changing
+
+European children are regarded as enjoying reasonably good health. The last 50 years has seen a major reduction in mortality rates for all age groups in Europe. However, there has been an increase in morbidity from non-communicable diseases, which now make up the greatest burden of disease in Europe and worldwide. Mental health disorders, and other chronic long-standing illnesses, all create major challenges to human health and health services. A recent review of the health of younger children (from birth to age 12 years) in Europe (5), describes a substantial burden of preventable illness, and poor health status, with predictable consequences for ill health in adult life, for example obesity, type 2 diabetes, poor mental health, cardiovascular disease, stroke, and premature death (6). There is less systematic information about European adolescents, particularly older ones, but recent reports from the Health Behaviour of School-aged Children (HBSC) study (7) show the diverse ways in which our societies support, or fail to support, young people navigating adolescence.
+
+There are still large numbers of children in Europe with unacceptably poor health, particularly those living in socially disadvantaged circumstances, and in those countries in which social inequalities are relatively wide. While Europe now has an agreed set of values related to health and health care (8), and a strategy (9), this needs to be implemented with a particular focus on some very marginalised groups, for example Roma children, recent migrants, and illegal or undocumented immigrants (5).
+
+Economic Impact of Child Health Research
+
+Economic analyses show that investment in childhood is worthwhile (10). Preventing disease is known to be a good investment, but promoting children’s health is even better (11). It is now well supported by evidence that ‘Healthy ageing begins before conception’(4), and so societies which wish to tackle successfully the challenges of ageing will need to start with their children.
+
+All European societies spend significant amounts of funding on children’s health (and even more on avoidable adult ill-health determined in part at least in childhood). In times of economic strain it is important that this expenditure is justified, and that services are delivered as effectively and efficiently as possible. This means our children should receive purposeful evidence-based services, and researchers must generate, analyse, and disseminate the evidence to justify, or change, them.
+
+Project Results:
+
+Main S&amp;T results/foregrounds
+
+The RICHE project, as described, was arranged in 6 work-packages (Figure 2). This represents the most convenient way to structure our presentation of the key results. The summaries presented here are taken from the individual reports, and readers seeking more detail are referred to these at the RICHE project website - http://childhealthresearch.eu/.
+
+Work package 1 Inventory of child health research
+
+There were two components to this work package, first the development of a taxonomy with which to classify items of child health research, and the second an inventory of these items.
+
+Creating the taxonomy (Denise Alexander, Michael Rigby, Nordic School of Public Health)
+
+The initial challenge faced by this work package was to develop a taxonomy structure that was clear and easy to use, but sophisticated enough to cover the diverse range of subject matter in child public health research. To achieve this aim, the RICHE project aimed for a taxonomy structure that was simple, broad in scope and as impartial as possible. Identifying projects is a key part of RICHE, but indexing research literature and grey papers is a partner activity, which builds up a picture of current and future knowledge and identifies research gaps. The taxonomy is the core framework for this, as well as a result in its own right.
+
+The need for simplicity but breadth of purpose in a taxonomy system was identified by a Cochrane Public Health Review Group update (12) which looked into taxonomies and search engines. They found that in some cases, it was essential to look outside traditional health and social care search engines in order to fully understand and conduct a systematic review on subjects that are relevant and pertinent to public health, such as justice and police databases. As far as the taxonomy structures were concerned, they identified limited indexing used in some databases as a potential problem. Where free text words are relied upon, variations in terminology used by different disciplines can create barriers and limit the value of the material retrieved in a search of the database. The WHO Family of International Classifications (WHO-FIC) definitions (13), echoes this concern, stating that “different health and health related professionals have developed their own sets of terms for their own purposes. But terminologies must allow unambiguous communication of meaning across health settings”. Thus in the RICHE project, it was felt important to develop as many synonyms as possible by the use of existing thesauruses as part of the web platform development.
+
+Another issue that was taken into account when developing the RICHE taxonomy was to ensure that the model chosen was sensitive and specific – the ability to find all key texts within but also beyond traditional search patterns and domains, while not leading users unnecessarily towards evidence that they may not be seeking, thus swamping them with irrelevant material. The taxonomy was also designed to be as neutral as possible, despite the fact that a certain number of arbitrary decisions must be taken initially about the taxonomy’s hierarchy. In a study of the taxonomy of health economics models, Brennan et al. (14) identify this as a challenge and a problem that is not often highlighted in research, and yet may have an effect on the results of a study. The authors argue for simplicity, and transparency, of the choice of taxonomy or model where it is relevant in a research area.
+
+Taxonomy:
+
+Before the taxonomy was devised, definitions and parameters of the project were agreed by the work package and project teams. These were:
+
+A definition of the taxonomy and its purpose in relation to the RICHE project
+
+A definition of the research that would be catalogued – child health research or public health research.
+
+The stakeholders in the project – who will use the RICHE web platform and taxonomy?
+
+This ensured clarity of purpose for the project from the outset.
+
+Definition of taxonomy:
+
+As a foundation, a definition of taxonomy was discussed and adopted. The Oxford English Dictionary defines taxonomy as:
+
+“Classification especially in relation to its general laws or principles; that department of science, or of a particular science or subject, which consists in or relates to classification.”
+
+It differs from a typology in that it forms a complete system, where the relatedness of the items within the taxonomy is part of the classification process. By nature, therefore, it is a hierarchical system that must begin with broad definitions and then move to the more specific terms. Thus a classical ‘Linnaean’ taxonomy moves from:
+
+Phylum – Class – order – family – genus – species
+
+This means that an individual organism can not only be identified using the taxonomic classification system, but can also be placed within the larger system alongside other organisms that are similar in composition or nature. Thus additional meaning is generated via the taxonomy.
+
+To some extent, classifications are arbitrary and subjective, although they conform to empirically observable and measurable characteristics. Such rules for defining taxonomies can be adapted to create a classification of many subjects, including that of child health research and public health research. Common sense and logical, agreed-upon, definitions make the taxonomy easy and rewarding for contributors and interrogators of the resulting database. In the RICHE project the taxonomy general headings were designed to be as broad as possible in order to reflect the wide-ranging nature of child public health.
+
+In addition, to dispense with old-fashioned ‘silo’ working, it was felt important that subjects relating to health, but outside a traditional ‘health’ remit be included, including education, justice system and environmental issues such as town planning. Thus, subject headings that are lower in the hierarchy had to be relatable to each other. In addition, the taxonomy structure had to be capable of identifying areas where there are no entries, but moreover being able to accommodate new entries to the taxonomy without disrupting the hierarchical system. For example, a decade ago ‘cyberbullying’ as a cause of stress and even suicide would not have been anticipated.
+
+Elements of different taxonomies and reference systems were considered and adopted as appropriate by the project. This was to ensure that RICHE best reflects the users and uses of the project database. There are numerous taxonomies in existence, as evidenced by, for example the Taxonomy Warehouse website www.taxonomywarehouse.com/. In the time afforded by the project it was impossible to examine all the taxonomies available in detail, but certain taxonomies and classification systems used by general, robust sources, were investigated and drawn upon. As stated by the Health on the Net architects, ‘we don’t want to reinvent the wheel, but rather we wish to take advantage of past work’.
+
+Content, Maintenance, and Structure of the taxonomy:
+
+An underlying logical structure for a taxonomy is essential for its effective use. Taxonomies must be usable both by those indexing material, and by those searching for it. In our case, where most material was entered by project partners, working in fifteen different countries, ease of use at both tasks was absolutely critical. A number of designs were produced and reviewed, but after several iterations, the RICHE taxonomy is now organised along six complementary axes, which are represented below (Figure 4).
+
+Inventory of child health research (Denise Alexander, Michael Rigby, Nordic School of Public Health)
+
+In the final analysis an inventory is a list. It may be useful, or not. It may be reliable, or not, but it is a structured collection of pieces of information. The main description of such a list is, of course, the list itself – which is accessible at the project website, at http://childhealthresearch.eu/. The key organising principle of the list is the taxonomy, described above. Further details of the taxonomy, especially its multi-lingual features are provided under the heading of WP5.
+
+The inventory contains a number of different types of information, including some journal articles, many pieces of grey literature, a structured list of child health indicators (see WP2 below for more details), a list of research funders active in Europe, and a list of major completed and ongoing research projects relevant to child health, which have received EU funding, or funding from major national funding agencies.
+
+For each of these categories, it was necessary to make decisions as to how the material would be stored, retrieved, and displayed. In addition, the taxonomy was revised as new requirements became evident for each new category of data.
+
+The primary role of the Inventory on the project is to feed into the work of WP3 on Gaps in child health research, and WP4, a roadmap for child health research.
+
+Work package 2 Child health indicators:
+
+This workpackage covered a number of different areas related to the measurement of child health, nationally, regionally and for international comparisons.
+
+International Indicators, Denise Alexander, Nordic School of Public Health:
+
+An indicator is a means of demonstrating in a concise way, a particular situation – be it a health issue, a service performance, population status or similar. Such indicators are, whenever possible, based on previously recognised and scientifically validated measures of the phenomenon concerned. They are fuelled by data, whose availability, comparability and accuracy determine the utility of the indicator in practice. International indicators give comparable information at the national level, and may be compiled for a global region of affinity such as Europe, or for the whole world. This information is increasingly vital in Europe as the European Union enlarges, encompassing new countries with very different histories, cultures and living conditions. This means to some extent that the locus of European international indicators needs to change. International indicators can facilitate better health through example and experience, but they need to be relevant and informative to the populations they describe.
+
+Indicators need at once to be precise and specific, but also descriptive and imaginative in their ability to describe the health and the influences on health of children. Specific issues that need to be considered in terms of international indicators are the need for comparability across nations, and yet, if possible, to take into account cultural and national differences between the countries and the influences of these differences on health and health behaviour. In addition to measuring children’s health, indicators and the resulting statistics work to improve children’s health by identifying successes which can be sources of learning, and others where health needs to be improved. On an international – and ideal – scale, this can help bring all countries in Europe to the same level. In the WHO European Health Report 2005, geographical Europe is identified as a continent where children’s health is polarised:
+
+“On the one hand [Europe’s] most developed countries are amongst the healthiest on the planet in terms of longevity, late onset of disease and disability … on the other hand, the Region also contains poor countries that are still struggling with severe ill health among younger groups in their populations.... Further, all countries, even the most affluent, have vast and growing inequalities in health between the richest and poorest people. (15)”
+
+There is a very real need for more comprehensive international indicators that describe children’s lives and health. The International Society for Child Indicators (ISCI) and the UN Committee on the Rights of the Child recommend that all states
+
+“Should establish a national system enabling disaggregated data to be collected in all... domains... with regard to all persons under 18 years of age, including those who belong to the most vulnerable groups (for example migrant children, children with handicaps, children in economically disadvantaged families, children who are in conflict with the law etc) and to ensure that the information thus collected shall be used to assess... progress made... and to define appropriate policies.(16)”
+
+Health and health related indicators are an important way of quantifying the state of children’s health and the actions of the environment and other determinants of health on the child population of Europe. Although they do not provide the whole picture, good indicators give an interesting and informative indication of the health status, trends and determinants of the children of Europe. It is also recognised that there are a number of existing statistics and catalogues of information that may contain information of great utility to child health practitioners, policy makers and researchers but which have not yet been analysed in a way that draws out the important information about children’s health and well being, that already exists, in Europe.
+
+Indicator development:
+
+Indicators can be complex to develop as they need to provide a glimpse of a much larger health issue or health determinant than they describe in the measurement. There is much research about the process that is undertaken in developing an indicator. For example, the EURO-PERISTAT project discusses the process that was undertaken when deciding upon including an indicator for the perinatal health of migrants (17). A large number of participants took part in a Delphi consensus process – where several individuals of different roles can comment upon a subject in a relatively structured way as consensus is agreed. After this process there was support for including country of birth in core indicator sets for perinatal health, the length of time in the present country was also supported as a secondary indicator that could complement routine data collection about immigration status, language and so on (17). A related discussion on the use and applicability of a ‘country of birth’ indicator for ethnicity and health concluded that this may have limitations, and articulation of ethnic background may be more informative. Using country of birth as an indicator only becomes useful if it is complemented with additional indicators that focus on culture and ethnic identity in the host country (18).
+
+An interesting aspect of indicator development, which in some sense is similar to cultural applicability of indicators, is the indicator’s suitability to a particular population defined by age - for example, interesting work into the incidence, pathology and outcome of patients of gynaecological cancers aged under-21. The study took place in South West England between 1995 and 2004, but used data from national and international cancer registries. It found that rather than survival / mortality indicators for this group of cancer survivors, more applicable and informative indicators would focus on future fertility and pregnancy outcomes, the presence of secondary tumours and long-term treatment-related complications (19).
+
+The Institute of Medicine (20) proposes new child indicators to measure child health and health services in the United States. As initial goals for health they state that indicators should be drawn from such national sources as Healthy People 2010 and Healthy People 2020 – which focus on goals for health and health promotion within the United States. The IOM recognises the need to go beyond a traditional focus on morbidity, mortality and chronic and acute conditions and identified seven priority areas that inform the creation of standardised indicators and data measurements. These are:
+
+Childhood morbidity and mortality:
+
+Chronic disease conditions:
+
+Preventable common health conditions (especially mental and behavioural health and oral health)
+
+Functional status:
+
+End-of-life conditions:
+
+Health disparities:
+
+Social determinants of health:
+
+Also, the IOM document stresses that essential to these goals is the need to look upon each indicator with a life-course perspective. So that changes over time and as a child grows and develops can be taken into account. Only then will truly valuable intelligence about the health of the child population in the United States be gained.
+
+Discussion and identified Gaps:
+
+Our report describes some of what is being done, and thus, what we know about international indicators in Europe and on a global scale. Indicators are used in their thousands throughout health and other disciplines that affect children, and on the whole are informative and useful. The international indicators used in Europe are only touched upon in this investigation, and is perhaps in itself one of the issues as to why children’s health and well being in Europe are somewhat poorly described compared to the adult population, particularly at certain ages of life. Figure 4 describes the process and possible benefits of international children’s health indicators.
+
+It is this sheer volume of indicators that can be bewildering and this may be a barrier to their use. One of the important outcomes of the RICHE project is the RICHE indicator resource, which should be able to help collate and make sense of the indicators available and ultimately, determine a few that will tell us most about a child’s world. However, this task is challenging particularly as we have found, children’s lives and priorities of health change constantly, and indicators must take account of this and work to describe the present as well as recording trends from the past and predictions for the future. In turn, this may link into the determination of the need for further application research. Child health indicators in particular, should also focus on the use of information for decision-making (within the health sector but also more widely in society on issues which nevertheless affect health), and on the inter-linkage between objective information and policy.
+
+The gaps in international indicators for children can be described as fitting two very broad categories. One category describes the areas in which there are no indicators at all. The extent to which this is the case is extremely difficult to quantify as we are trying to count what is not there. But some things are evident such as lack of behavioural indicators on obesity. Socio-economic status and its effects are well researched but there is a gap in that some populations are obviously still out of reach of health improvement. Recognising that we do not know everything is an important step in looking for areas where there is little knowledge due to a lack of indicators or data to populate them.
+
+The second category is where indicators exist but there is nothing that can be used effectively internationally. As the WHO European Health Report (2005) states, there are a number of indicators and statistics at an international level, some of which are well populated and used, others of which are patchy in their coverage, and yet more which represent ideal indicators that are not yet realised by the statistical collection methods in many countries in Europe. This is an important gap in the science and utility of international indicators. In some cases, data to populate an indicator are only collected in very few countries, or are all collected differently, and cannot be compared adequately to draw robust conclusions. The EURO-PERISTAT project identified this issue as a problem and obesity prevalence provides another example, as do many other subjects. Universal comparability of data is probably impossible to achieve due to a number of reasons, but work to continue to make data as comparable as possible – through statistical manipulation and other means – is valuable and should continue.
+
+Sub-national indicators of child health &amp; the European Union, Lauren Brennan and Mitch Blair, Imperial College.
+
+The health and well being of children living in the European Union varies widely both between and within individual nations. Understanding and reducing this inequality is a priority for the European Union (EU). The EU outlined a framework for tackling this inequality in its 2007 White Paper; Together for Health: A Strategic Approach for the EU 2008 – 2013 (9). An integral part of this process is to improve the availability and quality of data collected nationally and sub-nationally to further understanding and facilitate decision making. Over the past forty years the EU has made substantial progress in developing and using indicators to evaluate population health at the national level (21–23). In the 1970s the need for sub-national indicator data became apparent, stimulating research and system development, for example, the ISARE projects (24). Over the past ten to fifteen years significant progress has been made on developing indicators specific to child health (25).
+
+Methods:
+
+We searched English language grey and peer-reviewed literature, programme and statistical office as well as national and international organisation websites (including reports and other publications, press releases, databases, links and references) for information on the development, collection and use of child health indicators at the sub-national level. Search terms included those related to health indicators in general (such as child health, indicators, health status and inequality), measurement and assessment processes (including health information and health examination surveys) as well as specific individual indicators focusing on those from the CHILD (Child Health Indicators of Life and Development) list (such as road traffic accidents, obesity and asthma) (25). When additional potential search terms, links or references were identified within published material or on websites they were explored as well. While there were several sites that were rich in resources and links, there was no centralised repository containing all the indicators. To facilitate future searches a working draft spreadsheet with links to data and information sources for the list of CHILD Health Indicators was created (available on the RICHE website). We searched statistical stakeholders involved in collecting and using sub-national indicators, explored issues with data collection and presentation in the EU, reviewed the use of sub-national indicators in assessing and improving health and sought examples of effective sub-national data use by member states.
+
+Conclusion:
+
+There has been substantial investment of time and resources in identifying and developing health indicators for the EU over the past fifteen years. While significant progress has been made, issues with data availability remain and progress on child health indicator collection has been limited. There is a fair amount of overlap among groups working on health indicators in the EU. Greater coordination and resource sharing could potentially improve productivity, cost and time efficiency (26). Research funded by the EC has stimulated and improved statistical development in member nations. There is good evidence that sub-national data is being used to inform health care policy and resource allocation (24).
+
+Availability of sub-national child health indicator data for individual nations may be greater than for the EU as a whole, where it is very limited, though varying by country. Continued guidance and support of member state statistical development and ongoing surveillance should be encouraged. As the stability of data collection, availability and use can be affected by economic and political change, the EU should also continue its standardisation efforts, particularly regarding sub-national indicator collection, and expanding the Eurostat regional database, eventually adding infra-local area information. In addition to encouraging member state to collect them, sub-national child health indicators should be included in future European Health Examination and Health Information Surveys.
+
+Recommendations:
+
+Greater EU direction for future research &amp; programmes
+
+Develop and maintain a visible roadmap of prior work
+
+Link new with prior / established projects to facilitate the sharing and listing of resources
+
+Develop training, and possibly mentoring, programmes for research / project groups
+
+Prioritise CHILD health indicators in EU data collection
+
+Support Eurostat in expanding and improving sub-national data collection and collation
+
+Continue encouraging and supporting member state sub-national data collection &amp; utilisation; further develop EU collection (ideally within Eurostat)
+
+Establish an EU Child Health Observatory to assess, coordinate &amp; promote health across Europe
+
+Secondary Data – Quality issues in international comparisons of child health based on administrative data, Anders Hjern, Nordic School of Public Health
+
+In the earlier Project CHILD (Child Health Indicators of Life and Development (25)) many contributions and discussion dealt with theoretical aspects of indicators of child health. Based on this material a set of indicators was defined and proposed. No data was collected within the project CHILD frame, but some data has been collected based on the CHILD indicator framework, most notably the 2003 NOMESCO report of Children’s health in the Nordic countries (27) (1) and the WHO European Health Report of 2005 (15). In RICHE WP2 we have expanded the theoretical scope of child health indicators to new and important areas that were not dealt with in project CHILD, and we have also started to deal more with practical issues of data sources in two papers on subnational and international indicators (See the section above).
+
+A parallel project, our sister project EURO-Peristat, followed a similar path. In contrast to Project CHILD that was finished in 2002, EURO-Peristat found ways of continuing their work. EURO-Peristat collected data from a great number of European countries and systematically analysed the main indicators to identify country specific quality issues. Based on this experience EURO-Peristat has defined a set of core indicators based not only on theoretical grounds but also on the experience of the quality of the data available (28).
+
+Project CHILD suggested a set of comprehensive set of indicators of child health. Some of those variables were based on surveys, like the WHO study HBSC. Others were based on data that is routinely collected for statistical purposes in most/many European countries (25).
+
+We discuss some general methodological issues regarding routinely collected data and some practical experience gained when the EURO-Peristat and CHILD indicators have been used in international comparisons of child health. Building on earlier papers prepared for the RIHE project, these issues should be raised in a more extensive and systematic manner.
+
+Some general issues:
+
+There are some general issues that are important for identifying artefacts in variations between countries and over time in child health indicators based on routinely collected data. Routinely collected data is often collected and used for quite special reasons. This specific context often varies between countries and over time. As an example, in Sweden data about children’s dental health has been routinely collected for many years from tax funded dentists to monitor children’s dental health on the national level. In more recent years these statistics have been used more and more in the evaluation of the dental services and very recently, in some counties, also for handing out funds according to population needs. One can easily see how the incentive for reporting caries shift when the economic gratification changes from good dental health to poor dental health, considering the great variations between professionals in defining what is a carious lesion (29).
+
+Similar incentives arise when funding of health and medical care is based on systems like the Diagnosis-Related Group (DRG), a system developed as a collaborative project by Robert B Fetter, PhD of the Yale School of Management, and John D Thompson, MPH of the Yale School of Public Health. According to this system the economic compensation for delivered care depends directly on diagnoses. A common consequence when this system is implemented is that diagnoses that have a high level of compensation, such as diabetes, are more often recorded.
+
+Many indicators of mortality and morbidity are based on a specific diagnostic system, most often the WHO International Classification of Diseases (ICD). This system is updated regularly. Currently the tenth version (ICD-10) is in use in most countries, but an eleventh version is under way. New diagnostic classifications contain new diagnostic concepts, often by dividing old concepts into several new concepts. This fragmentation of diagnostic concepts is usually not that problematic because indicators created in older diagnostic systems can quite easily be translated into the new system when this is done. It’s more problematic when more profound changes are made in the diagnostic systems. Such changes have been made in the psychiatric chapter of ICD-9. The concept of depression, for example, was extended considerably in ICD-10 compared with ICD-9, tending to create a secular trend for depression in hospital data when ICD-9 was replaced with ICD-10.
+
+New versions of ICD are usually implemented at different times in different countries, because of translation and other issues, affecting comparisons between countries. When a new version is implemented there is often a certain delay before it is well integrated into clinical practice, which creates transitory artefacts of lower rates.
+
+A general problem in administrative data, which is quite specific for children, is that it is often difficult to get statistical offices to break down health statistics for children in age brackets suitable for the age and gender variation of health indicators. This is particularly pertinent for all health parameters for the youngest children, and injuries and psychiatric disorders in adolescence where incidence rates vary greatly by age. Incidence rates for Sudden Infant Death Syndrome in the age bracket 0-4 years are not that helpful considering that most deaths occur during the first year of life, for instance, nor are suicide rates for the age group 0-14 year, as used by the WHO in the European Health report, when suicide deaths are extremely rare before puberty (15).
+
+A strategy for comparing routinely collected data on Child Health in Europe
+
+The information presented above clearly indicates that quality issues are a significant challenge in attempts to collect a comprehensive set of indicators of child health in Europe. Even if the data is available, quite a bit of the variation between countries can be expected to be caused by artefacts rather than by differences in the parameters the indicators were meant to capture.
+
+EURO-Peristat has shown that it is necessary to carefully analyse indicators created from variables in medical birth registers from a country specific quality perspective as well as from a theoretical standpoint. In the field of injury statistics a similar international collaborative group has been working since 1994 under the leadership of the National Centre for Health Statistics in the U.S (30).
+
+We have every reason to believe that other child health indicators based on administrative data, which have not been evaluated in an international perspective by others, need to go through a similar evaluation process before conclusions can be drawn about international patterns. Thus any future collection of comprehensive data on child health in Europe needs to have an analytic strategy that includes a time frame and funding that can allow for this phase of analysis and data quality assurance. An international reference group with detailed information about the country specific data sources is another necessity in this strategy.
+
+Electronic child health records, a case study from Iceland, Geir Gunnlaugsson, Reykjavík University
+
+An electronic health record (EHR) is a systematic collection of electronic health information about individuals who seek health care services. It has the potential to store health care information about the individual throughout his/her lifetime with the aim to achieve continuity of care at all times. It is a record in digital format that is theoretically capable of being shared across different health care settings. EHR may include a range of data, such as clinical observations, treatments, medications, laboratory tests, diagnostic imaging reports, allergies, and immunization status. In principle, with the implementation of an EHR the vision is to create a complete record of patient clinical encounters. To serve its purpose throughout lifetime, an EHR needs to be designed to facilitate data collection and analysis for preventive as well as curative care, and across different clinical settings.
+
+A vision of an EHR throughout lifetime requires it to be created at birth – or in the best of scenarios already during pregnancy. As most children in Europe are born in good health, and later enjoy preventive services delivered in well-baby clinics, private or state-run, an EHR for children (EHRc) is in most cases created to serve for the general surveillance of their health and development rather than curative care.
+
+Consequently, an EHRc needs to incorporate some key determinants of child health that might impact on later adult health. It needs to serve the child and family to monitor a period of rapid growth and development while at the same time it needs to be integrated with clinical records for curative care as well.
+
+After the first 5-6 years of life, depending on country, the child moves onward to be served by the school health services, mostly run by nurses who are supported by physicians. Health work with school children calls for a specially adapted EHRc that facilitates monitoring of each and every child during the period of compulsory school, in Europe usually 9-10 years. An additional value of such a record would be if important health data from the preventive health services in the pre-school years could be shared in the school setting, as found appropriate.
+
+Finally, a further goal of an EHRc is to have rapid access to well-defined indicators of child health such as those 38 indicators defined by the CHILD working group in 2002 (Rigby &amp; Köhler, 2002). Many of these indicators are difficult to collect and would need specific and costly surveys. An appropriately designed EHRc can, at least theoretically, rapidly deliver data to monitor child health and guide health policy-making within countries, as well as between European countries.
+
+Rationale for registration of health data:
+
+In principle, there are four main reasons why health data should be registered, i.e., for the (1) individual; (2) health professional; (3) society; and (4) research.
+
+It is in the interest of the individual care-seeker that the caregiver has good access to relevant health data from former visits. Good registry includes all relevant data that is built on former knowledge on him/her, and spares him/her the tiresome experience of repeating over and over again the same information. The registry data also contribute to the objective of seamless and continuous care on which to build clinical decisions to the benefit of the care-seeker.
+
+For the health professional, good registry data helps him/her to quickly have access to former history of the care seeker on which to build clinical decisions. This speeds up the clinical encounter, and facilitates high quality continuous care, irrespective of caregiver.
+
+Collection of health data is not only for the individual or the health professional. Good health data collected in an orderly manner can contribute to deeper knowledge on the health status of the population, as well as care-seeking behaviour patterns. Thus, it is in the interest of the society that such information is collected in a way that supports retrieval and subsequent analysis of relevant data regarding population groups. Such data can also contribute to improved quality of care to the benefit of the wider society, and sound health policy.
+
+Finally, good health registry data can be useful for research on clinical problems or preventive health issues. If systemically collected and of sufficient quality, access to such data gives opportunity for analysis of the health of whole populations that is both cost-efficient and effective in filtering out information that adds to existing knowledge, and useful for health policy making.
+
+Registration of health data:
+
+During a clinical encounter, either for preventive or curative purposes, it is important that the health professionals quickly access existent information on the care-seeker. In addition, it should be easy to collect and register clinical information during the clinical encounter and it should be protected from outside intrusion.
+
+As an impetus for quality improvement, clinic records could also include guidelines for treatment, information on drug interactions and red flags in case of clinical conditions that need to be considered, e.g., allergy to drugs. EHR can thus serve as an important decision-making tool in clinical settings, with a potential to improve quality of care.
+
+Until recently, most health data have been registered in paper-based clinic records. The information has often been handwritten and difficult to read, or typewritten. This format has also the disadvantage of being inaccessible for retrieval and analysis, either because of incompleteness and lack of systematic collection of data by different professionals.
+
+Child health records are particular in that they to a greater extent than clinical records for adults include (or should include) extensive preventive as well as clinical information. Thus, good child health records include, e.g., information on the demographic background of the child and its family, growth and nutritional data, development, health education as well as information on all encounters for curative purposes.
+
+Conclusions:
+
+The purpose of health informatics systems is to support health professionals in the delivery of care, and organizational staff in supporting and enabling these processes. Their effectiveness and safety in doing this are largely determined by two factors – the quality of the system as installed, and the competence of the users.
+
+In this report, the development in Iceland of EHRc/EHRs for the preventive health services are reported as a case study. From this experience, some conclusions can be drawn.
+
+The design and implementation of an EHRc/EHRs needs time and sufficient funds. In Iceland, this has been achieved by the collaboration of an inter-disciplinary group of health professionals who have without cost to the software company given their input based on practical experience from the clinical setting. However, funds have always been limited, resulting in less rapid development than planned.
+
+The process of defining what to include in the EHRc/EHRs has been by itself a learning process. It has helped the health workers to focus on issues that are crucial to register. However, as always, the tendency is to register more than less, which makes the EHRc/EHRs increasingly complex.
+
+In the EHRc, there is lack of direct interlinkage between the records for clinical care and that for preventive child health services. Thus, the user has to jump between different units of the journal record (e.g. regarding medications) that slows the registration process.
+
+Great attention should be given to how to retrieve the registered information in the EHRc/EHRs. To judge from the experience in Iceland, the computer specialists underestimate the complexity in designing proper and relevant reports, or do not prioritize such work. This may have been the result of financial constraints, or lack of proper follow-up.
+
+Gradual development of an EHRc/EHRs needs to ensure that data from an earlier versions can be retrieved without difficulty. In the Icelandic case, a new software structure in 2009/2010 has created a barrier to the use of earlier information.
+
+Within the well-baby clinic, the needs of the physicians are different to those of nurses. This fact needs to be addressed in the development of any EHRc/EHRs.
+
+Interlinkage of EHRc from different health care delivery settings is important. In Iceland, work is underway on a national EHR, accessible wherever a patient seeks care within the state run health services. Private health care services pose however a particular problem that needs to be addressed; yet, some private providers are now working with Saga, the electronic health record system.
+
+To respond to new needs, new ways of registering contacts in the EHRc are being developed e.g. telephone contact or comments, without the need to create a face-to-face formal contact.
+
+The true potential of the EHRc/EHRs for quality improvement needs to be seen, as well as how it fits with later records when the child becomes adult, and seeks mostly for curative care.
+
+The EHRc has great potential to monitor the health of the population, and to monitor care-seeking behaviour, both important for policy making. Appropriately defined EHRc/EHRs structures can create the basis for retrieval of information for key indicators of child health, e.g., breastfeeding rates, and growth.
+
+Future perspectives:
+
+Most countries in the EU today use electronic child health records to some extent or are in the process of introducing such records. Their use is however not universal and may depend on care-giver. There are many different products on the market, and most are neither designed nor targeted for use in the preventive child health services. This rapidly developing field needs to be explored and developed to the benefit of children in Europe.
+
+Future work could include the following:
+
+A European project could be established to collect and share experiences gained in the process of developing and introducing EHRc/EHRs in Member States/EEA. Such a project has the potential of facilitating the best use of these records with substantial benefits for each country as well as for Europe as a whole.
+
+Create an European electronic platform of key indicators on child health that are based on information in EHRc's,/EHR's and subsequently analysed for cross-country comparisons.
+
+Theoretically, such information could be made available in real- time if properly defined, collected, and then stored in an European data warehouse on child health. Important information to initially collect could, e.g., include breastfeeding rates, vaccination coverage, and information on growth of children. Later, results of screening tests, such as KidScreen, could be included to monitor child health and development. Such a warehouse could be linked to both public and private providers of child health services.
+
+Analyse the feasibility of long-term monitoring of child health based on information in EHRc/EHRs. As the information is collected prospectively, it opens up an unique opportunity for life-course analysis of collected information. This would give unprecedented opportunity to improve knowledge and give deeper understanding of issues relevant for child health and its determinants.
+
+Create European clusters of excellence in the use of EHRc/EHRs with the aim to promote and improve monitoring of child health by electronic media.
+
+Work package 3 Gaps in child health research:
+
+WP3 had the challenging task of identifying and justifying the gaps in European child health research. This is a challenging task, both practically and conceptually. It is not sufficient to show that an aspect of the lives of children has received little attention, reporting on gaps requires one to identify those areas that matter. An area may have been ignored because it is in fact, trivial, or because it is too hard, or too challenging, either for the researcher, or the wider society, to study, but is in fact very important. WP3 built on the work of WP2, which studied how child health could be, and was being, measured, and especially of WP1, which recorded major ongoing and recent research studies, and the grey literature arising from them.
+
+WP3 had two aspects, first a study of the content of European child health surveys, and second a series of studies to elicit expert opinion on gaps and priorities in child health research.
+
+Content analysis of existing child health surveys:
+
+The content of recent and ongoing child health surveys were analysed. The intent was to identify those topics, mainly within the frame of the ICF-CY (International Classification of Functioning, Disability and Health Children and Youth), which were well covered in such surveys, and those which were poorly covered. This gives some measure of the coverage of major topics by existing surveys.
+
+Taking those surveys for which we can access the instruments used, a content analysis was done by linking the surveys to both ICD-10 and ICF-CY. The links to ICD-10 allow us to evaluate how much research has been conducted on the different health conditions. The links to ICF-CY allow us to evaluate how much research has been conducted on children’s disabilities, and on the environmental factors that constitute children’s daily lives.
+
+Background:
+
+We used the UN definition of child, that defines a child as a ‘’human being below the age of 18 years unless under the law applicable to the child, majority is attained earlier’’(31).
+
+For the purposes of the RICHE project and throughout this paper for ‘child health surveys’ we considered only national or multi-country population or big scale surveys that have children (defined above), and their health as a focus. Children might be respondents of surveys, but this was not necessarily the case. Respondents might include parents, or other people taking care of the child, teachers, and others.
+
+As our intention was to include and explore concepts and areas that are important to health, but are not directly health concepts, we were interested in surveys on a range of different topics, e.g. education, free time, family, and others.
+
+WP3 largely based our work on structure and underlying concepts of the ICF-CY (32). The links to ICF-CY should allow us to evaluate how much research has been conducted on children’s functioning and on the environmental factors that constitute children’s daily lives. The use of this formal linking methodology to the ICF-CY is a reliable method to get a semantic definition of the content of the survey questions. In turn, this analysis allows us to see to what extent the concepts endorsed by the ICF are covered in the selected surveys’ questionnaires. The final outcome of this process is, at a macro-level, the definitions of areas that are represented, under-represented or over-represented. Items from selected surveys were linked to the ICF-CY. We used the standardised ICF linking rules (33,34) to identify meaningful concepts and link them to the ICF-CY.
+
+The ICF-based bio-psycho-social approach describes functioning as an interaction between health condition and environment, and disability as a state of decreased functioning associated with disease, disorder, injury, or other health conditions, which in the context of one’s environment is experienced as an impairment, activity limitation, or participation restriction. Disability is a difficulty in functioning at the body, person or societal levels, in one or more life domains, as experienced by an individual with a health condition in interaction with contextual factors (Figure 5). The ICF-CY definition of disability avoids twin fallacies, either that disability is only a medical problem, or that it is completely socially created.
+
+First we defined a formal structured approach to identifying major child health surveys across Europe. Then we devised a formal method for linking the content of these surveys to the ICF-CY and to ICD-10. ICF-CY coding was done to the second level. Fifty-eight surveys were identified through our search. In order to be eligible for content analysis surveys had to have their instruments publicly available, and in English. Twenty such surveys were identified:-
+
+1. The German Health Survey for Children and Adolescents (national)
+2. The Scottish Health Survey (national)
+3. Welsh Health Survey (national)
+4. Mental Health of Children and Young People in Great Britain (national)
+5. Scottish Schools Adolescent Lifestyle and Substance Use Survey (national)
+6. The Mental Health of Young People looked after by Local Authorities in England (national)
+7. Dutch National Food Consumption Survey (national)
+8. The Danish Health Interview Survey (national)
+9. Estonian Health Interview Survey (national)
+10. The Swedish National Public Health Survey (national)
+11. The Turkish demographic and health survey (national)
+12. Health behaviour in school-aged children (HBSC) (international)
+13. Survey on the mental health and well-being of children and young adults (international)
+14. Rights of Children (international)
+15. The European School Survey Project on Alcohol and Other Drugs (ESPAD) (international)
+16. PISA Programme of International Student Assessment (international)
+17. European Community Household Panel (international)
+18. European social survey (international)
+19. EU-SILC Survey on Income and Social Conditions (international)
+20. EHIS European Health Interview Survey (international)
+
+Although the set of surveys studied, did cover many items from the ICF-CY, coverage was very patchy, with some items, for example mental health, diet and alcohol intake, covered by most surveys, and others covered rather seldom.
+
+Discussion and conclusions:
+
+Seven national and 5 international surveys were children-specific or included children as well as other age groups. One national survey had a module for adults about their children (The Danish Health Interview Survey). Three national and 4 international surveys included persons from 15 or 16 years of age, whom, under our definition were considered children, even if they were considered as adults in these surveys.
+
+Only a few surveys covered the age group 0-5, resulting in missing data for this age group. Surveys including adolescents before the age of 15 were also not frequent. Respondents of young age could limit in some way the choice of issues to be investigated and require some sensitivity in formulating questions, but studies show that from 8 years of age children can report well on a lot of issues concerning them. Some of the surveys, instead of asking only adults about their children, included child-modules, in this way ensuring active participation of children and making them more visible.
+
+All items of 20 surveys were linked to ICF-CY. Starting from Body Functions, the most surveys covered Mental functions chapter: in detail the most covered categories were Energy and drive functions (wide range of questions on hyperactivity), Emotional functions, Weight maintenance functions. On the other hand, issues on memory (Memory functions), psychomotor functions, perceptual functions, higher-level cognitive functions, mental functions of language, calculation functions, experience of self and time functions, mental functions of sequencing complex movements were never investigated in any of the analyzed surveys. Sensory functions and pain and Digestive, metabolic and endocrine functions chapters were covered by 8 surveys, Cardiovascular, haematological, immunological and respiratory functions chapter – by 7 surveys. Main sensory functions (seeing, hearing) and pain were covered to some extent, but no surveys investigated issues related to additional sensory functions: taste, smell, touch, proprioceptive functions. Voice and speech functions were covered very partially: 3 surveys covered some fluency and rhythm of speech functions, but no surveys investigated voice, articulation, alternative vocalization functions. Small number of surveys covering Functions of the cardiovascular, haematological, immunological and respiratory systems could be due to the type of surveys, mainly health interview surveys. Issues on weight maintenance are covered by 9 surveys showing the importance of this issue in recent years. Other functions of the digestive, metabolic and endocrine systems are covered to a small extent. Sexual functions are missing from the Genitourinary and reproductive functions, although some surveys ask about adolescents’ sexual experiences and knowledge. It will be reflected in Activities and Participation domain. Neuromusculoskeletal and movement-related functions were covered to a very small extent, confirming the trend of a low coverage of Mobility chapter in Activities and Participation domain.
+
+Body structures domain was not covered a lot by the analyzed surveys maybe also due to their character: most of surveys were health interview surveys, only some of them had some tests of health examination surveys.
+
+In the Activities and Participation domain the most surveys covered Major life areas chapter (education and work issues) and Community, social and civic life, Interpersonal interactions and relationships and Self care. A wide range of questions on recreation and leisure, school life and alcohol habits were reported. An area not covered was about general aspects of carrying out single or multiple tasks, organizing routines and handling stress. An important area, poorly covered, with only four surveys covering any of the topics, was Mobility. It may be these issues are seen as not the most relevant to the general population, despite the importance placed on active life styles. Investigating problems related to mobility could be a particular issue when we speak about participation of children with disability.
+
+Self-care was mainly represented by Eating and Drinking activities, with no information on washing oneself, caring for body parts, toileting, and dressing. Interpersonal relationships were covered quite well by the surveys studied and covered different aspects and types of relationships: with family, peers, intimate relationships. However, more formal relationships (e.g. with teachers) were under-represented in these surveys. Recreation and leisure was the most commonly covered category from the Community, social and civic life chapter.
+
+Products and technology chapter (question on use of drugs, alcohol and food habits) and Services, systems and policies chapter were those environmental factors most often covered. Quite a wide range of topics on relationships and attitudes ranging from informal to formal, from inside of family to outside of family, peers and others were covered, but no survey went in more detail investigating this theme. A lot of issues were covered in Services, systems and policies chapters, most of them Health services, systems and policies.
+
+We understand that choices on how to collect data and what to collect are very complex and many factors should be considered. Official request, aims of the survey, available resources, traditions, are just a few to mention. Our linking exercise demonstrates that to some extent all four domains of ICF (Body functions, Body structures, Activities and Participation, Environmental factors) are covered in these surveys but the level of detail varies greatly. The bio-psycho-social framework is useful for identifying represented and/or under-represented areas, to show what is present and what is absent. We propose a European child health survey based not only on traditional health indicators, but built on the bio-psycho-social model and ICF. We should collect European indicators of the size of the problem of child health and functioning based on the Participation domains in the ICF: learning and applying knowledge, general tasks and demands, communication, mobility, self-care, domestic life, interpersonal interactions and relationships, major life areas (education and work), community, social and civic life. Accordingly programs to reduce disability and to improve children’s health based on the implementation of the Environmental Factors facilitators: products and technology; natural environment and human-made changes to environment; support &amp; relationships; attitudes; services, systems &amp; policies should be developed.
+
+Gaps in child health research:
+
+This piece of work had two goals. The first is to clarify the concept of a 'gap in research'. The intent was to unpick the values and concepts in use amongst practitioners and policy makers. The second goal, building on the inventory of work done by WP1, and the work on measurement done by WP2, was to identify and justify gaps in that body of research. Two main modalities – questionnaire-based e-survey and experts’ meetings - were chosen to collect stakeholders’ views about gaps in child health research as a basis for priority setting in child health research. Seventy two completed questionnaires representing experts’ opinions from 9 European countries were collected and analysed. Besides the questionnaire, other ways of experts’ consultations took place in Italy, UK, Austria and Sweden.
+
+Two types of analyses - text analysis and content analysis – were performed using the replies to the questionnaire-survey and contents from experts’ consultations. In the text analysis 5 clusters (medical conditions; research; disadvantaged population groups; social determinants; other) were identified. Two of them – medical conditions and social conditions – were central and explained the biggest part of lexical variety in the text. In the content analysis 26 themes were identified and all answers were attributed to one of these themes. The most frequent themes that emerged as main gaps in child health research were Mental health problems, Inequalities and disadvantaged groups, Family and parenting, Injuries and other environmental exposures, Obesity, nutrition, diet, Child development and well-being.
+
+In order to validate these results, a Delphi survey was carried out. The main areas identified by experts in the first e-survey and experts’ consultations, combined with the areas identified in the literature review, analysis of child health surveys (Deliverable.3.5), work of WP2 (Indicators) and inputs from WP4 (Roadmap) were selected and research questions for these areas were developed. After a consultation with RICHE partners and their feedback, this selection of key areas for research led to 72 items/research questions.
+
+The on-line Delphi survey on the 72 research items was performed in the period from 30th August to 20th September, 2012. For each item respondents were asked to express their level of agreement on two issues: need for further research and need for its funding. Sixty three replies from 14 European countries representing 10 different professional backgrounds were analysed. The analysis allowed us to rank the research items according to the degree of agreement among respondents in indicating them as priority for research and/or funding, and group them in 4 priority groups.
+
+This priority setting exercise provides some useful inputs to the roadmap for child health research (WP4) and it can be further used when discussing and setting the priorities in child health research.
+
+Procedure:
+
+While reviewing some of the methods for setting priorities, an important step was to identify and define the most important concepts to be used through the whole project to inform the process and to make them clear to all partners and participants to the priority setting process. These key concepts were the following:
+
+Gaps are subjects of some relevance to child health where either there is no research done, or the research which is done is not relevant to the European context, or the research is of such poor quality that it cannot be used to make sensible policy decisions. We take “relevance to child health” as being equivalent to “covered by the RICHE taxonomy”. Gaps may be better defined as knowledge gaps: type 1 gap – when there is no information at all; type 2 gap – when there is no sufficient information.
+
+Values: value-based approaches can be quite different: e.g. public health impact, child rights, economic impact, social impact and others. Values drive and justify the priority setting.
+
+Needs. Research needs must relate to the life of children in Europe, be based on coherent value judgements about what matters to children, and take into account the views of children, parents, child health advocates, practitioners and researchers.
+
+Rights and rights-based approach. In a rights-based approach to public health, everyone has the right to access and use the best current scientific knowledge about prevention and treatment. A human rights approach can reinforce the conceptual basis for existing health programs, and identify the need for new health policies and policies for health. They can help to ensure that health policies and programs are equitable, effective, evidence-based, robust, participatory, inclusive, and meaningful. This approach is crucial to representing the best interest of all children.
+
+Priorities. Knowledge gaps identified as being of major importance and/or relevance, based on needs and rights will become priorities. Not all the gaps will become priorities. And for the prioritisation process one needs also to make a judgement based on criteria, such as the expected impact of the research findings
+
+A range of methods were used, including a series of face-to-face meetings with experts, two Delphi processes, and an on-line questionnaire, to collect information on Gaps. The objective was to secure a broad base of knowledge about existing and on-going research, in the light of the inventory, research needs, and research priorities. A key finding was that there were many areas where there was some relevant evidence, abut there was very little guidance on how to turn this evidence into practice – this we described as an implementation gap. Of course, these are all value judgements.
+
+To link these results with a Roadmap further work was needed. The research topics identified in the Gaps work were prioritized by specifying the degree of “knowledge gap” and the level of “implementation gap”. This prioritization was based on the results of the Delphi survey in which respondents were asked to assess the need for further research and whether or not a topic is a priority for further European funding. The responses were categorized according to the level of agreement (high, moderate, mild, low).
+
+These results were used to assess the “knowledge gap” level for each chapter (research topic) in the Roadmap. This was done by counting the number of mentions for each chapter in the Roadmap i.e. the number of mentions in the “High Agreement Group”, the “Moderate Agreement Group” and the “Mild” and “Low Agreement Group” (these latter two were combined). The group scores were then weighted (the “high agreement group” was multiplied by a factor of 3, the “moderate agreement group” by a factor of 2, and the “mild/low agreement group” by a factor of 1. The resulting scores were then added up to give a total score. The total score was then divided into: 0-10=+ (low knowledge gap), 11-20=++ (medium knowledge gap), 21 and higher=+++ high knowledge gap.
+
+The “implementation gap” was derived by means of the evidence base, consultation with experts in each topic and discussed in the RICHE meetings that were held throughout the development of the Roadmap. Each topic has the potential to impact highly and positively on the health of children and young people in Europe, and as a direct result of this, benefit the health of the European population as a whole, both immediately and in the future. The degrees of the “knowledge gap” and “implementation gap” specified, helps us to identify where the major efforts in each topic need to be directed (Figure 6).
+
+Conclusions:
+
+Identifying research gaps is not an easy endeavour. It becomes even more difficult if a broad approach is chosen and stakeholders from a variety of institutional and disciplinary backgrounds as well as from different countries are involved. Identification of knowledge gaps and priorities is strictly entangled with values that each researcher or child health stakeholder attributes to specific themes or policy issues.
+
+We tackled this complexity by using a combination of established methods of priority setting in health research, from questionnaires built around a research gap framework which we developed ad hoc, to experts’ meetings in single countries, to a Delphi survey. The inputs received from experts were enriched by the work of other work packages of the RICHE project and continuous consultations among the project’s partners. Quite surprisingly, in spite of the different methods used and the great variety of stakeholders/respondents whom we were able to involve, there were some areas and themes that clearly emerged as most important in our search for research gaps in child health.
+
+First and foremost, child and adolescent mental health was identified by the great majority, irrespective of their background, as an area on which we do not know enough, all along the knowledge gap framework: we do not know enough about the current burden and trends, we do not know about causation, and we do not know about prevention and treatment. Since the common feeling and all available data confirm that mental health is, together with obesity and inactivity, the main challenge for child and adolescent health with consequences along the whole life course, this should be considered as the gap no.1.
+
+The early stages of life present a particularly important opportunity to promote mental health and prevent mental disorders, as up to 50% of mental disorders in adults begin before the age of 14 years. Children and adolescents with mental disorders should be provided with early intervention through evidence-based psychosocial and other non-pharmacological interventions based in the community, avoiding institutionalization and medicalization. Furthermore, interventions should respect the rights of children in line with the United Nations Convention on the Rights of the Child and other international and regional human rights instruments.
+
+Responsibility for promoting mental health and preventing mental disorders extends across all sectors. This is because poor mental health is strongly influenced by a range of social and economic determinants including income level, employment status, education level, material standard of living, physical health status, family cohesion, discrimination, violations of human rights and exposure to adverse life events, including sexual violence, child abuse and neglect. Thus an important aim would be to support research aimed at filling the gap in knowledge about mental health, including the delivery of health and social services for children and adolescents with mental disorders and psychosocial disabilities.
+
+Other important areas on which there was general consensus on our need for more research about both causality and effective interventions were:
+
+pre-conception, pre- and perinatal and early childhood exposures to both environmental and psychosocial factors
+
+risk factors for unfavourable outcomes, including health inequalities, looking at better understanding of causality paths and to policies and interventions to reduce outcomes such as child maltreatment, substance abuse, child obesity, and to promote healthy lifestyles and well-being
+
+continuity and quality care for all children with disability and chronic conditions, looking at improved access, effective treatment and rehabilitation.
+
+As explained above all three themes are in some way interlinked and also related to the issue of mental health.
+
+Besides these four broad areas, there was wide consensus about one crosscutting methodological issue
+
+the need to establish better data collection across Europe, both on current statistics and on ad hoc surveys, by adopting uniform definitions and methods, so that Europe-wide data are collected and the quality of data and the sample size can be the basis for valid analyses of cross country variance, temporal trends, associations with risk factors etc.
+
+A comprehensive and coordinated partnership of multiple public sectors such as health, education, employment, judicial, housing, social and other relevant sectors as well as the private sector could be important to fill in the gaps in children’s health and health related issues. It is quite clear that for most of these issues as well as the collaboration and interactions of a variety of disciplines and actors, a Europe-wide research effort is needed. Improving our knowledge and understanding of child health and how to improve it requires a much larger effort than just medically oriented research.
+
+We are aware that findings of our exercise have some limitations and thus have to be used and interpreted prudently. The response rate was not high and the aim to represent as many European countries as possible was achieved to some extent. Missing countries as well as missing professional backgrounds in our exercise probably create some unidentified gaps and some important expertise is missed.
+
+We believe that the findings of our exercise, despite the limitations, effectively informs the work of WP4 on the roadmap for research on child health in Europe.
+
+Work package 4 Roadmaps for child health research:
+
+The RICHE project is a response to a call to clearly identify gaps in European child health research, and to provide justified guidance on priorities for investments in research over the next decade.
+
+The RICHE Roadmap is based upon a sound, scientific evidence base. The project prepared an inventory of child health research and of measurements and indicators of child health in Europe. This was collated using a web platform – a resource that has developed into a useful tool for research knowledge and communication between researchers and agencies in Europe. This can be found at www.childhealthresearch.eu. In addition to this exercise, a formal study of the gaps in child health research was undertaken by carrying out surveys and interviews of researchers and research users across Europe. These results formed the basis for the RICHE Roadmap.
+
+The Roadmap is based on a life-course perspective. It covers the important phases of a child’s development, including the pre-birth phase, maternal health and pre-conception issues through to adolescent health and the different exposures to protective and risk factors, and to health services that a young person encounters throughout childhood and adolescence as they move towards adulthood. The RICHE project focused on the upstream determinants of health to identify where more work needs to be done to prevent avoidable physical and mental ill-health, disability and death in the population of European children aged 0-18 years. The concept of upstream determinants of health shows how the many influences and outcomes of children’s health are interrelated; a pattern that is reflected in the RICHE Roadmap.
+
+The work necessarily involves a series of value judgements, because there are no objective and unconditionally valid answers to the question “Is there enough research on this topic?”, nor to the question “Is this a topic of significance?”. Nevertheless, the RICHE Roadmap uses an inclusive and transparent process to explain the recommendations that it makes and the subjects that it chooses by making values and reasons for judgements as explicit as possible.
+
+The report is organised into broad subject areas, that reflect the key ‘gaps’ in knowledge about children and young people, or about particular aspects of their lifestyle and health. These key areas are described below, together with the key findings within each area.
+
+Life Course and Lifestyle:
+
+This section focuses on children as they age, and recognises the importance of continuing to research how factors before conception, during gestation and in the very early years of life can affect present and future health. The challenges that children face as they grow up are also highlighted – these can be created because of policy decisions that fail to take account of children and young people’s lives or because of the pervasive influences of individual circumstances that act as protective or risk factors for children’s actions. These influences must be balanced against a young person’s right, and developmental need, to experiment as they grow and become independent adults. The concept of resilience in childhood is also highlighted, and how research needs to focus on this important and powerful means of improving children’s lives. Finally, a principle that extends throughout the life course is that of mental health and well-being. This is probably one of the most important, if not the most important, aspect of children’s lives. Fostering well-being in children from the moment they are born, and throughout childhood will provide numerous individual and societal benefits. It is one that justly deserves a greater research focus.
+
+Socioeconomic and Cultural Factors:
+
+The socio-economic and cultural environment in which a child is born and grows up has a potent effect on a child’s health and well-being. Inequity, and inequalities in health between and within nations, often depending on socio-economic circumstances, are known to affect health outcomes. Those in the poorest areas have worse health and shorter lives than those in the wealthiest areas. In-depth research into the effect of inequalities and how policy decisions can minimise these effects is needed as a particular focus in this area. Other groups are at risk of marginalisation from health services and from opportunities that can maximise their health. These have been identified as having particular research needs, for example migrant children where further policy and research work is needed to identify how best to support their integration into their new societies and communities, while retaining their individual identity; children in the state care system are known to have poor health and social outcomes, so improving their health, and access to and accessibility of health services by focused research is important for the future health of these children; and children from minority population groups, in particular those who travel across nations, such as the Roma, need to have focused attention, to ensure that their health outcomes begin to match those of the general European child population.
+
+Social and Community Networks:
+
+The main influences on children and young people are their immediate family and community networks. This extends from the influence of the family as a warm and nurturing environment in which to grow up – and conversely a place of the most profound danger and threat if such a family environment is toxic; to the wider influence of school, and finally the broader community. Becoming engaged and involved in community life is beneficial for the entire population, not just for the children and young people directly involved. It is an aspect of children and young people’s experience that is important for well-being and social inclusion.
+
+Environment:
+
+The environment covers several different concepts, and the RICHE Roadmap describes the physical, virtual and also the perceived environment – all of which interlink in children’s lives, and have a profound effect on their health and development. In terms of the physical environment there is a need to investigate further how environmental pollutants affect children’s development in utero and throughout childhood. There is a need to look further at how prevention strategies designed for children living in areas of high pollution actually work, if they work at all, as there are still many unknowns in this area. In terms of the virtual environment there is a need for research and for health policy to catch up with the fast-moving developments of digital and new media communication. There are many unknowns about a phenomenon that is becoming an ever more salient, and possibly powerful, element in most European children’s lives. Child-focused research is needed on the new ways of communicating and forming peer groups which dominate children’s lives. It is essential to be able to keep children safe when they are using digital media by increasing their awareness of, and resilience to, cyber-bullying and other types of digital attack. Understanding the technology and the psychology of using such means of communication enables health promoting and health enhancing messages to become more accessible to children and young people.
+
+An interesting avenue of investigation is the potential for such new means of communication to access population groups that have been traditionally hard to reach – such as traveller communities or migrant communities. Safety is an important part of an environmental discussion. The concept of safety involves not only physical changes to the environment that reduce the likelihood of injury, but also safety from direct and social violence. Improved data on exposures to injury, improved data about morbidity to injury in children will allow research to identify the major risk factors and develop means to counteract these threats to health.
+
+Complex Health Issues:
+
+The majority of children in Europe are healthy, and ill-health is not a characteristic of this population as it is in, for example, an ageing population. However, there are certain health issues that affect children, and as such can blight an entire lifetime. This Roadmap does not focus on clinical issues, treatment plans and medication, but rather takes a population perspective. There are certain disorders that have a population-wide effect and are prevalent enough in the child population to warrant particular attention from a public health viewpoint.
+
+Mental illness is an issue where children are often treated in an inconsistent way across the continent, and there are even inconsistencies as to whether children can access services at all. Mental disorders can become difficult to treat and have far-reaching consequences on many diverse outcomes, such as socialisation, education, and the future prospects for an individual child. They cause stress on the individual, the family and community, all of which are in themselves risk factors for poor health outcomes. Research needs to establish the prevalence of common mental disorders in the child population, and also to strengthen the evidence base so that common definitions of diagnosis and treatment can be agreed upon.
+
+Sexual health is an important issue for young people not only in physical health terms, but also from a social health standpoint. Teenage pregnancy, for example, is still a problem for many young people, and has far-reaching consequences for the health of the young parents, the communities they live in and for the resulting children. We still need to know more about how to prevent teenage pregnancy in Europe and to explain why there are such different rates across the continent. Contraceptive services need further research, particularly in the controversial subject of providing contraception to vulnerable young people who are under the legal age of consent to intercourse. Sexually transmitted infections are becoming more common and research needs to be able to identify effective ways of providing messages, to young people, about how to prevent infection. Treatment of infection needs to be more accessible to young people, and research needs to evaluate how to achieve this, and how services can retain the dignity of the young people who use them.
+
+Overweight and obesity is a continuing problem in Europe, and one which will have immense consequences for population health for many years to come. There are diverse rates of obesity among children and young people across the European Union, and we do not know enough about how to effectively prevent or treat this epidemic.
+
+Neurological and developmental disorders are in one sense loosely related to mental disorders. There is a lack of standardisation in Europe about the classification and intervention of neurodevelopmental disorders, which needs to be addressed so that care of children can be improved across the European Union. Interventions need to be evaluated in respect of pain management; and disability needs to be regarded in terms of the abilities of a particular child, rather than the disabilities of the child. Greater use of the World Health Organisation’s ICF-CY system1 might be a productive means of allowing all European children to live to their personal potential rather than have to change to fit into an uncompromising environment.
+
+Health Services:
+
+The main research needs of the health services focuses on the prevention of poor health. Issues of access have been covered earlier. This is either through empowering children by giving them the tools and knowledge about good health, through health promotion activities; or through prevention interventions and other services, such as vaccinations and health checks. Comparing health services across Europe and evaluating the means of conveying health promotion messages are important directions for health research to investigate. Indicators need developing which reflect the effect of preventive actions, particularly among younger children. Health promotion activity has the potential to reduce the social difficulties that affect health, such as social exclusion, yet little is known or evaluated about the effects on diverse social groups – this must be remedied so that real health improvements can benefit Europe’s children.
+
+Vulnerable populations, such as those in deprived communities, need to have preventative services particularly targeted. However, there is a lack of systematic evaluation of such interventions, which compromises the development of new interventions and their implementation. Data about interventions needs to be made explicit in terms of the child population so that those who do not access services and those who need particular attention can be identified. Research needs to help health services of all types to become developmentally appropriate, for example teenagers have very different needs compared to young children or babies but both are important to gain and sustain good health.
+
+Public Health Infrastructure:
+
+Health surveillance is essential so that health needs can be identified and addressed effectively for the benefit of the child population. Yet, many existing sources of data are neither analysed, nor made available in a child-centric way. Children need to be made more visible in the data so that they can have more effective health promotion and health care on a population level. This is very important for specific disorders that become apparent in childhood, such as autism for example; or that profoundly affect the child population, such as injury morbidity; a topic that desperately needs more systematic research attention and surveillance.
+
+Closely related to surveillance is the need for establishing proper measures and indicators of children’s health and children’s lives. Developing a European dataset of indicators and using these as sources of information to learn about the trends in health for European children is vital for effective targeting of health action and budgeting of services. We cannot act properly without identifying and measuring the problem thoroughly first.
+
+Electronic health records are an emerging technology that has great potential, and one that needs to be developed and investigated further to encourage their use across the European Union. Children’s health and well-being can suffer due to breakdowns in communication between the many agencies involved in their upbringings, such as health, social and education services among many others. A safe and thorough system of electronic health communication would help to avoid such scenarios.
+
+Improving Research Capacity:
+
+Given that child health research is important, and that children’s lives matter, it is necessary to ensure that there are enough resources, both to do research, and to make use of the research findings. To sustain research activity, specialist training for junior child health researchers is needed, as are sufficient resources to maintain a critical mass of researchers and provide attractive career paths for them. In addition to this, the children and young people as subjects of research need to continue to be safeguarded by a consistently ethical framework, and information collected about children needs to be accurate, comprehensive and used intelligently so that interventions and services can be correctly directed. Much of child research also looks to the future, to the future of children and to the futures of the young people as they become adults. Recognising this need to look to the future necessitates taking a multi-disciplinary viewpoint which takes account of the many influences on children’s life and health.
+
+Conclusion:
+
+Our core value is to put children first in our work. We take the rights of the child seriously, and we are conscious that many children do not have the opportunity to exercise the right to health and healthcare that as European children they ought to have.
+
+The topics in this Roadmap are pragmatic in that they are researchable (within the grasp of presently available research methods and resources) and that they are likely to have a significant effect on the lives of European children. This will go a considerable distance in improving the health and well-being of European children who may not have benefited from Europe’s good fortune up until this point. At the very least, the RICHE Roadmap aims to begin a serious conversation across Europe about the need for research to focus on children and how this will ultimately benefit all members of the European population.
+
+There is a need for children to become substantially more visible in European society. At present many children’s lives are invisible to health surveillance and to research. Sometimes they are submerged with their families, as in the case of Roma or for children of illegal and undocumented immigrant families. Even in well-documented societies, children’s circumstances are invisible as data are collected from the perspective of economically active adults, or households. Therefore, an overarching recommendation in this road map is the establishment of a European Child Health Observatory with a simple remit to make European Children, and their lives, health and attainment of rights more visible. We also recommend continuing and extending the discussion to the edge of existing child health boundaries, to address topics such as the effects on children’s health of urban design and architecture, fiscal policy (which can affect many health issues), welfare, or health effects of immigration policy.
+
+The RICHE Roadmap hopes to point the way in which children can be fully recognised and respected as forming a valuable population and whose health and well-being contributes to the health of our present and future European society.
+
+Work package 5 Platform:
+
+One significant output from the RICHE project was the platform. This was a web-based tool that served several important purposes during the project. The key goals were to serve as a communications hub for the project, to support the collection of the various materials required by the project for example research projects, researchers, research reports, and to support the indexing and retrieval of these materials. The platform remains accessible at http://childhealthresearch.eu/.
+
+RICHE platform – Development process:
+
+The RICHE platform was developed by one of our partners, Open Applications Consulting Ltd. (http://openapp.ie), an Irish SME, with many years experience of open source development in the Irish health services. An open source development house was chosen as our partner because of our prior experience working together, which had shown that an incremental open source development process could deliver very high quality working software, on time, and within budget.
+
+While the broad outlines of our requirements were known and agreed before the start of the project, no very detailed specification existed, and the process we used did not require this, very costly, and slow preliminary work. An initial platform, with very limited features, was launched within a few days of the project start. This was developed, with regular releases of new capability every two to three months, over the next two years. The core platform capabilities for data entry were working by month 2, and for indexing and data retrieval by month 4. These capabilities were re-designed and considerably refined over the course of the project, but without this incremental approach it would have taken a year to 18 months to get the basic platform functions in place.
+
+There were monthly project meetings between the WP1 and WP5 teams, held at the OpenApp offices in Dublin, which allowed extensive regular interaction between the developers and the customers. At each meeting, the actual state of the platform was reviewed, and the desired state, that is the final goal, was refined in the light of implementation and usage experience since the last meeting.
+
+This allowed for rapid decisions as to the next steps in development, and, where necessary, backtracking from development work that was not meeting the desired goals. It also permitted rapid and flexible adjustment of the desired goal in the light of experience, and real world usage of the platform.
+
+Purposes:
+
+Communications hub:
+
+The platform served as a key tool for communication between project members, with facilities for adding news items, details of upcoming meetings, both within the project, and more widely, and a secured private area for uploading and sharing documents, for example prior to project meetings, and draft reports. Project members, and other interested parties, could register to use the website. On registration new members were asked to provide details of their background, their interest in child health, their research interests, and so on.
+
+Repository:
+
+The platform provided a structured space in which to store several different kinds of item. Front ends, using the same back-end technologies, and as much common design as possible, were created to allow registration of individuals, recording of research funders, recording of ongoing, and completed, research projects, recording of child health indicators, and the recording of items of the research literature. For each item an entry form was designed and made available for use by logged-in registered platform members.
+
+The most complex form was that used to record items of literature. While an interface was built to allow direct transfer of items from the PubMed database, for most items of grey literature, which was our principal interest, manual entry of all fields was required. People entering items had the options of directly uploading the item to our site, providing a link to another site where it was held, or simply entering a description of the item in question.
+
+Indexing and retrieval:
+
+Once entered, a range of tools were available to support searching for specific items, and to further classify items entered. The most basic classification, and the only compulsory classification, was that of item type. Every item added to our database, was of one of a number of types, for example, a person, a research project, a journal article, a piece of grey literature and so on. Searches could be restricted, and usually were, to find one or two types of item.
+
+An innovative feature of the platform is that given a text file in a recognised format, the text is searched to identify terms from the RICHE taxonomy. These are then displayed as a suggestion for classification to the user. This is not an automated classification system, which would have been far out of scope for our work, but just a tool to suggest possible terms to human indexers.
+
+Multi-lingual features:
+
+One very important goal of the platform was to support multiple languages. An advantage of the software stack used to support the project, Plone, was very high level of support for multi-lingual work. The platform supported data entry in multiple languages from Day 1. Initially the goal was to support automated translation, for example of project abstracts, and news items. This goal was overly ambitious, and after some months of development it became clear that it had a substantial negative effect on the performance of the platform, and that the quality of the automated translation was too poor to be useful to our intended audience. This portion of the code was removed from the website. However the taxonomy still supports searching in multiple languages, as discussed below.
+
+Taxonomy:
+
+The development of the taxonomy is reported in greater detail in the reports from WP1. Only those aspects of the taxonomy which bear directly on the platform will be reported here. The taxonomy has six axes, each containing many terms. There are now over 600 of these, and there is a well-defined process for updating the taxonomy with new revision appearing every six months.
+
+After extensive discussion with users in partner countries, it was decided that the key use case for multilingual features was multilingual search. That is, a search ought to be supported with terms in the user's own language, but which would return items tagged with the equivalent terms in other languages. In the same way a person uploading an item can tag the item using their own language, and these tags become available to people who use other languages.
+
+This was achieved by asking our partners to deliver translations of the taxonomy into their own languages. These translation were one to one, that is each term in the taxonomy was represented by one term, felt to be the best single translation, in every translation of the taxonomy, but synonyms of that term were provided in each language separately. To identify the optimum term, experts, who were native speakers of the target language, but who also had good English, were asked to select the best term from the available translations. Translations into ten languages have now been completed.
+
+Strengths and weaknesses:
+
+Overall the platform has met our key requirements. A flexible and supportive development team n OpenApp, with a process that encouraged open and honest communication was very important to achieving this. If unrealistic , or technically infeasible goals were suggested, this would be raised at the platform meetings. Both the search engine, with its innovative faceted interface, and the support for a taxonomy in 11 languages (so far), represent very significant developments beyond the state of the art, and it is expected that these tools will be packaged for further use in other open source development projects.
+
+The main weakness is the failure to achieve one of our original goals for the platform, that is to create a social network for researchers. There were two main factors at work here. Three large scale social network tools for researchers now exist – BiomedExperts (http://www.biomedexperts.com/), Academia (http://academia.edu/) and Research gate (http://www.researchgate.net/). These networks were in their infancy when our project started, but have grown rapidly. Linked-in has also recently developed features aimed at the research community. Our project could not meet the needs of the wider research community, and the needs of the child health research community are increasingly served by these services, especially ResearchGate. The second is that we underestimated the resources required to manage wider engagement. With hindsight we believe that we would have needed the equivalent of one full time person working on this aspect of the project alone. Such resources were not available.
+
+Potential Impact:
+
+Potential impact
+
+The main impact of our work is to contribute to the European debate about how best to support our children in the many transitions which they must negotiate successfully from conception onwards, to establish an independent and satisfactory adult life for themselves. This is not often considered as a purely health issue. One of our key conceptual bases is, of course, that health is a tool to achieve certain social and individual goals. These goals may be constrained in various ways, for example by permanent bodily impairment, but individuals, families, communities and societies have a duty and an obligation, now codified in the UN Convention on the Rights of the Child (31) to support children in achieving these goals. From this perspective, education, for example, is at least as important to child health, as, say, acute hospital services.
+
+We have come to two key conclusions which will bear repeating. The first is the observation, that for the topics we considered, there is more often an implementation gap, than a knowledge gap. This means that there is at least some pertinent evidence on how to manage a particular problem affecting children, but there is less, often much less, information on how to put this knowledge in to practice. In other words, we may well know what to do, or at least have some good ideas on the subject, but there are few guides as to how to do it.
+
+This is a critical deficiency. It makes it impractical for many service providers to adopt and adapt innovative programs from elsewhere. A partial solution is to make it easier to prepare and deposit reports of implementation studies on the Internet, and the RICHE project platform was established to do just that. We recommend a much more systematic approach to gathering and sharing information on the implementation of child health and well-being programs.
+
+The second observation is that there is very little routinely available information across Europe which allows us to see the lives of our children. There are, of course, very valuable surveys, in which RICHE partners take a full part, such as Kidscreen (35–37), and HBSC (7,38). These studies have added hugely to our knowledge of the lives and well-being of European children. However, examining the website of EUROSTAT, the OECD, and even the WHO, there is very little specific information on children. For adults, there are many specialist surveys, but there is also a large volume of routine data, on their health, their housing, their work, their educational achievement, and many other topics.
+
+By contrast, there is limited visibility of the lives of children in our societies. What does this mean? For many critical aspects of the lives of children we depend on one-off surveys for information. We do not in any way understate the value of these surveys, indeed many of the best attested pieces of knowledge about children's lives come from them. However, these surveys are inevitably based on samples, often small enough samples, of the total child population. They may also cover a limited number of countries. Such studies are invaluable to point out problems, concerns and issues. However, they do not support the kind of analyses which would allow more effective service planning. This is a task better suited to large scale routine data systems.
+
+As one example, a survey might identify that a small percentage of children fail to transition from primary to secondary school. Good routine data would tell you where those children lived, which schools they attended, and permit both locating the individual children to give them, and their families, appropriate individual support, and intervening in the specific schools and communities to minimise the problem in the future.
+
+European Child Health Observatory:
+
+One part of a solution to this, is to establish a European Child Health Observatory. One possible structure for this is a two-site centre linking and supporting child health relevant specific European Networks of interest. Broadly, this could be a hybrid between an Age Platform function (see www.age-platform.eu) but for children, a virtual centre of expertise, and a COST-type network.
+
+The Cores would host the overseeing Director and Deputy respectively, and each would have the dedicated time of (initially) 0.5 whole time support staff, to ensure timely responses. The Dual Core structure is to ensure operational and policy resilience, stability from organisational changes, and balance of professional views; the specific functions of each core would be complementary but deeply linked (on a similar model the Health Behaviour of School-aged Children (HBSC) organization links between the Universities of St. Andrews (UK) and Bergen (Norway), each having a specific role, and each supporting a network of national links).
+
+In the longer term this structure might well develop into a cohesive action collaborative akin to the European Innovation Partnership (EIP) for Active and Healthy Ageing, involving civil society and commerce as well as research and policy. Initially the vision is broadly the model of European collaboration on rare diseases, which started as a facility for networking, and has grown steadily to become a series of linked actions and platforms on networking, information, policy, and action, benefiting European citizens and society.
+
+Functions:
+
+The Observatory would not be a physical centre in the sense of housing professional staff, physical bibliographies or repositories, or regular courses. Rather, it would act as a reference point both for enquiries, and to initiate, stimulate, and where needed coordinate responses to new opportunities and new needs. Part of this would be to seek to promote Children’s Health in Europe in a similar way (eventually) to the Age Platform (www.age-platform.eu) (an EIP for Healthy Childhood might be a logical further outcome).
+
+It would also be a hub for special interest, expertise, and advocacy networks, stimulating them, while enabling them to form, grow, and gain strength, through appropriate coordination and facilities – the experience and outcomes of the European Child Safety Alliance, and the EURO-Peristat series of perinatal data projects, are models of what can be achieved. It would aim to draw together the many interest groups and activities promoting child public health or specific aspects, seeking not to impinge on their autonomy but to enable strengthening through coordination and sharing, while at the same time facilitating the channelling of expertise and advice to newer action lines. A biennial Child Health Policy and Research conference might be a particularly useful function, complementing other events.
+
+Physical Resources:
+
+The Observatory would have modest initial resources in the first instance:
+
+The part-time staff of the Dual Cores
+
+Serviced offices in the host institutions, including access to a Treasury or Research Support Office function
+
+Access to other Centres/Projects of Expertise, some of which would be network nodes
+
+Access to specialist networks as they developed
+
+Access to individual experts who on a specific topic could be commissioned to produce topic papers and/or represent the Observatory at meetings
+
+A web presence based on the current Child Health Research site (www.childhealthresearch.eu/).
+
+Financial Resources:
+
+The initial cost of the Observatory would be small, with core funding for the resources described, and support for travel to key meetings and strategically selected conferences, for an initial three years, when a review would be undertaken. Support in kind would be welcomed, provided it did not impinge on the Observatory’s independence, and its responsibility to consider all counties equally. The Observatory would be active, with relevant contacts, in exploring other funding sources, not least issue- and topic-specific ones. These would include not only Commission sources, but (among others) COST and ESF programmes and charitable benefactors.
+
+Networks:
+
+A key function of the Observatory would be to stimulate topic-specific networks, which would be largely self-governing as regards their technical work. Broad models are the European Child Safety Alliance and their projects and programmes, and COST networks.
+
+Examples of new networks which might emerge are:
+
+Data Pooling/Harmonisation, encouraging national child public health data centres to harmonise definitions, collate sub-national data, and extend the data collected to subjects recommended by the CHILD, ENHIS (Environment and Health Information System), and other projects, with an understanding that there would be mutual sharing of published data to enable comparisons, and a degree of shared European analysis (building in part on RICHE WP2). The UK has pioneered a child health and maternity intelligence network which might act as a model for other EU countries – see www.chimat.org.uk.
+
+The Cohort Study coordination function to be recommended by our sister FP7 project - CHICOS which developed a Child Cohort Research Strategy for Europe
+
+Development of methodologies to listen to younger children’s voices
+
+Children’s Health Advisory Panel network, building on the work of the European Patient's Foruem (EPF), and other similar experience
+
+Electronic record and child minimum data set network to pool experience and harmonisation to enable big data functions
+
+Quality in children’s healthcare network, covering all aspects of child health services, not just hospitals.
+
+Such networks, once established, would be largely self-managing, but would be strengthened by inter-network linkages, not least on issues such as data definitions, or mutual sharing of methods or evidence. The Observatory would also welcome links with other specific networks, such as the European Commission cross-DG group in child health issues and the EPHA-led Child Health Working Group, and would welcome creative relationships on child health with other initiatives such as the European Health Systems Observatory.
+
+List of Websites:
+
+Public website address:
+
+www.childhealthresearch.eu
+
+Contact details:
+
+Prof. Anthony Staines, RICHE Coordinator. School of Nursing &amp; Human Sciences, Dublin City University, Dublin 9, Ireland. Tel:00353-1-7007807. E-mail: Anthony.Staines@dcu.ie
+
+Prof. Michael Rigby, Deputy Leader RICHE. Senior Lecturer, Nordic School of Public Health, Nya Varvet Byggnad 25, Box 12133, SE-402 42 Göteborg, Sweden. E-mail: Michael.Rigby@nhv.se

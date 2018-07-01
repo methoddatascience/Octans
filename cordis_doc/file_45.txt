@@ -1,0 +1,87 @@
+A tangled web: FOXP2 and language-related neural networks
+The capacity for language is a fundamental trait of humankind, and is of intense interest across diverse fields including linguistics, anthropology, neuroscience and molecular and evolutionary biology. High heritability scores for linguistic abilities and disorders that involve language problems provide strong support for the genetic basis of language, yet its molecular underpinnings remain largely unknown. A major breakthrough was made in language genetics with the identification of a rare form of speech and language disorder caused by mutation of the FOXP2 gene in a large pedigree known as the KE family. This was the first time a single gene had been found to be responsible for a complex language disorder. Since then, more patients have been identified with similar phenotypes and FOXP2 mutations. FOXP2 encodes a protein that acts as a transcription factor, meaning that it regulates the expression of other genes. Thus FOXP2 can be used as an entry point to understand neuromolecular aspects of normal language development and related disorders.
+
+Summary description of the project objectives
+The overarching goal of this proposal, undertaken by the research group of Dr. Sonja Vernes, was to understand the function of FOXP2 and associated genetic networks in language related circuitry of the brain. Specific objectives included (1) exploration of the influence of FOXP2 on neuronal networks using model systems, including mutant mouse models and (2) definition of the genetic networks associated with FOXP2 and their role in language-relevant brain regions.
+
+Exploring FOXP2 in human neuron-like cell models
+To understand how FOXP2 influences neuronal networks, we have used two model systems; human neuron-like cells and mice carrying a mutation of the Foxp2 gene (NB FOXP2 uppercase denotes human and Foxp2 lowercase denotes the mouse version of the gene). We established human cell lines that can be cultured to display similar properties to human neurons (neuron-like cells). We used two versions of these cells, one that expressed the FOXP2 protein, and a control line that did not have any FOXP2. By comparing these two types of cells we were able to identify new genes that were regulated by FOXP2, many of which were involved in an important pathway acting in the brain - known as retinoic acid signaling (Devanna et al, 2014). This also led to characterization of the cellular effects of FOXP2 on neuronal phenotypes in these cells. We showed that FOXP2 reduces the speed at which these cells can migrate and increases the growth of the long projections (neurites) that the cells use to connect to each other and form networks (Devanna et al, 2014). Together, these data showed that FOXP2 interacts with the retinoic acid signaling pathway and regulates key processes required for normal neural circuit formation such as neuronal migration and neurite outgrowth (Devanna et al, 2014).
+
+FOXP2 influences neuronal circuitry in the mouse brain
+FOXP2 is highly expressed in the striatum, a region important for fine motor control, motor learning and in humans, motor coordination during speech (van Rhijn & Vernes, 2015). Striatal circuitry is highly conserved between humans and mice and for this reason we used mice to investigate the role of Foxp2 in the striatum. We utilised mice that carried a mutation in their Foxp2 gene that resulted in loss of Foxp2 expression in those animals. In this way we could observe the effects of Foxp2 mutation on the properties of the striatum and compare this with normal striatal development. This work has shown that Foxp2 affects specific circuitry within the striatum and the firing properties of neurons involved in those circuits. This work defines neuro-molecular deficiencies caused by reduced Foxp2 in the striatum and suggests mechanisms by which FOXP2 mutations in humans could lead to the observed speech problems in affected individuals. This work is currently being prepared for publication (van Rhijn et al, in preparation).
+
+
+
+Defining the wider molecular networks involved in language development and disorder
+FOXP2 regulates the expression of other genes, but what in turn regulates the expression of FOXP2? By defining the upstream factors that regulate Foxp2 expression we can better understand the wider molecular networks associated with language development and identify new factors that may contribute to speech and language disorders. To do this, we mapped FOXP2 enhancers (regions of the genome that control FOXP2 gene expression), and demonstrated how they were regulated by other transcription factors (Becker et al, in preparation). We also showed that one of these regulatory regions was affected in a child with speech and language deficits, suggesting that mis-regulation of FOXP2 could contribute to such disorders (Becker et al, 2015). To explore if genetic variation in enhancers were directly influencing brain volumes we also tested association between this type of variation and subcortical brain structures in >13,000 adults. We observed significant enrichment of genomic loci that affect the volume of the hippocampus within forebrain enhancers and showed association between a variant in an enhancer upstream of the ID2 gene and hippocampal volume (Becker et al, 2016).
+
+In addition, we have expanded our understanding of the genetic bases of language related disorders by investigating candidate genes in affected individuals and unbiased screens of language disorder cohorts. We investigated the role of the CNTNAP2 candidate gene in complex neurodevelopmental disorders (Rodenas-Cuadrado et al, 2014) and identified a syndrome resulting from complete loss of CNTNAP2 in children which is characterized by language impairment, autistic features, severe early onset epilepsy and intellectual disability (Rodenas-Cuadrado et al, 2016). We also screened a cohort of 43 children with severe and specific language impairment (SLI) for mutations in regulatory regions (known as 3’UTR regions). To do this, we devised a novel pipeline for identifying and functionally validating putatively pathogenic variants (Devanna et al, 2017). Using this pipeline we identified a functional, SLI-associated variant affecting a gene known as ARHGEF39 and its regulation in cells and post-mortem human brain, suggesting this may represent a new putative risk factor for SLI (Devanna et al, 2017). Furthermore, we identified 3′UTR regulatory variants across autism, schizophrenia and bipolar disorder cohorts demonstrating their potential impact on wider neurodevelopmental and neuropsychiatric disorders (Devanna et al, 2017). Together, our work shows the importance of understanding how genes are regulated and how this knowledge can be used to widen the molecular networks involved in brain development and language disorders.
+
+Outlook & development
+The Career Integration Grant and work undertaken during its tenure has made it possible to develop new avenues of research beyond the initial scope of the project. This includes wider investigations of the role of regulatory regions of the genome in brain development and language disorder (Becker et al, 2016; Devanna et al, 2017) as well as the study of FOXP2 and related genetic networks in a novel animal model (bats)(Rodenas-Cuadrado et al, 2015, Vernes 2016, Rodenas-Cuadrado et al, in preparation). Studying bats presents exciting opportunities to understand how language relevant genes and neural circuitry contributes to speech-relevant vocal abilities of bats (see Vernes 2016) and developing this line of research has now led to the award of independent Max Planck Research Group funding from the Max Planck Gesellschaft, a Human Frontier Science Program (HFSP) research grant and a Max Planck Interdisciplinary program grant. More information about our research can be found on the project website: http://www.mpi.nl/departments/neurogen
+
+
+References
+Becker, M., Guadalupe, T., Franke, B., Hibar, D., Renteria, M., Thompson, P., Francks, C., Vernes, S.C*. & Fisher, S.E*. (2016) Early developmental gene enhancers affect subcortical volumes in the adult human brain. Human Brain Mapping. 37(5):1788-800. doi: 10.1002/hbm.23136. *authors contributed equally
+Becker, M., Devanna, P., Fisher, S.E. & Vernes, S.C. (2015). A chromosomal rearrangement in a child with severe speech and language disorder separates FOXP2 from a functional enhancer Molecular Cytogenetics. 8: 69. doi:10.1186/s13039-015-0173-0
+Devanna, P., Chen, S., Ho, J., Gajewski, D., Smith, S.D., Gialluisi A., Francks, C., Fisher, S.E., Newbury, D. & Vernes, S.C. (2017) Next-gen sequencing identifies non-coding variation disrupting miRNA binding sites in neurological disorders. Molecular Psychiatry. doi: 10.1038/mp.2017.30
+Devanna, P., Middelbeek, J., Vernes, S.C. (2014). FOXP2 drives neuronal differentiation by interacting with retinoic acid signalling pathways. Front Cell Neurosci. 8: 305. doi: 10.3389/fncel.2014.00305.
+Rodenas-Cuadrado, P., Pietrafusa, N., Francavilla, T., La Neve, A., Striano, P. & Vernes, S.C. (2016) Characterisation of CASPR2 deficiency disorder - a syndrome involving autism, epilepsy and language impairment. BMC Medical Genetics. 17:8 doi: 10.1186/s12881-016-0272-8
+Rodenas-Cuadrado, P., Chen, S., Wiegrebe, L., Firzlaff, U., Vernes, S.C. (2015) A novel approach identifies the first transcriptome networks in bats; a new genetic model for vocal communication. BMC Genomics. 16:836. doi: 10.1186/s12864-015-2068-1
+Rodenas-Cuadrado, P., Ho, J., Vernes, S.C. (2014). Shining a light on CNTNAP2: Complex functions to complex disorders. Eur J Hum Genet. 22(2):171-8. doi:10.1038/ejhg.2013.100.
+van Rhijn, J. R., & Vernes, S. C. (2015). Retinoic acid signaling: A new piece in the spoken language puzzle. Frontiers in Psychology; Language Sciences, 6: 1816. doi:fpsyg.2015.01816
+Vernes, S.C. (2016) What bats have to say about speech and language. Psychonomic Bulletin & Review. doi:10.3758/s13423-016-1060-3
+
+Project logo:
+
+see attached file “logo_NVC_long_rgb.eps”
+
+
+Promotion of the project (see also dissemination activities):
+2017 'Talking Convergence: Growing evidence links FOXP2 and Retinoic Acid in shaping speech-related motor circuitry
+Negwer M & Schubert D. Frontiers in Neuroscience
+Invited commentary highlighting Devanna et al. 2014
+http://journal.frontiersin.org/article/10.3389/fnins.2017.00019/full
+
+2017 BioMed Central On Biology Blog
+‘The bat blueprint’
+https://blogs.biomedcentral.com/on-biology/2017/03/08/the-bat-blueprint-bat1k/
+
+2016 BioMed Central Blog
+'What can bats teach us about human language, diseases, and tequila'
+http://blogs.biomedcentral.com/bmcseriesblog/2016/04/15/can-bats-teach-us-human-language-diseases-tequila/
+
+2016 Nature news article
+Geneticists hope to unlock secrets of bats’ complex sounds
+http://www.nature.com/news/geneticists-hope-to-unlock-secrets-of-bats-complex-sounds-1.20997
+
+2016 Scientific American news article
+Geneticists hope to unlock secrets of bats’ complex sounds
+https://www.scientificamerican.com/article/geneticists-hope-to-unlock-secrets-of-bats-rsquo-complex-sounds/
+
+2015 'In the spotlight article' S. Vernes - Nederlandse Vereniging voor Gedragsbiologie
+http://www.gedragsbiologie.nl/Newsletter/NVG_nieuwsbrief/NVG_24_2.pdf
+
+2015 Rodenas-Cuadrado et al, 2015 listed as one of the most influential articles of 2015 by BioMed Central
+http://www.mpi.nl/departments/neurogen/news/bat-transcriptome-paper-in-list-of-most-influential-articles-of-2015
+
+2015 News site - Max Planck Institute
+'Bat genes could provide fresh clues about the neurobiology of human speech'
+http://www.mpi.nl/departments/language-and-genetics/news/bats-could-provide-clues-about-the-biological-basis-of-human-speech-and-language
+
+2015 Spectrum News - SFARI
+'Double-dose mutation in language gene points to new syndrome'
+https://spectrumnews.org/news/double-dose-mutation-in-language-gene-points-to-new-syndrome/
+
+2015 Good careers guide - Interview
+http://www.gcgaviator.com/careers-for-someone-who-loves/188/
+
+2014 'FOXP2, retinoic acid, and language: a promising direction'
+Benitez-Burraco & Boeckx. Frontiers in Cellular Neuroscience
+http://dx.doi.org/10.3389/fncel.2014.00387
+Invited commentary highlighting Devanna et al. 2014
+http://journal.frontiersin.org/article/10.3389/fncel.2014.00387/full
+
+2014 Spectrum News - SFARI
+'MicroRNA may suppress autism gene expression'
+https://spectrumnews.org/news/genetics-microrna-may-suppress-autism-gene-expression/

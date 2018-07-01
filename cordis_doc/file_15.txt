@@ -1,0 +1,395 @@
+Executive Summary:
+The ‘Emerging mental health systems in low- and middle-income countries’ (Emerald) programme was carried out over five years from 2012 to 2017 in six low- and middle-income countries (LMICs) in Africa and Asia (Ethiopia, India, Nepal, Nigeria, South Africa and Uganda). The aim of the Emerald programme was to get a clearer understanding of how to improve mental health systems in these six countries, in order to provide more and better care for people with mental illness. The reason for starting the Emerald programme was to try and help reduce the large ‘treatment gap’ that exists for mental illness worldwide, whereby a large percentage of people with a mental illness (over 75% in LMICs) do not receive any form of treatment or care for their mental illness; for the minority of people who do receive care for their mental illness, the care is often inadequate or of poor quality.
+The Emerald programme took a broad approach to improving the mental health care systems in the six countries, which has involved work across four areas: 1) identifying the resources, and financing mechanisms that are needed at the health-system level, to enable the provision of mental health care in a way that is adequate, fair and sustainable; 2) identifying the processes that need to be in place within the health system, in order for mental health care to be integrated into other existing health services at the primary-care level (such as primary health clinics, general hospitals and GP facilities); 3) specifying the information that needs to be collected and monitored within the health system, in order to assess how well mental health services are performing; and 4) enhancing the skills and competencies of three target groups in the six countries (mental health researchers; policy-makers and planners; and service users and their caregivers) to plan, implement, evaluate and sustain health system improvements.
+The Emerald programme’s results and achievements have been wide-ranging. These have included the following:
+• A new module for the OneHealth Tool (see http://www.avenirhealth.org/software-onehealth.php) has been developed and used to estimate the costs and health impacts of mental health care provision in the six Emerald countries. This has resulted in the finding that the resource needs to expand mental health services to the desired level are not large in absolute terms but that the resulting improvements in health are substantial; for example, in Ethiopia, Nepal and Uganda, the projected cost of delivering key mental health services for psychosis, depression and epilepsy at target levels is under US$ 0.50 per head of population.
+• Emerald has found that having a household member with a mental illness has a severe negative economic and social impact, and that this negative impact is greater if the person has a mental illness compared to a physical illness. This finding indicates that it is essential to improve access to mental health care, preferably delivered through primary care and community-based health care platforms, for example by: i) including mental health care within Universal Health Coverage plans, and ii) providing financial assistance in the form of disability grants or cash transfers for people living with a mental illness.
+• Emerald’s analysis of each country situation led to the recommendation that Social Health Insurance models offer the most promising avenues to achieve sustained resourcing for mental health, as well as improving the efficiency with which resources are used for mental health, by moving away from specialised care to primary health care services. There is a need for continued advocacy for mental health services to be included in the benefits packages under these social health insurance financing models, to increase the political will and tackle the low priority given to mental health.
+• Emerald found that the integration of mental health into primary health care requires more than just technical training and supervision of health care providers in the required clinical skills. This training needs to be accompanied by systems strengthening to support integrated mental health care. This includes systems interventions to support integrated chronic care and patient centred care at an organizational level as well as workforce preparedness interventions that include relational leadership skills, clinical communication skills and emotional coping skills. Such systems strengthening to support integrated mental health care varied across the six Emerald countries depending on country needs but was found to improve patients’ experience of overall chronic care across the countries.
+• As part of these workforce preparedness efforts, a Clinical Communication Skills training module was developed and introduced into the national scale-up efforts in South Africa to support integrated mental health care into primary care services; the training module promotes a patient-centred approach, necessary for the diagnosis and treatment of chronic conditions (including mental disorders). The training module is also being adapted for use in Ethiopia.
+• In Nepal, psychotropic medication has been included on the free drug list in response to research carried out by Emerald and the resultant advocacy efforts by the Emerald team in Nepal.
+• Emerald developed a set of indicators that can be used within the routine mental health information systems in LMICs to monitor the provision of mental health services in primary health care. The set of indicators has been tested within Emerald, with the results showing that it is possible, useful and acceptable to integrate the indicators into routine monitoring of mental health care within existing health information management structures in LMICs.
+• Emerald has supported ten PhD students (three from Ethiopia, two from India, two from South Africa, and one each from Nepal, Nigeria, and King’s College London, respectively), and two MSc students (from Nepal and Nigeria). They have the potential to make important contributions to mental health systems research in LMICs through their PhD/MSc work and through their future activities.
+• A series of training courses has been developed and used for mental health researchers; policy-makers and planners; and service users and their caregivers. This includes 27 Masters modules; three short courses to support mental health systems research; a workshop on mental health care planning; and a workshop and manuals to support service user advocacy and empowerment. The materials will be made freely and openly accessible online.
+• Models of best practice have been developed for training activities and collaborations between the global North and South, and within the global South. Emerald has highlighted the importance of appropriateness, reciprocity and sustainability within these collaborations, and that people in LMICs should drive the process of, and be equal partners in, any training activities.
+
+The Emerald programme has communicated its findings widely through a project website, Social Media (Facebook, Twitter, LinkedIn, Google Plus, YouTube), leaflets, newsletters, policy briefs, research papers in scientific journals, talks at scientific conferences, annual reports, videos, and press conferences and releases.
+
+
+
+
+
+
+The main aim of the EMERALD project has been to improve mental health outcomes in low- and middle-income countries (LMICs) by enhancing health system performance, through: i) the identification of key barriers within health systems to the effective delivery of mental health services, and ii) offering solutions for the delivery of mental health services. The project has been carried out over five years in six LMICs – Ethiopia, India, Nepal, Nigeria, South Africa and Uganda –, with further cross-cutting partners in France, Germany, the Netherlands, Spain, Switzerland, and the United Kingdom.
+The aims of the EMERALD project have been achieved through the following objectives, which map onto the different Work Packages (WP) of the project:
+• Objective 1: Adequate, fair and sustainable resourcing (health system inputs) (WP 3): To identify health system resources, financing mechanisms and information needed to scale-up mental health services and move towards universal coverage. For this, a new tool was developed, and the estimated costs and health impacts of scaled-up delivery of a package of mental health care were published and disseminated, through contextualization and application of the tool in the six EMERALD countries (Task 1). A Household Survey of the economic and social impact of mental disorders (N=4,396) was carried out, which showed greater adversity among households with mental disorders in comparison to controls (Task 2). Sustainable mental health financing strategies have been recommended for the six countries, based on the development of a framework for sustainable mental health financing, and a situational assessment and a series of structured interviews with national experts (Task 3).
+• Objective 2: Integrated service provision (health system processes) (WP 4): To evaluate the context, process, experience and factors of the health system which influence the implementation of mental health services. Strategies are recommended in this report for countries with better integrated and more fragile systems in the effort to achieve implementation of integrated policy and service integration plans (Task 1). Common cross-country barriers and critical success factors in each of the elements of the pathway to and through care are identified (Task 2). Integrated mental health care was found to improve patients’ experience of overall chronic care; synergies/implications for scaled-up service provision are provided (Task 3).
+• Objective 3: Improved coverage and goal attainment (health system outputs) (WP 5): To develop, use and monitor indicators of mental health service coverage and the performance of the mental health system. The following tasks were carried out: a situational analysis of the health management information systems (HMIS) in the six countries; a Delphi study with a panel of experts to develop a list of indicators for measuring service scale-up, coverage and performance; refining of the list to a final set of possible indicators through in-country consultation workshops; monitoring and evaluation of the resulting set of indicators when integrated into the existing HMIS. Results were: 75% completion for most indicators, over 80% accurately completed, over 90% acceptability, and scores maintained 6-9 months after introduction.
+In addition, EMERALD has had a large focus on the enhancement of local capacities and skills to plan, implement, evaluate and sustain system improvements (WP2). Through a series of mixed-methods studies, EMERALD has made recommendations for successful strategies to achieve appropriate, reciprocal and sustainable capacity-building of three target groups: mental health service users and caregivers; policy-makers and planners; and researchers. The results of EMERALD have been widely disseminated through various platforms (WP6): papers in scientific journals; policy briefs; conferences and meetings; press conferences and press releases; a project website; social media (YouTube channel, Facebook, Twitter); project flyers; and a quarterly newsletter.
+
+Project Context and Objectives:
+Health systems the world over are facing ever greater demands and challenges. The health systems of low- and middle-income countries (LMICs) are particularly strained due to the lower availability of resources and the higher overall burden of disease in these populations, compared to high-income countries. Many LMICs face a double burden of disease: While there are still extremely high, yet slowly decreasing levels of mortality due to communicable, maternal, perinatal and nutritional conditions, chronic non-communicable disease, including mental disorders, increase.
+Health systems in LMICs are currently failing to meet the mental health needs of the populations they seek to serve. Starting from the premise that there can be 'no health without mental health' [1], a health system cannot be considered to be functioning properly if it is unable to protect and take care of the basic health rights and needs of the sick and the vulnerable – including the mentally ill. In the large majority of LMICs, resources and services for mental health are extremely meagre, with low-income countries allocating 0.5% and lower-middle income countries 1.9% of their health budget to the treatment and prevention of these disorders, even though they represent over 10% of the overall disease burden [2]. In low-income countries, there is on average only one psychiatrist per 1.7 million people and one psychiatric inpatient bed per 42,000 people [2]. The result of this is a substantial treatment gap. A large multi-country survey supported by WHO showed that 76–85% of people with severe mental disorders in low-income countries did not receive any treatment in the previous year [3], often with devastating consequences [4-11].
+In the past years, much research has clarified how to tackle the growing burden of mental disorders. Landmark developments include the World Health Report in 2001 [12]; Lancet series on mental health in 2007 and 2011; the establishment of a Global Movement for Mental Health; the development of WHO's mental health GAP (mhGAP) programme for scaling up services for mental disorders [13,14]; the Grand Challenges in Global Mental Health review [15]; the establishment of ‘Collaborative Hubs for International Research in Mental Health’ by the National Institute of Mental Health (NIMH); the WHO Executive Board resolution in 2012 addressing the global burden of mental disorders [16]; as well as the on-going PRogramme for Improving MEntal health care (PRIME) [17].
+What has still been missing though is how to translate this knowledge into practice within the health system. This is the research gap that the EMERALD project has been addressing, to improve mental health outcomes in a fair and efficient way. Specifically, the EMERALD project has aimed to identify key barriers within the health system to, and solutions for, the scaled-up delivery of mental health services in LMICs [18].
+This has been achieved through the following objectives:
+• Objective 1: Adequate, fair and sustainable resourcing (health system inputs): To identify health system resources, financing mechanisms and information needed to scale-up mental health services and move towards universal coverage.
+• Objective 2: Integrated service provision (health system processes): To evaluate the context, process, experience and factors of the health system which influence the implementation of mental health services.
+• Objective 3: Improved coverage and goal attainment (health system outputs): To develop, use and monitor indicators of mental health service coverage and the performance of the mental health system.
+Underlying all of these health system objectives, there is a further fundamental need: To enhance local capacities and skills to plan, implement, evaluate and sustain system improvements.
+The EMERALD consortium consists of 12 partners in Africa, Asia and Europe, who have been working on the completion of these objectives to strengthen the mental health systems in six countries (Ethiopia, India, Nepal, Nigeria, South Africa and Uganda).
+The EMERALD programme has sought to strengthen mental health systems in these six LMICs in Africa and Asia by strengthening several components of the mental health systems in these countries, including health system inputs, system processes, and performance outputs [18]. Based on the experience of the participating countries, the programme has aimed to achieve major positive impact by producing an evidence-based 'roadmap' for decision-makers in LMICs on how to scale-up mental health services within the constraints of the broader health system. This has included identifying what human and budgetary resources are needed to meet local targets, health financing policy options, governance requirements and coverage/performance indicators [19]. Furthermore, the EMERALD programme has aimed to map out and articulate the pathways used in the six local health systems to integrate mental health care within existing services [20-24]. It has also documented the impact of this integration on service inputs, processes and outputs [25-27]. In so doing, the programme has been producing workable and tested strategies for sustainable integration for health service providers, in the six countries and beyond. Another major impact of this programme has been to identify, train and support the career progression of a new cadre of health professionals and researchers in LMICs with the information and skills needed to bring a health systems perspective to mental health planning, provision and evaluation, and one that complements existing knowledge, capacities and learning opportunities. This has been alongside capacity-building activities to increase the involvement of service users and their caregivers [28-31], and to build capacity amongst policy-makers and planners [32], in mental health system strengthening. Indeed, the shortage of technical know-how has been identified as a major barrier to the scale-up of mental health services in LMICs, and EMERALD has aimed to address this. By taking this comprehensive approach, we have aimed to improve the evidence base on how to enhance health system performance in practice in LMICs. Thereby we have been working towards ultimately reducing some of the mental health treatment gap that is prominent in LMICs and improving the care for people with mental health problems in these countries.
+
+References
+[1] Prince M, Patel V, Saxena S, Maj M, Maselko J, Phillips MR et al. No health without mental health. Lancet 2007; 370(9590):859-877.
+[2] Jacob KS, Sharan P, Mirza I, Garrido-Cumbrera M, Seedat S, Mari JJ et al. Mental health systems in countries: where are we now? Lancet 2007; 370(9592):1061-1077.
+[3] Demyttenaere K, Bruffaerts R, Posada-Villa J, Gasquet I, Kovess V, Lepine JP et al. Prevalence, severity, and unmet need for treatment of mental disorders in the World Health Organization World Mental Health Surveys. JAMA 2004; 291(21):2581-2590.
+[4] Callard F, Sartorius N, Arboleda-Florez J, Bartlett P, Helmchen H, Stuart H et al. Mental Illness, Discrimination and the Law: Fighting for Social Justice. London: Wiley Blackwell; 2012.
+[5] Gutierrez-Recacha P, Chisholm D, Haro JM, Salvador-Carulla L, Ayuso-Mateos JL. Cost-effectiveness of different clinical interventions for reducing the burden of schizophrenia in Spain. Acta Psychiatr Scand Suppl 2006;(432):29-38.
+[6] Chisholm D, Van OM, Ayuso-Mateos JL, Saxena S. Cost-effectiveness of clinical interventions for reducing the global burden of bipolar disorder. Br J Psychiatry 2005; 187:559-567.
+[7] Chisholm D, Sanderson K, Ayuso-Mateos JL, Saxena S. Reducing the global burden of depression: population-level analysis of intervention cost-effectiveness in 14 world regions. Br J Psychiatry 2004; 184:393-403.
+[8] Wahlbeck K, Westman J, Nordentoft M, Gissler M, Laursen TM. Outcomes of Nordic mental health systems: life expectancy of patients with mental disorders. Br J Psychiatry 2011.
+[9] Thornicroft G. Physical health disparities and mental illness: the scandal of premature mortality. Br J Psychiatry 2011; 199:441-442.
+[10] Lund C, De SM, Plagerson S, Cooper S, Chisholm D, Das J et al. Poverty and mental disorders: breaking the cycle in low-income and middle-income countries. Lancet 2011; 378(9801):1502-1514.
+[11] Saraceno B, Levav I, Kohn R. The public mental health significance of research on socio-economic factors in schizophrenia and major depression. World Psychiatry 2005; 4(3):181-185.
+[12] World Health Organisation. World Health Report 2001. Mental Health: New Understanding, New Hope. Geneva: World Health Organization; 2001.
+[13] World Health Organization. mhGAP intervention guide for mental, neurological and substance use disorders in non-specialized health settings: mental health Gap Action Programme (mhGAP). Geneva: WHO; 2010.
+[14] Dua T, Barbui C, Clark N, Fleischmann A, van Ommeren M, Poznyak V et al. Evidence based guidelines for mental, neurological and substance use disorders in low- and middle-income countries: summary of WHO recommendations. PLoS Medicine 2011; 8:1-11.
+[15] Collins PY, Patel V, Joestl SS, March D, Insel TR, Daar AS et al. Grand challenges in global mental health. Nature 2011; 475(7354):27-30.
+[16] World Health Organization. Global burden of mental disorders and the need for comprehensive, coordinated response from health and social sectors at the country level. Document EB130.R8. Geneva: World Health Organization; 2012.
+[17] Lund C, Tomlinson M, De Silva M, Fekadu A, Shidhaye R, Jordans M, Petersen I, Bhana A, Kigozi F, Prince M, Thornicroft G, Hanlon C, Kakuma R, McDaid D, Saxena S, Chisholm D, Raja S, Kippen-Wood S, Honikman S, Fairall L, Patel V. PLOS Medicine 2012; 9(12): e1001359.
+[18] Semrau M, Evans-Lacko S, Alem A, Ayuso-Mateos JL, Chisholm D, Gureje O, Hanlon C, Jordans M, Kigozi F, Lempp H, Lund C, Petersen I, Shidhaye R, Thornicroft G. Strengthening mental health systems in low and middle-income countries: the Emerald programme. BMC Medicine 2015; 13:79
+[19] Chisholm D, Heslin M, Docrat S, Nanda S, Shidhaye R, Upadhaya N, Jordans M, Abdulmalik J, Olayiwola S, Gureje O, Kizza D, Mugisha J, Kigozi F, Hanlon C, Adugna M, Sanders R, Pretorius C, Thornicroft G, Lund C. Scaling-up services for psychosis, depression and epilepsy in Sub-Saharan Africa and South Asia: development and application of a mental health systems planning tool (OneHealth). Epidemiology and Psychiatric Sciences 2016; 19:1-11
+[20] Abdulmalik J, Kola L, Gureje O. Mental health system governance in Nigeria: challenges, opportunities and strategies for improvement. Global Mental Health 2016; 3:e9
+[21] Marais D and Petersen I. Health system governance to support integrated mental health care in South Africa: challenges and opportunities. International Journal of Mental Health Systems 2015; 9:14
+[22] Mugisha J, Abdulmalik J, Hanlon C, Petersen I, Lund C, Upadhaya N, Ahuja S, Shidhaye R, Mntambo N, Alem A, Gureje O, Kigozi F. Health systems context(s) for integrating mental health into primary health care in six Emerald countries: a situation analysis. International Journal of Mental Health Systems 2016; 11:7
+[23] Mugisha J, Ssebunya J, Kigozi FN. Towards understanding governance issues in integration of mental health into primary health care in Uganda. International Journal of Mental Health Systems 2016; 10:25
+[24] Petersen I, Marais D, Abdulmalik J, Ahuja S, Alem A, Chisholm D, Egbe D, Gureje O, Hanlon C, Lund C, Shidhaye R, Jordans M, Kigozi F, Mugisha J, Upadhaya N, Thornicroft G. Strengthening mental health system governance in six low- and middle-income countries in Africa and South Asia: challenges, needs and potential strategies. Health Policy and Planning 2017; 32(5): 699-709
+[25] Ahuja S, Shidhaye R, Semrau M, Thornicroft G, Jordans M. Using information to strengthen mental health systems in India. British Journal of Psychiatry – International (in press)
+[26] Jordans M, Chisholm D, Semrau M, Upadhaya N, Abdulmalik J, Ahuja S, Alem A, Hanlon C, Kigozi F, Mugisha J, Petersen I, Shidhaye R, Lund C, Thornicroft G, Gureje O. Indicators for routine monitoring of effective mental healthcare coverage in low- and middle-income settings: a Delphi study. Health Policy and Planning 2016; 31(8):1100-6
+[27] Upadhaya N, Jordans MJD, Abdulmalik J, Ahuja S, Alem A, Hanlon C, Kigozi F, Kizza D, Lund C, Semrau M, Shidhaye R, Thornicroft G, Komproe IH, Gureje O. Information systems for mental health in six low and middle income countries: cross country situation analysis. International Journal of Mental Health Systems 2016; 10:60
+[28] Abayeneh S, Eshetu T, Alemayehu D, Alem A, Fekadu A, Lempp H, Semrau M, Thornicroft G, Lund C, Hanlon C. Service user involvement in mental health system strengthening in a rural African setting. BMC Psychiatry (in press)
+[29] Gurung D, Upadhaya N, Magar J, Giri NP, Hanlon C, Jordans MJD. Service user and care giver involvement in mental health system strengthening in Nepal. International Journal of Mental Health Systems 2017; 11:30
+[30] Samudre S, Shidhaye R, Ahuja S, Nanda S, Khan A, Evans-Lacko S, Hanlon C. Service user involvement for mental health system strengthening in India: a qualitative study. BMC Psychiatry 2016; 16:269
+[31] Semrau M, Lempp H, Keynejad R, Evans-Lacko S, Mugisha J, Raja S, Lamichhane J, Alem A, Thornicroft G, Hanlon C. Service user and caregiver involvement in mental health system strengthening in low- and middle-income countries: systematic review. BMC Health Services Research 2016; 16:79
+[32] Keynejad R, Semrau M, Toynbee M, Evans-Lacko S, Lund C, Gureje O, Ndyanabangi S, Courtin E, Abdulmalik JA, Alem A, Fekadu A, Thornicroft G, Hanlon C. Building the capacity of policy-makers and planners to strengthen mental health systems in low- and middle-income countries: A systematic review. BMC Health Services Research 2016; 16:601
+
+Project Results:
+Note : Complete report with tables and figures is available in attachment.
+
+Work Package 2: Capacity-building approach
+In EMERALD, the processes of successful North-South and South-South capacity-building were guided by principles of the need to ensure contextual appropriateness, reciprocity and sustainability of efforts. Capacity-building efforts were targeted at key stakeholders in the mental health system: mental health service users and caregivers, policy-makers and planners, and researchers. The process of capacity-building and measurement of indicators of success was guided by best practice, based on systematic reviews of the available evidence conducted by EMERALD investigators, combined with past experience, mapping of strengths as well as needs, country-specific situation analyses, stakeholder consultation and consortium consensus. This is summarised for each of the EMERALD target groups for capacity-building in Figures in the PDF available in attachment.
+
+
+The EMERALD process of capacity-building facilitated reciprocity through: (1) work packages being co-led by investigators from the high-income country (HIC) partner institutions and the LMIC partners, or led entirely by LMIC partners, (2) our focus on mapping capabilities and strengths in mental health system strengthening across the EMERALD consortium, recognizing the experience and expertise of LMIC partners, (3) development of EMERALD short-course, workshop and Masters learning materials for the three target groups led by LMIC partner investigators or stakeholders, or co-led by LMIC partners working with HIC partners. The EMERALD processes of capacity-building facilitated sustainability through: (1) using a cascade model of training whereby each LMIC partner institution could become self-sufficient in delivering short courses by the end of the EMERALD programme, (2) embedding capacity-building activities within existing institutional programmes, (3) investing in early career researchers, (4) supporting service user and caregiver mobilization, and (5) investing in a longer-term relationship with policy-makers and planners, within which capacity-building efforts could be directed.
+
+Limitations of existing indicators of successful capacity-building in North-South and South-South collaborations were identified. A revised set of indicators of success has been proposed.
+
+Capacity-building strategies
+The EMERALD capacity-building strategies for empowerment of mental health service users were as follows:
+(1) To develop materials for workshops for service users and caregivers to raise awareness and
+mobilise for greater advocacy and involvement. The materials were customized to meet country’s specific needs and priorities. The specific aims and learning objectives of the workshops were:
+• Raising awareness about mental health and illness and treatment models
+• Raising awareness about rights of people with mental illness
+• Establishing a network of service users and caregivers
+• Starting a conversation about involvement in mental health services and systems
+(2) Workshops for primary care workers and managers to support greater involvement of service
+users.
+(3) PhD-linked research to develop and pilot models of service user involvement in mental health
+system strengthening.
+
+
+The EMERALD strategies used to equip and engage policy-makers and planners in mental health system strengthening were as follows:
+(1) Workshop modules on (a) mental health awareness-raising, (b) the chronic care model, and (c)
+mental health system planning
+(2) Training in tool for mental health finance and human resource planning
+(3) Informal awareness-raising contacts
+(4) Repeated contacts to develop a collaborative relationship and provide technical support
+(5) Consultation around the relevance of EMERALD activities and uptake of EMERALD
+findings
+
+
+The EMERALD strategies to build capacity in mental health systems research are summarised in Table 1. (see PDF available in attachment)
+
+
+Capacity-building results
+Evaluation of the EMERALD capacity-building activities indicated that satisfaction with the short courses was high in all countries and for all courses. Knowledge increased after participation in the courses. In terms of research capacity-building:
+• A notable EMERALD capacity-building success was in relation to early career researchers. Ten PhD students were linked to the EMERALD project, nine from LMICs. To date, two EMERALD-linked PhD students have defended their thesis. PhD students had submitted 1.25 papers on average relating to their PhD work (mean; range 0-4). Of these, 6 have already been published. A further 27 papers are planned by the participating PhD students.
+• Most EMERALD partner institutions were in a strong position to continue capacity-building in health system strengthening and implementation research.
+• Many of the EMERALD capacity-building activities were embedded into ongoing programmes, thus maximising the chances of sustainability.
+• All EMERALD LMIC partner institutions reported improvements in their research capacity for several aspects of mental health system strengthening, and a large part of these positive changes were attributed to EMERALD.
+
+EMERALD work with mental health service users contributed to mobilisation of service users to advocate for improved services in India and Nigeria.
+
+The engagement of policy-makers and planners within EMERALD contributed to a closer working relationship in most countries and the opportunity to provide technical support for system strengthening.
+
+
+
+Work Package 3: Adequate, fair and sustainable resourcing for mental health
+
+In 2005, the World Health Assembly endorsed a resolution urging its member states to work towards sustainable health financing, with a view to achieving 'universal health coverage' (UHC). UHC has been defined as 'access to key promotive, preventive, curative and rehabilitative health interventions for all at an affordable cost, thereby achieving equity in access' (WHO, 2005). A number of implications follow from such a defined goal, including the need to specify what interventions are considered 'key' in a particular context, and the need to generate sufficient funds to ensure that these key interventions or services are made available and affordable for all (including to those with very limited ability to contribute funds themselves). A further, more distal implication is that by securing such universal access, significant strides can be made towards the defining goal of health systems, namely health improvements. In the six participating LMICs of EMERALD, Work Package 03 set out to articulate each country's current imbalances and inefficiencies, future service needs, and potential pathways to moving towards the ultimate goal of universal coverage for mental, neurological and substance use (MNS) disorders. This work package therefore focused on core health system inputs and funding mechanisms that are a pre-requisite for improving service coverage and meeting the mental health needs of LMIC populations.
+
+The three specific tasks for Work Package 3 were to:
+1. Identify and quantify the human, infrastructural, informational and financial resource inputs needed to scale-up a defined set of mental health services (Adequacy),
+2. Assess the extent and impact of inadequate mental health service access or coverage in different national settings on household consumption and production, and the economic consequences of improved access to appropriate care (Fairness), and
+3. Generate sustainable health financing strategies for scaled-up delivery of mental health services in participant countries (Sustainability).
+
+Task 1 of EMERALD Work Package 03 identified a number of cost-effective and feasible interventions for mental health service scale-up, and estimated the costs and health impacts of increased coverage of these interventions at the population level. Task 2 addressed the question of the fairness or equity in current mental health financing arrangements, including the potentially deleterious effects on households of having to pay for the care and support that a mentally ill family member needs. Task 3 focussed on the identification of potential mechanisms for greater and more sustainable financing for mental health care in the EMERALD countries. This final report describes the results of these tasks.
+
+Task 1: Adequate resourcing for mental health
+To address the question of resource adequacy for mental health service and system scale-up in each of the EMERALD countries, a fully integrated health systems resource planning tool for MNS disorders was developed, tested and applied. Resource need and health impact modules for key MNS disorders and interventions covered in the WHO mhGAP Intervention Guide were programmed into the UN strategic planning OneHealth Tool. Following capacity-building in the use of the tool, country teams subsequently adapted input parameters to best reflect local data, experiences and priorities. This enabled examination of the potential health system implications of scaled-up mental health services in the future. In so doing, the following project deliverables were achieved:
+• A new tool was developed for assessing the costs and impacts of scaled-up delivery of mental health services: http://spectrumbeta.futuresinstitute.org/Download/specInstallNCD.exe
+• Capacity-building teaching materials, including course outlines, presentations, practical exercises and a detailed user manual, were developed and disseminated.
+• Researchers and health planners / analysts from each of the six participating EMERALD countries were provided with new knowledge and skills in the use of the OneHealth tool.
+• New estimates of the resources needed, costs and health impacts of scaled-up mental health service delivery were generated in each of the six participating EMERALD countries. These can now be shared and communicated to health planners and other relevant stakeholders as part of the further capacity-building and knowledge transfer components of the project (Work Packages 2 and 6, respectively).
+
+Although the total size of the health impact varies with the interventions chosen, as well as starting and target levels of coverage, across the six countries the total, cumulative health gains amount to between 4,300- 5,200 healthy life years gained per one million population (in Ethiopia, Uganda and South Africa) to 9,500-10,000 healthy life years gained per one million population (in Nepal, Nigeria and India). These values relate to the whole scale-up period, so for an ‘average’ year the health impact falls into the range of 1,000-2,000 years of restored healthy life per one million population.
+
+By providing a breakdown of costs by priority disorder for drugs and supplies, outpatient care and inpatient care, we were able to estimate the total resource requirements in each year of scale-up, based on the contextualised estimates of what each element of this package of care should comprise in the local situation. These estimates illustrate well the substantial monetary resources that need to be made available if the stated coverage goals are to be reached.
+
+Results of this estimation indicate that the resource needs for scaling-up mental health services to reach desired coverage goals are relatively large compared to the current allocation of resources but are not large in absolute terms. Thus, while the cost of providing the specified package of care falls below US$ 0.20 per head of population in some of the EMERALD countries (at current levels of coverage), the cost of implementing a well-defined package of care at scale amounts to less than US$1 in low-income countries such as Nepal and Ethiopia and up to US$3 in middle-income countries such as Nigeria and South Africa. This investment will yield a substantial annual health gain of between 1,000-2,000 years of healthy life per one million population, a major improvement for the currently neglected and under-served sub-population suffering from disorders such as schizophrenia, depression and epilepsy.
+
+Task 2: Fair financing and improved economic outcomes for mental health
+To address the question of fair financing and improved economic outcomes for mental health in each of the EMERALD countries, we first conducted a qualitative assessment of the three different aspects of coverage, namely its depth (the proportion of the population covered by some form of insurance or pre-payment), its breadth (the range of services or interventions available to members of the insured pool), and its height (the proportion of total costs covered by pre-payment). Progress with respect to each of these three dimensions of UHC was provided for each of the EMERALD countries. This assessment demonstrated that while all EMERALD countries already have or are in the process of developing a policy of universal access to a core package of health services or care, the actual implementation of these policies is found wanting, with large segments of the population either left uninsured or forced to pay for health services or goods (especially drugs) on an out-of-pocket basis, often to private health care providers on account of their wider availability and (perceived or actual) quality. There is evidence that in a number of these countries a new, concerted attempt is being made to transform health financing arrangements via the roll-out of new health insurance programmes or schemes, including Ethiopia, India and South Africa. In Nepal, a pilot scheme is currently being tried out. This holds out the prospect of real progress towards improved financial risk protection for persons or families affected by mental disorders.
+
+Following ethical approval, we then developed, tested and applied a household survey in each of the six local EMERALD study sites in order to assess the economic consequences of unmet need and also addressed mental health needs for individuals and families affected by one or more of the following MNS disorders: depression, alcohol use disorders, epilepsy and psychosis. We collected baseline (n=4,434) and 12-month follow-up (n=3,361) household-level data on mental health, social functioning, socioeconomic status and service utilisation of people with mental disorders and their households.
+
+Despite diverse social, economic and cultural contexts in each participant country, we found a relatively consistent trend, namely that households living with a MNS disorder are worse off than households without such a disorder (but affected by other chronic physical health problems), using a variety of economic assessment measures. With some notable exceptions, households affected by mental disorders:
+• have lower levels of adult education,
+• have poorer housing conditions,
+• have lower total household income,
+• have lower disposable income,
+• have less asset-based wealth
+• have higher healthcare expenditure
+
+A striking finding was that households with MNS disorders were adopting a range of self-defeating coping strategies in response to financial hardship that were significantly more regressive than households without a MNS disorder. These coping strategies included withdrawing children from school, restricting food intake, restricting healthcare, using savings, taking out loans and accounts at shops, and asking employers and other social networks for help. The consequences are lifelong and contribute to intergenerational transmission of poverty. Protection of households from economic vulnerability, including shocks are given specific attention in the Sustainable Development Goals (SDGs), particularly Goal 1.5. Our findings indicate that households living with a MNS disorder constitute a key vulnerable population, who are highly susceptible to chronic poverty and intergenerational poverty transmission, and who therefore merit targeted development assistance.
+
+Task 3: Sustainable financing for mental health
+To address the question of sustainable financing for mental health service and system scale-up in each of the EMERALD countries, we: carried out a situational analysis for mental health financing in each country; engaged with local stakeholders through a series of in-depth qualitative interviews focussed on key topics relating to mental health financing and equity, including exploration of potential strategies for increased financial protection; and assessed the applicability of different mechanisms for raising additional revenues for mental health, for enhancing financial access, and for improving efficiency and equity in the use of resources. Informed by similar frameworks developed for other disease priorities in the health sector – such as HIV – this EMERALD Work Package has developed a streamlined, stepped approach to informing and evaluating country-level financing needs in the area of mental health. Key dimensions of this framework include: i) assessment of projected public health and economic consequences of MNS disorders; ii) assessment of current and proposed governance, service delivery and financial protection arrangements for MNS treatment and prevention; iii) assessment of the current and projected macro-fiscal situation; iv) assessment of projected resource needs for MNS disorders; and v) identification and selection of appropriate financing mechanisms. Therefore, although this Task involved a raft of mixed-methods research methods, it also served as an opportunity to consolidate the findings of the preceding tasks into a series of Sustainable Mental Health Financing reports containing a rich discussion of each dimension of the framework for each country.
+
+The first element of Task 3 involved undertaking a situational analysis for each EMERALD country to better understand the context, barriers and opportunities to more sustainable mental health financing. A series of situational analyses reports were produced for each country, and a summary of key findings were presented in the form of a Strengths, Weaknesses, Opportunities, Threats (SWOT) table for each country.
+
+Subsequently, we developed mental health financing stakeholder interview guides, adapted them for use in each EMERALD country and engaged with key health, policy and financing experts on the topic of sustainable mental health financing (n=60). These interviews allowed for a participatory, consensus-building approach to describing key Stakeholder interests in, influence on, and support for sustainable financing mechanisms for mental health services for each participant country. The analysis of these interviews yielded important insights in terms of understanding the baseline for financing reform, potential avenues for raising additional revenues for mental health and achieving gains in the efficiency and equity with which resources are spent. Further, we were able to detect and understand reasons for potential opposition to reforms in the financing of mental health services for each country.
+
+For the final element of Task 3, we produced a series of strategy reports containing: the country-specific estimation of the resource needs associated with an adequate and appropriate health systems response to the current burden of mental disorders; a discussion of the context-specific inequities in current financing arrangements as well as recommendations for country-specific strategies for more equitable and sustainable financing for mental health, which will help to move towards UHC for persons and households affected by mental disorders.
+
+
+Work Package 4: Integrated provision of mental health services (health system processes)
+Work package 4 of EMERALD was concerned with the health system processes necessary to facilitate integrated mental health care, with the ultimate aim of improving mental health outcomes. These include governance issues, such as legislation, policies and implementation plans, and best practices for improving pathways to and through care. While there is evidence of the effectiveness of the delivery of integrated interventions from small scale research projects in LMICs, there is insufficient evidence on the health system processes required to enable integration from district through to national level under real world conditions, which was the focus of this work package.
+
+Below are the main results for each objective.
+Objective 1: To identify optimal institutional, legal and policy contexts as well as processes for implementation of integration policy and service integration plans in LMICs (in both better integrated and more fragile systems)
+
+The table below (see PDF available in attachment) presents the recommended strategies for countries with better integrated and more fragile systems in the effort to achieve implementation of integrated policy and service integration plans.
+
+
+Objective 2: To identify best practices for addressing resource requirements, capacity development needs, and supervision requirements to improve help seeking, identification, referral and follow-up to recovery for mental disorders in low, low-middle and upper-middle income countries, including key barriers to access to scaled up services (including stigma and discrimination as (i) sources of demand limitation and (ii) key barriers among policy makers)
+
+Common cross-country barriers and critical success factors in each of the elements of the pathway to and through care were identified. Case studies of how countries addressed these critical success factors were also provided (see PDF available in attachment).
+
+
+Objective 3: Evaluate health system synergies / implications of scaled-up service provision in low and middle income countries
+
+Integrated mental health care was found to improve patients’ experience of overall chronic care as measured by the Patient Assessment of Chronic Illness Care at 3 months across the countries. Using the Consolidated Framework for Implementation Research (CFIR), the following synergies/implications for scaled-up service provision were identified from key informant interviews (see PDF available in attachment).
+
+
+
+
+Work Package 5: Improved coverage and goal attainment in mental health (health system outputs)
+
+Introduction
+The three objectives of EMERALD are: (1) Adequate, fair and sustainable resourcing: To identify health system resources, financing mechanisms and information needed to scale-up (i.e. expand mental health services and move towards universal coverage) (Work Package 3). (2) Integrated service provision: To evaluate the context, process, experience and health system implications of mental health service implementation (Work package 4). (3) Improved coverage and goal attainment: To develop, use and monitor indicators of mental health service coverage and system performance. Work Package 5 is concerned with the third of these objectives.
+More specifically, Work Package 5 aimed to identify, develop and test the utility of indicators that help to monitor the coverage of mental health services. The subsequent integration of such indicators into routine use within the Health Management Information Systems (HMIS) in the LMICs of EMERALD should provide objective evaluation of improved coverage and rate of goal attainment in mental health care. This was done through the following steps:
+1. A cross-country situation analyses to assess the gaps and barriers in the existing HMIS in the six EMERALD countries [reported within D5.1]
+2. Generating and prioritizing a set of possible indicators for measuring effective coverage of mental health services through a Delphi study methodology [reported in D5.2]. Through a process of iterative consultation with a panel of experts, we developed a list of 52 indicators to be used for measuring service scale-up, coverage and performance, and refined the list to a final set of 15 possible indicators through in-country consultations.
+3. Adaptation and validation of the generated indicators in the six EMERALD countries through consultative workshops [Report D5.2]. Based on consultative workshops with local stakeholders, a final set of indicators and accompanying forms, to integrate the mental health indicators into existing health information systems, have been established. These forms have been introduced into routine care as part of the mental health care services that are in place by each of the country partners.
+4. Evaluation of the final set of validated indicators through implementation in the EMERALD countries [reported within D5.3].
+
+The sub-studies were designed to pilot-test feasible options for measuring the performance of mental health services in selected LMICs. Specifically, it addressed the following issues:
+• Coverage: What proportion of the population that requires mental health services gain access to adequate care and treatment? How equitable is the mental health system in ensuring that vulnerable populations gain access to services?
+• Performance: What is the level of responsiveness of the service to population need? What is the quality of the mental health services provided?
+• Information: Are there uniform indicators that can be utilized for comparisons of mental health systems within and across countries? What is the right mix of indicators for each country setting that meets its specific health system setup, including its human, technical and administrative resources?
+
+Study Methods
+
+1. A situational analysis of the mental health information systems (MHIS) status in the six EMERALD countries was performed to evaluate the extent of inclusion of mental health in the routine health information systems as well as the human resources capacity for the routine collection of mental health information.
+
+2. A modified expert opinion form of consultation (Delphi Study) was performed with key experts from across the world, but with a focus on experts from LMICs. This aimed to generate and prioritize a set of possible indicators for use in LMICs for routine collection of mental health information.
+
+Subsequently, the set of developed indicators was presented to a select audience of health care workers, health records staff, and health information experts in each country, via a consultative workshop to critically review and refine the suggested indicators and the best way to utilize them in each country. At the end of this consultative workshop, each country developed a standard operating protocol (SOP), which detailed the best way to implement the selected indicators in the given country.
+
+3. This sub-study aimed to assess the feasibility, acceptability and performance of indicators that help to monitor the output of the mental health service in the six EMERALD countries (Ethiopia, India, Nepal, Nigeria, South Africa, Uganda). Thus, the indicators that were developed in point 2 above were implemented and evaluated in this phase. A mixed qualitative-quantitative method approach was employed using questionnaires, observations as well as semi-structured interviews with key informants at facility and district level. (a) Semi-structured interviews were used for health information personnel, health facility managers, health care providers and service users. (b) Structured questionnaires were used for health workers, for the evaluation of the implementation of the format. (c) An observation template was utilized to review selected patient records to assess reliability of completion, and to evaluate whether the information on the forms had been registered correctly and completely. The structured questionnaires and observations were repeated again 12 months after the initial measurements.
+
+Main results
+
+Overall, the results demonstrate that the use of mental health indicators in routine HMIS is limited in the 6 LMICs of EMERALD. Subsequently, a set of indicators was developed, adapted to each participating country and implemented successfully.
+
+The specific outcomes are as follows:
+
+1. Situational analysis results: There is a strong need to re-structure the existing HMIS in most LMICs, as the current utilization of mental health indicators is either non-existent or very limited. This should be carried out concurrently with the training and capacity-building of health records staff to correctly capture mental health indicators within the routine HMIS.
+
+2. Delphi Study results: Indicators to measure effective coverage were generated by 93 experts. Participants were mostly men (73%), representing a range of relevant professions (52% mental health professionals, 10% researchers, 25% government officials, 4% service users), with an average of 15.2 years of work experience. A total of 93 respondents out of the 180 invited to participate completed this round (response rate of 52%). The majority of participants resided in LMICs (84%), and 97% reported working predominantly in LMICs.
+
+Altogether, 876 possible indicators were generated, which were consolidated into a list of 52 indicators after omitting duplicates and categorization of remaining responses following qualitative data analyses. The list included nine indicators around need for services, 13 for utilization, 23 for quality and seven for financial protection.
+
+In the second round 105 people (93 experts who participated in round 1, four members of the steering committee and eight experts unable to make the round 1 deadline but who had indicated willingness to participate in round 2) were invited to participate. The survey was completed by 93 people (89% response rate). The 15 most highly ranked key indicators were selected and prepared in a format for use in the study countries.
+
+This process was followed by a consultative workshop with key stakeholders in each country to validate and formalize the most feasible implementation process for their introduction. The utility of each selected indicator was also discussed and countries were at liberty to drop or modify some of these indicators to ensure they were fit-for-purpose.
+The proposed indicators, questions and forms were well-received by stakeholders in all of the countries. The emphasis on systematic and routine data on mental health services was considered important and a marked improvement on the current situation. Furthermore, most of the proposed questions were deemed feasible (with modifications for some) to be taken further for pilot-testing and evaluation. However, this was not the case for all of the indicators, as some countries expressed reservations about measuring the level of patients’ functional impairment, cost of treatment and assessment of suicide rates. All the countries’ consultation participants agreed on the importance of integrating mental health indicators and data into the existing HMIS system, and not to create a parallel system.
+3. Implementation of the Indicators: The quantitative interviews and record reviews across the countries indicated that the majority of the respondents agreed that the forms were useful, covered important aspects and were easy to use.
+
+Overall, a good proportion of the indicators were completed, at both time points, especially for diagnoses and treatment. The completeness on the indicators for payment was somewhat lower. Across country average was >70% completed for all indicators at time 1 and time 2, except for payment, which was >60%. Across the countries, the degree to which the indicators were completed increased over time, except for the indicator for severity, which dropped slightly between time 1 and time 2. Across the countries, the degree to which completed indicators were administered accurately also increased over time for all of the indicators. The increases were small, as time 1 scores were already quite high for most indicators. Again, we found generally high degrees of accurateness, with scores >80% for all indicators, except >60% for functioning (T1), follow-up (T1) and payment (T1, T2). At time 2, we found over half of the indicators scoring 90% on accurateness (diagnoses, severity, treatment, follow-up). So, straight after training completion, accuracy rates were generally good to very good, with some improvement over time after using the new forms/indicators for 6-9 months. The indicator assessing patient payment for health services was the single item that performed less well. Overall applicability scores reduced over time, from time 1 to time 2. Generally, however, the combined applicability scores were very high, with an average of >80% agreement for each indicator across countries for time 1 and 2 items. Especially right after the training (time 1), we obtained very high scores (>90%) on perceived motivation, importance, understandability, relevance, confidence and integration into routine HMIS. Ongoing training and supervision might be needed to keep these high rates. Reduction in applicability scores over time might be due to staff turn-over.
+The qualitative studies revealed that participants recognised that data about mental health was crucial for service planning and that they were not satisfied with the current situation with little or no data about mental health. They welcomed this pilot intervention and considered the forms easy and simple to use. Some of the barriers they identified include the lack of private space for counselling, non-availability of forms for routine collection of mental health data (outside of this pilot implementation), and being understaffed and over-worked. The respondents felt competent to utilize the forms and collate the data along with the routine HMIS systems and all recommended its future integration and utilization in all the countries.
+
+Potential Impact:
+Impact of Work Package 2
+A key impact of the WP2 capacity-building activities has arisen from the investment in early career researchers in the EMERALD low- and middle-income country (LMIC) institutions. We expect that the 10 EMERALD-linked PhD students (from Ethiopia (n=3), India (n=2), Nepal (n=1), Nigeria (n=1), South Africa (n=2) and King’s College London (n=1)) will make important contributions to mental health systems research in LMICs through their PhD work and through their future activities. We anticipate that this impact will go beyond mental health systems research and contribute to more general expansion of health systems research in the EMERALD LMIC partner institutions. Achieving a critical mass of researchers is crucial for sustainable capacity-building.
+
+The availability of open source capacity-building materials for researchers, service planners, service users and caregivers is expected to lead to an impact of EMERALD beyond the partner countries. A total of 27 Masters modules, three short courses to support mental health system research, a workshop on mental health care planning, and a workshop and manuals to support service user advocacy and empowerment are now available. The gathering momentum around the World Health Organisation’s mental health Gap Action Programme (mhGAP) means that many countries are embarking on programmes to scale-up mental health care. The EMERALD materials have the potential to support countries to ensure that key stakeholders are equipped to contribute and that the need for system change to support scale-up is brought to the fore.
+
+The work carried out by EMERALD to empower service users and caregivers for involvement in mental health system strengthening has the potential for important societal impact. As mental health services are scaled up in the EMERALD countries, there is now some momentum to involve mental health service users in developing and monitoring services. This, in turn, has the potential to improve the accountability of services and help to ensure that care is respectful and non-abusive.
+
+Efforts by EMERALD to engage and equip policy-makers and planners in mental health system strengthening have consolidated and extended the roles of many EMERALD investigators in providing technical support to the scale-up of mental health care. The fruits of such engagement include opportunities to ensure that mental health policies, strategies and plans are evidence-based and address health system bottlenecks adequately. In turn, this has the potential to lead to higher quality services which are more sustainable and resource-efficient.
+
+An important contribution of EMERALD has been to develop models of best practice for capacity-building in North-South and South-South collaborations. Indeed, EMERALD has expanded this conceptualisation to include South-North capacity-building. These models have been based on rigorous systematic reviews, combined with evaluation and consolidation of the wealth of experience across the consortium. The emphasis on appropriateness, reciprocity and sustainability ensures that LMIC partners are drivers of capacity-building efforts and equal partners throughout. Such an approach has relevance for all areas of global health.
+
+
+Impact of Work Package 3
+Task 1: Adequate resourcing for mental health
+We now have robust evidence, which indicates that the resource needs for scaling-up mental health services need not be substantial, particularly if priority disorders and cost-effective intervention strategies are judiciously selected. The health returns on such an investment are substantial, as demonstrated by the additional number of healthy years of life that are generated over the scaling-up period. Such information on the costs and health impacts of scale-up provides important evidence and information that can be brought to bear in dialogue with health planners and policy makers at the national level. In Ethiopia, for example, an earlier cost estimation exercise helped to frame the objectives of a new Mental Health strategy, while the ongoing work using the OneHealth Tool (OHT) provides a highly timely analysis as the national government seeks to implement an ambitious plan of mental health scale-up across the country. Similarly in India, where a national mental health plan has just been launched, the findings from this work can make a useful contribution to state-level deliberations on the implementation of this plan, especially in Madhya Pradesh where the local EMERALD team was based.
+
+Task 2: Fair financing and improved economic outcomes for mental health
+There are several policy implications arising from this study. This survey provides striking findings regarding the adverse household economic circumstances associated with having a family member with a mental, neurological or substance use (MNS) disorder. Households living with MNS disorders constitute an economically vulnerable group who merit development assistance. In broad terms, this should come in two forms. Firstly, improved access to care and rehabilitation is essential, delivered using primary care and community-based health care platforms. The strikingly low levels of health insurance cover across all countries, and the lack of access to mental health services, point clearly to the need for the treatment of MNS disorders to be included in Universal Health Coverage (UHC) packages of care, as set out in the Sustainable Development Goals. Secondly, it is essential to improve financial assistance to households living with MNS disorders in the form of disability grants or cash transfers. There is robust emerging evidence for the benefits of cash transfers for economic welfare, mental health, wellbeing and reductions in stress (measured using salivary cortisol) and domestic violence.
+
+Task 3: Sustainable financing for mental health
+Across all sites, the low priority given to mental health and limited political will have been identified as key reasons for systemic underfunding and inadequate mental health service provision. Social Health Insurance models offer the most promising avenues for achieving sustained resourcing for mental health. Improving the efficiency with which resources are used for mental health is also a necessary condition of a sustainable response – moving resources away from specialized care toward primary health care services. There is a need for continued advocacy for mental health services to be included in the benefits packages under these social health insurance financing models. Leveraging political windows for mental health offers a promising avenue for increasing the political will for change, and uptake of research findings.
+
+
+Impact of Work Package 4
+Scientific Impact
+Below is a table presenting the scientific knowledge production for WP4. The table presents the uptake of these articles by members of the public, researchers, practitioners and science communicators and bloggers. Tweets were reported not only from the participating EMERALD countries, but also from the UK, Switzerland, Australia, Netherlands, USA, Sweden, Canada and Rwanda.
+
+Country-specific articles
+South Africa Health system governance to support integrated mental health care in South Africa: challenges and opportunities (Marais et al, 2015)
+Mentioned by:1 policy source, 13 tweeters , 2 Facebook pages , Cited 13 PubMed articles
+Uganda Towards understanding governance issues in integration of mental health into PHC in Uganda (Mugisha et al, 2016)
+Mentioned by:14 tweeters, 2 Facebook Pages , Cited by:6 PubMed articles
+Nigeria Mental health system governance in Nigeria: challenges, opportunities and strategies for improvement (Abdulmalik et al, 2016)
+Mentioned by:1 blog , 12 tweeters
+Ethiopia Health system governance to support scale up of mental health care in Ethiopia: a qualitative study (Hanlon et al, 2017)
+Mentioned by: 20 tweeters , 1 Facebook Page
+Nepal Current situations and future directions for mental health system governance in Nepal: Findings from a qualitative study (Uphadaya et al, 2017)
+Mentioned by: 9 tweeters , 2 Facebook pages
+Cross-country articles
+Health systems context(s) for integrating mental health into primary health care in six Emerald countries: a situation analysis (Mugisha et al 2017
+Mentioned by: 11 tweeters and 1 Facebook page
+Strengthening mental health system governance in six low- and middle-income countries in Africa and South Asia: challenges, needs and potential strategies (Petersen et al, 2017)
+Cited by: 1 PubMed article
+
+Societal impact
+In response to the rising burden of chronic conditions and the lack of person-centred care at the primary health care level, South Africa developed and introduced a Clinical Communication Skills (CCS) training module to complement mhGAP/Adult Primary Care training (an integrated set of chronic care guidelines that incorporates mhGAP guidelines in South Africa) that focuses on ensuring clinical competence in diagnosis and treatment of chronic conditions. This CCS training module has been incorporated into national scale-up efforts of integrated mental health care in South Africa. Further to this, Ethiopia is in the process of adapting the CCS for the Ethiopian context and will be delivered as part of the Practical Approach to Care Kit Adult (PACK), which is equivalent to Adult Primary Care in South Africa (http://knowledgetranslation.co.za). Inclusion of this training in scale-up efforts in South Africa and Ethiopia should result in improved identification of common mental disorders and person-centred care.
+
+In Nepal, psychotropic medication has been included on the free drug list in response to the bottleneck in access to care identified by the Nepalese team and resultant advocacy efforts by this team. This should result in greater access to treatment given that cost of medicine was previously identified as a barrier to accessing care.
+
+
+Impact of Work Package 5
+In order to evaluate the scaling up of mental health care in LMICs, there is a need to have an adequate information system. Good quality data on a number of key indicators can support the process of decision-making and improvements related to mental health care. Currently, mental health indicators are under-represented or not present in most routine information systems in these countries. To respond to this information gap, the formulation of a set of indicators that are recommended by a group of experts served as an important first step.
+
+The Delphi study, with an expert panel consisting of mental health researchers, clinicians, service users and policy makers, drawn largely from LMICs (mostly from the EMERALD countries), has generated and ranked a set of indicators for routine measurement of mental health service coverage and system performance
+
+Using a consultative and iterative process, this work package has successfully generated a set of indicators that can be deployed in LMICs to monitor the coverage of mental health services within the routine HMIS. These indicators have been successfully tested and shown to be useful, acceptable and can be reliably deployed within routine HIMS. Furthermore, the work package has identified the organisational determinants that have been highlighted as being important for the integration of mental health indicators in these countries as: (a) staff strength is often inadequate; (b) supervision is key to effective implementation; (c) a need for better coordinating mechanisms; (d) cost is not necessarily a prohibiting factor for scale-up or future usability; (e) there is a need for the health departments to conduct regular trainings; and (f) regular supply of materials (forms, drugs etc.) is often an issue. Also, behavioural determinants that were identified from the surveys include: (a) interest and motivation of staff can be generated and sustained; (b) competence can be improved with time; and (c) there is a perceived reduction in negative or stigmatizing attitudes to mental illness.
+
+In summary, based on this study, it appears to be possible, feasible and acceptable to integrate a set of key indicators into routine monitoring of mental health care within existing HIMS structures in LMICs. The information accruable from routine implementation of the indicators should be of pragmatic usefulness to all LMICs in order to generate data for effective mental health service planning and delivery.
+
+The potential impact of the findings of the study could be realised through the adoption of this set of indicators in the EMERALD countries as well as other LMICs for effective service coverage monitoring and health service planning. This is particularly useful in the light of the global interest in the need for universal health coverage as well as articulated in the Sustainable Development Goals.
+
+
+Dissemination Activities (Work Package 6)
+Dissemination materials such as leaflets, posters, banners, booklets, brochures, folders, newsletters, a roll-up, result summaries and briefings, publications, annual reports, the website, videos, press releases, direct mail, advertising, and presentation materials have been developed and distributed in order to help achieve the EMERALD objectives and to reach its target audiences. The logos, when appropriate, and the information that the EMERALD project is funded by the European Union’s Seventh Framework Programme (FP7/2007-2013) under grant agreement no. 305968, was included on all of these documents. All materials were also posted on the website and disseminated through social media channels: http://www.EMERALD-project.eu/dissemination/publications/
+
+Website
+http://www.EMERALD-project.eu/
+
+Updates on activities of the EMERALD partners related to the objectives of the project, such as publications and workshops, have been posted on the website and disseminated through social media channels. Links to all EMERALD social media channels are included in the header of the website. A sign-in button to register for the EMERALD newsletter was included on the website as well as RSS Newsfeeds provided by the EC.
+
+Social media networks
+EMERALD’s Facebook, Twitter, LinkedIn, Google Plus and YouTube accounts have been created, and dissemination activities have been conducted through all of these social media channels. Social media was used extensively to disseminate material related to the EMERALD project, as well as initiatives linked to the EMERALD objectives. Content was posted daily or weekly in Social Media profiles as well as videos uploaded onto the YouTube channel. The results that have been achieved through the social media analytics were as follows:
+
+YouTube channel:
+https://www.youtube.com/channel/UCD5uP0lRP0GXjHmlC6fWI8A
+
+From 4th May 2014 to 31st October 2017:
+• Over 3.500 views
+• Watch time: 6.800 minutes
+• Average view duration: 1:54 minutes
+• Men 51%, Women 49%
+• United Kingdom: 15%
+• Nepal: 13%
+• South Africa: 12%
+
+Top 3 Videos:
+• SABC Newsroom interview with Sumaiyah Docrat: watch time of 1.325 minutes (20%); over 510 (15%) views
+• EMERALD project subtitled: watch time of 950 minutes (14%); over 450 (13%) views
+• 90 seconds for mental health: watch time of over 500 minutes; almost 300 views
+
+Facebook page:
+https://www.facebook.com/PROJECTEMERALD
+
+Total Page Likes: over 400 up to 31st October 2017
+39% of fans were women and 59% men
+Fans by country:
+• India: almost 300
+• Nepal: over 30
+• United Kingdom: 20
+• South Africa: over 10
+• United States of America: around 10
+Most viewed content:
+• Dissemination event at UK Parliament: reach 1.4K
+• Filming videos at final meeting in London, UK: reach 1.3K
+• Final meeting in London: reach around 450
+
+Twitter:
+https://twitter.com/PROJECT_EMERALD
+
+Up to 31st October 2017:
+• 15K tweets impressions
+• Over 2.500 tweets posted
+• Almost 900 followers
+• Male almost 40%, Female over 60%
+
+Newsletter
+An EMERALD newsletter was sent out every three months, using the materials mentioned above. The UAM team edited the Newsletter and distributed it through a contact list of the targeted audiences. A sign-in button to register for the newsletter is available on the EMERALD website.
+
+Scientific publications and written communications
+Published papers - Scientific Publications – See Annexes
+
+Policy Briefs:
+Policy briefs based on EMERALD papers have been finalised and posted on the project´s website, as well as disseminated through social media channels
+http://www.emerald-project.eu/dissemination/publications/policy-briefs/
+
+Policy brief 12, Health systems context(s) for integrating Mental Health into primary health care in 6 Emerald countries, 2017 August, https://www.emerald-project.eu/dissemination/publications/policy-briefs/policy-brief-12/
+
+Policy brief 11, Service user and caregiver involvement in Mental Health System strengthening in Nepal, 2017 July, https://www.emerald-project.eu/dissemination/publications/policy-briefs/policy-brief-11/?L=2172
+
+Policy brief 10, Indicators for routine monitoring of effective mental health care coverage in low and middle income settings, 2016 October, https://www.emerald-project.eu/dissemination/publications/policy-briefs/policy-brief-10/?L=2172
+
+Policy brief 09, Cost, effects and return on investment of scaling up mental health services in low- and middle-income countries, 2016 October, https://www.emerald-project.eu/dissemination/publications/policy-briefs/policy-brief-9/?L=2172
+
+Policy brief 08, "Interventions at the population and community-levels for mental, neurological and substance use disorders in LMICs", 2016 June, https://www.emerald-project.eu/dissemination/publications/policy-briefs/policy-brief-8/
+
+Policy brief 07, "Towards understanding governance issues in integration of mental health into primary health care in Uganda", 2016 June, https://www.emerald-project.eu/dissemination/publications/policy-briefs/policy-brief-7/?L=2172
+
+Policy brief 06, "Health system process for improved mental health outcomes and best practices for developing and implementing mental health plans in India", 2016 May, https://www.emerald-project.eu/dissemination/publications/policy-briefs/policy-brief-6/?L=2172
+
+Policy brief 05, "Capacity-building to strengthen the mental health system", 2016 May, https://www.emerald-project.eu/dissemination/publications/policy-briefs/policy-brief-5/?L=2172
+
+Policy brief 04, "Mental Health System Governance in Nigeria: Challenges, opportunities and strategies for improvement", 2016 Apr, https://www.emerald-project.eu/dissemination/publications/policy-briefs/policy-brief-4/?L=2172
+
+Policy brief 03, "Estimating the true global burden of mental illness", 2016 Mar, https://www.emerald-project.eu/dissemination/publications/policy-briefs/policy-brief-3/?L=2172
+
+Policy brief 02, "Service user and caregiver involvement in mental health system strengthening in low and middle income countries. Systematic review, 2016 Mar, https://www.emerald-project.eu/dissemination/publications/policy-briefs/policy-brief-2/?L=2172
+
+Policy brief 01, “Strengthening mental health systems in low- and middle-income countries”, 2015 Aug, https://www.emerald-project.eu/dissemination/publications/policy-briefs/policy-brief-1/?L=2172
+
+List of Websites:
+www.emerald-project.eu
