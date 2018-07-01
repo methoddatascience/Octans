@@ -4,6 +4,7 @@ import pandas as pd
 from Bio import Entrez
 from collections import defaultdict
 
+
 """
 Script usage:
 
@@ -82,8 +83,6 @@ class ArticleParser:
 
         for idx, article in enumerate(articles['PubmedArticle']):
 
-            authors = []
-
             # gets the article title
             title = article['MedlineCitation']['Article']['ArticleTitle']
 
@@ -91,10 +90,17 @@ class ArticleParser:
             try:
                 date_dict = article['MedlineCitation']['Article']['ArticleDate'][0]
             except IndexError:
-                date_dict = article['MedlineCitation']['DateCompleted']
-            date = '{}-{}-{}'.format(date_dict['Year'], date_dict['Month'], date_dict['Day'])
+                try:
+                    date_dict = article['MedlineCitation']['DateCompleted']
+                except KeyError:
+                    date_dict = article['MedlineCitation']['DateRevised']
+            date = '{}-{}-{}'.format(date_dict['Year'],
+                                     date_dict['Month'],
+                                     date_dict['Day'])
 
             # gets the article author(s)
+            authors = []
+
             author_list = article['MedlineCitation']['Article']['AuthorList']
             for author in author_list:
                 if 'CollectiveName' not in author:
@@ -103,37 +109,63 @@ class ArticleParser:
                                                      author.get('Suffix', '')).strip())
             authors = ', '.join(authors)
 
+            # gets the title of the journal the article was published in
+            journal = ''
+
+            try:
+                journal = article['MedlineCitation']['Article']['Journal']['Title']
+            except KeyError:
+                print("There's no journal title for article {}\n".format(idx))
+
+            # gets a list of citations
+            citations = []
+
+            try:
+                cite_dict = article['MedlineCitation']['CommentsCorrectionsList']
+                for ct in cite_dict:
+                    if ct.attributes['RefType'] == 'Cites':
+                        citations.append(ct['RefSource'])
+                citations = ', '.join(citations)
+            except KeyError:
+                print('There are no citations for article {}\n'.format(idx))
+                citations = ''
+
             # gets the text of the article abstract
             abstract_text = ''
             try:
                 abstract_raw = article['MedlineCitation']['Article']['Abstract']['AbstractText']
                 abstract_text = ' '.join([str_el.split('attributes=')[0] for str_el in abstract_raw])
             except KeyError:
-                print("There's no abstract for article {}".format(idx))
+                print("There's no abstract for article {}\n".format(idx))
 
             # populates the article dictionary
             article_dict[idx]['title'] = title
             article_dict[idx]['date'] = date
             article_dict[idx]['authors'] = authors
+            article_dict[idx]['published in'] = journal
+            article_dict[idx]['citations'] = citations
             article_dict[idx]['abstract'] = abstract_text
 
         return article_dict
 
-    def save_to_csv(self, article_data, filename):
+    def save_to_csv(self, article_data, filename, sort_order):
         """
-        Filters out entries with empty abstracts and
-        saves the data to a CSV file
+        Filters out entries with empty abstracts, sorts
+        the data, and saves it to a CSV file
 
         Args:
         article_data (dict) - dictionary with cleaned article info
         filename (str) - name of the CSV file to save article_data to
+        sort_order (int) - sorting order to apply to the data
 
         Returns:
         None
         """
 
         df = pd.DataFrame.from_dict(article_data, orient='index')
-        df = df[df.abstract != '']
+        df = df[df.abstract != ''].sort_values(by='date',
+                                               ascending=sort_order)\
+                                  .reset_index(drop=True)
         df.to_csv(filename, index_label='id')
 
 
@@ -168,9 +200,14 @@ def main():
     articles = pm_parser.fetch_info(raw_dict['IdList'])
     print('Parsing the fetched data...\n')
     parsed_dict = pm_parser.parse_info(articles)
-    print('Parsing complete. Saving the data to a CSV file...\n')
-    pm_parser.save_to_csv(parsed_dict, args.search_term + '.csv')
-    print('Done! The data has been saved to {}.'.format(args.search_term + '.csv'))
+    print('Parsing complete. The data can now be saved.\n')
+    filename = input('Please enter the name of the CSV file to save the data to: ').lower()
+    filename = filename if filename.endswith('.csv') else filename + '.csv'
+    order = input('\nHow would you like the data sorted by date? ' +
+                  'Type 0 for descending order, 1 for ascending: ')
+    order = int(order)
+    pm_parser.save_to_csv(parsed_dict, filename, order)
+    print('\nDone! The data has been saved to {}.'.format(filename))
 
 if __name__ == '__main__':
     main()
