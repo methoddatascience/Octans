@@ -1,0 +1,75 @@
+Executive summary:
+
+The 'Development of a new, non-invasive absolute ICP (aICP) measurement device based on ultrasound Doppler technology' (BRAINSAFE) project is a European Union (EU)-funded project for development of the innovative non-invasive technology of an absolute intracranial pressure (ICP) value accurate measurement without the need of patient specific calibration. The project runs according to 'Research for benefit of SMEs' programme of the European Commission (EC)'s Seventh Framework Programme (FP7). The project runs for two years starting on October 2009.
+
+For development of BRAINSAFE non-invasive ICP meter the competent consortium was created and a team of professionals with exceptional competencies was built to provide all the key component knowledge and capabilities needed. The partnership of small and medium-sized enterprises (SMEs) led by IP owner and exploitation manager Vittamed will be able to bring the technology into global markets.
+
+- Vittamed (VITT) (coordinator) has an in-depth knowledge on ultrasonic transcranial Doppler measurement concept, exploitation and intellectual and property right (IPR) manager, dissemination and future funding manager.
+- Smart Material is expert in advanced piezo composite materials, producer of the ultrasonic components (see http://www.smart-material.com online for further details).
+- Lecoeur Electronique - expert in design and manufacturing of electronic systems, producer of electronic systems (see http://www.lecoeur-electronique.com online for further details)
+- Medelkom UAB, Distribution manager, one of the recognised suppliers of ultrasonic medical equipment in Europe (see www.medelkom.com online for further details).
+- Greater Glasgow Health Board (Southern General Hospital) - the expert in assessment of patient aICP and evaluation of monitoring equipment for the ICP (see http://www.nhsggc.org.uk online for further details).
+
+The RTD partners of the consortium are providing extensive, complimentary competencies, resources and facilities for creating new knowledge:
+- KTU - Technical manager, a recognised research and technological development (RTD) partner active in the fields of ultrasonic technology applications and data processing (see http://www.ktu.lt online for further details).
+- DII and ITAV - a recognised RTD professional active in the fields of mathematical modelling, simulation, and mechatronics / mechanical development (see http://www.itav.es online for further details).
+- IBV - a recognised RTD professionals active in the fields of biomechanics, functional diagnosis and ergonomic design for medical applications (see http://www.ibv.org online for further details).
+
+The BRAINSAFE consortium partners contributed expert manpower and state of the art equipment, facilities and team competencies required to achieve their and the main objectives of the project.
+
+The successful achievement of the BRAINSAFE project objectives forms the basis for ndustrialisation of developed BRAINSAFE non-invasive aICP meter. The consortium now aims to bringing this breakthrough technology to routine clinical care.
+
+Project context and objectives:
+
+ICP value is an important physiological parameter of intracraniospinal system - a vital sign - in cerebrovascular system because of its importance in intracranial dynamics, its direct effect on cerebral perfusion, and its correlation with prognosis and outcome in head-injury patients. However, current methods for direct measurement of ICP are highly invasive, as they require surgical penetration of the scull to implant a pressure sensor into the brain, and carry risks of tissue damage and infection. The cost, complexity and risks involved mean that ICP is measured only in the most critically ill patients and not in the millions of patients who are at mild to moderate risk. Thus, there is a clear and compelling need for non-invasive ICP meter for routine clinical care.
+
+The BRAINSAFE non-invasive ICP meter developed the FP7 BRAINSAFE project addresses the need for non-invasive ICP meter for routine clinical care. It offers a fast, safe, and easy-to-use method of regularly measuring ICP accurately and reliably. The device based on ultrasound technology is designed to measure ICP directly and non-invasively, using the same patient specific calibration free principle as a standard non-invasive blood pressure measurement.
+
+Project results:
+
+Brainsafe - The world's first accurate non-invasive ICP meter:
+
+- Based on two-depth Doppler ultrasound technology;
+- does not need a patient specific calibration.
+- Capable of measuring absolute ICP non-invasively, accurately and precisely in left or right hemispheres of the brain.
+- Tested with healthy volunteers providing final non-invasive aICP pressure measurements with a random error (precision) close to SD= 2 mmHg.
+- Designed to be simple and rapid to use with minimal training required. Fully integrated and automatic system, operated by non-experts, obtaining measurements within 10-20 minutes.
+- Safe: Avoids the complications of invasive measurement; Doppler power levels matching approved medical ultrasound devices; Disposable pressure cuff and head frame; Maximum pressure levels on orbit (50 mmHg) are equivalent to 70 cm depth of water.
+
+The non-invasive ICP meter will be a breakthrough improvement in the diagnosis and treatment of brain trauma and neurological diseases. It will open up possibility for use in several settings where ICP monitoring would improve care, but it is currently avoided because of highly invasive nature of available methods.
+
+Potential impact:
+
+Traumatic brain injury (TBI) and stroke are worldwide epidemics with an estimated joint annual incidence of between 400 - 600 cases per 100 000 inhabitants in the developed countries. Over 3 million people in the United States (US) and Europe suffer TBI annually, with a mortality of 4 %. Motor vehicles accidents account for half of traumatic brain injuries and the majority of fatal cases.
+
+BRAINSAFE is the first accurate no-calibration method for non-invasively monitoring ICP. BRAINSAFE aICP monitor turns a complex invasive procedure applied to only the sickest patients in intensive care units (ICU) into one that is portable, non-invasive, simple and quick to perform.
+
+BRAINSAFE technology will allow improvements in the current management of invasive ICP monitoring and the expansion of ICP measurements to a broader set of patients (children, elderly), other frequent conditions accompanied with intracranial hypertension (lower-risk TBI, hydrocephalus, stroke, etc.) and settings (neurological clinics, emergency rooms, radiology, transplantology, sport medicine, aero-space medicine, etc.), thereby providing more immediate information to support better clinical decision-making.
+
+The primary impact of non-invasive method of ICP measurement will be on a large patient pool in which ICP monitoring is currently impossible, but in which the availability of a clinically reliable ICP estimate would improve the timeliness and accuracy of diagnosis and open up treatment options. The non-invasive ICP measurement will have an impact on diagnosis of the early non-symptomatic stages of TBI, in mild and moderate TBI, as well as for repetitive concussions (e.g. sports injury), hydrocephalus, brain tumour, stroke, post-neurosurgical care, neurological diseases such as idiopathic intracranial hypertension, meningitis or even migraine. The BRAINSAFE innovative technology will be able to offer a diagnostics that can save lives and increase the chance of survival and life span for TBI and neurological patients. The innovative aICP measurement device will completely eliminate all the risks associated with invasive methods of ICP measurement and monitoring.
+
+The BRAINSAFE non-invasive technology will have significant socio-economic impact to different social groups including medical community and patients, state and private medical insurance payers, SMEs and society as a whole.
+
+Benefits to clinicians and patients
+
+- Allows improvements in the current management of patients with elevated ICP and the expansion of elevated ICP diagnosing to a much wider group of patients, conditions and clinical settings.
+- Reduces the care burden: invasive devices are 'time-hungry' and expensive to insert.
+- Reduces complications and infection risk.
+- Simplifies and expands access to neurological data.
+
+Benefits to payers
+
+- Reduces cost of care by avoiding complications and potentially shortening stay in hospital.
+- Reduces need for implantation of invasive sensors into the brain - savings from the current cost of ICP diagnosis-related procedures.
+
+Socioeconomic benefits
+
+- Savings related to direct costs of treatment of long-term brain disorders (estimated EUR 298 million - TBI patients within the risk of penetrating mental or physical disorder can be diagnosed with BRAINSAFE and get early treatment, total potential savings - EUR 55 billion).
+- Savings related to a loss of productivity and social dependency among others (estimated EUR 955 million).
+
+Unmet market needs open up a great niche of market opportunity for SMEs. It is estimated, that market opportunity of more than EUR 1 billion in EU and US could result to significant increase of sales after launch of the device.
+
+Contact details: Technical manager Arminas Ragauskas
+telematics@ktu.lt
+
+List of websites: http://www.fp7BrainSafe.com

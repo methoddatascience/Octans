@@ -1,0 +1,9 @@
+Les canaux de potassium sont responsables de la transmission des signaux neuronaux par la régulation de l'entrée ou la sortie de diverses molécules ou ions de signalisation.L'homme possède 70 canaux ioniques mais seulement quelques-uns ont été associés à la maladie. Ainsi, il semblerait que les mutations de quatre canaux KCNQ sur cinq soient responsables des arythmies cardiaques et des maladies neurologiques.
+
+Le principal objectif du projet NEUROKCNQPATHIES («Cell biology of rare monogenic neurological disorders involving kcnq channels») financé par l'UE était de révéler les mécanismes biologiques des cellules à l'origine de maladies neurologiques monogéniques rares associées aux membres de la famille KCNQ. Plus spécifiquement, les partenaires du projet souhaitaient identifier les processus qui contrôlent la fonction des canaux KCNQ, dont leur modulation par des messagers secondaires, la biogenèse, le ciblage et le contrôle transcriptionnel.
+
+En premier lieu, l'équipe a analysé les propriétés biochimiques et biophysiques des mutations associées avec ces maladies en réalisant des études structure/fonction. Ils ont étudié la façon dont ces mutations affectaient le trafic des récepteurs KCNQ au sein de la cellule, leur insertion dans la membrane, leur assemblage et leur dégradation. Ainsi, les mécanismes à l'origine de la régulation KCNQ par des neurotransmetteurs et le contrôle de la transcription des gènes ont été étudiés.
+
+Parmi les réussites du projet, on compte le développement de modèles animaux transgéniques pour étudier la pathologie de ces maladies et l'identification de nouveaux médicaments qui modulent les canaux KCNQ.
+
+Collectivement, les résultats du projet ont permis aux scientifiques d'obtenir une idée plus précise du rôle des canaux KCNQ dans la maladie. Les informations moléculaires générées devraient aider à découvrir les médicaments ayant un potentiel pharmacologique et thérapeutique prometteur.

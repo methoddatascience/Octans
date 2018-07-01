@@ -1,0 +1,9 @@
+Kanały potasowe odpowiadają za przekazywanie sygnałów neuronowych poprzez regulację ruchu różnych cząsteczek sygnałowych i jonów z i do komórki.U człowieka znajduje się 70 kanałów jonowych, ale tylko kilka z nich naukowcy wiążą z chorobami. Wiadomo na przykład, że mutacje w czterech z pięciu kanałów KCNQ powodują arytmię serca i zaburzenia neurologiczne.
+
+Głównym celem finansowanego ze środków UE projektu "Biologia komórki rzadkich monogenicznych chorób neurologicznych z udziałem kanałów kcnq" (NEUROKCNQPATHIES) było poznanie biologicznych mechanizmów dotyczących rzadkich monogenicznych chorób neurologicznych kojarzonych z członkami rodziny KCNQ. Mówiąc bardziej szczegółowo, partnerzy projektu chcieli zidentyfikować procesy kontrolujące funkcjonowanie kanałów KCNQ, w tym modulowanie ich przez przekaźniki wtórne, biogenezę, celowanie i kontrolę transkrypcyjną.
+
+W pierwszej kolejności naukowcy przeanalizowali właściwości biochemiczne i biofizyczne mutacji powiązanych z tymi schorzeniami, przeprowadzając badania struktura-funkcja. Badali, w jaki sposób mutacje te wpływają na transport receptorów KCNQ w obrębie komórki, wprowadzanie błony, tworzenie i degradację. Przedmiotem badań były także mechanizmy związane z regulowaniem KCNQ przez neuroprzekaźniki oraz kontrolowaniem transkrypcji genów.
+
+Wśród ważnych osiągnięć projektu można wymienić stworzenie transgenicznych modeli zwierzęcych umożliwiających badanie patologii tych chorób oraz zidentyfikowanie nowych leków modulujących kanały KCNQ.
+
+Podsumowując, wyniki projektu dostarczyły naukowcom bardziej precyzyjnych informacji na temat roli kanałów KCNQ w chorobach. Zebrane dane powinny pomóc w stworzeniu leków o obiecujących właściwościach farmakologicznych i terapeutycznych.

@@ -1,0 +1,698 @@
+Executive Summary:
+The IMAging GEnetics for MENtal Disorders (IMAGEMEND) project was a four year project funded as part of the HEALTH.2013.2.2.1-2 – program (Development of effective imaging tools for diagnosis, monitoring and management of mental disorders). The project brought together 13 project partners with substantial expertise in psychiatric neuroimaging, genetics, ethics, software development as well as project management. The overarching aim of IMAGEMEND was to assemble and utilize a large scale, multimodal database to identify diagnostic and predictive biological signatures of clinical utility for schizophrenia (SZ), bipolar disorder (BD) and attention deficit hyperactivity disorder (ADHD).
+
+SZ and BD are severe mental illnesses that highly contribute to overall disease burden and costs and are major causes of suicide, workplace disability and youth mental health impairment in Europe. SZ, BD and ADHD show substantial overlap of clinical symptoms, leading to frequent misdiagnosis and sub-optimal treatment. Current diagnostic systems are defined based on course and the presence or absence of symptoms, and their fundamental structure dates back to more than 100 years ago. Importantly, they do not take into account biological readouts and it is unclear to what extent currently established diagnostic constructs delineate specific, biologically defined illnesses. Therefore, there is a general recognition that biological readouts to identify, stratify and monitor psychiatric patients could aid significantly in the clinical management of mental illnesses (Stober et al. 2009).To address this, IMAGEMEND aimed to build one of the largest multimodal databases on psychiatric illnesses, combining neuroimaging, genetic and environmental risk, as well as clinical data and to utilize this resource to advanced computational identification of diagnostic and predictive signatures.
+
+Using this extensive resource, IMAGEMEND’s scientific aims were to (I) create one of the largest integrative databases of neuroimaging, genetic and environmental risk as well as clinical data on approximately 13,000 subjects, (II) identify biological processes underlying the etiology of SZ, BD and AHDH through integrative analysis of IMAGEMEND’s extensive, multi-modal database, (III) integrate findings in optimal, multivariate algorithms to define imaging readouts for case-control and differential diagnosis with performance suitable for clinical application, (IV) identify trans-diagnostic marker patterns linked to symptom domains shared across diagnostic boundaries and those indexing patient subgroups with disease-general neuroimaging and multi-modal profiles, (V) identify and validate neuroimaging and multi-modal markers linked to response in longitudinal patient populations, (VI) discover neuroimaging and multi-modal markers indexing subjects at high risk for mental illness and predicting conversion to SZ and BD, and indexing remission versus persistence of ADHD, (VII) translate findings into commercially viable, clinical tests for accurate patient stratification, prediction and treatment selection contributing directly to better patient outcomes, (VIII) develop novel functional magnetic resonance imaging (fMRI) based solutions giving real-time clinical neurofeedback of aetiology-related neuroimaging markers directly applicable for treatment of patients with mental illness, and (IX) to contribute to international efforts to unravel the etiological basis of mental illnesses.
+
+The IMAGEMEND consortium created a data resource with over 9,000 subjects and with a partially centralized structure. Using data resource, we have identified biological markers of the investigated disorders, resulting in several publications. As part of this work, we identified a lack of genetic overlap between subcortical brain volume and risk, as well as associations between brain volumetric changes in ADHD and delayed brain maturation. An important outcome of the present project is the substantial biological heterogeneity of patients even within currently established diagnoses. Using advanced computational approaches, we were able to find evidence of the presence of biological subgroups in SZ and ADHD. We have further demonstrated an added benefit of integrating neuroimaging with genetic multi-loci predictive panels. Despite this, we found it challenging to identify biological profiles predictive of the change in clinical symptoms. Similarly, despite application of advanced machine learning methods, we found that neuroimaging based identification of subjects at high risk of developing psychiatric illness was not possible with sufficient accuracy. It was, however, possible to identify multivariate, biological correlates of subclinical measures of psychopathology. We further implemented a software pipeline for machine learning analysis of structural MRI as well as a client/server application that uses Docker to provide a platform-independent environment. Additionally, we developed clinical real-time fMRI software that directly targets the mental disorders of this project through neurofeedback training. The developed real-time fMRI analysis tool was integrated into existing real-time functional connectivity-based neurofeedback analysis software. This software has been successfully tested by two partners of Brain Innovation and is now being medically certified to facilitate its clinical use. As part of ethics research performed within IMAGEMEND, we implemented surveys to understand attitudes towards genetic testing and assessed the degree to which a given risk prediction and its consequences are understood. These results were used to develop a checklist of the most relevant and sensitive aspects of the informed consent process that will be published on the IMAGEMEND website.
+
+Given IMAGEMEND’s extensive data resource, we were able to show that current diagnostic entities are likely too heterogeneous at the biological level to allow meaningful differentiation based on biological markers. Our stratification efforts provide first evidence that this heterogeneity can be disentangled using advanced computational approaches. This work has set the stage for future collaborative efforts to identify signatures for biological stratification of mental illnesses. We hope IMAGEMEND results will provide the basis for such investigations to push the field of biological psychiatry closer to personalized medicine applications.
+
+References
+
+Owens and Johnstone. 2006. Precursors and prodromata of schizophrenia: findings from the Edinburgh High Risk Study and their literature context. Psychol Med. 2006 Nov;36(11):1501-14.
+
+Stober et al. 2009. “Schizophrenia: From the Brain to Peripheral Markers. A Consensus Paper of the WFSBP Task Force on Biological Markers.”In The World Journal of Biological Psychiatry the Official Journal of the World Federation of Societies of Biological Psychiatry,10:127–155. http://www.ncbi.nlm.nih.gov/pubmed/19396704.
+
+Wittchen et al. 2011. “The Size and Burden of Mental Disorders and Other Disorders of the Brain in Europe 2010.” European Neuropsychopharmacology the Journal of the European College of Neuropsychopharmacology 21 (9): 655–679. http://www.ncbi.nlm.nih.gov/pubmed/21896369.
+
+Wittchen, Hans-Ulrich, and Frank Jacobi. 2005. “Size and Burden of Mental Disorders in Europe--a Critical Review and Appraisal of 27 Studies.” European Neuropsychopharmacology the Journal of the European College of Neuropsychopharmacology 15 (4): 357–376. http://www.ncbi.nlm.nih.gov/pubmed/15961293.
+Project Context and Objectives:
+Concepts
+
+The fundamental goal of IMAGEMEND was to identify multimodal algorithms integrating neuroimaging, genetic, environmental risk and clinical data for optimal diagnosis, course prediction and direct, neuroimaging based treatment of schizophrenia (SZ), bipolar disorder (BD), and attention deficit hyperactivity disorder (ADHD). For this, the project aimed to aggregate and expand existing, multimodal data across the participating clinical partners and utilize partners’ expertise in computational analysis to identify signatures of biological markers with clinical relevance. IMAGEMEND was targeted at severe mental illnesses, which highly contribute to overall disease burden and costs and aimed to improve their clinical management, and patient outcomes through development of such biologically informed and clinically useful diagnostic and predictive tests, as well as an innovative imaging-based therapeutic approach.
+
+Mental disorders are now the leading causes of disability, absence from work and early retirement in Europe, costing more than 520.000 Million € per year (Wittchen et al. 2011). Between 2004 and 2005, an approximate 27% of the adult EU population (18-65 years) has been affected by at least one mental disorder (Wittchen and Jacobi 2005). Despite the already staggering healthcare costs, during these 12 months only one quarter of affected subjects had any consultation with professional health care services, illustrating a substantial unmet clinical need (Wittchen and Jacobi 2005). IMAGEMEND specifically focussed on SZ, BD and ADHD. These illnesses show considerable genetic, environmental and clinical overlap, and pose severe differential diagnostic and managing problems. In particular during early disease phases, BD symptoms can be confused with those of SZ, often leading to incorrect diagnoses. Similarly, subjects with ADHD often present with symptoms similar to those of BD and some of these symptoms are among the initial signs of SZ (Owens and Johnstone 2006).
+
+The concept of IMAGEMEND originated from the problem that currently, diagnosis of these severe mental illnesses is still based on evaluation of the presence or absence of symptoms, as well as clinical course. These diagnostic criteria do, however, not incorporate any biological readout. Therefore, the objective identification of biological changes could help to more accurately diagnose subjects early during the course of the illness and, therefore, substantially improve patient outcomes. To achieve this, IMAGEMEND focussed primarily on imaging of the brain, since scanners required for acquisition of such data are widely available and have already been used extensively to study psychiatric illnesses. However, IMAGEMEND hypothesized that the addition of other data types during development of predictive algorithms could help to improve accuracy, and therefore, clinical utility. For this purpose, IMAGEMEND had a strong multimodal focus and aimed to aggregate multiple data types available for the same individuals across clinical project partners. These additional data types included genetic data, as well as information on environmental risk factors, both of which play an important role for the illness process of the investigated mental disorders. In addition, the integration of these data modalities was targeted at obtaining an improved biological understanding of the likely complex algorithms developed for prediction.
+
+The project comprised five scientific, one ethics, one dissemination and one management work package (WP). The first WP aimed to assemble and expand a large database containing multiple data modalities on the same patients as well as healthy volunteers. The second WP’s objective was to use this data resource to identify algorithms that could distinguish the investigated illnesses from each other, as well as from controls. Another important aspect of this WP was to identify subgroups of patients that share specific biological changes, but that may have received different clinical diagnoses. This analysis could highlight an important benefit of using biological markers for diagnosis – their ability to capture accurately the underlying illness process beyond the manifestation of clinical symptoms. We hope that WP focussed on the utilization of the IMAGEMEND data resource to identify biological patterns that could predict disease course, which would have a substantial utility for clinical practitioners to reach therapeutic decisions. The fourth WP aimed to explore biological patterns of subjects at risk for mental illness in large, population based cohorts and to assess their overlap with signatures identified in patient cohorts. This may hint at the presence of biological alterations prior to illness onset and could, potentially, lead to novel, strategies for early intervention. The fifth WP’s objective was to aggregate input from other WP and develop easy-to-use software for identification and prediction of biological signatures based on the IMAGEMEND data repository. The IMAGEMEND ethics WP addresses ethical and legal concerns arising as part of the project, in particular regarding application of genetic testing in the field of psychiatry. The Dissemination WP aimed to make IMAGEMEND and it’s results known to the scientific and public community and to possible identify intellectual property (IPR).
+
+The main results will be reported by addressing the 9 key objectives of IMAGEMEND.
+
+Objective 1 - To create one of the largest integrative databases of neuroimaging, genetic and environmental risk as well as clinical data on approximately 13,000 subjects:
+The establishment of the IMAGEMEND data repository was a central cornerstone for application of computational methods and algorithm development efforts across WPs. Its primary focus areas were (I) multi-modality, to facilitate increased predictivity of identified biological illness patterns, (II) large scale, to robustly identify the usually small illness-associated changes and allow algorithms to reproducibly integrate such changes into predictive signatures, (III) diversity, in that data was acquired from numerous clinical centres, which allows subsequent independent testing of algorithms and derivation of performance estimates indicative of future clinical performance and (IV) centrality, in that IMAGEMEND aimed to aggregate as much data as possible in a single storage environment, to facilitate optimal downstream application of computational methods.
+
+Objective 2 - To identify biological processes underlying the etiology of schizophrenia, bipolar disorder and AHDH through integrative analysis of IMAGEMEND’s extensive, multi-modal database:
+We anticipated the integrative analysis of the large, multi-modal data resource accumulated as part of IMAGEMEND, to yield novel insights into the aetiology of the investigated illnesses. This is due to the fact that IMAGEMEND was among the first projects to explore some of the investigated data modalities at large scale using advanced computational methods. Additionally, such methods were anticipated to highlight important, combined effects between the investigated modalities and therefore uncover novel biological mechanisms underlying the investigated illnesses.
+
+Objective 3 - To integrate findings in optimal, multivariate algorithms to define imaging readouts for case-control and differential diagnosis with performance suitable for clinical application:
+A primary objective of IMAGEMEND was to apply advanced computational strategies to the multi-modal data resource and develop signatures for future clinical use as diagnostic and predictive tests. IMAGEMEND focused on differentiation of patients from controls, to establish the presence of reproducibly altered biological profiles compared to healthy patients. IMAGEMEND also aimed to investigate differentiation between patients with different diagnoses, to explore the possibility for biologically informed differential diagnosis, which has higher clinical utility compared to case-control differentiation.
+
+Objective 4 - To identify trans-diagnostic marker patterns linked to symptom domains shared across diagnostic boundaries and those indexing patient subgroups with disease-general neuroimaging and multi-modal profiles:
+To address the fundamental problem of current diagnostic procedures, which are based on subjective evaluation of clinical symptoms and course, IMAGEMEND aimed to perform direct, data driven identification of biological patters that are linked to patient subgroups. For this IMAGEMEND aimed to pursue two investigative routes: (I) to identify biological signatures of symptom domains that are shared across diagnostic groups to identify biological symptom hallmarks that are independent of convential diagnostic classification and (II) to perform computational identification of patient subgroups across diagnoses, which could identify patient clusters with similar biological patterns, irrespective of their clinical symptoms or diagnoses.
+
+Objective 5 - To identify and validate neuroimaging and multi-modal markers linked to response in longitudinal patient populations:
+For this objective, IMAGEMEND aimed to use its multi-modal data resource to identify biological patterns that could predict future changes in illness course. This is particularly important from a perspective of therapeutic decision making, which is frequently characterized by sequential try-outs of different antipsychotic treatment regimens following observations of non-response. The presence of course predictive biological signatures would also hint at the possibility of biological stratification of patients for future development of novel therapeutic approaches.
+
+Objective 6 - To discover neuroimaging and multi-modal markers indexing subjects at high risk for mental illness and predicting conversion to schizophrenia and bipolar disorder, and indexing remission versus persistence of ADHD:
+For this objective, IMAGEMEND explored biological profiles in adolescent subjects at high-risk for mental illness who previously participated in the IMAGEN project. The primary aim was to explore whether such subjects showed biological alterations prior to illness onset and whether such signatures aligned with those identified in patient populations recruited at the expert clinical centres participating in IMAGEMEND.
+
+Objective 7 - To translate findings into commercially viable, clinical tests for accurate patient stratification, prediction and treatment selection contributing directly to better patient outcomes:
+The aim of this objective was to aggregate the results and input from all scientific WPs to develop optimized, easy to use software that could form the basis for future clinical application of the algorithms developed as part of IMAGEMEND.
+
+Objective 8 - Develop novel fMRI based solutions giving real-time clinical neurofeedback of etiology-related neuroimaging markers directly applicable for treatment of patients with mental illness:
+Besides the identification of clinically useful profiles of biological markers, an important objective of IMAGEMEND was the development of real-time clinical neurofeedback as a direct, imaging based intervention for the investigated disorders. This system will implement advanced tools to automatically select relevant brain areas and allow conducting individualised neurofeedback training without expertise in functional neuroanatomy and with minimal user interaction.
+
+Objective 9 - To contribute to international efforts to unravel the etiological basis of mental illnesses:
+Several large-scale collaborative efforts are currently exploring biological hallmarks of mental illnesses. IMAGEMEND aimed to contribute to these efforts new insights from application of advanced computational strategies on large-scale, multimodal, multi-cohort data of SZ, BD and ADHD.
+Project Results:
+Summary of the main results/foreground of IMAGEMEND
+
+The central aim of IMAGEMEND was to use a large-scale, multimodal database to identify diagnostic and predictive biological patterns of schizophrenia (SZ), bipolar disorder (BD) and attention deficit hyperactivity disorder (ADHD). For this purpose, work package (WP) 1 aggregated multimodal data across project partners and developed an extensive database suitable for multivariate computational analysis. This data resource has a partially centralized structure and served as the backbone for safeguarding data quality and ensuring that IMAGEMEND objectives are achieved according to the highest quality standards.
+
+Based on this extensive data resource, WP2 has found robust evidence for the alteration of multiple features of the brain in different psychiatric disorders. However, brain alterations in the different disorders tend to be of limited effect size, which likely reflects a large heterogeneity between patients. Having assessed brain imaging features as a potential basis for diagnostic evaluation in WP2 in multiple ways, we can say that the heterogeneity seen in the patient populations within and across disorders is much stronger than expected. This results in a limited ability to predict disease status, even when sophisticated statistical methods are used and multimodal analyses designs are chosen. Genetic factors influencing brain structure overlap with those increasing disease risk. However, also in this case, effect sizes are very limited, and the explained variance of shared genetic factors is much smaller than expected. This suggests that - although genetic factors provide a complementary source of information for the prediction of diagnosis – the additional variance explained by the inclusion of genetics in predictive algorithms based on neuroimaging data will be limited until more genetic factors for disease have been identified.
+
+To facilitate prediction of changes in clinical course based on patterns of biological markers, WP3 has compiled a consensus report on clinical criteria and machine learning analysis protocols. WP3 further explored the added benefit of integrating neuroimaging with genetic multi-loci predictive panels. Furthermore, in initial analyses, WP3 identified neuroimaging markers of clinical improvement, genetic variants associated with treatment response, trans-diagnostic imaging markers linked to SZ and BD as well as imaging and genetic markers of BD. Subsequent analyses demonstrated that based on structural brain features, clinical outcome could not be reproducibly predicted in SZ or ADHD. To identify associations between longitudinally changing neuroimaging markers and clinical improvement, WP3 has investigated white matter microstructure in ADHD subjects and controls, but did not identify significant associations.
+
+An important objective of IMAGEMEND was to explore population based data to identify patterns of biological alterations that were already present in high-risk subjects, and to identify predictors of transition from high-risk state to early illness manifestation. Toward this goal, WP4 explored sub-clinical psychotic symptoms and their genetic correlated in the population-based IMAGEN, comprising adolescent subjects in age periods of significant relevance for the disorders investigated in IMAGEMEND. Using these longitudinal data, WP4 explored the prediction of ADHD remission/persistence, as well as overlapping neuroimaging associations between the IMAGEN adolescent sample and patient cohorts of the IMAGEMEND database. For this, WP4 has developed deep learning methods for application on multimodal data to identify subjects at high risk of developing psychiatric illness, tested a classifier developed in an ADHD patient population in the IMAGEN general population sample and developed a computational approach to link the reinforcement architecture of the brain, to subclinical measures of psychopathology.
+
+WP5’s objectives were to tailor classifiers towards clinically optimal performance criteria and to develop a workflow for their application. For this, WP5 has implemented a software pipeline for machine learning analysis of structural MRI as well as a client/server application that uses Docker to provide a platform-independent environment. A further important objective of WP5 was to develop clinical real-time fMRI software that directly targets the mental disorders of this project through neurofeedback training. For this, WP5 has integrated the developed real-time fMRI analysis software into existing real-time functional connectivity-based neurofeedback analysis software. This software has been successfully tested by two partners of Brain Innovation and is now being medically certified to facilitate its clinical use.
+
+The IMAGEMEND ethics WP addressed ethical and legal concerns arising as part of the project, in particular regarding application of genetic testing in the field of psychiatry. WP6 aimed to establish informed consent procedures by scrutinizing existing procedures across data contributing IMAGEMEND partners. WP6 further implemented surveys to understand attitudes towards genetic testing and assessed the degree to which a given risk prediction and its consequences are understood. These results were used to develop a checklist of the most relevant and sensitive aspects of the informed consent process that will be published on the IMAGEMEND website. Finally, throughout the project, WP6 considered the ethical, legal, and regulatory issues involved in implementing the developed decision-making rules in clinical practice.
+
+WP7 focussed on making IMAGEMEND known to the scientific community and the public, to disseminate results and to foster interactions with the scientific community and the public. Also, WP7 aimed to identify and valorise intellectual property rights and commercialize software packages based on IMAGEMEND results for use in clinical practice.
+
+Finally, WP8 ensured that IMAGEMEND achieved its objectives, helped the consortium abide by the regulations and contractual obligations according to the grant agreement, controlled the project`s finances and established a communication infrastructure, which enabled the partners to communicate efficiently. Finally, WP8 preserved the rights of the partners regarding intellectual property and was ready to act as a mediator in case of disputes.
+
+Main results/foreground of the different work package
+
+WP1: Central infrastructure
+
+Background
+Despite the broad availability of neuroimaging facilities such as MRI and substantial research efforts that have used MRI methodology to study psychiatric disorders, no diagnostic or predictive MRI applications have reached clinical practice in psychiatry. A central obstacle for their development is the availability of a large, well characterized and harmonized data resource that allows efficient application of machine learning tools. Numerous studies have already explored pattern recognition of structural readouts in psychiatry. These studies have provided strongly heterogeneous results, a likely consequence of small sample numbers and substantial clinical and experimental variability (Wolfers 2015). A second challenge is the simultaneous availability of multiple data modalities on the same individuals. One of IMAGEMEND’s hypotheses is that MRI will yield the necessary dimensional quantitative assessment of mental illness relevant for treatment when combined with informative markers of biological risk (Buckholtz and Meyer-Lindenberg 2012). Imaging may yield the quantitative readouts that index the biological traits underlying the behavioural phenotypes and, therefore, explain a larger amount of phenotypic variance than genes alone. Genetic information, however, could allow refinement and stratification of intermediate imaging phenotypes and lead to better disease separation and predictive classifiers than possible using either information source alone. To address these issues, WP1 aimed to perform the first large scale integration of genetic information with neuroimaging and other disease relevant readouts (see WPs 2-5), adding a new dimension to the discovery process of markers for personalized medicine.
+
+Overall Objectives
+WP1 had two primary objectives:
+1) To create an extensive, multimodal database through aggregation of existing and newly acquired data from project partners. Data will comprise structural and functional neuroimaging, genetic, clinical and environmental risk information. With this, IMAGEMEND aims to create one of the largest integrative databases for exploration of the biological underpinning of psychiatric disorders.
+2) To ensure that IMAGEMEND objectives are achieved according to the highest scientific and quality standards.
+
+Results
+During the course of the project, WP1 has achieved the following results:
+
+1) WP1 has created an IT infrastructure for save storage and exchange of data across the consortium. The infrastructure is based on two separate servers set up at the CIMH, for optimal protection of personally identifying information.
+2) WP1 has achieved that a large majority of data could be brought together in IMAGEMEND’s centralized storage space. Compared to the initially planned distributed analysis strategy, where data remains stored at project partner sites, this substantially simplifies statistical analyses and allows application of computational approaches that would be challenging to perform on a distributed database (in particular machine learning).
+3) WP1 has aggregated and standardized an extensive collection of metadata across project partners. This information includes demographic, clinical, technical and environmental risk data.
+4) WP1 has coordinated further genetic analyses as well as methylation analyses for subjects where only genetic data had been available.
+5) WP1 has implemented an analysis regulation pipeline with which statistical analyses are first uploaded and stored on the central infrastructure and then reviewed by the relevant data contributing sites to ensure compliance with ethics and consent requirements.
+6) WP1 has coordinated the implementation of standardized pre-processing pipelines for neuroimaging and genetics data. These pipelines are used for pre-processing of all data analysed as part of this project to minimize potential site-to-site variability effects.
+7) Since all scientific IMAGEMEND WPs applied advanced machine learning approaches to identify multimodal patterns for prediction of different outcome variables, WP1 has been coordinating the efforts of a core “analysis group” and “imaging genetics group” with representatives of each scientific WP. This ensured that general multivariate analysis insights or observations affecting predictions across outcomes were suitably shared across WPs. The core analysis group has been discussing progress on a monthly basis, which has substantially contributed to active exchange across WPs.
+8) WP1 has actively sought contact with other institutions to expand its data resource for validation of identified multivariate signatures. For example, the FP7 project PSYSCAN has been processing structural MRI data using the pre-processing pipeline used for IMAGEMEND data, such that algorithms can be cross-validated across consortia. Similarly, we have approached the FP7 consortium PRONIA (PI Nikolaos Koutsouleris) and Heidelberg University (PI Oliver Gruber), who have agreed to provide data on relevant patient cohorts for validation purposes. Additionally, FUDAN University has been processing structural imaging data using the same processing procedures to allow external validation of algorithms developed within IMAGEMEND.
+9) Efforts to identify a structural neuroimaging signature that could accurately predict SZ encountered specificity issues during testing on independent validation cohorts. To overcome this issue, WP1 has coordinated the re-processing of most available data using a second pre-processing pipeline. This allowed identification of a signature with substantially higher reproducibility and which did not show substantial specificity issues in independent test cohorts. These results are currently being summarized in a manuscript.
+
+Conclusions
+Throughout the project, WP1 has successful assembled one of the largest integrative databases combining neuroimaging, genetic and clinical information on SZ, BD and ADHD patients, as well as healthy controls. Through acquisition of missing biological data, WP1 has achieved joint availability of multiple data modalities on the same subjects. Throughout the project, WP1 has been coordinating analyses across WPs to facilitate efficient communication and safeguard scientific quality as well as ethics requirements. With this, WP1 has contributed substantially to the successful analyses performed across the scientific WPs of the IMAGEMEND project.
+
+References
+
+Buckholtz and Meyer-Lindenberg. Psychopathology and the Human Connectome: Toward a Transdiagnostic Model of Risk for Mental Illness. Neuron 74 (6): 990–1004. doi:10.1016/j.neuron.2012.06.002.
+
+Wolfers et al. From estimating activation locality to predicting disorder: A review of pattern recognition for neuroimaging-based psychiatric diagnostics. Neurosci Biobehav Rev. 2015 Oct;57:328-49.
+
+WP2: Diagnostic markers
+
+Background
+In WP2 of the IMAGEMEND project, we started from the classic clinical categories of psychiatric disorders, focussing on the disorders of interest to our study, SZ, BD, and ADHD. When this project started, there was still relatively limited knowledge of the brain substrates of these disorders. Although multiple studies had been published for some disorders, most of these had been limited in their detection power by small sample sizes, and some aspects had gone unstudied, like adult age in ADHD. One thing that could already be extracted from the existing literature was the lack of consistency between studies – pointing to a high heterogeneity between patients – and the limited effect size of individual observed effects of disease on the brain – suggesting the need for more sophisticated analysis methods in going towards use of brain phenotypes for diagnostic and prognostic purposes.
+
+An important point of discussion in the field of psychiatry was (and still is) the biological validity of the categorical system in clinical use for the diagnosis of psychiatric disorders. Given the high comorbidity amongst different disorders and the apparent biological (genetic) overlap observed, it has been argued that for optimal treatment of patients, a more etiology-based system of characterization would be required.
+
+Overall Objectives
+The IMAGEMEND project offered an optimal platform to address the challenges laid out above using state-of-the-art analysis designs in the largest data sets available. More specifically, we worked on the following objectives:
+1) 1Identification of structural, functional, and connectivity neuroimaging marker patterns linked to classical diagnostic categories for case-control discrimination and differential diagnosis of SZ, BD, and ADHD.
+2) Optimization of case-control and differential diagnostic markers through integration of genetic, environmental risk, and clinical data.
+3) Identification of trans-diagnostic neuroimaging and multi-modal marker patterns linked to disease-general symptom domains across diagnostic boundaries as well as those defining trans-diagnostic patient subgroups.
+
+Results
+The resource established in WP1 enabled us to work with well-powered samples in pursuing our goals. In addition, we were able to include even larger sample sizes for the studies of structural aspects of the brain through our participation in the world-wide ENIGMA Consortium (which operates in a largely unfunded manner). Members of IMAGEMEND founded and lead working groups on BD and ADHD within the context of ENIGMA, and participated in a working group on SZ. In addition, we were among the leading groups in the genetics work of ENIGMA, identifying the genetic building stones for the development of different disease-relevant brain structures.
+
+For Task 1 (Identification of brain structure differences between healthy individuals and patients diagnosed based on clinically defined psychiatric categories, and comparison between different psychiatric categories), highlights of our work include the following studies:
+
+• We defined the structural brain alterations observed in the psychiatric disorders of interest to IMAGEMEND. This work was done in the context of the ENIGMA working groups: For SZ, a first analysis provided evidence for extensive and progressive subcortical brain volume alterations in with over 2,000 cases and more than 2,500 healthy controls, these studies were among the largest reported to date (Van Erp et al., Mol Psychiatry 2016). A paper on changes observed in cortical thickness and surface area is in preparation. Using large-scale structural MRI data in over 6,000 individuals, BD have thinner cortical gray matter in frontal, temporal and parietal regions of both brain hemispheres. In addition, we found consistent volumetric reductions in BD patients for hippocampus, thalamus and enlarged lateral ventricles (Hibar et al., 2017; Hibar et al., 2016). We documented previously undetected associations, including longer duration of illness being associated with reduced cortical thickness in frontal, medial parietal and occipital region and several commonly prescribed medications, including lithium, antiepileptic and antipsychotic treatment associated with cortical thickness and surface area (Hibar et al., 2017). For ADHD, we performed the world-wide largest studies (1,544 cases and 1,729 controls in the first, over 4,000 individuals in the second study) and observed novel as well as confirming previous findings on the involvement of striatal and limbic structures in the disorder. Importantly, our study was the first to take a lifetime approach, and report that the structural alterations in the disorder were more strongly observed to childhood, suggesting a prolonged timeframe needed for maturation of the brain in ADHD (Hoogman et al., Lancet Psychiatry 2017). The second paper, describing widespread differences between children (but not adults) with ADHD and healthy controls in cortical surface area, is currently in preparation.
+
+• Using the IMAGEMEND resource, we studied additional brain regions in the disorders, including a study of the cerebellum, which plays an important role in the pathophysiology of SZ. Our results showed that, compared to healthy controls, cerebellar grey matter volume was robustly reduced in patients with SZ with the strongest effects seen in cerebellar regions associated with higher-level cognitive functions. Further, we documented robust positive correlations between regional cerebellar grey matter volume and cerebral cortical thickness, suggesting coordinated cerebellar and cerebral changes and a neurodevelopmental etiology for the cerebellar structural alterations observed in schizophrenia (Moberget et al., 2017).
+
+• In addition to own experimental work, we also reviewed the existing literature on the prospect of moving neuroimaging into clinical applications for the diagnosis of psychiatric disorders. We found that the published studies up to now are largely hampered by small sample size and lack of validation/replication attempts. Results suggested that although high predictability of disease status could be achieved in very small samples, prediction worsened in all cases of larger sample size, suggesting that heterogeneity was an important factor influencing results (Wolfers et al., 2015).
+
+• In our most recent work, we followed up these findings by mapping the individual patient-specific heterogeneity across BD, SZ, and ADHD. Our result show that associations between brain measures and disorders are often only based on very few samples in a group. For example, in our case, out of 100 patients with SZ, only 5 patients showed clear biological correspondence with each other, indicating that talking about unified psychiatric constructs requires reconsideration (Wolfers et al., in preparation). These studies help us to understand, why the benchmarks for the predictability of psychiatric disorders do not exceed 75% at its max in some representative samples and point to a new avenue in psychiatric research: the refinement of psychiatric disorders through mapping of individual differences in patient populations.
+
+For Task 2 (Evaluation of the specificity of brain morphology differences for (trans-diagnostic) symptom dimensions and trans-diagnostic patient clustering), the following studies give an example of our work:
+
+• SZ and bipolar spectrum disorders have been conceptualized as disorders of brain connectivity; yet little is known about the pervasiveness across cognitive tasks. We found that severe mental illness is associated with a pervasive pathophysiological pattern in the brain functional connectome across different cognitive tasks. Our findings support that merging task-based and possibly resting-state fMRI data may represent a viable approach, allowing for the expansion of large- scale analyses from structural MRI to fMRI, and thereby boosting the statistical power required to differentiate or refine diagnostic subgroups (Kaufmann et al., 2017).
+
+• In addition to univariate analyses, we performed multivariate data-driven fusion of brain imaging phenotypes to identify distinct brain morphology patterns in SZ and BD. By jointly analysing three complementary morphological measures, cortical thickness, surface area, and gray matter density maps, we found six biologically meaningful patterns showing strong effect of SZ and BD, including four statistically independent multimodal patterns reflecting co-occurring alterations in thickness and gray matter density in patients, over and above two other independent patterns of widespread thickness and area reduction. Classification analyses revealed that cognitive scores showed highest case-control classification, boosted by brain structure or genetics (Doan et al., 2017).
+
+• In a study of pattern recognition, we quantified the separation of groups based spatially distributed brain activity and functional connectivity in a cognitive inhibition task, an fMRI-adapted version of the Stop-Signal Task. Cognitive inhibition problems are a trans-diagnostic trait relevant to ADHD, BD, as well as SZ. In the current study, we used it to distinguish between participants with ADHD, their unaffected siblings, and healthy controls. We showed that participants with ADHD could be distinguished from healthy controls with an area under the receiver operating characteristic curve (AUC) of 0.64, and that unaffected siblings could be distinguished both from participants with ADHD (AUC = 0.65) and healthy controls (AUC = 0.59). A pattern of fronto-lateral, superior temporal, and inferior parietal expansion was associated with the risk for ADHD, and unaffected siblings shared with patients the differences primarily in fronto-lateral regions (Wolfers et al., 2016).
+
+In Task 3 (Evaluation of differences in structural and functional connectivity between patients and healthy comparison subjects), the following papers provide a representation of our work (also see the paper by Wolfers et al, 2016, mentioned above):
+
+• The thalamus structure relays and integrates sensory and cortical information. Our study using structural and functional MRI showed reduced within-thalamic functional connectivity and thalamo-frontoparietal coupling in SZ and increased thalamo-somatomotor connectivity in BD. Reduced gray matter and shape abnormalities were found in frontal-projecting regions in patients, but did not explain the observed reduced functional connectivity. The aberrant thalamo-cortical connectivity patterns in SZ and BD supports the notion of the thalamus as a key structure in the functional connectome across the psychosis spectrum, and the frontal and somatomotor anatomical distribution is in line with the characteristic cognitive and perceptual symptoms in psychotic disorders (Skatun et al., 2017a).
+
+• We assessed the consistency of findings on disrupted brain network connectivity in the pathophysiology in SZ using multisite functional MRI using the IMAGEMEND resource. We found consistent reductions in brain functional network connections, encompassing frontal, somatomotor, visual, auditory, and subcortical brain nodes in SZ. We also found a high overall accuracy in classifying patients and controls (up to 80%) using independent training and test samples, strongly supporting the generalizability of connectivity alterations across different scanners and heterogeneous samples (Skatun et al., 2017b).
+
+• Using multimodal imaging in ADHD, in which we combined data on cortical thickness and (subcortical) brain volumes as well as different structural connectivity parameters in a single analysis of adults with ADHD and healthy controls, we explained 28% of the variance in adult ADHD. No single imaging modality dominated this result. Instead, we found that the aggregation of relatively small effects across several modalities and markers caused the result. Several markers were also influenced by estimated intelligence, age, and/or sex (Wolfers et al., 2017).
+
+• In the context of the ENIGMA SZ working group, we recently published the first large-scale meta-analysis of white matter microstructure in SZ (Kelly et al., 2017). In an analysis of 2,359 healthy controls and 1,963 SZ patients we found significant reductions in white matter integrity in almost all regions analysed. Larger effect sizes were observed for fractional anisotropy (FA) than diffusivity measures; significantly higher mean and radial diffusivity was observed for schizophrenia patients compared with controls. No significant effects of age at onset of SZ or medication dosage were detected. Similar analyses are still ongoing for BD and for ADHD.
+
+In Task 4, we have worked on the integration of neuroimaging with genetic data. Finding genetic factors relevant for psychiatric disorders is now well under way, but it is still a question, how these genetic factors increase the risk for psychiatric disorders. The integration of neuroimaging with genetic data provides a means to understand the effects of disease risk factors on the human brain. Using different approaches, we have made use of the largest sample collections available world-wide to elucidate such links, which might provide a means to improve the prediction of psychiatric disease diagnoses above imaging analyses alone. The following studies provide examples of our work:
+
+• Using the ENIGMA Consortium, we have studied the genetic factors contributing to the volume of subcortical structures as well as to total intracranial volume (ICV). Most of these structures are known to be of relevance to the diseases of interest in IMAGEMEND. We have identified genetic factors for ICV, thalamus, amygdala, striatal structures, as well as hippocampus in ever-increasing samples, starting from 12,000 to over 25,000 in the discovery sample (Hibar et al., 2015; Adams et al., 2016; Hibar et al., 2017; Satizabal et al., under review).
+• Combining the ENIGMA Consortium genetics data with data from the world-wide largest studies of psychiatric disease risk (from the Psychiatric Genomics Consortium), IMAGEMEND researchers subsequently asked the question, how large the genetic overlap was between disease risk and brain volumes was. In an initial study in SZ, we defined a roadmap for such overlap studies. In this study, however, to our surprise no genetic overlap between brain volume genetics and schizophrenia risk genetics was observed (Franke et al., 2016). In a subsequent study using Bayesian statistics, however, we did find some evidence of limited genetic overlap of those brain and disease phenotypes (Smeland et al., 2017). Similarly, a study on ADHD found evidence of limited overlap, and implicated genes related to neurite outgrowth in this (Klein et al., under review).
+
+Conclusions
+We have found robust evidence for the alteration of multiple features of the brain in different psychiatric disorders. This involves both gray and white matter as well as activity and functional connectivity of the brain. However, brain alterations in the different disorders tend to be of limited effect size, which likely reflects a large heterogeneity between patients. Having assessed brain imaging features as a potential basis for diagnostic evaluation in WP2 in multiple ways, we can say that the heterogeneity seen in the patient populations within and across disorders is much stronger than expected. This results in a limited ability to predict disease status, even when sophisticated statistical methods are used and multimodal analyses designs are chosen. Genetic factors influencing brain structure overlap with those increasing disease risk. However, also in this case, effect sizes are very limited, and the explained variance of shared genetic factors is much smaller than expected. This suggests that - although genetic factors provide a complementary source of information for the prediction of diagnosis – the additional variance explained by the inclusion of genetics in predictive algorithms based on neuroimaging data will be limited until more genetic factors for disease have been identified.
+
+References
+
+Adams et al 2016. Novel genetic loci underlying human intracranial volume identified throughgenome-wide association. Nat Neurosci. 2016 Dec;19(12):1569-1582. doi: 10.1038/nn.4398. Epub 2016 Oct 3. PubMed PMID: 27694991.
+
+Doan et al. 2017. Distinct multivariate brain morphological patterns and their added predictive value with cognitive and polygenic risk scores in mental disorders. Neuroimage Clin 15, 719-731.
+
+Franke et al. 2016. Genetic influences on schizophrenia and subcortical brain volumes: large-scale proof of concept. Nat Neurosci. 2016 Mar;19(3):420-431. doi: 10.1038/nn.4228. Epub 2016 Feb 1. PubMed PMID: 26854805; PubMed Central PMCID: PMC4852730.
+
+Hibar et al. 2015. Common genetic variants influence human subcortical brain structures. Nature. 2015 Apr 9;520(7546):224-9. doi: 10.1038/nature14101. Epub 2015 Jan 21. PubMed PMID: 25607358.
+
+Hibar et al. 2017. Cortical abnormalities in bipolar disorder: An MRI analysis of 6,503 individuals from the ENIGMA-Bipolar Disorder Working Group. Molecular Psychiatry In press.
+
+Hibar et al. 2017. Task modulations and clinical manifestations in the brain functional connectome in 1615 fMRI datasets. Neuroimage 147, 243-252.
+
+Hibar et al. 2017. Novel genetic loci associated with hippocampal volume. Nat Commun. 2017 Jan 18;8:13624. doi: 10.1038/ncomms13624.
+
+Hoogman et al. 2017. Subcortical brain volume differences in participants with attention deficit hyperactivity disorder in children and adults: a cross-sectional mega-analysis. Lancet Psychiatry. 2017 Apr;4(4):310-319. doi: 10.1016/S2215-0366(17)30049-4. Epub 2017 Feb 16.
+
+Kelly et al. 2017. Widespread white matter microstructural differences in schizophrenia across 4322 individuals: results from the ENIGMA Schizophrenia DTI Working Group. Mol Psychiatry. 2017 Oct 17. doi:10.1038/mp.2017.170. [Epub ahead of print].
+
+Klein et al. Genetic markers of ADHD-related variations in intracranial volume. Under review.
+
+Moberget, et al. 2017. Cerebellar volume and cerebello-cerebral structural covariance in schizophrenia - a multi-site mega-analysis of 983 patients and 1349 healthy controls Molecular Psychiatry In press.
+
+Satizabal et al. Genetic Architecture of Subcortical Brain Structures in Over 40,000 Individuals Worldwide. Under review .
+
+Skatun, et al. 2017a. Thalamo-cortical functional connectivity in schizophrenia and bipolar disorder. Brain Imaging Behav.
+
+Skatun et al. 2017b. Consistent Functional Connectivity Alterations in Schizophrenia Spectrum Disorder: A Multisite Study. Schizophrenia Bulletin 43, 914-924.
+
+Smeland et al. 2017. Genetic Overlap Between Schizophrenia and Volumes of Hippocampus, Putamen, and Intracranial Volume Indicates Shared Molecular Genetic Mechanisms. Schizophr Bull. 2017 Nov 9. doi: 10.1093/schbul/sbx148. [Epub ahead of print]
+
+Van Erp et al. 2016. Subcortical brain volume abnormalities in 2028 individuals with schizophrenia and 2540 healthy controls
+via the ENIGMA consortium. Mol Psychiatry. 2016 Apr;21(4):547-53. doi:10.1038/mp.2015.63. Epub 2015 Jun 2. Erratum in: Mol Psychiatry. 2016 Apr;21(4):585.
+
+Wolfers et al. 2015. From estimating activation locality to predicting disorder: A review of pattern recognition for neuroimaging-based psychiatric diagnostics. Neurosci Biobehav Rev. 2015 Oct;57:328-49. doi: 10.1016/j.neubiorev.2015.08.001. Epub 2015 Aug 4. Review.
+
+Wolfers et al. 2016. Quantifying patterns of brain activity: distinguishing unaffected siblings from participants with ADHD and from healthy individuals. NeuroImage: Clinical, 12, 227-33 (eCollection 2016)
+
+Wolfers et al. 2017. Refinement by integration: aggregated effects of multimodal imaging markers on adult ADHD. J Psychiatry Neurosci. 2017 Nov;42(6):386-394.
+
+WP3: Predictive markers
+
+Background
+Structural brain alterations characterize major psychiatric disorders and can be used to discriminate patients from controls, although the accuracy of currently available methods is generally insufficient for clinical applications (Dazzan, 2014 Dialogues in Clinical Neuroscience; Bearden et al., 2010 Current Psychiatry Reports). However, patients with the same diagnosis can be very different. For example, patients present diverse symptoms and respond differently to pharmacological interventions, and such diversity holds true even at the level of the brain. Therefore, brain alterations related to mental illness vary between patients; interestingly, previous studies reported that such differences in the brain correlate with clinical outcome (Wassink et al., 1999 Biological Psychiatry; Jääskeläinen et al., 2014 European Psychiatry; van Haren et al., 2007 Neuropsychopharmacology; van Haren et al., 2011 JAMA Psychiatry; Boter et al., 2009 Schizophrenia Research; Arango et al., 2003 American Journal of Psychiatry; Molina et al., 2003 Psychiatry Research). To date, most of the studies investigating the relationship between brain structures and clinical outcome have focused on the effects of specific pharmacological treatments, are usually conducted in a single site with modest sample sizes, or have used statistical approaches that do not provide clinically usable information. Over the last few years, the application of novel approaches to the analysis of structural imaging data (e.g., machine learning) and the growing number of multi-center studies has advanced the field towards the potential use of these biomarkers in clinical management (Dazzan, 2014 Dialogues in Clinical Neuroscience). At the state of the art, the frontier of this research field is to employ brain information to predict the clinical course of psychiatric patients in a naturalistic setting. This means recruiting heterogeneous patients at various stages of illness and treated with different medications. Machine learning is the best tool for this endeavor, because it is a statistical technique that takes into account not just single measures, but patterns of inter-individual variation. The opportunity offered by brain measures to quantify precisely the variable of interest is expected to yield precious information in a field like psychiatry, in which the definition of the illness is very difficult and highly dependent on the clinician. While this could be challenging, we believe that the potential translational impact of such study would be high, because of the importance of patients’ heterogeneity for treatment selection.
+
+Overall Objectives
+The overall aim of this work-package is the investigation of predictors and longitudinal change in multi-modal (neuroimaging, genetic and environmental) data in the context of treatment response. This analysis aimed to obtain insight into biological correlates of disease progression.
+
+1) Identify brain network predictors and decision rules for the stratification of patients based on treatment response, in SZ, BD, and ADHD.
+2) Identification of longitudinally changing neuroimaging markers and their association with clinical improvement.
+3) Refine patient stratification by integrating neuroimaging with genetic multi-loci predictive panels and define relation to clinical features.
+4) Identification of relationship between trans-diagnostic patient clusters (see WP2) and treatment outcome.
+
+Results
+
+1) We conducted a study to address Objective 1, analysing the power of brain predictors in the stratification of patients based on clinical course, in 156 SZ, 137 BD and 530 ADHD patients . A sample of healthy individuals (585) has also been used as control sample. This study involved multiple cohorts of patients from five sites (UNIBA-Bari, UNIBA-Chieti, ISSMS, UiO, RUNMC) and four countries (Italy, United States, Norway, Netherlands), and has been developed using the best state-of-the-art machine learning techniques with the cooperation of research fellows from Italy, Germany, Netherlands and Norway.
+
+In the analyses of SZ patients, we used 150 brain features including both cortical and subcortical structures and the available clinical information (e.g. Symptoms at baseline; Time Interval between Baseline and Follow-Up) as predictors. Our target variable was clinical course, i.e., we assessed whether based on this set of predictors we were able to assess, which patients would improve most over the years. Therefore, clinical course was measured as the percent improvement between baseline and follow up (very variable within our composite sample, between 1 month and 7 years). In the analyses of BD patients, we used the same brain features described above and added several clinical and environmental variables (e.g., premature birth, obstetric complications, divorce, age of onset, family history, alcohol, substance abuse, symptoms at baseline) as predictors. Favourable and unfavourable outcome were defined by the clinician based on symptoms scales and clinical interviews; Finally, in the ADHD analyses, total brain volume, total gray matter and total white matter have been used as predictors and the clinical course (between Baseline and a 6-years Follow-Up) was the dependent variable.
+
+Results revealed that 9.5% of the symptoms improvement of patients with SZ is explained by the combination of brain and clinical information. The variance explained approaches statistical significance (empirical p = .08). The brain feature most strongly associated with outcome was the right caudal anterior cingulate thickness; a region previously suggested being a key node of the brain network altered during the development of SZ (Tost and Meyer-Lindenberg, 2012 Nature Neuroscience). Instead, in the BD sample, we achieved 64% balanced accuracy in discriminating patients with favourable from unfavourable outcome, a significant classification (empirical p = .01). BD patients, who presented unfavourable outcome after 12 months had higher occurrence of Alcohol and Substance abuse and higher rates of Divorce, besides greater thickness of the lingual gyrus, greater area of the middletemporal, supramarginal, medialorbitofrontal gyri, and lower area of superiorfrontal gyrus. We attempted to replicate these results in an independent sample of 19 bipolar patients from UiO, but the resulting balanced accuracy could not be discriminated from chance level. ADHD patients’ clinical course is not significantly associated with any investigated brain feature.
+
+2) Another study was performed to address Objective 2, thus to identify longitudinally changing neuroimaging markers and their association with clinical improvement. This study has been conducted on a single cohort of 36 adolescents with ADHD and 33 without ADHD from the Netherlands.
+
+From each participant extensive diagnostic information and two MRI scans (baseline and follow-up, mean interval, 3.4 years) were collected. The developmental changes in white matter indices (fractional anisotropy (FA) and mean diffusivity (MD)) across the entire white matter skeleton were compared between ADHD and non-ADHD groups. In addition, using a dimensional approach, it has been investigated whether changes in white matter microstructure were related to changes in ADHD symptoms.
+Data of this study have been reported in a publication and show that change in white matter microstructure did not significantly differ between participants with and without ADHD. Furthermore, change in ADHD score was not significantly related to the change in white matter microstructure as measured using FA and MD indices.
+
+3) In order to address Objective 3, the Consortium has conducted a single-cohort study integrating imaging and cognitive features with polygenic risk scores for BD and SZ. In this study were included 223 participants with SZ, 190 with BD, and 284 Health Controls.
+
+The assessment covered diagnostics, symptomatology, neurocognition, drug use, medication status, brain morphology with MRI and polygenic risk for SZ and BD. Group classifications were performed using the different combinations of these different feature sets in a cross-validation framework to assess their complementary predictive value. Significance in terms of classification improvement was evaluated using permutation testing.
+
+Group classification revealed high accuracy for diagnostic prediction using cognitive data alone. Adding polygenic risk and imaging features significantly increased accuracy, suggesting complementary predictive value of brain imaging, cognitive performance and polygenic risk in classifying between patients with severe mental illness and healthy controls. Data of this study have been reported in a publication and represent a starting point for the integration of multivariate information in the prediction of clinical outcome of patients with severe mental illness. WP3 is continuing to work in this latter direction and will provide further results within March 2018.
+
+4) Explorative work has been conducted in order to address Objective 4. In particular, we have finalized a review of the literature summarizing the findings of the voxel-based grey matter (GM) comparisons between SZ and BD, with the objective to highlight the possible consistent anatomical differences between the two disorders. While the comparisons between patients and Healthy Controls highlighted overlapping areas of GM reduction in insula and anterior cingulate cortex, the SZ-BD comparisons suggest the presence of more generalised GM deficits in SZ compared with BD. Indeed, in a number of studies, SZ patients showed lower GM volumes than BD patients in fronto-temporal cortex, thalamus, hippocampus and amygdala. Conversely, only a couple of studies reported GM deficits in BD compared with SZ, both at the level of cerebellum. In summary, the two disorders exhibit both common and specific neuroanatomical characteristics, whose knowledge represents a preliminary step for the investigation of the relationship between transdiagnostic patients clustering and treatment outcome. This investigation will be conducted outside of the IMAGEMEND project duration in 2018.
+
+Conclusions
+Using brain features to predict clinical course in patients with diverse diagnosis and from different sites is a formidable challenge, one that reminds us of the complexity of mental health management and of the urgency of this scientific endeavor. Our results show, with regards to BD and SZ, a progress with respect to previous multi-center reports investigating first-onset psychotic patients (balanced accuracy=52%; Nieuwenhuis et al., 2016 Neuroimage). In particular, we found that combining neuroimaging markers with clinical and environmental variants led to predictions with higher than chance accuracy. In conclusion, the use of neuroimaging markers in a naturalistic setting is just beginning to reveal insight on the prediction of clinical course. At the moment, it is clear that clinical and environmental information are required to draw any conclusions on the clinical course. We are also in the process of developing multifactorial indices representing the genetic background of each individual in terms of his/her tendency to show specific molecular profiles, in particular regarding gene expression in the brain. We are in the “-omics” era and understanding the neurobiology of mental disorders is bound to require a molecular understanding of mechanisms of risk that can only be provided by genomics in tandem with neurobiological measures. At present, however, small sample sizes and large inter-site variability may be important factors limiting the current clinical translation of neuroimaging.
+
+References
+
+Arango et al. 2003. "Olanzapine effects on auditory sensory gating in schizophrenia." Am J Psychiatry 160(11): 2066-2068.
+
+Bearden et al. 2010. "Neurocognitive and neuroimaging predictors of clinical outcome in bipolar disorder." Curr Psychiatry Rep 12(6): 499-504.
+
+Boter et al. 2009. "Effectiveness of antipsychotics in first-episode schizophrenia and schizophreniform disorder on response and remission: an open randomized clinical trial (EUFEST)." Schizophr Res 115(2-3): 97-103.
+
+Dazzan, P. 2014. "Neuroimaging biomarkers to predict treatment response in schizophrenia: the end of 30 years of solitude?" Dialogues Clin Neurosci 16(4): 491-503.
+
+Doan et al. 2017. Distinct multivariate brain morphological patterns and their added predictive value with cognitive and polygenic risk scores in mental disorders. Neuroimage Clin. 2017 Jun 9;15:719-731. doi: 10.1016/j.nicl.2017.06.014. eCollection 2017.
+
+Jaaskelainen et al. 2014. "Associations between brain morphology and outcome in schizophrenia in a general population sample." Eur Psychiatry 29(7): 456-462.
+
+Maggioni et al. 2016. Neuroanatomical voxel-based profile of schizophrenia and bipolar disorder. Epidemiol Psychiatr Sci. 2016 Aug;25(4):312-6. doi: 10.1017/S2045796016000275. Epub 2016 Apr 20.
+
+Molina et al. 2003. "Anatomical and functional cerebral variables associated with basal symptoms but not risperidone response in minimally treated schizophrenia." Psychiatry Res 124(3): 163-175.
+
+Nieuwenhuis et al. 2017. "Multi-center MRI prediction models: Predicting sex and illness course in first episode psychosis patients." Neuroimage 145(Pt B): 246-253.
+
+Tost and Meyer-Lindenberg 2012. "Puzzling over schizophrenia: schizophrenia, social environment and the brain." Nat Med 18(2): 211-213.
+
+van Haren et al. 2007. "Focal gray matter changes in schizophrenia across the course of the illness: a 5-year follow-up study." Neuropsychopharmacology 32(10): 2057-2066.
+
+van Haren et al. 2011. "Changes in cortical thickness during the course of illness in schizophrenia." Arch Gen Psychiatry 68(9): 871-880.
+
+van Lieshout et al. Longitudinally Informed Neurocognitive Subgroups in ADHD Affected and Unaffected Siblings and Control Children. Submitted.
+
+Wassink et al. 1999. "Cerebellar morphology as a predictor of symptom and psychosocial outcome in schizophrenia." Biol Psychiatry 45(1): 41-48.
+
+WP4: Pre-symptomatic and early diagnosis
+
+Background
+Mental disorders account for 22.9% of years lived with disability (YLD) overall (Whiteford et al, 2013) and 28% of the disease burden (DALY) among non-communicable diseases (Prince, et al, 2007). There has been no significant reduction in the proportion of YLD caused by mental disorders, in fact their burden to society has increased by 37.6% since 1990 (Prince et al., 2007). In 2010 its cost in Europe amounted to €523.3 billion (Gustavsson et al., 2011). Among the mental disorders causing the greatest number of YLD were depressive disorders (40.5%) followed by substance use disorders (20.5%). The figures testify to a “therapeutic stagnation” which has failed to alleviate patient suffering, results in a tremendous public health burden, and more recently led to a disinvestment of pharmaceutical industry from brain-related disorders. These developments are in stark contrast to concurrent progress in basic neurosciences, which took advantage of new technologies in neuroimaging and genomics, as well as emerging disciplines, such as systems biology to identify and characterize neural processes underlying behaviour. Recent conceptual advances in psychological sciences include the notion that mental disorders constitute extreme ends of one or several normally distributed quantitative behavioural traits (Plomin et al., 2009). This promotes the view that psychiatric diagnoses can be deconstructed into behavioural domains, which reflect specific neural processes.
+
+However, despite these advances there has been no commensurate progress in diagnosis and treatment of mental disorders. Thus a translational gap has opened up, which to a significant degree stems from the fact that psychiatric disease classifications do not reflect defined biological mechanisms underlying psychopathology. Instead they rely on information gathered from patient self-report, behavioural observation and time criteria, which results in heterogenous disease categories with significant comorbidity and ill-defined biological targets for drug development. Bridging this translational gap is one of the greatest challenges psychiatry faces today. To address the challenge the National Institute of Mental Health have proposed research domain criteria (RDoC), based upon different levels of observation and domains of observable behavior (Insel et al., 2014) to provide a research framework for the development of a biological classification of mental disorders. However, generating robust empirical data that allow clinical translation is problematic. This is due to the fact that there are currently only few large datasets that have simultaneously measured different levels of observation during critical developmental periods. As a consequence little data is available to identify neural mechanisms and trajectories, which underlie behavior and the development of psychopathology.
+
+The incidence of most mental disorders, including affective disorders and substance abuse peaks during the second and third decade of life (Pederson et al., 2014). Half of the lifetime psychopathological burden emerges by the mid-teens and 75% by the mid-20s (Kessler et al., 2007). Adolescence and its transition toward young adulthood is a critical period for the development of mental disorders. It coincides with major structural changes in white matter (Giedd et al., 1999, Gogtay et al., 2004, Sowell et al., 2004, Spear et al., 2000, Steinberg et al., 2007) and cortical gray matter (Giedd et al., 1999). Localized, region-specific brain maturation progresses in patterns that follow cognitive and functional maturation (Gogtay et al., 2004, Sowell et al., 2004). These changes are especially pronounced in the limbic system and the prefrontal cortex (Spear et al, 2000, Steinberg et al., 2007) where they affect reinforcement-related neural processes. As psychopathological symptoms during adolescent brain re-organisation are often unspecific and in many cases reversible it has been difficult to unambiguously identify early markers for sustained mental illness. Thus, most patients present during adulthood, often at a point when severe psychopathology has developed, which gravely impairs their daily functioning. Presentation at this advanced stage increases individual suffering and renders therapeutic interventions more difficult. Therefore, it is an urgent need to identify widely applicable early markers based on neural processes, which specifically predict psychopathology and allow for targeted early interventions.
+
+Overall Objectives
+The overall objective of this WP is the analysis of neuroimaging and multi-modal markers in subjects at high risk for mental illness. Specific objectives are:
+
+1) Identification and validation of neuroimaging and multi-modal marker sets that index high-risk subjects. This analysis will identify predictors of transition from high-risk state to early manifestation of schizophrenia (SZ) and bipolar disorder.
+2) Application of multi-modal decision rules for diagnosis as well as prediction of response (developed as part of WP3) in early diagnosis patients.
+3) Identification of neuroimaging and multi-modal markers of remission and persistence of ADHD in adults.
+
+Results
+Investigation of the IMAGEN dataset, which is part of the IMAGEMEND database, has yielded significant progress in both, the identification of mechanisms and the characterization of predictors of reinforcement-related disorders.
+
+We carried out several investigations into the effects of particular genetic variants on reward processes underlying common psychopathological conditions (Loth et al., 2013, Nymberg et al., 2014) We also investigated the effect of environment on the brain. We took a transdiagnostic approach to identifying how neural activation in adolescents is affected by psychosocial stress. In adolescents with externalizing symptoms (i.e., conduct and hyperactivity problems), neural activation is related to the amount of stress they have experienced – an effect that is not observed in individuals with internalizing (i.e., emotional) symptoms (Quinlan et al., 2017).
+
+Most recently, we completed a manuscript on course prediction. This was achieved by applying sparse canonical correlation analysis to 615 healthy, 19 year-old individuals of the longitudinal IMAGEN-study. We discovered two networks of decreased grey matter that were separately linked to internalising and externalising psychiatric symptoms. These results were replicated in independent population-based samples, and were differentially associated with affective disorders and SZ vs. ADHD in clinical case-control samples. At age 14, these neuroimaging networks predicted the manifestation of behavioural symptoms at age 19. By characterising neurobehavioural symptom groups that relate to shared neural mechanisms, our results provide a framework for the reorganization of clinical symptoms to refine psychiatric classifications (under review).
+
+Prediction of response was carried out in WP3, but not WP4. As an alternative to this, we developed deep learning methods for the prediction of self-report measures of psychopathology. Unfortunately, these procedures were only able to explain a limited amount of variance. As such, deliverables aimed at predicting illness course were carried out at the group level rather than attempting to make predictions on individuals.
+
+Most recently, we have conducted work aimed at understanding the reward related processes underlying common psychopathology. In this manuscript, we investigated the relationship between several reward related tasks, and symptoms of psychopathology. The manuscript describes how aberrant processing in these reward related networks can give rise to psychopathological symptoms. Investigations were carried out at ages 14 and 16, tracking the course of psychopathology in adolescence. A manuscript detailing these results is in the final stages of preparation and will be submitted within the next couple of months.
+
+Conclusions
+In the course of our investigations, we found genetic markers conferring risk for aberrant reward processing in the brain, which underpins all major psychiatric disorders, including SZ and BD. We also discovered the mechanism by which stress can have a negative impact on the brain, leading to various behaviours symptomatic of externalising psychiatric disorders. Finally, we found brain-based markers in the adolescent general population, which were then shown to be altered in case-control comparisons of: depression, BD, SZ and ADHD.
+
+References
+
+Whiteford et al. 2015. The Global Burden of Mental, Neurological and Substance Use Disorders: An Analysis from the Global Burden of Disease Study 2010. PLoS One. 10(2): e0116820. Published online 2015 Feb 6. doi: 10.1371/journal.pone.0116820.
+
+Prince et al. 2007. No health without mental health. Lancet, 2007. 370(9590): p. 859-877. doi: 10.1016/S0140-6736(07)61238-0.
+
+Gustavsson et al. 2011. Cost of disorders of the brain in Europe 2010. European Neuropsychopharmacology, 2011. 21(10): p. 718-779. doi: 10.1016/j.euroneuro.2011.08.008.
+
+Plomin et al. 2014. Common disorders are quantitative traits. Nature Reviews Genetics 10, 872–878 (2009) doi:10.1038/nrg2670.
+
+Insel. 2014. The NIMH Research Domain Criteria (RDoC) Project: Precision Medicine for Psychiatry. Am J Psychiatry, 2014. 171(4): p. 395-7. doi: 10.1176/appi.ajp.2014.14020138.
+
+Pedersen et al. 2014. JAMA Psychiatry, 2014. 71(5): p. 573-81. doi:10.1001/jamapsychiatry.2014.16
+
+Kessler et al. 2007.Lifetime prevalence and age-of-onset distributions of mental disorders in the World Health Organization's World Mental Health Survey Initiative. World Psychiatry, 2007. 6(3): p. 168-176.
+
+Giedd et al. 1999. Brain development during childhood and adolescence: a longitudinal MRI study. Nat Neurosci, 1999. 2(10): p. 861-3. doi:10.1038/13158.
+
+Gogtay et al. 2004. Dynamic mapping of human cortical development during childhood through early adulthood. Proc Natl Acad Sci U S A, 2004. 101(21): p. 8174-9. doi: 10.1073/pnas.0402680101.
+
+Sowell et al. 2004. Longitudinal Mapping of Cortical Thickness and Brain Growth in Normal Children. J Neurosci, 2004. 24(38): p. 8223-31. doi: 10.1523/JNEUROSCI.1798-04.2004.
+
+Spear. 2000. The adolescent brain and age-related behavioral manifestations. Neurosci Biobehav Rev, 2000. doi: 10.1016/S0149-7634(00)00014-2.
+
+Steinberg. 2007. Risk Taking in Adolescence-New Perspectives From Brain and Behavioral Science. Curr Dir Psychol Sci, 2007.doi: 10.1111/j.1467-8721.2007.00475.
+
+Loth et al. 2013. Oxytocin receptor genotype modulates ventral striatal activity to social cues and response to stressful life events. Biol Psychiatry. 2014 Sep 1;76(5):367-76. doi: 10.1016/j.biopsych.2013.07.043. Epub 2013 Oct 8.
+
+Nymberg et al.2014. DRD2/ANKK1 polymorphism modulates the effect of ventral striatal activation on working memory performance, Neuropsychopharmacology (2014) 39, 2357–2365 (2014); doi:10.1038/npp.2014.8315.
+
+Quinlan et al. 2017. Psychosocial Stress and Brain Function in Adolescent Psychopathology, Am J Psychiatry 2017; 174:785–794; doi: 10.1176/appi.ajp.2017.1604046416.
+
+Distinct Brain Networks for Externalising and Internalising Behavior Predict Future Clinical Symptoms. Under review.
+
+WP5: Clinical Translation
+
+Background
+WP5 aimed at translating the results of IMAGEMEND research from all other work-packages into useful tools for psychiatrists, medical doctors and other researchers. Results from other work-package can be included in a software product. This software allows clinicians to interact with the data, for example, images of the brain or genetics data, and, extract from the data relevant information to support diagnosis, prognosis or treatment.
+
+A second software product, used for real-time imaging of brain activity, is extended to allow the treatment of patients with psychiatric disorder through neurofeedback. Neurofeedback allows participants to learn controlling a brain region or a brain network by providing feedback of the brain activity. This could help patients to improve brain activity in malfunctioning brain region or network.
+
+Objectives
+The main objective of WP5 is the clinical translation of IMAGEMEND research findings into clinically usable diagnostic and predictive tests and to develop an advanced and user-friendly real-time fMRI system for neuro-feedback training which helps at-risk subjects to prevent or reduce psychiatric illness. More specifically, this objective can be subdivided into the following sub-objectives:
+
+1) Optimization of neuro-imaging and multi-modal diagnostic and predictive classifiers, tailored towards clinically optimal performance criteria. (Generalization performance, sensitivity/specificity balance, benefit-risk balance etc.), measurement stability, robustness and cost-effectiveness. Standard and advanced multi-class machine learning tools will be evaluated towards this objective.
+
+2) The workflow for application of the best performing classifiers will be specified based on the communicated demands of WPs 1-4, including automatic data import, report of classifier outcome and visualization of classification confidence. The top performing classifiers will be run concurrently on the same data and the final predictions will be determined by integrating their respective results.
+
+3) Clinical real-time fMRI software will be developed with a novel easy-to-use interface that directly targets the specific mental disorders of this project, including illness-related selection of feedback paradigms and automatic definition of regions and networks for neurofeedback training.
+
+Results
+Development of a software application for further use of IMAGEMEND results:
+
+• Client/server micro-services software application, written in Python, for training advanced state-of-the-art classifiers and running predictions on previously unseen cases. All source code available to everyone with an open source licence.
+• Developer and user manual explaining in detail the design, installation, execution of the finalized classification software as well as building the software package from scratch.
+• Classifier software prototype, written in Python.
+• Performance evaluation of Support Vector Machine (linear, radial and polynomial kernels), Random Forest and probabilistic Gaussian Process classifiers. Linear SVM was tested by CIMH on data from multiple imaging sites (leave-site-out cross validation).
+• Genetic SNP-based Naïve Bayes classifier written in C++.
+
+Extension of the real-time fMRI analysis software to facilitate the treatment of patients with psychiatric disorders and to allow the treatment of disorders related to a malfunctioning brain network:
+
+• A new version of our real-time fMRI analysis software including IMAGEMEND developments was implemented to facilitate clinical use. This version includes the possibility to use connectivity-based neurofeedback, an improved setup and execution of neurofeedback experiments, new quality insurance and automatic artefact correction tools, multiple sessions neurofeedback have been made easier and the link between functional and anatomical data has been simplified.
+• A plugin for the real-time fMRI software to compute the correlation and partial correlation in real-time of the functional activity between multiple brain regions, written in C++.
+• The medical certification procedure for certifying our real-time fMRI analysis software as a CE class 1, safety class A product has been started. This certification is mandatory for the clinical use of the software in the treatment of psychiatric disease.
+
+Studies on the use of the neurofeedback with healthy participants:
+
+• We run a study with healthy participants showing that they could self-regulate activity in a brain network using functional connectivity neurofeedback but also mean-activation neurofeedback. This results show that the activity of whole brain network can be modified through neurofeedback, not only single brain region. Furthermore, several strategy can be used to activate the network these strategy are not equivalent. The physician should select the most appropriate strategy for the patient’s treatment.
+• A plugin for neuroimaging analysis software to compute change in functional connectivity between different brain regions due to change in psychological condition, written in C++. This plugin was used for the validation of the results of the neurofeedback studies.
+
+• We showed that neurofeedback participants could use different feedback displays without much influence on their main neurofeedback task. This will allow a whole range of new paradigms to be developed to improve the efficiency of the neurofeedback paradigm by providing a more immersive experience.
+
+Simulation study to select best parameters:
+
+• We run a simulation study to estimate the best parameters for measuring functional connectivity between brain regions in real-time. This study shows that for differentiating between a strong coupling and no coupling, a 10s sliding-window could be enough with a 1Hz sampling rate (TR = 1s). For finer differentiation, longer sliding-windows are needed. This should be taken into account by the physician while designing future treatment for malfunctioning brain network.
+
+High performance Diffusion tensor imaging software:
+
+• High-performance DTI processing toolbox allowing full-volume tensor calculations of hundreds of DTI images within minutes. This will greatly reduce computation time and analysis of a new data.
+• We investigated the performance of several optimization algorithms and initialization strategies over a few of the most popular diffusion microstructure models. We evaluated whether a single well performing optimization approach exists that could be applied to many models and would equate both run time and fit aspects. The gradient-free Powell conjugate-direction algorithm was found to outperform other common algorithms in terms of run time, fit, accuracy and precision.
+• The software is very useful for research on diffusion tensor imaging, allowing processing hundreds of data set, pushing forward and validating the use of DTI in clinical settings.
+
+Conclusions
+Clinical translation is not easy, especially because the research questions posed by the project are challenging and do not guarantee results. Even so, WP5 has succeeded in laying the foundation for an advanced web-based software tool that can be further extended as research insights progress. The tool uses the latest technologies in terms of software development and IT infrastructure (Docker, micro-services, web apps, Python, etc.).
+
+A critical aspect of clinical software tools is ease-of-understanding by the end-users. The BrainMiner classification tool offers a proof-of-concept for a self-explanatory user interface integrated in a web application that should allow both technical and non-technical users to run advance predictions on clinical data. Furthermore, BrainMiner can be easily installed without any changes to the host operating system thanks to the Docker eco-system.
+
+The development of the real-time fMRI analysis software will allow a wider use of the software and will facilitate the clinical use of the software. The new features, especially the functional connectivity tools, will allow developing new patient treatments. Many clinical conditions can be linked to pathological changes in cortical network connectivity. For example, deviant connectivity has been observed in SZ, ADHD, autism, anxiety, mood disorders, and movement disorders. The start of the medical certification is also a step towards increased use of the software.
+
+WP6: Ethics
+
+Background
+Using state-of-the-art technological approaches, recent psychiatric genetic research has identified a large number of well-replicated common genetic risk variants for SZ, BD, major depression, autism spectrum disorder, and ADHD. Although the contribution of each individual variant to disease risk is small, their combined effect is associated with a substantial increase in explained phenotypic variation. For SZ, autism spectrum disorder, and intellectual disability, psychiatric genetic research has also revealed that rare copy number variants make a strong contribution to disease risk. However, the contribution of common and rare variants to disease risk is not specific to a particular psychiatric diagnosis. Instead, a given variant may either increase risk for several psychiatric disorders, or constitute an increased vulnerability for psychiatric disorder in general. Currently, no form of valid, high certainty diagnostic or predictive psychiatric genetic testing is available. However, in view of recent genetic findings, major efforts to establish such testing are now underway, and in the very near future, genetic testing will become feasible. Already to date, first feasibility studies are under way to incorporate rare copy number variants with a strong effect in psychiatric genetic counselling. Testing will facilitate the prediction of disease risk, disease onset, and disease course, and will inform clinicians and patients concerning aetiology, diagnosis, and treatment options. Researchers envisage that testing will either be based on genetic markers only, or on a combination of genetic markers and further disease predictors, such as imaging markers. The aim of the IMAGEMEND consortium is to discover diagnostic and predictive biomarkers and derive decision rules algorithms that can be used for predictive genetic testing.
+
+Overall Objectives
+The overall aim of this WP is to address ethical concerns associated with the development and application of novel predictive biomarkers and predictive psychiatric testing for mental illness. This involves:
+
+1) scrutiny of the informed consent procedures.
+2) assessment of the attitudes and ethical views of patients, relatives, health care professionals, and the general population towards such genetic predictive testing, as well as their precise understanding of the results and the perceived benefit of such risk predictions.
+3) consideration of regulatory issues involved in implementing such tests in clinical practice.
+
+Results
+1) We established an informed consent procedure that meets all ethical and legal requirements for performing the research in the other WPs.
+
+2) Since final algorithms of the IMAGEMEND project will only become available after the official project end, we summarized general legal considerations.
+
+3) To understand the attitudes and expectations of patients, relatives, health care professionals, and the general population with respect to diagnostic- and predictive genetic testing, a Delphi process including 6 Delphi rounds was performed. Seven case-vignettes were developed to illustrate ethical problems and controversies arising within the context of predictive and diagnostic psychiatric genetic testing, and relating to the disclosure of primary and secondary findings within the context of a psychiatric genetic research study. The case vignettes were based on findings from the literature, expert discussions, and data from two questionnaire performed in 2003 and 2013/15. The case-vignettes were presented and discussed in six Delphi rounds with international experts from Germany, Denmark, USA, Australia, Spain, France, Great Britain, and Sweden. These experts represented the fields of genetic counselling, human genetics, behavioural genetics, biology, clinical psychiatry, psychotherapy, psychology, sociology, theology, ethics, epidemiology, and law. The case-vignettes were then presented to future predictive and diagnostic psychiatric genetic testing consumer groups, i. e. patients, patient-relatives, and health professionals.
+
+4) Based on the outcomes of these discussions, a checklist of the most sensitive and relevant points for clinicians to consider during the future psychiatric genetic counselling process was developed. This should be regarded as an initial template, which will require modification and refinement in future research, once psychiatric genetic testing becomes available in the routine clinical setting. The checklist is designed to be worked through point-by-point with the adult individual who is considering undergoing testing, or with the parents in the case of minors, and with relatives if applicable. Each point should be weighted according to the personal circumstances of the individual. The checklist is thus intended to facilitate comprehensive coverage of the most relevant issues and thus an informed and autonomous decision.
+
+Pre- and post-testing checklist for use by the clinician during psychiatric genetic counselling. Discussion of these key points will help to prepare an individual for the potential outcomes and limitations of genetic testing for a psychiatric disorder:
+
+Checklist
+□ Information about the test
+→ Purpose of testing
+→ Description of the disorder for which testing is proposed
+□ Pre-test and post-test counselling
+→ Persons unable to consent (e.g. minors and patients)
+→ Potential genetic test results
+→ Subjective perception of risk
+→ Capacity to understand risk estimates
+□ Beneficence of the test
+→ Prediction certainty
+→ Consequences
+→ Feasibility
+□ Planning of further procedures
+→ Prevention and/or treatment
+→ Additional testing
+→ Short and long-term follow-up counselling sessions
+
+For each item on the checklist, exemplary topics were described:
+
+1.) Information about the test
+
+Checklist Topic: Purpose of testing
+Discuss whether the test will offer the test-person the results that he/she is searching for. The intended purposes of testing can be diverse. Healthy individuals may wish to estimate their own risk for a disease, be informed about prevention, or gather knowledge for family- and life-planning. Diseased individuals may wish to be assigned a diagnosis or have an existing diagnosis confirmed, or to become informed about treatment, medication response, side-effects, or disease course. Others may wish to receive psychological relief.
+
+Checklist Topic: Description of the disorder that will be tested for
+Explain the complexity of the causes and clinical picture of psychiatric disorders to the test-person also to test-persons with diseased relatives. Inform the test-person that individuals with the same genetic set up may differ in terms of etiology, age at onset, disease symptoms, disease severity, and disease course, and that the clinical picture of a disease can differ widely from that of an affected family member if relevant.
+Discuss the test-person´s understanding of the disease and its causes. For example, the test person may believe that the disease is inherited, caused by a virus infection, attributable to an unhealthy lifestyle, or was received as “punishment”. Assumptions about the cause of a disease influence how the individual copes with the disease symptoms. Be aware of potential religious and cultural differences in terms of disease concepts and assumed causes.
+
+2.) Pre-test and post-test counselling
+
+Checklist Topic: Persons unable to consent (e.g. minors and patients)
+If the test-person is legally unable to give informed consent (e.g., minors) or has an impaired decision making capacity (e.g. being in the acute phase of a psychiatric disorder), a legal representative as well as the clinician must decide whether the beneficence of the test outweighs the violation of autonomy.
+The option to postpone the test until the test-person is able to consent (e.g. a minor becoming legally able to consent or a patient recovering from an episode) must be taken into consideration as well.
+
+Checklist Topic: Potential genetic test results
+Explain which genetic variants will be tested for, e.g., whether the test investigates common genetic variants with small effects that are combined into a polygenic risk score, or rare genetic variants with stronger effects such as copy-number-variants (CNVs). Explain whether the same genetic variants have already been investigated in (diseased) family members (with the relative’s prior agreement).
+Explain that the familial constellation, e.g. “several affected family members carry a rare variant”, is relevant in terms of the interpretation of the test results, and explain the meaning of ´pleiotropic effects” and “reduced penetrance”.
+Explain the meaning of: (i) ´increased risk`, i. e. the impact of the test´s prediction certainty (ability to detect what the test is meant for (accuracy, precision, sensitivity, specificity)); (ii) confidence intervals; (iii) differences in risk estimates depending on the investigated genetic variant; (iv) the potential for secondary findings, depending on the particular genetic test performed (targeted or genome-wide scan); (v) the relevance of secondary findings in terms of prevention or treatment in order to facilitate an informed decision concerning their disclosure.
+Consider whether test results may affect further (as yet untested) family members, and discuss the potential implications of the test result for these persons.
+
+Checklist Topic: Subjective perception of risk
+Keep in mind that subjective risk estimation is a function of the mathematical risk and subjective values. The subjective value can be influenced, for example, by personality (e. g. high vs. low monitoring of risk) and disease state. Research shows that subjective risk estimation is not a direct function, for example, of carrier status.
+
+Checklist Topic: Capacity to understand risk estimates
+Keep in mind that risk estimates are difficult to understand and that the test person, in particular a patient with a psychiatric disorder, may have cognitive impairments, emotional problems, and disease symptoms which impact their capacity to understand risk estimates. Cognitive impairments and emotional problems may also be present in healthy relatives.
+
+3.) Beneficence of the test
+
+Checklist Topic: Consequences
+Discuss potential benefits and risks:
+Benefits
+▪ Estimates of disease risk
+▪ Confirmation of diagnosis
+▪ Confirmation of disease etiology
+▪ Knowledge for life-planning
+▪ Information for prevention or treatment
+▪ Psychological relief
+Risks
+▪ Harm in terms of the right of family members not to know
+▪ Possible false negatives or failure to assign a diagnosis, thus preventing psychological relief
+▪ Development of disease not inevitable in all cases of increased risk
+▪ Prevention or treatment suboptimal e. g. for schizophrenia
+▪ Psychological changes [e. g. anxiety, guilt, blame, rapid change of emotions in bipolar disorder, depression, paranoia]
+▪ Behavioral changes (e. g. over-use of health care, secrecy in the family)
+▪ Stigmatization and discrimination
+▪ Implications for insurance policies
+
+Checklist Topic: Feasibility
+Discuss infrastructure for genetic counselling, and costs and payment.
+
+4.) Planning of further procedures
+
+Checklist Topic:
+Discuss how test results can be used in prevention or treatment.
+Checklist Topic:
+Discuss whether additional testing or further diagnostic is advisable.
+
+Checklist Topic:
+Monitor the impact of the test results on the test-person’s mental state.
+
+Conclusions
+Although psychiatric genetic testing to date is only in its very beginnings, it is already important to be prepared on ethical implications when widely applicable genetic tests become available. Our checklist provides a guideline for the clinician to facilitate comprehensive coverage of the most relevant issues and thus an informed and autonomous decision.
+
+WP7 Dissemination
+
+Background
+WP7 served to communicate and disseminate the aims and outcomes of the IMAGEMEND project and to maximise these outcomes through valorisation.
+
+Overall Objectives
+1) Make IMAGEMEND known to the scientific community and the public.
+2) Dissemination of results to the scientific community in the academic, healthcare and pharmaceutical sectors and fostering of interaction and exchange with the scientific community and the public.
+3) Identify and valorise intellectual property rights (IPR) on diagnostic and predictive biomarkers developed in WPs 2-4.
+4) Development and commercialization of two mature software packages based on IMAGEMEND results for use in clinical practice.
+
+Results
+CIMH, BI and concentris have been the main contributors to the dissemination activities described here. However, all partners have been involved in spreading awareness of the project at meetings, conferences and other relevant events, both internally and externally. Notably the consortium has had a presence at key events and could also place four specific IMAGEMEND symposia and workshops (see also 4.2 - The main dissemination activities of IMAGEMEND).
+
+These dissemination activities have been successful through the development of a strong corporate identity, which has been used throughout the lifetime of the project. This includes the development of a logo, which is clearly visible on the website and on template materials for presentations and posters. The project website itself www.imagemend.eu has been instrumental as a communication tool both through the internal intranet and the external website.
+
+IMAGEMEND results constitute a substantial advance in our understanding of how multimodal data should be analysed computationally to maximize chances for identification of clinically useful predictive signatures. Since these results have not yet yielded algorithms with sufficient predictive accuracy, clinical translation will require further collaborative research efforts. Since relevance for patients and their caregivers will be higher during later stages of these developments, we have focused our attention on other aspects of dissemination. However, we already experiences substantial media interest in already published IMAGEMEND results , such as Hoogman et al. (2017) on ‘Subcortical brain volume differences in participants with attention deficit hyperactivity disorder in children and adults‘ have led to wide media feedback (covered by CNN, CBS, The Time Magazine and many more). We hope that such media coverage will help to reduce the stigma still attached to the disorders investigated within IMAGEMEND. Additionally, since IMAGEMEND’s WP6 investigated the ethical and legal implications of clinical translation of the findings and decision rules in IMAGEMEND, partners organized a workshop within the framework of the Conference of the ANCEI-EUREC. The workshop was an opportunity to test how the IMAGEMEND findings and policies comply with the legal guidelines and recommendations of the relevant ethical and professional bodies and is very relevant for the future IMAGEMEND’s outputs and the community at large. Therefore, the workshop serves not only as this platform of exchange, but also as a dissemination tool for the scientific community and the public. For this matter, WP6 also invited specialists from IMAGEMEND for the discussion and interviews were conducted, filmed and edited for a short movie that was uploaded to the website (imagemend.eu) to raise awareness for this important topic in the general public.
+
+The WP further aimed at identifying IPR and the development and commercialization of software packages based on IMAGEMEND results in clinical practice. The primary commercial opportunity of the project lies in prediction of clinical outcomes that go beyond case-control differentiation. However, differentiation of patients from controls is a fundamental first step that is followed by approaches to identify differential diagnostic profiles, patient subgroups with differential diagnostic utility as well as predictors of clinical response. The algorithms underlying this research will be made available through open access to the software for the research community shortly after project end.
+
+Four potential candidates for valorization, which were discussed or cited by the partners, are:
+• Case-control discrimination of psychiatric patients using structural MRI features
+• General high risk for adverse mental outcome marker
+• Multimodal, trans-diagnostic stratification
+• Structural neuroimaging patterns for prediction of treatment response for trans-diagnostic symptoms.
+
+Further, the neurofeedback system is more interesting for commercial exploitation than the web-based software and pipelines. First steps to obtain CE-marking have been undertaken by BI (see also 4.3).
+
+References
+
+Hoogman et al., 2017, Subcortical brain volume differences in participants with attention deficit hyperactivity disorder in children and adults: a cross-sectional mega-analysis, Lancet Psychiatry.
+WP 8 Project management
+
+Effective project management is a central element of successful research. This is because large research projects often entail a lot of administrative work which needs to be dealt in an efficient and timely manner. In view of this, the purpose of WP8 was project management for the IMAGEMEND project. This WP took care of all administrative and coordinating tasks.
+
+To ensure compliance by beneficiaries with their obligations under the grant agreement, the project management office at concentris routinely supported the Coordinator in monitoring the partners’ performance based upon the following:
+
+• To make sure that tasks assigned to them were correctly and timely performed.
+• Reports were submitted according to the guidelines and on time.
+• Funds were used and claimed according to the rules.
+• The partners fulfilled their obligations regarding dissemination and funding acknowledgements.
+• Any changes to the work plan were communicated to the European Commission (EC) efficiently.
+• Compliant to ethical regulations.
+
+The project office at concentris acted as a helpdesk for all participants; it was the central node of communication on a day-by-day basis and communicated with the EC on behalf of the Coordinator regarding administrative and managerial issues (i.e. contract, amendment, reporting etc.).
+Potential Impact:
+Socio-economic impact and the wider societal implications of IMAGEMEND:
+Mental disorders are estimated to affect up to 27% of the adult population. They are now the leading cause of disability in Europe and due to the low age of onset and often chronic course an immense clinical and societal burden. IMAGEMEND focussed on some of the most severe mental illnesses, schizophrenia (SZ) and bipolar disorder (BD), which are linked to a substantially reduced life expectancy, due to unhealthy lifestyles, such as smoking, obesity, or risk-taking behaviour in traffic, that contribute to mortality directly or by increasing the risk for other somatic illnesses. As a consequence, patients with severe mental illnesses die, on average, more than 10 years before matched controls. Despite significant advances of biological psychiatry research, the biological and environmental factors causing such illnesses are not sufficiently well understood. As a consequence, diagnostic and therapeutic decisions are still based on largely subjective evaluation of symptoms and course and no biological aids exist that could aid in personalizing treatment options to a given patient. The inability to meaningfully stratify patients not only contributes to the enormous clinical burden caused by sequential try-out of therapeutic agents, but is also a substantial limiting factor for development of novel medications that specifically target etiologically relevant mechanisms.
+
+To address these challenges, IMAGEMEND created one of the largest multimodal databases in psychiatry and aimed to make scientific advances in several key areas affecting the societal burden cause by severe mental illnesses:
+
+1.) IMAGEMEND aimed to use computational tools to identify biological markers for diagnosis and stratification, a fundamental precondition to personalized treatment. Work package (WP) 2 demonstrated that reproducible prediction of SZ is possible based on structural brain alterations. At the same time, our results demonstrate that predictive performance is not yet sufficient for clinical application, a likely consequence of the biological heterogeneity of diagnostic constructs and the resulting limitations of achievable performance. Our results provide evidence that such biological heterogeneity is indeed substantial, even within diagnostic groups. As part of this work, IMAGEMEND has applied advanced subgroup identification strategies, which identified biologically defined patient clusters in SZ and ADHD, which presents with symptoms that are also frequent precursors of SZ. We anticipate that these results will form the basis for future research into biological stratification of severe mental illnesses.
+
+2.) IMAGEMEND aimed to translate findings of biological illness alterations to population samples, to explore whether such changes were already present before onset of full-blown illness, and to open a biological route into future prediction of disease progression. Accurate identification of patients early during the illness process could enable early intervention and prevention, potentially averting a severe and possibly chronic illness manifestation. Towards this goal, IMAGEMEND has investigated adolescent subjects at risk for mental illness in the IMAGEN population sample. WP4 found that even using advanced computational approaches, at-risk subjects could not be identified with sufficient accuracy. We were, however, able to find evidence that a range of psychopathological measures could be significantly predicted, hinting at the possibility to use data modalities investigated in IMAGEMEND as part of future approaches for biological at-risk identification.
+
+3.) IMAGEMEND aimed to further develop direct, neuroimaging based therapeutic intervention, based on real-time neurofeedback. For this, WP5 has developed a real-time fMRI tool and integrated this into existing real-time functional connectivity-based neurofeedback analysis software. This software has been successfully tested and is now being medically certified to facilitate its clinical use.
+
+Taken together, IMAGEMEND made substantial progress that will have a positive long-term impact on alleviating the clinical and societal burden of severe mental illnesses. While our real-time fMRI- based intervention tool is being certified for clinical use, IMAGEMEND results regarding the discovery of multimodal diagnostic and predictive markers are setting the stage for further validation and in-depth analyses of biological patient sub-structure. We anticipate that these efforts will lead to subgroup specific biological predictors that allow first, personalized treatment approaches in psychiatry.
+
+Impacts on the biological understanding of severe mental illnesses:
+Across its five scientific WPs, IMAGEMEND made substantial progress in advancing our understanding of the biology underlying SZ, BD and ADHD. This research has resulted in over 100 scientific publications. Among discoveries made as part of IMAGEMEND, we found numerous alterations of brain structure, function and connectivity, as well as (epi-) genetic correlates thereof, in healthy subjects as well as patients. We identified a lack of association between polygenic SZ risk and polygenic determinants of SZ-relevant brain structural volumes, interactions between genetic and environmental risk factors on illness relevant brain function, and established the predictive power of multivariate and multimodal algorithms in psychiatric illnesses. An important outcome of these efforts is that classification of severe mental illnesses is likely limited by the biological heterogeneity of diagnostic constructs, which may not be possible to overcome through multi-modal data integration. As a consequence, future efforts for development of predictive algorithms will likely have to focus on dissecting heterogeneity prior to development of biological predictors of clinical utility. In addition, our successful development of real-time fMRI based neurofeedback intervention will further deepen insights into neural circuits relevant for behavioural manifestations of mental illnesses.
+
+Work performed as part of the IMAGEMEND ethics WP highlighted attitudes towards predictive genetic testing and resulted in a checklist of the sensitive aspects of the informed consent procedure that will be made available on the IMAGEMEND website. We hope that this research will not only reduce the stigma associated with mental illnesses, but help translating findings by IMAGEMEND and other consortia into clinical use, to maximize benefits for patients and avoid potential risks related to biological testing of mental illnesses.
+
+Impacts on health economics:
+We anticipate IMAGEMEND to have a significant long-term impact on health economics, through more effective therapy of SZ, BD and ADHD, based on early diagnosis, biological stratification and development of novel, mechanistically targeted therapeutic agents. Such development could substantially reduce the financial burden of these illnesses, by averting severe clinical manifestation and chronicity, but also by reducing the enormous indirect costs due to patients’ absence from work. We hope that an improved etiological understanding of these illnesses will lead to deeper insights into the biological basis of somatic comorbidities, which could help to alleviate the substantial increase in patient mortality due to cardiovascular and metabolic conditions.
+
+Impacts on research collaborations:
+IMAGEMEND actively established links to and collaborations with the large psychiatric research collaboration ENIGMA, as well as the FP7 projects PSYSCAN and PRONIA. Acquisition of neuroimaging data on comparable patient populations in these projects, will allow cross-validation of IMAGEMEND findings, as well as joint analyses on combined data resources. Furthermore, Brain Innovation (BI) has been working with members of the BRAINTRAIN project, another FP7 research project focusing on real time fMRI neurofeedback. Additionally, IMAGEMEND partners agreed to preserve the data resource of the project beyond the duration of the project, and the data is already being used for collaborative analyses. Methodological developments performed as part of the IMAGEMEND project also resulted in new computational approaches for analysis of and dissection of biological heterogeneity in neuroimaging data. IMAGEMEND partner CIMH is further a member of the BMBF-funded e:med program (Measures establishing systems medicine) and within the framework of the project group “Data Security and Ethic” they presented and discussed questions with regard to IMAGEMEND. Finally, the IMAGEMEND ethics WP had discussions within the European Network of Research Ethics Committees – EUREC, resulting in a refined checklist of the most relevant and sensitive aspects of the informed consent process. Given the results obtained during the IMAGEMEND project, we anticipate such methods to be of critical importance for future biomarker discovery efforts in psychiatric and other complex illnesses.
+
+Impacts on the EU economy:
+SME’s played an important role as partner organizations of the IMAGEMEND project. BI contributed leading expertise in fMRI software development, ultra-rapid MRI data analysis, and real-time fMRI. During IMAGEMEND, BI developed and successfully tested real-time fMRI software, which is now being medically certified to facilitate its clinical use. We anticipate that Brain Innovation will profit from future clinical translation of this therapeutic application. Life&Brain performed (epi-) genetic analyses within IMAGEMEND and will profit from the experience gained during the project. Finally, concentris performed project management of the IMAGEMEND project and will profit both from the increased visibility, contacts and the experience gained throughout the project. We further anticipate IMAGEMEND findings to be the groundwork for developments in the area of personalized psychiatry, with substantial positive long-term impact on diagnostics and pharmaceutical industry in the European economic area.
+
+The main dissemination activities of IMAGEMEND
+Posters
+1.) P1 CIMH: Imaging Genetics for Mental Disorders, European Molecular Imaging Meeting (Antwerp, Belgium)
+2.) P1 CIMH: Ethical considerations in predictive genetic testing, WCPG (Copenhagen, Denmark)
+3.) P2 KCL: The neural basis of reward anticipation and its genetic determinants, OHBM (Geneva, Switzerland)
+4.) P4 UNIBA: Amygdala activation during explicit emotional faces processing is heritable and associated with the schizophrenia risk locus of MiR137, Cognomics Conference (Nijmegen, Netherlands)
+5.) P5 UEDIN: Impact of polygenic loading for schizophrenia on cognition and trait features of depression in a large population-based cohort, WCPG (Toronto, Canada)
+6.) P7 UiO: Distinct modes of brain variation in schizophrenia and bipolar disorder revealed by data-driven fusion of cortical thickness, surface area, and voxel¬based morphometry using linked independent component analysis, SOBP (Toronto, Canada)
+7.) P8 RUNMC: Brain Structure and ADHD across the Life Span: An ENIGMA Collaboration, OHBM (Hamburg, Germany) and SfN (Washington, USA)
+8.) P8 RUNMC: Subcortical volumes across the life span in ADHD: an ENIGMA Working Group, OHBM (Honolulu, USA)
+9.) P8 RUNMC: Quantifying Patterns of Abnormality for ADHD in a large MRI based Pattern Recognition Study, OHBM (Geneva, Switzerland)
+10.) P10 BI: Real-time fMRI self-regulation of functional network connectivity during a visual motion task, SfN (San Diego, USA)
+11.) P11 concentris: The IMAGEMEND project, ECNP (Paris, France)
+
+Presentations
+1.) P1 CIMH: Imaging Genetics, DGPPN (Berlin, Germany)
+2.) P1 CIMH: Biomarker discovery in Psychiatry, DGPPN (Berlin, Germany)
+3.) P1 CIMH: IMAGEMEND, ECNP (Vienna, Austria)
+4.) P1 CIMH: IMAGEMEND: Imaging Genetics for Mental Disorders, EPA (Vienna, Austria)
+5.) P4 UNIBA: IMAGEMEND: Imaging Genetics of Mental Disorders, Workshop on Schizophrenia and other mental disorders (Pisa, Italy
+6.) P14 ISMMS: Developing individualized diagnostic and therapeutic tools with images: The IMAGEMEND network, SOBP (New York, NY, USA)
+7.) P14 ISMMS: Large-Scale European neuroimaging networks: progress and challenges, ECNP (Berlin, Germany)
+8.) P16 RUNMC: The IMAGEMEND Project, ECNP (Berlin, Germany)
+
+Organisation of Conferences / Symposia / Workshops
+1.) Society of Biological Psychiatry (SOBP)
+Title: Multimodal Markers of disease expression in mental disorders: results from large clinical and general population cohorts
+Date: 13.05.2016
+Location: Atlanta, Georgia, USA
+Organizer: Frangou (P14 ISMMS)
+Chair: Meyer-Lindenberg (P1 CIMH)
+Speaker: McIntosh (P5 UEDIN), Bertolino (P4 UNIBA), Franke (P8 RUNMC), Ing (P2 KCL)
+
+2.) European Congress of Psychiatry (EPA)
+Title: Dissecting Heterogeneity in Psychiatric Disorders using Imaging and Genetic Markers
+Date: 04.04 2017
+Location: Florence, Italy
+Organizer: Frangou (P14 ISMMS)
+Chairs: Frangou (P14 ISMMS), Franke (P8 RUNMC)
+Speaker: Pergola (P4 UNIBA), Schwarz (P1 CIMH), Franke (P8 RUNMC), Andreassen (P7 UiO)
+
+3.) RCPSYCH International Congress
+Title: The EU IMAGMEND Consortium, imaging risk of psychosis and predicting who will become unwell
+Date: 28.06.2017
+Location: Edinburgh, Scotland
+Organizer: McIntosh (P5 UEDIN), Frangou (P14 ISMMS)
+Chair: Stephen Lawrie
+Speaker: Emanuel Schwarz (P1 CIMH), McIntosh (P5 UEDIN), Frangou (P14 ISMMS)
+
+4.) European congress of research ethics committees (ANCEI-EUREC joint conference)
+Title: Studies with minors and adolescents or children on schizophrenia, bipolar disorder and attention deficit-hyperactivity disorder: Results and ethical challenges of the IMAGEMEND project
+Date: 17.05.2017
+Location: Barcelona, Spain
+Organizer: Rietschel (P1 CIMH), Lanzerath (P12 UBO)
+Chair: Elmar Doppelfeld
+Speaker: Marcella Rietschel/Jana Strohmaier (P1 CIMH), Jan Buitelaar (P8 RUNMC), Dirk Lanzerath (P12 UBO), Christina Hultman (invited expert)
+
+5.) A one day course for the Neuroscience School of Advanced Studies on ‘Biomarker in Psychiatry’ (www.nsas.it) was given by Prof. Meyer-Lindenberg (P1 CIMH). About 30 students participated and experiences from the IMAGEMEND consortium were highlighted.
+
+Papers
+About 100 papers were published that include the IMAGEMEND acknowledgement. Here, we highlight several core publications that cover thee key scientific areas: (I) psychiatric imaging genetics, (II) neuroimaging in psychiatric illnesses, (III) imaging (genetics) basic research:
+
+(I) Psychiatric imaging genetics
+Discoveries in this research area include novel genetic loci associated with volumes of brain structures relevant for psychiatric illnesses. They further describe links between polygenic and familiar risk and brain structure and activation. Notably, in schizophrenia, they also comprise the finding that polygenic risk is not linked to polygenic determinants of schizophrenia-relevant brain structural volumes.
+
+1.) Easton et al., 2014, αCaMKII controls the establishment of cocaine's reinforcing effects in mice and humans, Transl Psychiatry
+2.) Hibar et al., 2015, Common genetic variants influence human subcortical brain structures, Nature
+3.) Franke et al., 2016, Genetic influences on schizophrenia and subcortical brain volumes: large-scale proof of concept, Nat Neurosci
+4.) Ruggeri et al., 2015, Association of Protein Phosphatase PPM1G With Alcohol Use Disorder and Brain Activity During Behavioral Control in a Genome-Wide Methylation Analysis, Am J Psychiatry
+5.) Loth et al., 2014, Oxytocin Receptor Genotype Modulates Ventral Striatal Activity to Social Cues and Response to Stressful Life Events, Biol Psychiatry
+6.) Hibar et al., 2017, Novel genetic loci associated with hippocampal volume, Nat Commun
+7.) Lancaste et al., 2016, Polygenic Risk of Psychosis and Ventral Striatal Activation During Reward Processing in Healthy Adolescents, JAMA Psychiatry
+8.) Quarto et al., 2017, Familial risk and a genome-wide supported DRD2 variant for schizophrenia predict lateral prefrontal-amygdala effective connectivity during emotion processing, Schizophr Bull
+9.) Papmeyer et al., 2014, Cortical Thickness in Individuals at High Familial Risk of Mood Disorders as They Develop Major Depressive Disorder, Biol Psychiatry
+
+(II) Neuroimaging in psychiatric illnesses
+Among discoveries in this research field are cortical and subcortical alterations in illnesses investigated during IMAGEMEND, identified links between the developmental stabilization of brain connectivity and mental illnesses, as well as neural correlates of behavioural abnormalities of mental disorders.
+
+1.) Castellanos-Ryan et al., 2014, Neural and Cognitive Correlates of the Common and Specific Variance Across Externalizing Problems in Young Adolescence, Am J Psychiatry
+2.) Kaufmann et al., 2015, Disintegration of Sensorimotor Brain Networks in Schizophrenia, Schizophr Bull
+3.) Stringaris et al., 2015, The Brain's Response to Reward Anticipation and Depression in Adolescence: Dimensionality, Specificity, and Longitudinal Predictions in a Community-Based Sample, Am J Psychiatry
+4.) Mackey, 2016, Brain Regions Related to Impulsivity Mediate the Effects of Early Adversity on Antisocial Behavior, Biol Psychiatry
+5.) Schmaal et al., 2017, Cortical abnormalities in adults and adolescents with major depression based on brain scans from 20 cohorts worldwide in the ENIGMA Major Depressive Disorder Working Group, Mol Psychiatry
+6.) Hibar et al., 2017, Cortical abnormalities in bipolar disorder: an MRI analysis of 6503 individuals from the ENIGMA Bipolar Disorder Working Group, Mol Psychiatry
+7.) Kaufmann et al, 2017, Delayed stabilization and individualization in connectome development are related to psychiatric disorders, Nat Neurosci
+8.) Moberget et al., 2017, Cerebellar volume and cerebellocerebral structural covariance in schizophrenia: a multisite mega-analysis of 983 patients and 1349 healthy controls, Mol Psychiatry
+9.) Hoogman et al., 2017, Subcortical brain volume differences in participants with attention deficit hyperactivity disorder in children and adults: a cross-sectional mega-analysis, Lancet Psychiatry.
+10.) Hibar et al., 2016, Subcortical volumetric abnormalities in bipolar disorder, Mol Psychiatry
+
+(III) Imaging (genetics) basic research
+Here, research discoveries comprise novel genetic determinants of intellectual ability, memory, reward anticipation and human intracranial volume, the coordination between brain expression and brain network activity, as well as epigenetic links between immune function and neocortical thickness.
+
+1.) Desrivières et al, 2015, Single nucleotide polymorphism in the neuroplastin locus associates with cortical thickness and intellectual ability in adolescents, Mol Psychiatry
+2.) Luksys et al., 2015, Computational dissection of human episodic memory reveals mental process-specific genetic profiles, Proceedings of the National Academy of Sciences of the United States of America
+3.) Richiardi et al., 2015, BRAIN NETWORKS. Correlated gene expression supports synchronous activity in brain networks, Science
+4.) Jia et al., 2016, Neural basis of reward anticipation and its genetic determinants, Proceedings of the National Academy of Sciences of the United States
+5.) Adams et al., 2016, Novel genetic loci underlying human intracranial volume identified through genome-wide association, Nat Neurosci
+6.) Albough et al., 2017, Inattention and Reaction Time Variability Are Linked to Ventromedial Prefrontal Volume in Adolescents, Biol Psychiatry
+7.) Freytag et al., 2017, A peripheral epigenetic signature of immune system genes is linked to neocortical thickness and memory, Nat Commun
+
+Press/Media
+1.) As stated above, WP6 partners (P1 CIMH, P12 UBO) organized a workshop within the framework of the Conference of the ANCEI-EUREC (European Network of Research Ethics Committees (EUREC) & Asociación Nacional de Comités de Ética de la Investigación (ANCEI)), which was held from 17th -19th May 2017 in Barcelona. Specialists from within and outside of IMAGEMEND were invited for the discussion and interviews were conducted, filmed and edited by P11 concentris for a short movie entitled ‘Predictive markers for mental illness – Ethical considerations of the IMAGEMEND project’ that was uploaded to the website (http://imagemend.eu/). Additionally, this event also built the basis for a press release by P11 concentris (‘IMAGEMEND provides new guidance for clinicians and patients in genetic Testing in psychiatric disorders’), which can be found on the website as well.
+2.) Prof. Meyer-Lindenberg (P1, CIMH) highlighted the IMAGEMEND project during a press conference on ‘Biomarker in Psychiatry’ at the DGPPN 2015.
+3.) Barbara Franke (P8, RUNMC) gave a radio interview for NTR, Radio 5 program ‚De Kennis van Nu‘ entitles ‚Genes for brain structure identified‘, which aired on 22nd January 2015 in the Netherlands.
+
+Websites/Applications
+1.) P11 concentris: Project website: www.imagemend.eu
+
+Exploitation of results of IMAGEMEND
+The IMAGEMEND database:
+Partners have agreed to keep the central database running in Mannheim. Accordingly, this represents an opportunity for further exploitation. IMAGEMEND partners, but also other institutions and projects (e.g. PSYSCAN and PRONIA) will be given the opportunity to submit analyses protocols and make use of this unique platform. Continuation of the IMAGEMEND data resource will thus allow linking biomarker discovery efforts across these consortia, creating further opportunities for dissecting patient heterogeneity in large samples to identify clinically useful biological patterns. Furthermore, IMAGEMEND partners are actively working on development of novel machine learning methods that can extract meaningful patterns from high-dimensional, often noisy biological data. Continued access to the IMAGEMEND database will allow retrospective application of such methods to the already existing data, potentially allowing the discovery of biological illness hallmarks that current machine learning methods cannot identify. The availability of multimodal data within the IMAGEMEND database is particularly appealing for this purpose, since future predictive analyses will likely require such data, not only for increasing the predictiveness of identified algorithms, but also to link analyses across different consortia that may have acquired only partially overlapping data types.
+
+Classification tool – Client/server micro-services software application:
+An important part of IMAGEMEND was the development of a classification software that is easy to use and applicable across different technological platform. The developed software will be made publically available for academic purposes. The developed software includes:
+
+• A client/server micro-services software application, written in Python, for training advanced state-of-the-art classifiers and running predictions on previously unseen cases. All source code available to everyone with an open source licence.
+• Developer and user manual explaining in detail the design, installation, execution of the finalized classification software as well as building the software package from scratch.
+
+Our final classification tool uses a CSV file of calculated brain features as input. Both FreeSurfer and SPM features can be exported in CSV file format. Other data modalities such as genetic and resting-state data can be integrate easily into the developed tools.
+
+fMRI neurofeedback system:
+The functional connectivity-based neurofeedback has been integrated in Brain Innovation real-time fMRI analysis software and has now been tested by two partners of Brain Innovation. The results show that patients can self-regulate functional connectivity between brain areas. Therefore, functional connectivity-based neurofeedback can be used to develop new treatment. P10 Brain Innovation started the medical certification of the real-time fMRI analysis software to facilitate clinical use of the software. The software could be used for online quality checking and for neurofeedback treatment. The software will be class 1 CE certified.
+
+Ethics checklist:
+A checklist of the most sensitive and relevant points for clinicians to consider during the future psychiatric genetic counselling process was developed. As noted above this should be regarded as an initial template, which will require modification and refinement in future research, once psychiatric genetic testing becomes available in the routine clinical setting. The checklist is designed to be worked through point-by-point with the adult individual who is considering undergoing testing, or with the parents in the case of minors, and with relatives if applicable. Each point should be weighted according to the personal circumstances of the individual. The checklist is thus intended to facilitate comprehensive coverage of the most relevant issues and thus an informed and autonomous decision. It will be published on the IMAGEMEND website (will be kept online also after project end), and in Strohmaier et al. “Psychiatric genetic testing: attitudes towards the right to self-determination and development of a checklist for use in future psychiatric genetic counselling”
+List of Websites:
+www.imagemend.eu

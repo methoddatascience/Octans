@@ -1,0 +1,11 @@
+Les troubles cognitifs comme la déficience intellectuelle, l'autisme, la maladie d'Alzheimer et les maladies psychiatriques représentent un poids très lourd pour les systèmes de santé, les patients et leurs familles. Même si les scientifiques ont identifié des centaines de gènes qui jouent un rôle dans ces troubles, la majorité des causes restent à découvrir.
+
+L'initiative GENCODYS (Genetic and epigenetic networks in cognitive dysfunction), financée par l'UE, avait pour objectif de découvrir comment les mutations de gènes entraînent des dysfonctionnements du cerveau. À partir de ces informations, les membres du consortium espèrent développer des traitements pour plusieurs troubles cognitifs.
+
+Des chercheurs d'Iran, du Pakistan et de sept États membres de l'UE ont travaillé avec une organisation de réseau de patients pour identifier les mécanismes communs qui sont à l'origine des problèmes cognitifs. Ils ont découvert 150 gènes à ajouter aux 400 qui étaient déjà liés à des troubles cognitifs précoces (ceux qui se manifestent avant l'âge de 18 ans).
+
+À la fin du projet, GENCODYS avait établi une biobanque et une base de données contenant des échantillons d'ADN et des données cliniques pour plus de 13 000 individus souffrant de troubles cognitifs. Ayant trouvé les causes du problème pour un grand nombre de patients, les chercheurs ont ensuite développé des tests génétiques diagnostiques, ainsi que des conseils génétiques, qui vont avoir des bénéfices immédiats pour les patients.
+
+Les chercheurs ont également développé des modèles animaux pour disséquer les voies neurologiques complexes perturbées par les mutations dans les gènes des troubles cognitifs nouvellement identifiés. Ils ont utilisé des modèles de mouches du vinaigre et de souris bien caractérisés génétiquement pour mesurer les handicaps en matière de neurodéveloppement, d'apprentissage et de mémoire, ainsi que d'autres comportements.
+
+Enfin, les chercheurs ont développé des cibles de médicaments pour réparer la fonction cognitive, ce qui pourrait finalement aboutir à des remèdes pour les êtres humains. Dans ce but, ils ont utilisé des modèles de cellules neuronales de mammifères, ainsi que les modèles animaux caractérisés pour étudier des interventions thérapeutiques prometteuses de manière plus approfondie.

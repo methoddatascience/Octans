@@ -1,0 +1,58 @@
+Project Context and Objectives:
+BRAINTRAIN context
+
+Advances in neuroimaging have led to a better knowledge of both mental dysfunction and potential compensatory mechanisms in patients. Major nodes of disordered neural networks are in deep regions of the brain, which makes them difficult to access by electroencephalography or transcranial stimulation. Neuroimaging techniques are therefore essential for the development of noninvasive neuromodulation techniques for mental and behavioural disorders.
+
+Real-time functional magnetic resonance imaging (fMRI) uses magnetic resonance imaging to measure brain activity, by detecting associated changes in blood flow which increases with neuronal activation. fMRI can be used for on-line-monitoring of brain function as well as for selfmodulation of neural processes via interactive training. With the neurofeedback (NF) procedure, patients learn control over brain activity using real-time signals from their own brain.
+
+BRAINTRAIN is based on this idea that real-time functional neuroimaging can be used to train patients to regulate their own brain activity via NF training and thus modulate the brain networks of mental disorder, restore function, improve symptoms and promote resilience. The BRAINTRAIN project brings together the core groups that have been instrumental in the development of methods for real-time functional imaging and fMRI-based NF and have led the initial clinical applications in neuropsychiatric disorders.
+
+BRAINTRAIN objectives
+
+BRAINTRAIN will improve and adapt the methods of real-time fMRI NF for clinical use, including the combination with EEG and the development of standardised procedures for the mapping of brain networks that can be targeted with NF. Its core component will be the exploration of the efficacy of fMRI-NF in selected mental and neurodevelopmental disorders that involve motivational, emotional and social neural systems targetable with this technique and pose major public health problems because of their prevalence and hitherto limited treatment options. They are characterised by dysfunctional motivational drives (particularly addiction and binge eating disorder), social communication abilities (particularly autism-spectrum disorder) and emotional regulation (particularly anxiety disorders, including post-traumatic stress disorder), which all have well-established correlates in functional imaging. The development and evaluation of fMRI-NF protocols for these disorders is thus particularly promising on both neurobiological and clinical grounds.
+BRAINTRAIN has three main components:
+• the development and refinement of methods for the real-time analysis and feedback of fMRI data and combination with other imaging modalities (WP2)
+• the adaptation of fMRI mapping techniques to localise disease-relevant networks and development of protocols for their self-regulation through NF (WP3)
+• and the assessment of feasibility and clinical effects in several mental disorders that are characterised by dysfunctional brain systems for motivation, emotion regulation and social communication and by important therapeutic gaps (autism spectrum disorders, alcohol addiction, post-traumatic stress disorder, childhood anxiety disorders, binge-eating disorder) (WP4).
+
+BRAINTRAIN will also explore the potential transfer of (laboratory-based) imaging feedback training into everyday settings through ambulatory and assistive technologies such as electroencephalography (EEG) and gaming (WP5). BRAINTRAIN will engage with potential users of these technologies (healthcare professionals and providers, medical instrument and software manufacturers, patient and carer associations) through several workshops, liaise with regulatory authorities and disseminate findings to the academic and user communities in WP6.
+Project Results:
+The consortium was well established and collaborates efficiently. The governing structure and the independent advisory board are in place. The management tools i.e. the procedures and the restricted-access extranet were created and are being updated regularly. Each partner is well aware of the reporting procedures.
+
+WP2 aims to develop and implement standardised and transferable methods for acquisition, data transfer and analysis of high-quality real-time fMRI data and for transfer to ambulatory devices (EEG). During the period, real-time data transfer for all MR vendors and multivariate tools for real-time classification of neurofeedback (NF) data were implemented. First tools for computation of real-time functional connectivity have been implemented; the connectivity parameters are currently being optimised. Recommendations for 3T MRI scanners for real-time fMRI NF were researched, developed and disseminated. Also, a BOLD sensitivity optimization method is being developed and the development of online EEG analysis tools has started. As pilot test, a real-time quality assurance measurement for fMRI was implemented with the opensource image reconstruction framework Gadgetron.
+
+In the frame of WP3, data on the mapping of emotional networks and different motivational processes has been analysed. Studies were performed for mapping the functional networks related to cue reactivity and social communication. The feasibility of a motivational NF interface was assessed.
+An online domain specific paradigm database was created on four domains: Stress, Empathy, Motivation and Emotion Regulation. Statistical maps for the identification of NF probes are been collected. fMRI probes related to the “social brain” were investigated and brain regions with potential applications for rehabilitation in autism-spectrum disorder were identified. Various fMRI pilot studies have been performed. fMRI-based emotion regulation localiser and fMRI-based NF training tasks were developed to assess the feasibility of fMRI-NF of social cognition/motivational networks in adolescents.
+
+Within WP4 the consortium has prepared for the clinical trials. The coordinator ran two workshops for study teams and provided training and guidance on trial management, data management, trial design and analysis. All protocols are completed or close to completion and their registration has been initiated. Local ethical approvals are pending or were obtained, in order to start the recruitment of patients from June 2015 onwards. In addition the coordinator liaised with the study teams regarding the integration and analysis of data across trials: almost all the metadata has now been received and the information system to store and manage the participant data has been built. Several of the teams have submitted draft data management plans.
+
+In the frame of WP5, the brain networks supporting the interpretation of the biological movement of the face (posterior Superior Temporal Sulcus) were studied. Additionally, an analysis of the EEG signal acquired during fMRI experiments showed correlations between both signals. Preliminary conclusions are concordant with the fMRI localizer conclusions. To develop a fMRI NF protocol to train goal oriented behaviour to social vs. non social target objects and transfer to an EEG task in autism, preliminary real-time fMRI NF experiments were done with healthy participants using two types of feedback: auditory and visual. Furthermore, the communication protocol of the EEG-Brain computer interface was implemented.
+
+Finally BRAINTRAIN developed efficient communication tools for the project in order to reinforce its visibility, and made sure that all participants are aware of and understand the Intellectual Property aspects raised by the projects. The Business Plan Committee was established and all partners have started to disseminate the project through oral presentations at conferences and preparing papers.
+
+Potential Impact:
+The ultimate goals of BRAINTRAIN are to:
+• Develop new or optimize existing imaging technologies
+• Validate their application as a therapeutic tool for mental and behavioural disorders by integrating imaging data with complementary knowledge from bioinformatics and clinical data
+• Facilitate the diagnosis of mental disorders at the pre-symptomatic stage or early during development
+• Better measure disease progression
+• Develop transfer technologies for fMRI-NF through EEG and serious games.
+
+The BRAINTRAIN consortium is creating new technologies because no standardised solutions for clinical fMRI-based NF are available to date. The scope of BRAINTRAIN includes mental disorders affecting a third of the EU’s population, and its technological developments can support the application of fMRI-NR to an even wider range of psychiatric and neurological disorders. Potential markets include:
+• Scanner manufacturers wanting to incorporate clinical NF protocols in their clinical hard-/software packages
+• Healthcare providers (private and public) wanting to offer NF as part/ add-on to existing in- or outpatient treatments for mental disorders and as part of personalized medicine schemes in psychiatry
+• Governments wanting to implement NF training to promote resilience/ prevent PTSD in service personnel; end-users (patients) purchasing NF as treatment option (similar to private psychotherapy etc.) Education –the real-life version may be integrated as enhancement programs in schools to help deal with affective and cognitive disturbances.
+
+BRAINTRAIN addresses the needs of an international market. MRI technology for diagnostic purposes is ubiquitous in industrialised countries, with increasing uptake in developing countries and huge expansion potential there. BRAINTRAIN consortium is the first one to complement this with a strategy to develop fully integrated (standardised, across platform, ready to use, manual-guided) solutions for therapeutic functional MRI and with integrated transfer technologies. Given clinical success of the proposed interventions (even in only some of the investigated disorders), this could lead to a huge demand of these tools from current and new customers of MRI systems and from manufacturers of such devices (to integrate into turnkey solutions).
+
+The economic impact could thus be expected in the following key domains:
+• Sales of products developed as part of BRAINTRAIN, especially an increase in the target market for MR systems if clinical use is added.
+• Licensing of IP developed in BRAINTRAIN or other collaboration with industrial partners outside the consortium (e.g. scanner and EEG hardware manufacturers), leading to increased sales and efficiency gains for these partners.
+• Standardisation and harmonisation of real-time imaging procedures, with considerable time gain, error, downtime and cost reduction.
+
+Moreover BRAINTRAIN will provide data for preliminary health economics calculations about potential cost savings in treatment and non-treatment costs (such as facilitating return to work, reducing long-term disability), which will be conducted in collaboration with the Welsh Health Economics Support Service.
+BRAINTRAIN will reduce health care costs, ultimately benefiting patients and society as a whole.
+In the case of ASD, the real life transfer paradigms, and in particular the use of serious games will strongly reduce the need of the physical presence of a therapist thereby reducing costs. Also, the increased level of social autonomy will also contribute to the reduction of social care expenses.
+
+List of Websites:
+http://www.braintrainproject.eu/

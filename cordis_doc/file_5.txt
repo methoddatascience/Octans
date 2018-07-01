@@ -1,0 +1,320 @@
+Executive summary:
+
+The NEUROPT project aimed at the development and clinical validation of advanced non-invasive optical methodologies for in-vivo diagnosis, monitoring, and prognosis of major neurological diseases (stroke, epilepsy, ischemia), based on diffuse optical imaging by pulsed near infrared light.
+
+Established diagnostic imaging modalities (e.g. X-ray Computed Tomography, Magnetic Resonance Imaging, Positron Emission Tomography) provide 3D anatomical, functional or pathological information with spatial resolution in the millimetre range. However, these methods cannot be applied continuously or at the bedside. Diffuse optical imaging provides a valuable complementing tool to assess perfusion and blood oxygenation in brain tissue and their time evolution in a continuous or quasi-continuous manner. The devices are portable and comparably inexpensive and can be applied in adults and in children.
+
+Time-domain techniques are acknowledged as offering superior information content and sensitivity compared to other optical methods and the main advantages of the use of the time-resolved techniques are:
+- the ability to provide depth-selective signals (in particular variance and of the time-of-flight distribution and early vs. late time gating of the time-of-flight distribution) which allow to eliminate or at least to greatly suppress the contamination of near-infrared spectroscopy (NIRS) signals by superficial tissues (skin, scalp);
+- the ability to differentiate between the effects of scatter and those of absorption;
+- the ability to suppress motion artefacts which are often present in patients who show involuntary movements. The consequences are better quantification of physiological parameters (e.g. blood volume and oxygenation), improved spatial resolution, and overall robustness of the NIRS measurements.
+
+The consortium achieved major developments in technology and data analysis that will enhance time-domain diffuse optical imaging with respect to spatial resolution, sensitivity, robustness of quantification as well as performance of related instruments in clinical diagnosis and monitoring.
+
+The diagnostic value of time-domain diffuse optical imaging have been assessed by clinical pilot studies addressing specific neurological disorders, in comparison with established neurophysiological and neuroimaging techniques. In particular the comparison of NIRS with electroencephalography (EEG) data, revealed significant convergences of temporal and topographical patterns. Comparison of multimodal procedures performed in patients with cortical hyperexcitability (sustaining cortical myoclonus), including EEG, NIRS, functional magnetic resonance imaging (fMRI) and transcranial magnetic stimulation (TMS) assisted by neuronavigation, gave rise to coherent results. The location of hemodynamic changes, revealed by NIRS and fMRI, largely overlapped. In acute stroke patients, the difference between the ICG bolus latency in the diseased compared to the undiseased hemisphere showed an effect very compatible with the clinically expected perfusion delay by means of perfusion weighted MR imaging (pwMRI).
+
+Perspectives regarding clinical application of time-domain diffuse optical brain imaging have been estimated and a reliable basis for a potential commercialisation of this novel technique by European system manufacturers has been created. Larger application in patient series of the newly implemented NIRS technologies will sustain a larger and more selective application, namely in patients with acute disease implicating dominant hemodynamic impairment.
+
+Project Context and Objectives:
+
+Neuroradiological techniques have vastly influenced our understanding of diseases such as stroke, multiple sclerosis and epilepsy. Computed Tomography, Magnetic Resonance Imaging and Positron Emission Tomography provide a cornucopia of anatomical and physiological data which help to guide diagnosis and therapy in clinical practice. However, in the course of highly dynamic brain diseases such as acute stroke and epilepsy the diseased brain remains most of the time unmonitored. Even intensive care units specialized for neurological diseases essentially monitor systemic parameters, such as heart rate or blood pressure. Specific neurological monitoring techniques like intracranial pressure assessment and microdialysis require surgical intervention. Electroencephalography, a technique established some 80 years ago, stands alone in its ability to continuously and non-invasively monitor the brain. Our proposal is therefore motivated by the ambition to provide a clinical tool for continuous monitoring of the haemodynamic parameters cerebral oxygenation and perfusion. This tool should be compatible with existing neuro-monitoring techniques (EEG, Doppler ultrasound) and complement conventional (non-continuous) neuroimaging methods (MRI/CT/PET).
+
+The present proposal aims at the development and clinical validation of advanced non-invasive optical brain imaging. This methodology will be applicable in the acute stage of major neurological diseases, including stroke, hypoxic-ischaemic encephalopathy, and epilepsy. It can be used at the bedside, and is portable, safe, and inexpensive. This technique potentially provides information on clinically valuable parameters such as perfusion and blood oxygenation with a temporal resolution sufficient to promptly determine unfavourable changes in the brain state. It allows simultaneous registration with electrophysiological monitoring by electroencephalography (EEG) and can be easily combined with transcranial Doppler sonography. Finally, as it has been demonstrated in functional studies, optical measurements can be performed simultaneously during MRI or PET imaging. Thus it is feasible to integrate a facility for continuous, low spatial resolution monitoring with systems which provide high spatial resolution 'snapshots' of pathophysiological processes. In short, optical methods are expected to become a complementary monitoring tool in neurological intensive care (e.g. stroke units) and during diagnostic observation in paroxysmal events (e.g. epileptic seizures). The central task of this proposal is to accomplish the transfer of a promising technique into routine clinical practice.
+
+The concerted program of work proposed here has been designed to address the most critical issues which have so far hindered widespread application of optical techniques to brain monitoring and imaging. The present limitations of optical techniques can be considered to be poor spatial resolution, artefacts caused by extra-cerebral contribution, and a lack of absolute quantification of physiological parameters. The core activities of this proposal are focussed on substantial developments in time-domain imaging and spectroscopy. The unsurpassed level of expertise of the European groups involved in this area is recognized worldwide. Time-resolved techniques are acknowledged as offering superior information content and sensitivity compared to other optical methods, allowing for separation between the contributions of surface tissues (e.g. skin and skull) and brain tissue. Time domain imaging can also differentiate between the effects of scatter and those of absorption. The consequences are better quantification of physiological parameters (e.g. blood volume and oxygenation) and improved spatial resolution.
+
+The time-domain technology is based on sources of ultrafast (picoseconds or shorter) near-infrared pulses, fast photon counting detectors, and time-of-flight measurement electronics. The timeliness of this proposal stems in part from the recently emerging new technologies which will make the time-domain approach considerably more competitive in terms of signal quality, simplicity of use, cost, and portability. This project will involve exploiting new technological advances while also implementing and validating a number of novel methodological ideas, such as the 'null-distance', the 'dense topographic', and the 'multi-spectral' approaches. The overall goal of the consortium is to achieve the breakthrough of an effective clinical diagnostic methodology by advancing the basic technological approach in a concerted manner. A major synergistic effect will be accomplished by the close interaction between commercial developers of new photonic technology, researchers who are experienced in devising time-resolved systems for medical applications, experts in the development of dedicated methods of data analysis, and groups of clinicians and scientists who are engaged in challenging diagnostic applications of the new technologies.
+
+Project Results:
+
+WP1 Novel strategies for time-domain diffuse optical imaging of the brain
+
+Task 1.1: Null source-detector separation approach
+
+Previous theoretical investigations have shown that the use of short source-detector (interfibre) distance in time-domain diffuse optical imaging yields better contrast, spatial resolution, and higher signal as compared to large interfiber distances. This concept was explored using Single-Photon Avalanche Diodes (SPAD) operated in fast-gated mode and developed within WP2. An extensive study performed both on simulations and phantom measurements aimed at understanding the system behaviour and to optimize the overall performances. The time-gated SPAD regime was described by a non time-invariant operator (Spread Matrix), yielding the temporal spreading of information caused by the physical detector, related both to the rising edge of the gate, and to the diffusing decay tail of the SPAD. Furthermore, a new phenomenon, termed 'Memory Effect' was identified, leading to an increase in background level, ultimately responsible for the maximum dynamic range of the device. These findings led to the optimization of the design of the system, with the implementation of a 100 nanometres diameter SPAD with a decay tail <100 ps, and enabling a dynamic range in excess of 7 decades.
+
+Two laboratory workstations were developed in Milan and in Berlin, in joint collaboration between PoliMi_FIS, MPD, PTB, Fianium and b&h based on high power pulsed laser sources and gated SPAD detector modules. The system in Milan aimed at high throughput single-optode acquisition, while the Berlin setup was equipped with a fully non-contact scanning stage for continuous measurements over a large area. Quite a high S/N ratio was achieved, as a result of the gating capability permitting to exploit the high laser power; as well as of the tight spatial confinement of the short distance measurements. Despite the extension of the scanned area, yet valuable time-traces could be extracted per each pixel, demonstrating high localization of the activation around the C3 point, resulting from the increase in spatial resolution in the short interfiber distance approach.
+
+Task 1.2: Tomographic approaches
+
+UCL_CS developed a tomographic reconstruction scheme exploiting apriori information derived from an MR based atlas. An anatomical atlas of the neonatal infant head was created, consisting of seven segmented MR images, coregistered to a common surface shape. The atlas can be deformed to correspond to the shape of the subject's head, using anatomical landmarks, surface points and optode positions. Results suggest that improvement can be achieved over using homogeneous background optical model. Both PoliMi_FIS and PTB explored reconstruction capabilities by exploiting time-encoded depth information. In particular, tests on simulations demonstrated the capability of depth-sectioning (time-resolved optical stratigraphy) by using the time-derivative of photon reflectance distributions.
+
+UCL_MPB used computer simulations and phantom experiments to assess spatial resolution and contrast in diffuse optical tomography as a function of feature depth below the surface. The spatial resolution and location accuracy both exhibited a strong linear relationship with depth, whereas the contrast decreased exponentially with depth. Further, optimal selection of the Tikhonov regularization parameter on the accuracy of quantitation of optical properties was identified.
+
+Task 1.3: Dense topographic approach
+
+PoliMi_FIS implemented a system based on a single injection point and a gated ICCD for detection, collecting light re-emitted from a 6 cm diameter area while shielding points around the injection source. The system was tested applying the NEUROPT Protocol (see WP5) on inhomogeneous phantoms made of liquid solutions and black PVC cylinders.
+
+IBIB developed a time-gated ICCD based workstation exploiting dense, large area light harvesting. Results on 3 volunteers showed that the system allows visualizing absorption changes during motor cortex stimulation. Yet, the proposed method does not allow for assessment of hemoglobin concentration because the system operates at a single wavelength. Critical problems are light coupling at the human head and the presence of hair. In the latter case, for subjects with short hair of constant length, the hair can be treated as a scattering filter, just limiting spatial resolution.
+
+Further, IBIB demonstrated time-resolved near infrared light detection on the head surface at very large source-detector separation up to 9 cm, using a powerful laser source in combination with a sensitive photodetector positioned directly on the surface of the head. Measurements on a physical phantom demonstrated that a bolus of ICG can be detected down to a depth of 5 cm. Similarly, measurements on healthy volunteers suggested that the signals measured at an interfiber distance of 9 cm contain larger contribution from the brain than at shorter interoptode distances. At larger source-detector distance return of the signals to the initial level is faster than that noted at shorter distances, in line with the fact that in healthy subjects the dye does not undergo extravasation.
+
+Task 1.4: Multi-spectral approach
+
+UCL_MPB performed theoretical and numerical modeling investigations to identify optimal combinations of two, three, and four wavelengths for diffuse optical imaging. The purpose of this study was to inform the selection of wavelengths to be used in subsequent in vivo imaging studies using the supercontinuum laser. Three selection criteria were chosen: adequate separation between concentrations of oxy- and deoxy-haemoglobin, adequate separation between scatter and absorption, and maximal overlap of sampled volumes. Results suggested that the optimum combination choice of three wavelengths in this situation is 680±5 nm, 725±10 nm, and 876±12 nm, although the precise selection of wavelengths is not as critical as originally supposed.
+
+IBIB developed two setups for multiwavelength acquisition, based either on the detection of ICG fluorescence by parallel acquisition over 16 spectral channels or on the measurement of diffusely reflected light using a supercontinuum source provided by Fianium over the absorption spectra of ICG. The systems were enrolled in phantom and in vivo measurement. The increase of the mean time of arrival of fluorescence photons detected at longer wavelengths may hint that these photons originate from the deeper layers of the medium. Further, the detection of the fluorescence signal at the longer wavelengths of the dye emission spectrum may permit eliminating the reabsorption effect which influences the time course of the signal. For what concern diffuse reflectance measurements, a large contribution of fluorescence photons remitted from the tissue was observed in time-resolved signals detected at longer wavelengths, thus indicating that the filtration of the fluorescence light may be essential in analysis of inflow and washout of ICG using time-resolved reflectometry
+
+PoliMi_FIS studied the effect of the wide bandwidth of the laser source on the accuracy of the reconstructed chrormophores when using a supercontinuum source. In particular, the problem of spectral selection of the source was addressed. Two approaches were explored, namely the use of AOTF and of a rotating prism coupled with an adjustable slit. The former is optimal for speed of execution and flexibility, while the latter is superior both in terms of total light harvesting (no polarization losses) and of quality of the selected spectral bandwidth, with smaller side lobes.
+
+PTB tested the feasibility of fast wavelength switching using a supercontinuum laser with AOTF by employing the 'FSK' mode, i.e. triggering by an external digital pulse train. The switching time was measured directly by recording the AOTF output in the triggered accumulation mode of a TCSPC board. It was found to be on the order of 3 ns. This is by far sufficient to realize the sequential multi-spectral acquisition, thus proving the feasibility of real time wavelength switching.
+
+Task 1.5: Multi-modality imaging approach
+
+The PTB time-domain Brain Imager prototype was coupled, with an EEG device, adding also recordings of a number of physiological signals like ECG, EMG, respiration, skin conductance, blood volume pulse, temperature. The presentation unit provided digital marker signals for synchronization. All individual devices are approved for clinical use.
+
+Deliverables:
+- Report on novel optical methodologies to improve the sensitivity, resolution and quantitation of diffuse optical imaging of the brain
+- Database of optical properties of the head
+
+WP2 Development and testing of novel photonic devices
+
+Task 2.1: Development and testing of novel laser sources
+
+Fianium delivered to system integration partners PTB, UCL, PoliMi_Fis and IBIB PAN within the project, customised supercontinuum fibre lasers to investigate various diffuse optical imaging techniques and system architectures using this novel light source.
+
+Furthermore, AOTF (Acousto-Optic Tuneable Filter) systems have also been provided to or acquired by partners PTB and UCL to investigate multi-spectral approaches to diffuse optical imaging. The AOTF systems have been customised to provide wider bandwidth coverage, higher power throughput and very fast rise-time modulation.
+
+Supercontinuum sources have been evaluated by system integration partners and compared to existing pulsed laser diode illumination sources. Findings show that the supercontinuum provides significantly increased output power and greater flexibility in wavelength selectivity. However, the long-term power stability of the supercontinuum which is based on an inherently noisy process has proven to be somewhat problematic for instrumentation performance.
+
+Between partners P14 Fianium and P13 CPPM, a novel light source based on four wave mixing (4WM) in photonic crystal fibres (PCFs) has been developed which provides high power concentrated in specific spectral ranges important to diffuse optical imaging of the brain.
+
+Partner CPPM has designed and fabricated a large number of novel PCFs which produce 4WM signal pulses in the 700nm to 900nm spectral range when pumped by a 1064nm modelocked fibre laser.
+
+Fianium have integrated two specific PCFs into a dual-output laser source, delivering high power pulses at 710nm and 820nm, each output having closed loop power control to enable excellent power stability. In excess of 2Watts has been delivered by each output but the system was limited to approximately 120mW per output at 40MHz, which is an order of magnitude higher than conventional diodes, with shorter pulse duration.
+
+Task 2.2: Development and testing of novel detectors
+
+Development of novel detectors - P15 (MPD) designed, developed, tested and delivered the module for single-photon detection with fast time-gating and sub-nanosecond transitions (fast-gated SPAD system). Such prototype includes the SPAD detector, the front-end electronics, the control electronics, the user interface, the optics and the micro-positioning mechanics. MPD, in collaboration with P1 PoliMi_FIS, has also designed and mounted on a micro positioning stage a custom focusing optics able to minimize losses in the coupling between the 1-mm core optical fibre and the SPAD active area. P15 MPD designed and provided also a home-made fast pulse generator, in order to properly gate-on and off the SPAD detector with fast rising and falling edges. The trigger-in can be set either internally or externally, with a threshold selectable between 2.5 V and 2.5 V (5 mV resolution). The internal trigger ranges from 40 Hz to 133 MHz. The gate-on duration can be selected from 200 ps to 510 ns. A high-speed shaper speeds the transition times up to about 50 ps. Finally, an ultra-fast output driver amplifies the pulses and provides output pulses with amplitudes from 2.5 V to 8.5 V.
+
+The optical response of the fast-gated SPAD was very flat and uniform, even with 200 ps rising edges, thus attaining very low time-jitter timing responses of about 60 ps, with diffusion tail of 240 ps or 90 ps for 200µm and 100 µm SPAD devices, respectively. The photon detection efficiency was 18% at 800 nm and the dark counting rate less than 50 kcps. The fast-gated system was deployed to partner P1 PoliMi_FIS, where it was integrated into photon migration apparatus and it was extensively tested and used in many measurement sessions.
+
+P15 MPD also designed a fast-gated counter in order to employ SPAD detectors in counting mode, instead of the typical Time-Correlated Single Photon Timing mode, which requires expensive and bulky instrumentation. The counting window is generated starting from a reference 'sync' signal. A programmable delayer shifts in time the counting window with respect to the 'sync' signal with a resolution of 10 ps and a full scale range of 10 ns. A Gate generator guarantees rising and falling edges of tens of picoseconds for enabling the counting of SPAD ignitions. Finally, the counter sends the data to a PC through an USB 2.0 link. The minimum gate window is 65 ps FWHM wide and can be increased up to 10 ns with a resolution of 100 ps. MPD proved a maximum count rate greater than 100 MHz in burst mode (maximum continuous count rate of 16 Mcps due to the maximum value that can be stored into the CMOS counter).
+
+The fast-gated counter was integrated into the photon migration apparatus together with the fast-gated SPAD and it was tested and used in measurement sessions together with P1 PoliMi_FIS. P15 MP proved the possibility to reconstruct the instrument response function and the time-resolved reflectance curve by using a diffusive phantom on a wide dynamic range.
+
+Eventually P15 MPD pushed forward the development of arrays of CMOS SPADs, like a linear array (32 SPADs on a row) that can be operated both in photon counting and in photon timing, and also in gated mode with rise-times of about 700 ps, with timing jitter of each pixel less than 100 ps, dark count rate of about 4 kcps and detection efficiency of 7% at 800 nm.
+
+Testing of novel detectors - P15 MPD and P1 PoliMi_FIS collaborated to conceive and develop an experimental setup for photon migration measurements based on the fast-gated SPAD. A supercontinuum fibre laser (provided by P14 Fianium) delivers white-light picosecond pulses at 40 MHz repetition rate. An Acousto-Optic Tuneable Filter selects a wavelength between 600 nm and 1000 nm, with a spectral resolution of about 5 nm.
+
+Task 2.3: Development and testing of novel electronics
+
+The general development target was to provide time-resolved detection electronics with a timing stability on the order of a few ps and a large number of recording channels. The recording speed should be fast enough to record physiological changes of the oxygen saturation in the human brain. Several approaches were followed up.
+
+Deliverables:
+- Tailored state-of-the-art photonic devices (laser sources, photo detectors, TCSPC electronics)
+- Novel photonic devices (laser sources, photo detectors, TCSPC electronics)
+
+WP3  Modelling and Computation
+
+Task 3.1: Forward Problem
+
+UniFi has developed a flexible software package that can be used as forward solver for photon migration through biological tissue. Photon migration can be simulated in several homogeneous and inhomogeneous geometries. The package, which is made available for the public, consists of several solvers based on solutions of the diffusion equation (DE) and on Monte Carlo (MC) codes.
+
+UCL_CS has implemented a time-domain finite element method (TD-FEM) forward solver of DE for light transport in inhomogeneous media with complex boundaries within the framework of the TOAST software package, and published for general download. An estimation of the temporal intensity profile from moments of the temporal distribution has been added to improve performance of time-domain forward solver. In addition, the software has been extended to support discontinuous Galerkin FEM to account for parameter discontinuities at internal boundaries, and the boundary element method (BEM) to improve the simulation of piecewise constant problems. UCL_CS has also added support for graphics processing unit (GPU)-based computing to the TOAST package, providing significant performance improvements.
+
+Task 3.2 Inverse Problem  General
+
+UCL_CS has explored Markov-chain Monte Carlo (MCMC) reconstruction of piece-wise homogeneous optical parameters in pre-defined regions. This can be used as a first step in a two-step reconstruction, followed by voxel-based reconstruction. Jacobian-free inverse solver method has been implemented in the TOAST software package to eliminate memory requirements for matrix storage.
+
+The GPU acceleration of TOAST forward calculation increases efficiency of the inverse computation. UCL_CS have incorporated use of CUSP sparse linear solver package in the TOAST package which provides GPU acceleration for iterative Krylov solvers.
+
+Task 3.3 Inverse Problem  Optical Properties as Priors
+
+UniFi has developed a FORTRAN subroutine for inversion procedures based on an Optimal Estimation (OE) algorithm. The OE can account of a-priori information both on target and forward model parameters. When a-priori information is not available the OE is not different from other Non-linear Least-Square Fit (NLSF) routines, such as those based on the Levenberg-Marquardt algorithm. This is particularly true for an over-determined set of data from which the target parameters can be indifferently reconstructed using the OE or other NLSF routines. On the contrary, when we are dealing with an under-determined set of observations to retrieve a certain set of target parameters, the availability of a-priori information on the target parameters or on the forward model parameters can significantly improve the quality and the stability of the retrieval.
+
+It was found out that the computation time of the OE routine is roughly a factor two slower compared to the Levenberg-Marquardt algorithm.
+
+ILM has programmed and investigated an artificial neural network (ANN) to solve the inverse problem. The forward problem was solved using solutions of the layered diffusion equation that simulated time-resolved reflectance curves in a five layered model of the human head. After the training process the ANN determined the absorption coefficient of the brain (fifth layer of the model). Further, the optical properties of scalp and skull (first and second layer of a forth layered model) were determined after the ANN was trained with simulated spatially resolved reflectance curves (SRRC) using Monte Carlo simulations (MCS). In addition, the ANN determined the optical properties from liquid phantom measurements after it was trained with MCS simulating SRRC.
+
+Task 3.4 Inverse Problem  Anatomical and Spectral Priors
+
+UCL_CS has added support for spatially varying and edge-preserving application of regularisation during the reconstruction of 3D volume images to the TOAST software package. This allows the use of a-priori known edge information, which can be derived from complementary imaging modalities (X-ray CT, MRI) used on the subject, or from probabilistic region distributions from atlas data.
+
+UCL_CS has also developed use of anatomical atlas of the infant head to guide reconstruction. Markov-chain Monte Carlo and anatomical prior information were used to reconstruct optical parameters of the human head from time-domain optical measurements. Direct reconstruction of chromophore concentrations and scattering parameters from multispectral measurements were also implemented.
+
+Deliverables:
+- Binary release of software for refined and validated forward models
+- Binary release of software for refined and validated inverse models
+- Report on optimisation of forward and inverse models for use in clinics
+
+WP 4 Development of instrumentation for clinical applications
+
+Task 4.1: Adapting prototype time-domain instruments for specific clinical applications
+
+The aim of this task was to ensure that four imaging systems were available for clinical evaluation by the end of month 12 of the project.
+
+Two new picosecond laser diodes (both at 780 nm) and a fast motorised filter holder were incorporated into the system to facilitate the ICG measurements for a successful programme of studies on stroke patients in collaboration with partners P6 Charité and P4 IBIB_PAN. Three different diode laser sources (690 nm, 800 nm, and 830 nm) were incorporated into the system for the function activation studies, in order to quantify changes in concentrations of oxy- and deoxy-haemoglobin. In collaboration with P6 Charité, the P2 PTB optical imager was combined with a clinical multi-channel EEG system, and then evaluated on volunteers using motor and visual stimulation paradigms. Modifications to the P2 PTB system were carefully designed to facilitate a switch between the two configurations within two hours.
+
+The P4 IBIB_PAN system, constructed before the project began, was modified to improve light detection efficiency and reduce complexity by reducing the number of active sources and detectors. The prototype system was also adapted to enable very rapid switching between a (ICG) fluorescence detection mode and a diffuse reflection detection mode. This involved incorporating rotating filters into the system optics. Measuring fluorescence involves using a longpass filter which blocks the 760 nm excitation light, while measuring reflectance uses a shortpass filter to block the fluorescent light.
+
+Task 4.2: Development of fibre-holding probes/helmets for clinical applications
+
+A broad variety of fibre-holding probes were developed by project partners for a range of different brain-imaging applications, with particular emphasis on probes suitable for simultaneous optical and electroencephalography (EEG) measurements. P2 PTB combined a commercial EEG 'Easy Cap' (containing ring electrodes) with optical fibre bundles to facilitate functional stimulation and long-term sleep studies. To maintain a constant 3 cm separation between optodes, flexible plastic strips were added to the underside of the elastic cap. Meanwhile P4 IBIB_PAN modified a conventional EEG cap, with optical sources placed at the C3 and C4 positions (according to the 10:20 system), and four detectors located at a fixed distance of 3 cm from each source. Holes in the ring electrodes were enlarged to enable collocation of the electrodes and optical fibres. Likewise P1A PoliMi_FIS based their probe on an EEG cap, modified to support multiple source and detector fibres. Their design enabled underlying hair to be moved away from the fibres mechanically or using gentle air pressure. The final version incorporated spring-loaded fibre holders, which ensure good contact is maintained between the fibres and the scalp throughout head movement, and a fibre mounting system which ensures the fibres connect at right-angles to the surface and supports the weight of the fibres. P3A UCL_MPB constructed optical/EEG probes for studies of infant seizures.
+
+P2 PTB developed another head probe for measurements of activity during cognitive tasks. This coupled one optical source and two detectors to each hemisphere using a neoprene fibre holder secured using Velcro straps.
+
+P3A UCL_MPB made major modifications to an adjustable helmet to be used for 3D optical imaging of the entire infant brain, to accommodate a greater range of head shapes and sizes. The helmet can support up to 32 optodes (combined sources and detectors) and consists of three distinct sections: a flexible base pad, which supports the weight of the head; a flexible top pad, which covers the frontal region of the head; and a fixed coronal section which contains radially-translatable optodes which cover the top and sides of the head. Soft black foam rings surround the end of each optode on the inner surface of the helmet. These are replaced after each infant scan to prevent cross-infection between infants.
+
+Task 4.3: Development of new instrumentation
+
+P15 MPD designed and built two new compact modules based on fast-gated SPADs. The two modules fit within a 19-inch rack with all the optical and electronic components needed to operate a SPAD in fast time-gated mode. The 100 nm active-area silicon SPAD exhibited a remarkable timing resolution of about 50 ps, and the durations of the rising/falling edges are about 200 ps. Illumination with continuous uncorrelated light exhibited a very uniform flat response, thus establishing the linearity of the response of the system. The P15 MPD time-gated modules were incorporated into a second-generation time-resolved functional system developed by P1A PoliMi_FIS, which also employs a four-wave mixing (4WM) laser provided by P14 Fianium. The 4WM laser delivers two trains of short (50 ps) pulses at a repetition rate of 40 MHz at two wavelengths (710 nm and 820 nm), with an average power of up to 95 mW at each wavelength. Power is equalised at the two wavelengths using two stacks of variable attenuators, providing an attenuation of up to 160 dB. A 2x2 optical switch enables each detection channel to acquire a measurement from two source channels, one wavelength at a time.
+
+A second-generation system developed by P2 PTB employs new cooled PMT modules with greater quantum yield and red sensitivity than PMTs used previously. Each of four PMTs were incorporated into a separate custom-made detector module which feature new relay optics, a motor-controlled variable optical attenuator, and a filter wheel accommodating up to 5 filters. To accommodate an increased number of measurement positions, a new optical setup using diode laser modules (at 705 nm and 830 nm) was implemented. To increase the number of effective sources, the laser output is multiplexed to five source positions per hemisphere. The pulse trains are interlaced using source fibres of different lengths. The system switches rapidly between the two source wavelengths. Partner P16 bh provided P2 PTB with a SPC-160 prototype TCSPC unit which performs calculations of the moments of time-of-flight histograms, thus significantly reducing the amount of data needed to be transferred to, and stored by, the PC.
+
+P3A UCL_MPB developed a second-generation time-domain imaging instrument for performing optical tomography studies on newborn infants in the clinic. The system employs 32 thermoelectrically cooled PMTs, each coupled to a detector fibre bundle via a computer-controlled custom-built variable optical attenuator (providing attenuation of up to 37 dB). The PMTs are coupled to the four independent timing engines on a P16 bh TCSPC unit via four 1x8 routers. A pulsed supercontinuum laser and customized dual-AOTF unit provided by P14 Fianium have been fully integrated into the system, enabling data to be collected at any four wavelengths (over the range 600 nm  1100 nm) simultaneously. The laser output is coupled to one of 32 source fibers (each integrated along the central axis of one of 32 detector fibre bundles) via a computer-controlled 32-way switch. Thus the device can collect up to 32 x 32 histograms of photon flight times at four different wavelengths. The temporal resolution of the system (the FWHM of the impulse response) is around 220 ps.
+
+Deliverables:
+- First generation laboratory prototypes ready for use in a clinical environment
+- Specific probe/helmet designed and optimised for clinical tests
+- Second generation laboratory prototypes ready for use in a clinical environment
+
+WP5 Standardisation and quality assurance
+
+Task 5.1: Definition of standardized protocols for characterization of instrumental parameters, assessment of uncertainty of relevant measurands, and routine tests for quality assurance during clinical applications
+
+Definition of standardized protocols: As a result of collaborative work of all partners involved, common procedures were defined to assess and compare the performance of research instruments for time-domain optical imaging of the brain, i.e. their capability to measure optical parameters of the human brain that are relevant for clinical applications.
+
+Task 5.2: Provision of suitable phantoms with known optical properties to perform the protocols defined in task 5.1
+
+Liquid phantoms: The implementation of all tests of the 'Standardized protocols' relies on liquid (homogeneous and inhomogeneous) phantoms based on Intralipid as scattering medium and Indian ink as absorber. Both components were thoroughly characterized, i.e. scattering and absorption properties were determined with high accuracy (UniFi, PoliMi, ILM), the linearity of Intralipid dilutions was studied (ILM, UniFi) as well as the stability of optical properties and the reproducibility for different batches of Intralipid and brands of ink (UniFi). Carbon nanohorns were investigated as alternative absorber for tissue phantoms (UniFi).
+
+To implement the NEUROPT protocol, small black PVC cylinders were used to mimic the perturbation due to small localized variations of the absorption coefficient. This was underpinned by theoretical studies (UniFi, PoliMi_FIS) on the equivalence between a perturbation by a small black inclusion and a finite absorption change in a larger volume.
+
+A multilaboratory study (9 laboratories) on accurate characterization of Intralipid and ink (5 NEUROPT partners and 4 laboratories from Canada (2), Spain and Sweden) for liquid phantoms has been led by PoliMi_FIS. A statistical analysis of the results has been performed by PTB. Wide consistency was found among results of different laboratories in spite of different techniques, instrumental set-ups and data analysis methods. Reference values were determined with a relative uncertainty of about 2% for Intralipid and 3% for ink.
+
+Solid homogeneous phantoms for assessment of responsivity: Dedicated thick slab phantoms were developed, manufactured and accurately characterized (PTB), as working standards to provide nearly uniform scattering light sources with known radiance. These phantoms were distributed to the partners to perform the responsivity tests of the detection system of instruments.
+
+Task 5.3: Characterization and performance assessment of various upgraded and novel instruments and their specific operating modes according to the protocol defined in task 5.1
+
+Characterization and performance assessment was carried out for 8 instruments or instrumental configurations of 4 NEUROPT partners according to the Standardized Protocols and based on the phantoms developed in task 5.2. Apart from the clinical instruments, several laboratory instruments were included that were optimized for high time resolution or high detection efficiency.
+
+Task 5.4: Characterization and performance assessment of various algorithms to reconstruct tissue parameters based on homogeneous and various inhomogeneous forward models
+- Provision of simulated data
+- Semi-empirical algorithms to detect absorption changes in the brain on simulated and in-vivo data
+-Advanced methods of retrieval of optical properties
+- Algorithms to determine absorption spectra in homogeneous turbid media
+- Image reconstruction algorithms
+
+Deliverables:
+- Standardized protocols
+- Calibrated tissue phantoms
+- Report on characterization of instruments and algorithms for data analysis
+- Definition of pre-norms for standardisation and quality assurance
+
+WP 6 Processing and analysis of clinical data
+
+Task 6.1: Analysis of in vivo measurements
+
+A software package for analysis of the time-resolved measurements on the head was developed. The toolbox was developed in the Matlab environment and consists of procedures for preprocessing of measured data, analysis of optical properties of the medium and calculation of oxy- and deoxyhemoglobin concentrations.
+
+An analysis of time-resolved signals acquired during the motor stimulation experimental campaign was carried out by all groups involved in these experimental studies. These analyses enabled the software to be optimized and its usefulness validated for planned clinical studies. P1A PoliMi_FIS, P4 IBIB and P2 PTB performed an analysis of motor stimulation in-vivo experiments carried out according to the common protocol. Partners implemented general principles of signal processing defined within the NEUROPT consortium. However, different algorithms for data processing were used by the partners to estimate changes in absorption coefficient as a function of depth in the tissue. Algorithms based on moments of the measured distributions of times of flight of photons and on the fitting of the diffusion equation solution were applied.
+
+Data analysis was carried out for the signals acquired from patients suffering from acute stroke, epilepsy, and traumatic brain injury. These analyses were accomplished in cooperation between technical groups and their clinical partners (e.g. P1A PoliMi_FIS, P1B Polimi_BIO, P5 INNCB, P2 PTB, P6 Charité, P4 IBIB, P8 MUW, P3C UCL_CS). Results of these analyses enabled interpretation of the acquired data to be improved, and conclusions to be drawn about the feasibility of the trNIRS technique in clinical applications.
+
+The second-generation optical tomography system developed by UCL_MPB has been evaluated on newborn infants in the neonatal intensive care unit (UCL_IWH). Data is processed to extract temporal moments at four wavelengths simultaneously. The response of the normal and pathological newborn brain to a passive motor stimulus was studied, and three-dimensional images were generated, representing the regional changes in blood volume. Full-brain images of premature infants with a variety of pathological conditions have also been acquired.
+
+Task 6.2: Correlation with physiological data and other modalities
+
+P1B PoliMi_BIO, P1A PoliMi_FIS, and P5 INNCB showed that an 'EEG informed' Generalized Linear Model (GLM) provides a novel tool for integrating EEG and NIRS data acquired from patients. This method had never been attempted before in the NIRS imaging field. P1A PoliMi_FIS in collaboration with P5 INNCB acquired a variety of physiological data (EEG, ECG, EMG, breathing, eye movement) during time domain fNIRS measurements on volunteers and patients using visual and motor stimuli. P1B Polimi-BIO analyzed data from healthy subjects and patients with neurological disorders by means of the GLM technique. After applying standard GLM analysis, in which the regressors are obtained from the time course of the task and from a priori assumptions on the noise characteristics, the GLM was modified in order to include information related to EEG and EMG.
+
+P6 Charité and P2 PTB carried an analysis of long-term measurements which provide a unique view into the coupling behaviour of electrophysiological band activity (slow wave activity, delta and alpha activity) and the hemodynamic signal in relation to the sleep states. EEG/NIRS signatures were separately analysed for the different sleep states. Based on the sleep scoring of each subject, NIRS data were analyzed by means of a windowing procedure. Additionally, single trial analysis with subsequent correlation of EEG and NIRS signatures were performed for the non-REM sleep stage S3.
+
+P3C UCL-CS has worked together with P2 PTB on combined MRI and optical measurements to reconstruct optical parameters of the scalp, skull, and brain from in-vivo measurements. The Markov-chain Monte Carlo was applied to provide an estimate of the shape of the minimum of the objective function used in the reconstruction. An approximation error method was applied to correct for the fact that the diffusion-based forward model used in the simulation does not take into account the low-scattering cerebrospinal fluid, and to compensate for inaccuracies of a 3-layer anatomical model.
+
+UCL_MPB have correlated optical data with EEG measurements on infants diagnosed with seizures. Since all infants were treated with anticonvulsants, the EEG data were normal except for a slight depression in some cases. When available, UCL_MPB and UCL_IWH have employed MRI and cranial ultrasound data to assess correspondence between observed optical features and known lesions, such as haemorrhage.
+
+Task 6.3: Statistical methods
+
+Time courses of oxy- and deoxy-genated haemoglobin changes were extracted by P1A PoliMi_FIS from time-domain fNIRS data acquired during measurements on volunteers and patients. P1B Polimi_BIO applied a GLM approach for data analysis. Specific design matrices were created, containing regressors modelling.
+
+P4 IBIB and P8 MUW carried out a statistical analysis of the time shifts of bolus arrival to tissues in healthy volunteers and groups of patients. The statistical significance of differences between amplitudes of signals of moments was also analysed during inflow of the dye obtained in groups of subjects. The results of the statistical analysis showed that the most useful parameter for differentiation of the groups of patients studied is the delay between the bolus appearance obtained from the variance signal and the number of diffusely reflected photons.
+
+Deliverables:
+- Software for clinical data analysis available for all partners
+- Complete analysis of the data acquired during the first measurement campaign
+- Complete analysis of the data acquired during the second measurement campaign
+
+WP7 Clinical Tests
+
+Task 7.1: Definition of protocols & ethical
+
+IBIB_PAN received the ethical approval to study oxygenation and perfusion in patients with brain haemorrhage. Charité has obtained an ethical vote for the study of acute stroke patients using ICG-dye bolus technique. UCL received the ethical approval to study hypoxic-ischaemic brain injury in newborn infants. INNCB/PoliMi obtained an ethical approval to investigate patients with photosensitivity and movement disorders.
+
+A common experimental protocol for the investigation of tdNIRS in healthy subjects was introduced and standardized between institutions. The aim of this experimental design is to provide data, based on identical study-like protocol, from the different institutions with different tdNIRS-systems and to mutually exchange the data between institutions for data analysis and comparison. The harmonized protocol represents simple finger tapping paradigm (motor task) to examine the task-related hemodynamic response over the contralateral motor area using tdNIRS.
+
+Task 7.2: Measurements on healthy adult volunteers
+
+The feasibility to simultaneous co-register tdNIRS together with EEG was successfully tested in separate visual and motor study paradigms from the centres of Milan (INNCB/PoliMi) and Berlin (PTB/Charité). Both tasks elicited a stimulus-related increase in HbO and decrease in HbR over the measured sensorimotor region and resulted in known electrophysiological signatures without any instrumental interference between EEG and tdNIRS instruments. Aside this, a trial-by-trial coupling of EEG (electrophysiological) and NIRS (hemodynamic) patterns has been demonstrated for the visual and motor paradigms. In another multi-modal study PTB/Charité successfully tested the long-term capabilities of tdNIRS instruments by investigating the influence of visual stimulation on sleep stages during a complete sleep period/night in healthy subjects. The results show robust hemodynamic signal changes even after hours of continuous recordings and demonstrate the bedside and monitoring feasibility of tdNIRS technique.
+
+IBIB PAN/MUW successfully demonstrated the bolus perfusion measurements in healthy subjects using various experimental protocols. IBIB PAN/MUW observed that a low ICG dose is sufficient to observe a clear signal of inflow and washout of the dye.
+
+Task 7.3: Measurements on patients
+
+MUW/IBIB PAN measured brain hemodynamics in patients with acute neurological disorders with tdNIRS in combination with injection of ICG and analysis of diffuse reflectance and fluorescence. MUW/IBIB PAN confirmed that the bolus-tracking method based on ICG injection provides information on blood perfusion of the brain. Signals obtained in patients with reduced blood perfusion (brain oedema) and in patients with cessation of cerebral blood flow (brain-dead patients) showed statistically significant difference in comparison to signals obtained from healthy volunteers. It was shown that the signals obtained in posttraumatic intracerebral hematoma patients are highly dispersed which is related to the heterogeneity of the composition of tissues under investigation. MUW/IBIB PAN demonstrated that the signals obtained in patient with blood brain barrier disruption have a highly reduced washout of the dye, suggesting that the technique based on ICG can be applied in clinical assessment of blood brain barrier.
+
+PTB/Charité investigated the bolus perfusion in acute stroke patients using bedside tdNIRS. tdNIRS revealed a lagged bolus response in the stroke-affected hemisphere compared to the contralateral (unaffected) side. Charité/PTB showed that that the malfunctioned perfusion in acute stroke patient using ICG bolus technique can be successfully monitored by means of tdNIRS technique. Moreover, the relative normalization of perfusion after stroke-oriented therapy can be successfully monitored using tdNIRS technique. For both oxygenation changes in healthy subjects and bolus perfusion measurements in acute stroke patients, it was shown, that the variance parameter of DTOF provides the most robust, cortex-related signal compared to other analytical moments.
+
+UCL successfully evaluated their time-resolved optical tomography system in the neonatal intensive care unit. The response of the normal and pathological brain to sensory stimuli was tested in newborns. In newborn infants UCL revealed evidence of a steal effect, when blood from surrounding vessels is recruited to supply the activated region. This may be more apparent in infants than in adults due to the immaturity of the vascular system.
+
+INNCB/PoliMi investigated patients with photosensitive epilepsy using tdNIRS and observed a hemodynamic response in the occipital region to visual stimulation. INNCB/PoliMi assessed the oxygenation response in patients with movement disorders using tdNIRS in combination with EEG and peripheral signals. Within subjects/patients, consistent NIRS, fMRI, TMS-brain mapping and EEG signatures have been reported. Comparable hemodynamic responses in motor areas were obtained for patients with movement disorders and healthy controls. The hemodynamic activations obtained by fMRI and NIRS revealed comparable activations and localizations, demonstrating the reliability of NIRS technique. In an alternating handgrip task it was shown that patients with Unverricht-Lundborg disorder reveal a rather bilateral and broader activation pattern compared to healthy controls, suggesting the harder effort made by the patients to perform this task. Based on the generated data of these patients, INNCB/PoliMi successfully used EEG/EMG signatures as predictors for the NIRS-GLM analysis.
+
+Deliverables:
+- Clinical protocols
+- Database of Part I clinical studies
+- Database of Part II clinical studies
+
+WP 8 Evaluation of novel methodologies
+
+task 8.1: Field survey on clinical use of diffuse optical imaging of brain
+
+A systematic review of papers regarding the use of NIRS in selected clinical fields (stroke, hypoxic-ischemic brain injury and haemorrhage in newborns, epilepsy and movement disorders, traumatic brain injury) was performed. The results of the review included a detailed table with the technical and clinical features specific for the different pathologies and used to define the clinical protocols.
+
+Results of literature review suggested that NIRS actually can be a suitable diagnostic tool in alternative to other imaging techniques, namely for studies in impaired and paediatric patients. The major disadvantages were the limited penetration of the light, making difficult to collect data from subcortical structures, the low spatial resolution with respect to fMRI and possible influences of extra cerebral tissue.
+
+Task 8.2: Indications for clinical use of time-domain diffuse optical imaging of brain
+
+UCL_CS has developed and evaluated some methods to improve the reliability of imaging activations in the neonatal brain using anatomical information and applying the layered model and boundary element method to reconstruct activations directly onto the cortex. In collaboration with PTB, UCL_CS developed methods to estimate optical parameters for different tissue classes of adult head using combined time-domain optical data and anatomical information from MRI, and the approximation error theory. This allowed expanding the methodology to infant subjects and to improve optical measurements.
+
+INNCB, PoliMi_FIS and PoliMi_BIO performed studies aimed at evaluating simultaneous EEG-fMRI and EEG-fNIRS recordings in voluntaries and patients with cortical myoclonus due to Unverricht-Lundborg disease (ULD) obtaining the evidence of a good comparability of the topographical location between electrophysiological and hemodynamic measures (Center of gravity evaluated with TMS, maximum of both trNIRS and EEG motor related changes). Moreover, they evaluated the simultaneous EEG and NIRS changes occurring during intermittent visual stimulation in healthy subjects and in patients with photosensitive epilepsy. These studies demonstrated the usefulness of (EEG/EMG informed) GLM analysis for NIRS data in healthy subjects and patients with photosensitive epilepsy and movement disorders. Critical points to be solved concern the comfort of subjects during long lasting stimulus protocols, and the optimisation of signal-to-noise ratio.
+
+Charité and PTB used the fNIRS system developed by PTB to evaluate simultaneous EEG-NIRS acquisition during motor task (finger tapping, hand clenching) and during 8 Hz flicker light (including short and long-term measurement). They successfully demonstrated the feasibility of perfusion measurements with the prototype of a trNIRS system and measurements using time-domain diffuse optical imaging revealed robust cerebral activations for motor and visual areas. This method, increasing the capability of better separating extra cerebral and cerebral signals allowed to overwhelm a critical point for clinical applications and favours trNIRS as a potential monitoring tool for clinical use.
+
+In addition, PTB performed a study in collaboration with UCL and the Free University Berlin on prefrontal activation during continuous performance task on healthy subjects, demonstrating that functional activation induced by cognitive tasks can be assessed by trNIRS. However, while they obtained consistent results with NIRS signals using motor and visual stimuli, they found residual problems during continuous performance task.
+
+IBIB PAN and MUW performed a study in health and post-traumatic brain injury subjects; moreover, they included patients with defined brain death. They set-up the instrument and the optode array in a suitable way for applications in a critical clinical environment. Their system significantly improved the recordings but critical points remain concerning the quality of the data and the possibility to obtain online information.
+
+Task 8.3: Perspectives for clinical use of time-domain diffuse optical imaging of brain
+
+In order to provide perspectives for the future development in specific clinical fields of trNIRS methodologies based on time-domain diffuse imaging, each group evaluated critically the results obtained in patients with different neurological disorders (epilepsy, stroke, brain injury) and in infants.
+
+Generally, trNIRS was well applicable in all subjects (healthy or affected by the selected pathologies) with restrictions resulting from the rather long preparation. With respect to the concurrently recorded techniques, data revealed significant convergence in the temporal and topography patterns. Comparison of multimodal procedures performed in subjects during motor tasks, including EEG, NIRS, fMRI and transcranial magnetic stimulation assisted by neuronavigation, gave rise to coherent results. The location of hemodynamic changes, revealed by trNIRS and fMRI, largely overlapped.
+
+The main diagnostic benefits obtained by the novel optical methodologies based on time domain diffuse imaging developed within the project related to patients with acute vascular accident and neonatal brain insults because in this pathological field trNIRS was especially suitable to detect fast hemodynamic changes endowed by clinical and diagnostic significance and allowed repeated evaluation at the bed-site. Therefore, trNIRS revealed real-time transient hemodynamic changes actually undetectable by other diagnostic methods.
+
+The application of advanced methods of data processing algorithms and signal analysis techniques significantly improved the results in some cases, but was rather time-consuming and difficult to apply in a diagnostic clinical setting. It is expected that the optimization of measurement methods, analytical algorithms to process the signals will allow obtaining further improvement in data quality and interpretation.
+
+Deliverables:
+- Field survey on clinical use of diffuse brain optical imaging
+- Indications for clinical studies or technical development of Part II
+- Perspectives for clinical use of time-domain diffuse optical imaging of the brain
+
+Potential Impact:
+
+Impact on Non-invasive Prediction, Diagnosis, Monitoring, and Prognosis
+
+The brain is by far the most complex organ in the human body and the least well understood. Until relatively recently, it was only possible to identify the function of specific regions of the brain via observation of the effects of disease or trauma or direct intervention within distinct anatomical sites. Although monitoring of electrical activity in the human brain has been performed clinically for several decades, the advent of functional imaging techniques during the past twenty years is providing new knowledge about brain function and its development, and enabling new approaches to be developed in the diagnosis and treatment of brain pathology. Optical imaging provides many important advantages over other non-invasive functional techniques, such as functional magnetic resonance imaging (fMRI), nuclear medicine, and magneto-encephalography (MEG): it is non-ionising, so can be used repeatedly or continuously without risk to the subject; it is portable, so can employed at the bedside; it exhibits direct sensitivity to blood flow and oxygenation; and it is relatively inexpensive.
+
+Moreover since it does not interfere with other diagnostic measurements, it can be used in a multimodality approach. NEUROPT has the potential for a major impact on several different patient groups.
+
+For patients with serious neurological conditions such as stroke or brain injury resulting from severe trauma, optical techniques offer a means to diagnose extent of functional impairment, monitor progress of the condition, and improve prognosis for recovery. Monitoring can be performed continuously and at the bedside, and without interfering with routine critical care. The ability to assess brain function non-invasively will also aid the development of therapeutic procedures (such as new drugs or new forms of surgical intervention) by enabling changes over a long period of time to be recorded.
+
+Sufferers of epileptic seizure and dystonia are other groups of patients on whom this project can have a substantial benefit. Optical methods have the unique potential to detect transient changes in brain blood volume and oxygenation associated with paroxysmal electrical activity, including within deep brain regions that could be missed by electroencephalography (EEG). Monitoring with optical-based techniques thereby has the potential to provide a powerful means of evaluating new drug treatments for these conditions. It has also been reported that blood flow changes might occur before an epileptic seizure. In future prospective, on the basis of the outcomes of the project, a small portable optical dedicated device could alert the patient of the incoming seizure with great benefit for his/her life quality.
+
+Optical imaging is also being developed as a means of imaging the brain of newborn infants, particularly those at risk of hypoxic-ischaemic encephalopathy, which is a major cause of permanent disability in very preterm infants. Visualisation of blood volume and oxygenation within the brain could make a major impact on the management of critically ill infants in intensive care, and on the development of therapeutic methods for preventing permanent brain damage (such as brain or body cooling). Optical techniques can also provide an insight into neurodevelopment during the first few weeks or months of life, and improve our understanding of the pathophysiology of brain injury.
+
+Project website: http://www.neuropt.eu
+
+- Coordinator: Prof. Rinaldo Cubeddu; ph: +39-02-23996110; rinaldo.cubeddu@fisi.polimi.it
+- Associate Coordinator: Prof. Alessandro Torricelli; ph: +39-02-23996087; alessandro.torricelli@polimi.it
+Politecnico di Milano - Dipartimento di Fisica, Piazza Leonardo da Vinci 32, 20133 Milano (Italy)

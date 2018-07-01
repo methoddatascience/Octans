@@ -1,0 +1,270 @@
+Executive Summary:
+Mental disorders place immense burdens on individuals, their families and society. This burden is increasing in Europe, especially when compared to the relative burden of physical health problems. The cost of mental disorders in Europe is estimated as €461 billion per year. Mental health research can help to resolve these burdens.
+
+Europe is home to some of the world’s best mental healthcare and research centres. Europe’s diverse and comprehensive health systems allow for rich and representative datasets not available elsewhere in the world. European research networks are gaining momentum, and a coordinated strategy for mental health research will help to realise the EU’s full potential.
+
+Funding for mental health research in Europe is much lower than the population impact of these disorders, with spending being less than half the disability burden. Mental disorders represent between 11% and 27% of total disease burden, while investment across countries and FP7 is about 6%. For every one euro spent on mental health research there is a 0.37 euro return per year which is similar to the return for cardiovascular disorder research and other areas of health.
+
+ROAMER (ROAdmap for MEntal health and Well-being Research in Europe) has developed a comprehensive and integrated mental health research roadmap, focused on improving the mental health of the population and increasing European competitiveness. ROAMER analysed existing resources in European regions, and involved input from over 1000 individuals and stakeholder organisations. Evidence-based recommendations were prioritised through iterative feedback, consensus meetings, international advisory boards and surveys of researchers, experts and wider stakeholders in Europe.
+
+Analyses of contemporary European research produced 6 high level priorities: these are targeted, actionable, built on excellent European science and resolvable in the next 5 to 10 years. The answers to these proposed research questions will markedly improve the mental health of European citizens and tackle societal challenges:
+
+1. Research into mental disorder prevention, mental health promotion and interventions in children, adolescents and young adults
+2. Focus on the development and causal mechanisms of mental health symptoms, syndromes and well-being across the lifespan (including older populations)
+3. Developing and maintaining international and interdisciplinary research networks and shared databases
+4. Developing and implementing better interventions using new scientific and technological advances
+5. Reducing stigma, empowering service users and carers in decisions about mental health research
+6. Health and social systems research that addresses quality of care and takes account of socio-cultural and socio-economic contexts and approaches
+
+Project Context and Objectives:
+Why does mental health need research evidence?
+More than 1 in 3 Europeans experience mental health problems in any given year [1], and even more will be affected indirectly (e.g. carers, family members, healthcare, education and social workers, employers, etc.). While mental disorders are not necessarily more prevalent in Europe than in the rest of the world, their associated contribution to all European disease burden (as measured by Disability Adjusted Life Years – DALYs) is between 11 and 27% - the largest single contributor to European disease burden [1]. This is considerably higher than in any other region in the world, and over double the worldwide average [2].
+The most recent estimate of cost of mental disorders in Europe is €461 billion per year (as of 2010) [3] – excluding any costs of dementia and other organic brain disorders. This dwarfs even the total costs of the Fukushima disaster (€86.4 billion) [4] and GDP of Denmark (€206.7 billion in 2010), and is greater than the GDP of Sweden (€358.2 billion in 2010) [5]. These comparisons are illustrated in Figure 1.
+
+Avoidable Costs of Mental Disorders
+Mental health problems are associated with substantial indirect costs, including workplace absence, barriers to employment [6,7], loss of work productivity [8], poverty and economic deprivation, costs to family and friends, and social exclusion [9]. Since indirect costs are difficult to estimate, figures for the costs of mental disorders to the European Union may be severely underestimated [1,10]. Focusing on the costs of mental disorder that have already occurred (or are currently occurring) also overlooks the costs that can be avoided in future and the gains that can be achieved by preventing mental health problems and increasing well-being.
+An obvious example of avoidable costs is the external healthcare cost produced by comorbidities with mental disorders. Mental disorders represent risk factors for a wide range of physical health problems [11,12] and substance abuse [13,14]. Comorbid physical health problems become more severe (and therefore, costly) with age [12]. The increased rates of physical ill health associated with comorbid mental disorders are comparable to dementia in terms of their costs and severity (estimated at €10-16.5 billion per year in the UK alone) [3], but are not commensurably represented in existing research and policy.
+In the UK, mental disorders are the primary cause of disability and unemployment benefits not just overall but at every stage - from short term (3 months) through to 5 years [15]. In Germany they are the single greatest cause of loss of work productivity via absenteeism [16]. This can be seen in Figure 2, where the overall level of missed work days in Germany remains constant, but the number of days missed due to mental health problems increases between 1997 and 2012. If robust preventative and health promotion programmes for mental disorders are put in place, then these secondary costs (generally invisible to measures of disease burden) will decrease.
+
+Burdens on Society
+Well-being and good mental health are linked to greater social and cultural capital and citizen engagement, and are key components of future models of sustainable growth [17,18]. Furthermore, the burdens associated with mental health problems in Europe exacerbate other socio-political issues and inequalities. Perhaps the most pronounced example is in terms of gender. The incidences of many mental disorders are substantially higher among women than men [19]. In particular, Wittchen and colleagues highlight that unipolar depression is the single most debilitating health problem in Europe (in terms of impact on work, life and health), and that it is 30% more prevalent in women than in men. Trans* individuals are also at greater risk than the general population for debilitating mental disorders and socio-economic deprivation of all varieties [20,21].
+Mental health problems also represent burdens to families and caregivers, for example via constraints on time, employability, and economic productivity [22]. Of note, no financial support for carers that available in Europe matches the value of the equivalent number of hours of formal employment taken up by caregiving [23]. Informal carers – usually family members and disproportionately female [24] – additionally have higher rates of stress and anxiety than the general population [25]. As well as having to provide care, families (and other informal caregivers) may experience stigma themselves, which serves to accentuate the stressors they face [26]. Once more, these issues exacerbate existing inequalities, placing a disproportionate burden upon women and individuals with lower socio-economic status or from minority ethnic backgrounds. A systematic consideration of mental health research and risk factors for mental disorders is vital for addressing gender inequalities in Europe.
+Demographic change, in particular an ageing population, is another key socio-political concern [27,28]. Mental health problems start early and commonly persist over the lifespan [29–31]. This is of great direct concern to Europe given its ageing population [32] and effects on the burden of mental health are therefore likely to grow, so mental health research needs to be a key component of timely discussions on this subject.
+
+Funding for mental health research
+Mental health spending comprised about 6% of research funding in the European Commission’s FP7 funding programme, but mental disorders account for between 11 [33] and 27% [1] of total disability. This is mirrored in most nations e.g. the UK [34]. This mismatch between disability caused and funding exists despite mental health research providing similar returns on investment to research in other areas of health. For every euro spent on mental health research it is estimated that there is a 0.37 euro return [35] per year, which is similar to the return for cardiovascular disorder research [36].
+Given sufficient investment, research could address the European mental health burden, especially through research on preventing disorders in young or at-risk populations, and on promoting positive mental health in the general population. These approaches have been advocated by the European Parliament [37] and the European Commission [27].
+
+European Research Advantage
+Europe has some of the best mental health centres in the world, staffed with highly trained professionals and producing the highest quality research. In addition, Europe’s diverse health systems with their almost universal health coverage provide a test bed for mental health research which is unique in the world. Taking advantage of the full potential for mental health and well-being research requires coordination and integration across Europe, capitalising on relationships across disciplines, professions, and public and private sectors. Europe’s comprehensive and intelligible health systems offer the ability to collect ‘big data’, with access to health registers and oversight of paths to care. This allows for rich and representative datasets not available elsewhere in the world.
+Europe is also home to numerous initiatives for including individuals with mental health problems in the design and management of research (e.g. SURE in the UK) [38]. This is a welcome feature of research that will only become more important over time. With appropriate capacity building, the full potential of these existing resources for improving the well-being and prosperity of European societies can be realised.
+
+Poised for action
+There have been recent ground-breaking advances in many areas of mental health, including biological and brain sciences (developments in brain mapping, fast genome-wide association studies), eHealth and technology (web-based treatments, apps for monitoring symptoms), psychological therapies (use and implementation of CBT) and research infrastructure (open access publication, European Research Networks). As a result, European research is especially well-placed to address many challenges in mental health over the next 5 to 10 years.
+
+Developing Research Priorities for the EU
+ROAMER has developed a comprehensive and integrated mental health research roadmap. It focuses on research that bridges the gap between theory and practice, is sensitive to demographic changes, and is consistent with the policies of the Horizon 2020 programme. In particular, ROAMER’s priorities are closely aligned with Horizon 2020’s focus on ‘personalised care’ – mental health care that takes account of individual variation between service users in terms of diagnosis and service provision.
+ROAMER’s recommendations are also relevant to a number of other European policy initiatives including:
+• Europe 2020 growth strategy objectives 4 and 5 (“reducing school dropout rates to below 10%, with at least 40% of 30–34-year-olds completing tertiary education” and “ensuring 20 million fewer people are at risk of poverty or social exclusion”, respectively.)
+• The Europe 2020 growth strategy’s flagship initiatives: ‘Youth on the Move’, ‘Innovation Union’, ‘European platform against poverty’ and ‘A digital agenda for Europe’
+• FUTURAGE and demographic change in Europe
+• The Horizon 2020 Open Data Research Pilot
+• ‘Investing in children’ European recommendation, 2013
+• Social Investment Package, 2013
+
+Summary
+• Mental health problems represent a huge burden to the EU, felt across all of society
+• The current response to these issues is disproportionately small – mental health problems account for 11-27% of Europe’s disability burden, but only receive 6% of funding of overall health research budget
+• Europe is home to world-leading expertise in many areas of mental health research
+• Healthcare systems are a benefit that would facilitate world-leading mental health research conducted in Europe
+In this context, ROAMER has developed a comprehensive mental health research roadmap, orientated to translational research, sensitive to social, economic and policy issues in Europe, and addressing a pragmatic approach to matching mental health research to needs.
+
+Project Results:
+Scope of the ROAMER Project
+ROAMER covers all mental and behavioural disorders included in the 2010 Global burden of disease study and excludes neurological (e.g. epilepsy, migraine, Parkinson's disease) and neurodegenerative disorders (Alzheimer's disease and other dementias) [39]. It encompasses population and public health, monitoring of health services and service implementation, social and cultural contexts, clinical trials, individual traits and risk factors, and research at cellular levels. Substance and alcohol use disorders were excluded from ROAMER, given that the contemporary ALICE RAP roadmap is exclusively dedicated to such issues [40].
+ROAMER was designed to span all EU-27 countries, with a focus on excellent science, stakeholder engagement and a consideration of the life-course aspects of mental health and well-being. It sought to be as inclusive and participatory as possible – incorporating not only the views of an array of research scientists from many disciplines, but also individuals with mental health problems, carers, education workers, social workers, family organisations, industry, policymakers, public health experts, funding institutions and others. The project started in October 2011 and has taken place over a 3.5 year period, with the final report being delivered in March 2015. An overview of the project is given in Figure 3.
+
+Work packages
+ROAMER established six domains of research: i) Infrastructures and capacity building, ii) Biomedicine, iii) Psychological research and treatments, iv) Social and economic issues, v) Public health, and vi) Well-being. These themes are embedded in the ROAMER scientific Work Packages 3-8. Each of these work packages comprised renowned scientists, and each was led by experts in their respective fields.
+There were also a number of other ROAMER work packages. Work Package 2 addressed cross-domain issues in terms of life-course issues in mental health and well-being, as well as geographical variation in research and practice spanning different disciplines. Work Package 9 coordinated the involvement of various stakeholder groups (service users, healthcare providers, industry, family organisations, charities, public health experts, and various others), in-keeping with the project’s strong emphasis on stakeholder involvement. Work Package 11 was responsible for drawing together the output of other work packages into the final roadmap. Work Package 10 was responsible for the dissemination of the final roadmap (as well as interim reports over the course of the project) to academic and stakeholder audiences. Finally, Work Package 1 was responsible for managing the project as a whole, coordinating the actions of individual work packages, organising meetings and conferences, and overseeing the final ROAMER survey. This therefore gave rise to 11 work packages, which are listed below:
+
+Work Package 1 Coordination and project management
+Work Package 2 Geographical representation, clinical perspective, multidisciplinary and life-course integration
+Work Package 3 Research capacity, infrastructures, capacity building and funding strategies in mental health research
+Work Package 4 Biomedical: neurobiological, pharmacological and clinical research
+Work Package 5 Psychological research and treatments
+Work Package 6 Social and economic aspects
+Work Package 7 Public health research
+Work Package 8 Well-being
+Work Package 9 Coordination of stakeholders’ involvement
+Work Package 10 Dissemination of results
+Work Package 11 Translation of results into single reports to be submitted to the European Commission, and on into the final roadmap
+
+These work packages were reviewed and guided by two advisory boards: a Scientific Advisory Board comprised of expert researchers, and a Stakeholder Advisory Board comprised of associations representing individuals with mental health problems, families, healthcare workers, psychiatrists, policymakers, social workers and other groups (see: Figure 3 and the list of advisory board participants at the end of the document).
+In addition, a Clinical Research Task Force was set up following a review at the halfway stage of the project by ROAMER’s Scientific and Stakeholder Advisory Boards. This Task Force produced reports and research priorities with a particular focus on clinical research that spanned the remits of other work packages. For example, clinical research practices and findings are equally applicable to testing outcomes of new drugs (Work Package 4), new psychotherapies (Work Package 5), or changes in access to services (Work Packages 6/7). The Clinical Research Task Force therefore ensured that this breadth of relevance was captured. The process also reflects the centrality of clinical research to mental health and well-being research – especially as it relates to practice and policy.
+
+State of the Art Research
+Each ROAMER work package analysed the strengths and weaknesses in mental health research in Europe in their respective area via systematic literature mappings. Mappings were conducted using common criteria across all scientific work packages, together with lists of specific terms relevant to each work package. This review process retrieved 70,761 scientific articles, of which 28,188 were used in the final mapping of expertise in different countries in Europe.
+The mappings highlighted the variation across Europe in mental health research output. Some countries produce more research in all areas: namely, the UK, Sweden, Denmark, Finland and Norway. Some countries are also disproportionately strong in some research areas. For instance, while Iceland produced no output relating to mental health stigma from 2007-2012, it is the most prolific producer of biological and epidemiological research in Europe (after controlling for GDP). The Netherlands is disproportionately strong in research into psychotherapy. Serbia, which has low general output across the various forms of mental health research, is the near-leader in Europe for publications relating to stigma. These complementary strengths allow us to see the immense potential value to be added by collaboration across European member states.
+Output from the systematic mappings was used together with expert workshops, consensus meetings, modified Delphi methods, and surveys to determine for each work package what major research advances had been achieved by research across the globe in the last 10 years.
+
+Gaps and Advances Needed in Mental Health Research
+Discussions of the State of the Art advances over the last 10 years in mental health research allowed work packages to determine what gaps currently exist in global mental health research, and what advances are needed in European research to overcome these gaps in the next 10-15 years.
+Work packages identified critical research questions through iterative feedback – including consensus meetings, advisory boards, and surveys of researchers and wider stakeholders. Across these actions, work packages made sure to consider new methodological and technological advances as well as European infrastructure. The important message in this developmental process was the potential for research translation in the next decade to improve population mental health.
+
+Priorities for Future Research
+As a result of the above processes, each work package produced a set of 20 priorities future mental health and well-being research. These priorities were justified by each work package according to a set of four common criteria that reflect the goals of the ROAMER project and take account of the social, political and economic contexts in Europe:
+• Efficacy/effectiveness: Likelihood that the advance results in an effective intervention to diminish the appearance of a disorder or its consequences, or to solve a concrete problem.
+• Impact / deliverability / economic benefits in Europe: Likelihood that the advance could be provided to the Europeans and impact on the society (i.e. to decrease disease burden, to improve the well-being, or to produce economic benefits).
+• Answerability/feasibility in Europe: Likelihood that the advance can be achieved in Europe (lead to new knowledge, enabling development or planning of an intervention).
+• European research strength: Relative competitiveness of Europe to other regions to achieve and implement the advance.
+
+Priority integration and the ROAMER Survey
+Combining the 20 research priorities generated by each individual work package gave a list of upwards of 125 research priorities, with a considerable amount of overlap. Through a series of consensus meetings, open consultation with Scientific and Stakeholder Advisory Boards and policymakers, these research options were integrated into a shorter list of over-arching research priorities (see Figure 3). In addition to the research priorities generated by each of ROAMER’s scientific work packages, the stakeholder group (Work Package 9) also generated research priorities which were heavily weighted in the integration process. Rather than being specific to different sub-disciplines, the integrated priorities identified common themes across work packages, spanning the breadth of mental health research considered by the project.
+A final, comprehensive prioritisation survey refined this list of integrated priorities into the 6 high-level research priorities for policy action discussed in the following section. The survey sought to determine the relative perceived effectiveness and feasibility of the integrated research priorities generated by ROAMER across various groups (e.g. academics, service users, healthcare workers, industry, and other stakeholders described above).
+The survey was completed by 432 individual researchers spanning all EU countries. The number of researchers from each country who were sent the survey was weighted by the amount of mental health research produced by each country as a proportion of the EU total. The survey was also completed by representatives of 205 stakeholder associations. These associations spanned all relevant stakeholder groups including: individuals with mental health problems, their families and carers; mental health care professionals; academics; education workers; policymakers and research funders; public health experts, social workers and industry.
+Survey participants provided feedback (ratings on a 10-point scale) for the shortlist of ROAMER priorities as their 1) Relevance (i.e. likelihood that the advance results in an effective intervention to improve mental health); and 2) Feasibility in Europe (i.e. likelihood that the advance can be achieved in Europe). Survey participants were also able to give more extensive feedback if they wished. The agreement between the various stakeholder groups and researchers was high, and consensus on the rated importance of items was verified using quartile confidence intervals around the mean ratings for survey responses. The ratings and consensus scores were used to structure and rank the order of importance for the 6 High Level priorities for policy action.
+
+High Level Research Priorities
+ROAMER generated 6 final research priorities and determined the relevance for and the capacities of the EU (and its member states) for each of these. Each can be resolved in the next 10-15 years with a coordinated approach to capacity building in addition to funding opportunities at the European level. Each high-level priority is presented with accounts of their relevance and deliverability in Europe, as well as highlighting the specific implications for policy, social and economic objectives. For clarity, each priority below is presented with an example illustrative research question (or questions) generated by ROAMER work packages.
+All priorities contribute to objective 3, 4 and 5 of the Europe 2020 growth strategy [41]: “getting 3 % of the EU’s GDP invested into research and development”, “reducing school dropout rates to below 10%, with at least 40% of 30–34-year-olds completing tertiary education” and “ensuring 20 million fewer people are at risk of poverty or social exclusion”. Additionally, all priorities contribute to ‘The demographic future of Europe – from challenge to opportunity’ [32] objective 3 –“raising productivity and economic performance through investing in education and research”.
+
+1) Research into mental disorder prevention, mental health promotion and interventions for mental disorders in children, adolescents and young adults
+Overview: Research into the understanding of mental health needs to cover the whole lifespan. Childhood and adolescence deserve particular attention as this is when (neuro)developmental disorders become apparent, and is a high-risk period for other mental disorders. Research on interventions for children, adolescents and young adults (including family and education system interventions) is crucial for understanding how early experience and wider social influences affect health across life. This research will require age-appropriate measures. There should be more research into preventative measures, resilience factors, and buffer interventions for mental health both in early life and across the lifespan, as part of a wider focus on positive mental health and well-being.
+Impact, economic benefits and avoidable costs: Interventions targeting the early years and parenting have potential for long-term beneficial effects. Early interventions are cost-effective by preventing the economic and public health burdens associated with mental disorders. As well as improving treatment options for younger people, research focused on childhood and adolescence is necessary to address missed educational opportunities as a result of experiencing mental health problems early in life.
+The impact of disorder prevention and health promotion research would be considerable, both clinically and from a public health perspective. The estimated returns on a one euro investment could be as high as €10.27 for early screening, €17.97 for mental disorder prevention and €83.73 for mental health promotion [42]. Subjective well-being is an important European policy outcome because of its potential effects on economic productivity, especially among younger people [43,44].
+Illustrative Research Questions and Studies:
+- To perform and sustain long-term prospective cohort studies on the determinants of mental health and well-being to study risk and protective factors for mental disorders
+- Developing pharmacological and psychological treatments for children and adolescents
+- How can mental health promotion and social exclusion prevention in schools be improved?
+- Does prevention of depression among pregnant women protect against later mental disorder or dysfunction (e.g. depression) among children? What are the cost benefits?
+- Longitudinal observational studies to analyse the effects of intense use of new media in early age and adolescence on later emotional and cognitive competence
+
+
+2) Focus on the development and causal mechanisms of mental health symptoms, syndromes and well-being across the lifespan (including older populations)
+Overview: This advance requires research on the mechanisms by which known risk or resilience factors bring about mental disorder or mental health. Investigations of aetiology (causes, development and progress) of mental disorders should make use of basic (biological, psychological and social) science. Associations between mental health and cognition should be considered in terms of ageing, especially how this might inform interventions in older adults. This question encompasses research on comorbidity of mental disorders with one another and with physical health problems. In particular, clinical research is needed to determine the treatment implications of comorbidity.
+Analyses of existing longitudinal datasets and the development of new longitudinal and clinical cohort studies will provide valuable evidence about aetiology. In addition, a focus on significant or stressful events, transitions (e.g. return to work, adolescence, transition to older age) and chronic issues across the lifespan (e.g. absenteeism and presenteeism, employability of individuals with long-term illness or disability) in relation to mental health and subjective well-being would be very useful.
+Impact, economic benefits and avoidable costs: Understanding specific mechanisms underlying mental health problems will allow more effective targeting of treatments and interventions and more personalised care, thereby reducing disability and unemployment at the population level. Stratification of patients using markers from basic science will bring about more intelligently focused use of healthcare resources – including combinations of treatments or complex interventions. This is of particular relevance to comorbid disorders, which greatly increase disability as well as treatment and care costs. For depression, comorbidity (having 2 or more disorders at the same time) has been shown to result in health costs between 17% and 46% higher than in individuals without depression [45]. Experiencing depression while having asthma increases medical costs by 140% [12]. Understanding the interactions between mental disorders and physical health will have a positive impact on the leading causes of mortality in Europe (e.g. cardiovascular disease) as well as on chronic, disabling mental disorders.
+Basic science markers can also improve the cost-effectiveness of intervention studies. Markers are particularly useful for extracting information about likely outcomes while longitudinal studies are ongoing – i.e. before the final follow-up. Making fuller use of longitudinal, cohort and bio-bank studies (and adding new measures to these) is not only feasible, but an extremely cost-effective use of existing data.
+
+Illustrative Research Questions and studies:
+- What are the functional characteristics of neurobehavioural mechanisms across the lifespan?
+- To determine what social and biological factors underlie risk or resilience factors for mental disorders across the life span
+- To study the effects of financial crises on mental health
+- How do vulnerabilities and stress influence critical developmental trajectories to poor health and specific mental disorders across the lifespan - but particularly in childhood and adolescence?
+- To study what brain abnormalities predict future mental disorder using longitudinal structural and functional neuroimaging
+
+3) Developing and maintaining international and interdisciplinary research networks and shared databases
+Overview: Adequately funded, large-scale, collaborative projects provide the easiest way to build research capacity across Europe. Shared and open access databases (bio-banks, specialist cohorts, mental health registries, status surveys, normative data of subjective well-being, etc.), should be strongly supported and facilitated across Europe. Research outcomes, databases and terminology (e.g. ‘well-being’, ‘mental health’, ‘personalised care’) should be standardised to facilitate data-sharing and collaboration.
+Improving training capacities is an important step for maximising Europe’s research potential. We need researchers trained in the variety of disciplines involved in mental health research, including service user involvement. Education for healthcare professionals, together with this researcher training, would ensure an understanding of treatments, research outputs and contexts to ease the translation into health services.
+Impact, economic benefits and avoidable costs: The wide variety of disciplines conducting mental health research in Europe offers an opportunity to pool complementary resources into networks of excellence, stimulating translational medicine and preventative interventions for mental disorders. This would provide the knowledge base for the development of novel drugs, psychosocial programmes and other interventions.
+A systematic knowledge exchange in Europe would be a step towards reaching the ‘critical mass’ for a leading position in mental health research worldwide. Establishing clear and visible research projects and infrastructure with opportunities for international and interdisciplinary collaboration would also make the area of mental health more attractive to young researchers.
+Standardising results and information across databases would facilitate meta-analyses across Europe – allowing comparisons across nations, healthcare systems, cultures and research backgrounds. This would allow for cost-effective Europe-wide systematic reviews and meta-analyses and would maximise the usefulness of existing data through secondary analyses.
+Illustrative Research Infrastructure Needs:
+- Increase the number, quality and efficiency of international and interdisciplinary networks
+- Multidisciplinary training programmes for mental health research across different countries
+- Implementation of standardised European research outcomes, databases and terminology for mental health and well-being research
+- Establish access to European mental health databases across different studies with standardised mental health outcomes
+
+4) Developing and implementing better interventions for mental health and well-being, using new scientific and technological advances
+Overview: Investigations of the efficacy of interventions and treatment adherence are needed, with a particular focus on scalability – i.e. ensuring that breakthroughs in research can be effectively implemented in health services. This research needs a participatory approach, including target groups of service users or healthcare workers in the design and management of projects. Scalability is especially important for translational research where interventions are not directly delivered through healthcare systems (e.g. in the case of public campaigns or social or educational policy), which would need the involvement of appropriate stakeholders. There should also be a focus on developing new and better interventions using scientific and technological advances (e.g. eHealth, mHealth and other technology-enabled interventions).
+Impact, economic benefits and avoidable costs: Appropriate translation of new research knowledge into interventions will ensure the most effective personalised treatment. Rigorous evaluation of novel interventions as they are implemented will improve the understanding of how variations in usual care practices affect service user outcomes. This will aid the design of culturally and socially adapted interventions. For example, the divide in digital literacy must be taken into account to ensure that technological advances do not contribute to widening health inequalities.
+There is a need for improved models of how research breakthroughs are transferred into routine care. This process must take into account the needs of healthcare professionals, individuals with mental health problems and their families. The European Commission has recently acknowledged the importance of translation of research findings for improving decision-making in healthcare, education and social policy [46].
+The development of new interventions can also positively influence European growth and job creation, for instance in the social services, pharmaceutical and ICT sectors. eHealth and mHealth platforms could improve both the effectiveness and cost-effectiveness of care by improving healthcare professionals’ adherence to evidence-based guidelines, or in some cases by supplementing more expensive face-to-face interventions with cheaper, effective eMental health applications.
+
+Illustrative Research Questions and Studies:
+Strengthening research on new approaches and technology for mental health promotion, disorder prevention, mental healthcare and social service delivery
+- Testing the value of internet-based treatments as automated versions of standard psychological treatments in specialized mental health care, in “indicated” prevention and for use in primary care settings in particular
+- Testing ‘real time’ psychometric feedback over the course of treatment (supported by modern software) to adapt dosage and intensity of treatment to patients’ complexity and problem profile in order to promote better outcomes
+- To examine acceptability and adherence of eHealth treatments (e.g. for depression), the clinical improvement at one-year follow-up, and the cost-effectiveness of the intervention in comparison with conventional psychological therapies
+Understanding why some individuals do not respond to treatment by identifying relevant, and potentially developmentally specific, mediating and moderating variables of evidence-based psychotherapies for youths with mental disorders
+
+5) Reducing stigma and empowering service users and carers in decisions about mental health research
+Overview: Research is required on treatment and intervention preferences, as well as how to improve the well-being of individuals with mental health problems, their families and other carers. Burdens of care are borne disproportionately by individuals and groups who experience marginalisation or are otherwise of lower socioeconomic status. Two such groups that require special attention are younger caregivers and female family members.
+Mental health research strategy and agenda-setting should include service users to identify problems and propose research outcomes. There are good examples of this kind of agenda-setting in Europe [47,48]. For example, the Database of Uncertainties about the Effects of Treatments (DUETS), set up by the James Lind Alliance, has a structured approach to include stakeholder research questions and concerns about different interventions [49]. There also needs to be more research on protection of the rights of people with mental health problems and their families, including a consideration of the mechanisms and consequences of stigma and discrimination [50]. This should lead to research and interventions aimed at increased social inclusion, as well as secondary stigma effects on carers.
+Impact, economic benefits and avoidable costs: Service user involvement in research would increase treatment adherence and enhance the development of policies that encourage service user autonomy. Autonomy – both within and outside the health sector – has been identified as a key priority in recent documents produced by both service users and international human rights organisations [51]. Research on discrimination and the protection of the rights of people affected (directly or indirectly) by mental disorders is also needed in order to avoid discrimination and protect fundamental rights. This research (and its dissemination) will promote social inclusion, contribute to the removal of stigma surrounding mental health problems, and advance public awareness of – and participation in – mental health promotion.
+Demographic and economic changes across Europe make it clear that there will be an increased reliance on informal care, which is typically provided by female family members. The available research suggests that caregiving involves a considerable loss in happiness; however, not all caregivers show such a decrease. More comprehensive research should take account of the community and social contexts that predict well-being outcomes for carers (especially young caregivers) and support rational decisions by public health policymakers.
+
+Illustrative Research Questions and Studies:
+- How might carers and family members of people with mental health problems perceive and experience stigma by association?
+- What are the best methods for measuring and valuing unpaid care?
+- What are the most cost-effective elements of anti-stigma interventions?
+- Studying the role of stigma in the wider context of inequalities (health inequalities, etc.) and implement interventions to assess the place of stigma in public services
+- Establish better national or local interventions to address stigma, social exclusion and discrimination by carefully defining the essential questions (i.e. who should be targeted? how?, by whom?, when?) and determine how they can be evaluated and by whom, along with their cost-effectiveness
+
+6) Health and social systems research that addresses quality of mental health care and takes account of socio-cultural and socio-economic contexts and approaches
+Overview: Research on mental health service quality across Europe requires quantitative and qualitative interdisciplinary research across countries with different health systems. The international, social and cultural contexts of health and social services may affect mental health disparities, especially in at-risk, disadvantaged, or marginalised groups. These contexts include economic inequality, lifestyles, population well-being, ethnicity, religion, gender, sexuality, nationality and public and economic policy. Policy implementations (including education and parenting) and any changes to the delivery of care must be robustly evaluated, for instance by systematic natural-experiment methodology - thus promoting closer links between researchers, policymakers and those affected by these natural experiments.
+Impact, economic benefits and avoidable costs: Reorganisation of healthcare systems may be forced on Europe by external events (e.g. ageing populations). Policymakers will need evidence-based models to inform their decisions, such as the use of economic approaches to assess the avoidable costs to society by providing appropriate prevention and mental health promotion strategies.
+Poverty reduction, family and parenting support, health promotion in schools and universal access to mental care have all been linked with reducing mental health inequalities. A broadened scientific scope will contribute to better public mental health actions to improve the mental health of Europeans. New models of mental disorder incorporating socio-economic contexts can underpin new approaches to care and rehabilitation.
+Research in this area will improve social cohesion and inclusion, which is a European social policy aim. There is both a need and a willingness to pursue this research track – as clearly stated in the objectives for the Europe 2020 growth strategy.
+
+Illustrative Research Questions and Studies:
+- Investigating the impact of differences in the organisation and delivery of national healthcare systems on the well-being of individuals with mental disorders and carers
+- Health-systems-level research on the cost-effectiveness of different ways of financing, regulating, organising and providing services to promote and protect mental health
+- Designing and evaluating methods to assess outcomes from mental health services that can be easily and reliably implemented
+
+• The potential impact (including the socio-economic impact and the wider societal implications of the project so far) and the main dissemination activities and exploitation of results (not exceeding 10 pages).
+
+Mental disorders represent the single greatest social and economic burden on European society. The cost of mental disorders (excluding dementia and other organic brain disorders) in 2010 was estimated at €461 billion. This is the lowest current estimate for this figure, as it does not take into account the large additional costs associated with having co-occurring mental and physical disorders. Building on excellent science in Europe to tackle important societal challenges, ROAMER has identified the most pressing mental health research that takes advantage of Europe’s infrastructure and research strengths. Answers to the research questions above will benefit:
+
+• Individuals and their families, through:
+­ Reducing the incidence and impact of mental disorders
+­ Reducing burdens on carers
+­ Reducing stigma
+­ Promoting social inclusion
+
+• The public purse, through:
+­ Reducing healthcare costs
+­ Reducing the costs on social services necessary to support European citizens
+­ Sustainable growth and productivity gains
+
+• European industry, through:
+­ Creating opportunities for drug development and technological innovation
+­ Developing a skilled young work force
+
+The effects of mental health reverberate throughout society, and are relevant beyond academia, to individuals with mental health problems, their families, employers, healthcare providers, healthcare workers, education workers, policymakers and industry. Europe has the potential to become world-leading in mental health and well-being which would benefit all facets of European society.
+
+We need a coordinated and multidisciplinary effort that includes policymakers, research funding bodies, professionals, researchers, individuals with mental disorders, carers and civil society to achieve proper funding of mental health research, at least tripling the current amount.
+
+Potential Impact:
+• The ROAMER consortium has already published several articles in peer-reviewed journals:
+
+- Miret M, Cabello M, Marchena C, Mellor-Marsá B, Caballero FF, Obradors-Tarragó C, Haro JM, Ayuso-Mateos JL. The state of the art on European well-being research within the area of mental health. International Journal of Clinical and Health Psychology, Volume 15, Issue 2, May–August 2015, Pages 171-179, ISSN 1697-2600
+
+- Forsman AK, Wahlbeck K, Aarø LE, Alonso J, Barry MM, Brunn M, et al.; also on behalf of the ROAMER Consortium. Research priorities for public mental health in Europe: recommendations of the ROAMER project. Eur J Public Health. 2015 Apr;25(2):249-54. doi: 10.1093/eurpub/cku232. Epub 2015 Feb 11. PubMed PMID: 25678606.
+
+- Forsman AK, Ventus DB, van der Feltz-Cornelis CM, Wahlbeck K; ROAMER project. Public mental health research in Europe: a systematic mapping for the ROAMER project. Eur J Public Health. 2014 Dec;24(6):955-60. doi: 10.1093/eurpub/cku055. Epub 2014 May 14. PubMed PMID: 25428662.
+
+- Elfeddali I, van der Feltz-Cornelis CM, van Os J, Knappe S, Vieta E, Wittchen HU, Obradors-Tarragó C, Haro JM. Horizon 2020 priorities in clinical mental health research: results of a consensus-based ROAMER expert survey. Int J Environ Res Public Health. 2014 Oct 21;11(10):10915-39. doi: 10.3390/ijerph111010915. PubMed PMID: 25337940; PubMed Central PMCID: PMC4211014.
+
+- Evans-Lacko S, Courtin E, Fiorillo A, Knapp M, Luciano M, Park AL, et al. The state of the art in European research on reducing social exclusion and stigma related to mental health: a systematic mapping of the literature. Eur Psychiatry. 2014 Aug;29(6):381-9. doi: 10.1016/j.eurpsy.2014.02.007. Epub 2014 Apr 13. Review. PubMed PMID: 24726533.
+
+- Wittchen HU. Mental health and disorders. Editorial. Int J Methods Psychiatr Res. 2014 Jan;23 Suppl 1:v-vi. doi: 10.1002/mpr.1407. PubMed PMID: 24375538.
+
+- Wittchen HU, Knappe S, Schumann G. The psychological perspective on mental health and mental disorder research: introduction to the ROAMER work package 5 consensus document. Int J Methods Psychiatr Res. 2014 Jan;23 Suppl 1:15-27. doi:
+10.1002/mpr.1408. Review. PubMed PMID: 24375533.
+
+- Haro JM, Ayuso-Mateos JL, Bitter I, Demotes-Mainard J, Leboyer M, Lewis SW, et al. ROAMER: roadmap for mental health research in Europe. Int J Methods Psychiatr Res. 2014 Jan;23Suppl 1:1-14. doi: 10.1002/mpr.1406. PubMed PMID: 24375532.
+
+- Schumann G, Binder EB, Holte A, de Kloet ER, Oedegaard KJ, Robbins TW, et al. Stratified medicine for mental disorders. Eur Neuropsychopharmacol. 2014 Jan;24(1):5-50. doi: 10.1016/j.euroneuro.2013.09.010. Epub 2013 Oct 4. Review. PubMed PMID: 24176673.
+
+- Fiorillo A, Luciano M, Del Vecchio V, Sampogna G, Obradors-Tarragó C, Maj M; ROAMER Consortium. Priorities for mental health research in Europe: A survey among national stakeholders' associations within the ROAMER project. World Psychiatry. 2013 Jun;12(2):165-70. doi: 10.1002/wps.20052. PubMed PMID: 23737426; PubMed Central PMCID: PMC3683269
+
+• Further ROAMER publications in peer-review journals will come shortly on the following matters:
+- Comparison of public/private national funding devoted to mental health research and health research during 2011 between France, Spain, UK, and nordic countries
+- Comparison of the Spanish public/private funding devoted to the research in psychiatric and neurodegenerative diseases by specific conditions
+- Mental Health Research Priorities for Europe
+- A European Survey to prioritise mental health research
+
+• ROAMER has participated in several international/national congresses, symposia and other events to present the ROAMER outputs
+
+• The ROAMER consortium has already published two versions of the Roadmap for Mental Health Research in Europe:
+
+­ The roadmap (D11.4), extended version: a long document for the European Commission, containing an extensive description of the state of the art of mental health research in Europe (including the results of systematic literature mappings for each area of knowledge), the ROAMER methodology, the lists of gaps and advances needed for each area within mental health research (defined by renown experts during the first stages of the ROAMER project), the integrated consensus-based list of 20 advances needed for mental health research in Europe, the results of the European survey for the prioritisation of mental health research conducted by ROAMER and collecting the views of more than 700 researchers and stakeholder associations, and the resulting 6 ROAMER priorities for mental health research in Europe. This document has been published electronically, submitted to the European Commission, uploaded to the ROAMER's website and only few copies have been printed so as to be distributed among ROAMER partners and the European Commission.
+
+­ The roadmap, short version: A short summarised version with plain language and an embellished layout addressed to all audiences. This version briefly describes the context of the project, the ROAMER process and lists the 6 ROAMER priorities for mental health research in Europe. It has been published electronically (in .pdf) to be uploaded in the ROAMER's website and circulated among all collaborators and stakeholders, and it has also been printed (1.000 copies) for further distribution among stakeholders associations, the European Commission, the European Parliament and all ROAMER collaborators.
+
+• The ROAMER consortium has already produced the policy brief (i.e. a shorter document of 10 pages for policy makers including an executive summary, the introduction and the 6 priorities for mental health research in Europe).
+
+• The ROAMER consortium is currently preparing other disseminations materials:
+
+­ Brochures (4 pages) adapted to different audiences (i.e. researchers and academics, patients, families and carers, mental health care service professionals, policy makers and research funders, the education sector, the media and general public) and translated into different languages for further targeted dissemination of the ROAMER outputs.
+
+­ Different sets of slides for dissemination adapted to each target group.
+
+­ A Video to promote mental health research in Europe and to disseminate the most relevant results of the ROAMER project will be launched very soon. It will include the views of all groups of Stakeholders and will be done in different languages. Subtitles will be available at least in English, but hopefully in as many languages as possible. It will be shown in the ROAMER's website and disseminated using different channels such as YouTube and the main social networks (facebook, Twitter) with the help of all ROAMER collaborators.
+
+
+• ROAMER will participate in other national opportunities to promote mental health research and to advertise about the outputs of the project in each country.
+
+
+List of Websites:
+Project website: http://roamer-mh.org
+Coordinator: Dr. Josep Maria Haro
+Email: ROAMER@pssjd.org
+Tel: +34 93 556 96 77
+Postal address:
+CIBERSAM - Parc Sanitari Sant Joan de Déu
+Research and Development Unit
+Dr. Antoni Pujades, 42
+08830 - Sant Boi de Llobregat (Barcelona, Spain)

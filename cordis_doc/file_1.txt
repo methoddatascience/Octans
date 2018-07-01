@@ -1,0 +1,657 @@
+Executive Summary:
+Nuclease Immune Mediated Brain and Lupus-like (NIMBL) conditions, comprising Aicardi-Goutières syndrome (AGS), retinal vasculopathy with cerebral leukodystrophy (RVCL) and some cases of systemic lupus erythematosus (SLE), are genetic disorders associated with significant morbidity, premature death, and high risks of recurrence. NIMBL conditions are rare, but under diagnosed. No effective treatments or cures exist at present.
+
+To enable optimum patient care, a better understanding of the natural course of these disorders and of their underlying pathological basis, was, and remains, essential. In this project, European and U.S. clinical and basic research scientists united to develop a translational approach to these problems. The Principle Investigators involved were:
+
+1. Prof Yanick Crow, (UNIMAN), Manchester, UK [B1]
+2. Prof Arn van den Maagdenberg (LUMC), Leiden, the Netherlands [B2]
+3. Dr Simona Orcesi (FMPV), Pavia, Italy [B3]
+4. Prof David Bonthron, (LEEDS), Leeds, UK [B4]
+5. Prof Taco Kuijpers (AMC), Amsterdam, the Netherlands [B5]
+6. Prof Antonio Celada (IRB) and (UB) Barcelona, Spain [B6] and [B9]
+7. Prof Dan Stetson (UW), Seattle, USA [B7]
+8. Prof Adeline Vanderver (CNMC), Washington DC, USA [B8]
+
+The NIMBL project started in June 2010 and built on very recent discoveries (at that time) of the cell-intrinsic initiation of autoimmunity, having major implications for our understanding of the discrimination of self from non-self. This particular biological paradigm involves intracellular sensors that detect self-derived DNA and RNA, in turn inducing the body to mount an immune response against its own cells. Thus, it was, and is still, considered that the investigation of NIMBL diseases would not only improve the health and well-being of NIMBL patients and their families, it might also lead to better treatments of certain, more common, autoimmune disorders – most particularly SLE.
+
+By the end of NIMBL (November 2013), data had been recorded from 346 affected individuals belonging to 277 families with a confirmed molecular diagnosis of AGS, and from a total of 78 RVCL TREX1 mutation-positive patients from 11 unrelated families worldwide - representing the largest sets of clinical, radiological and molecular information on these rare conditions ever collected.
+
+The results from the NIMBL project have already had, and will continue to have, major impacts – which can be broadly outlined as: (i) an immediate benefit for affected individuals and their families by allowing for comprehensive diagnostic and carrier testing, (ii) a significant improvement in clinical knowledge of NIMBL-associated conditions, providing guidance on the diagnosis and prognosis of these disorders to physicians and families, and (iii) an increase in scientific knowledge of the underlying basis of the NIMBL-related diseases, with obvious implications for the development of future therapies. As proof of principle, our patient studies, combined with our newly-derived scientific information, have helped to suggest a rational approach to AGS treatment using reverse transcriptase inhibitors, so that the first ever clinical trial will begin in 2014 – a remarkable NIMBL-driven achievement.
+
+The NIMBL project has met the overall project objectives initially stated, and all of the Deliverables and Milestones have been achieved. By the end of the project, 30 papers had been published in peer-reviewed journals. Further manuscripts are being prepared for submission in the coming months, and we are confident that the collaborations established between centres will endure beyond NIMBL into the long-term.
+
+Project Context and Objectives:
+Project Context – prior to the start of NIMBL
+
+Aicardi-Goutières syndrome (AGS), which is completely distinct from the similarly named Aicardi syndrome, is a rare inflammatory disorder, most typically affecting the brain and the skin, with onset usually in early childhood. Following an original description of eight cases in 1984, the condition was first referred to as ‘Aicardi-Goutières syndrome’ in 1992. AGS is a severe disease causing significant physical and mental disability and, frequently, death in childhood. It had been previously recognised that some characteristics of AGS overlap with congenital infection, and with the autoimmune disease systemic lupus erythematosus (SLE) – of note, all three states are recognised to be associated with increased levels of the anti-viral cytokines referred to as type I interferons.
+
+In contrast to AGS, patients with retinal vasculopathy with cerebral leukodystrophy (RVCL) present much later in life, generally aged 30-50 years. RVCL results in visual loss, stroke and dementia - believed to be caused by a systemic condition involving small blood vessels in multiple organs, most particularly the brain, eye and kidney, and death 5 - 10 years later.
+
+When the NIMBL project was proposed, AGS was known to result from mutations in any one of five genes encoding: the exonuclease TREX1 (AGS1), the three subunits of the RNASEH2 endonuclease protein complex (AGS2, 3 and 4), and the then uncharacterised protein SAMHD1 (AGS5). AGS is usually inherited as a recessive trait, although heterozygous (dominant) mutations in TREX1 had been reported to cause AGS in rare cases. RVCL was also known to be inherited as a result of TREX1 dominant mutations. In addition, heterozygous TREX1 mutations had been found in about 2% of cases of SLE.
+
+It was already recognised that the presentation of AGS could be broadly divided into two types; i) infants presenting in the neonatal period with disturbed neurology and brain imaging (CT and / or MRI scans can show various abnormalities, including white matter changes and calcification). This clinical picture can mimic that of in utero acquired infection, with which AGS can easily be confused diagnostically, and contrasts with; ii) patients presenting at variable times beyond birth (usually around 3 to 6 months of age) after an initial period of normal development, and who then experience the subacute onset of a severe encephalopathy associated with neuroregression. In either scenario, the initial period of disease ‘activity’ seems to last for several months, after which time, clinically, the condition appears to stabilise (‘burn-out’). Obviously, the severity of the disease, and the associated risk of recurrence, have a devastating effect on patients and families, and a significant cost in terms of health-care.
+
+At the start of the NIMBL project, the mechanisms that cause the associated phenotypes were unclear, and therapies were, and still are, based on ameliorating the various symptoms as they arise, rather than treating the underlying pathology. However, since TREX1 and RNASEH2 are nucleases (enzymes that degrade nucleic acid - DNA and RNA), we had hypothesised that these proteins might be involved in removing ‘waste’ nucleic acid species, and that a failure of this process in AGS could result in activation of the immune system; that is, in the absence of AGS-related enzyme activity, endogenous nucleic acids accumulate and are sensed as ‘non-self’ / viral, subsequently inducing an interferon mediated immune response. This would explain the phenotypic overlap of AGS with congenital infection and SLE - where interferon is also recognised to be an important factor in disease pathology.
+
+Although RVCL is associated with genetic changes in the AGS1 gene TREX1, the condition behaves differently from AGS, suggesting that the relevant disease process was possibly distinct from AGS – and apparently most likely related to a primary problem of blood vessel homeostasis.
+
+We considered that advances in our understanding of the mechanisms underlying the devastating NIMBL-associated conditions would lead to earlier diagnosis, and provide molecular targets for the development of novel therapies. NIMBL was thus conceived as a translational project - directly linking clinical (natural history) and basic research (pathophysiology) to the identification of effective preventive (enhanced clinical awareness, prenatal diagnosis), diagnostic (laboratory, radiological and genetic), and therapeutic interventions in order to alleviate the negative impact of these diseases on the quality of life of affected patients and their families.
+
+Against this background, and with these considerations in mind, we outlined four objectives as being of greatest relevance to address in order to move the field forward, always with a view to the development of therapeutic strategies based on knowledge of disease biology.
+
+
+Objective 1. Gain insight into the natural history of AGS and RVCL
+
+The rarity of the NIMBL disorders represents a challenge to a proper understanding of their natural history. For this reason, it was considered imperative to derive disease-specific registries, in order to define the true clinical nature of these conditions – in terms of their presenting features, their progression and the final outcome of being affected. Only in this way could we provide families and clinicians with accurate information about the diseases. Additionally, we were interested to determine if there was any relationship between underlying genetic subtype of AGS and clinical presentation and outcome, by linking clinical, radiological and laboratory data (including serial assessments over time) with genetic diagnosis – since this might provide us with diagnostic clues and insights into disease pathology. Of particular importance, we recognised that information on natural history would be crucial when the time came to assess the effects of potential new therapies in future clinical trials.
+
+Objective 2. Acquire knowledge for the development of diagnostic and therapeutic modalities
+
+Although the genetic basis of a majority of patients with clinical features of AGS was known at the start of the NIMBL project, we were aware of some patients who did not have any changes in the already-defined AGS-associated genes. This meant that the diagnosis in these children remained open, and left their parents and wider family in a state of uncertainty with regards to the risk of recurrence. Moreover, in some cases, the interpretation of sequence changes in the known genes was unclear. We therefore wished to define new genetic causes of AGS, and to differentiate diseases showing overlap features with AGS and RVCL. Furthermore, we considered it of the utmost priority to develop gene-specific databases, available in an open-access format, in order to catalogue changes in these genes – and thus aid diagnosis in laboratories worldwide. As an adjunct, in an attempt to ensure uniformity of access to the highest standard of care throughout Europe, and further afield, we recognised a need to encourage quality-control assessments in diagnostic laboratories – informed by outputs of the NIMBL project. Finally, beyond genetic testing, we were cognisant of the need to identify other laboratory markers of disease, so-called biomarkers, which might aid in diagnosis, but, more importantly, could be used as indicators of disease activity in the assessment of outcome of trial therapies.
+
+Objective 3. Develop four new animal models relevant to human NIMBL phenotypes
+
+We appreciated that animal models can help to define the effects, both on the whole body and in specific tissues, of genetic mutations and the subsequent loss of, or change in, the function of an associated protein. Furthermore, we considered that animal models could provide systems in which to initially test potential new forms of treatment. We also recognised the ethical difficulties and responsibilities associated with animal work, and that animal models do not always reflect the situation in the human (where proteins and pathways may not be exactly the same / have identical functions). With these issues in mind, we set out to develop a number of disease-relevant animal (mouse) models of AGS and RVCL.
+
+Objective 4. Explain the pathophysiology of NIMBL phenotypes
+
+At the start of NIMBL, AGS was already considered as an inflammatory disease, associated with an apparently disease-relevant increase in the antiviral cytokines referred to as type I interferons. As discussed above, we had previously derived evidence to suggest that this interferon response was induced by self DNA / RNA, although the precise species of nucleic acid, and the specific mechanisms / signalling pathways involved in sensing their presence to the innate immune system, were undefined. In regards of AGS, it was also clear that the major features of the disease relate to damage to the brain. Again, the manner in which that damage accrued was unknown, and so we were keen to interrogate the interaction of interferon and specific brain cell function. Finally, we wished to consider the pathological basis of RVCL, asking the question as to whether this was common to, or distinct from, AGS.
+
+Summary
+
+The overarching aim of the above objectives was to improve patient care through better diagnosis and management by: (i) allowing for comprehensive diagnostic and carrier testing, (ii) improvement in clinical knowledge of NIMBL-associated conditions, providing guidance on diagnostic criteria and the phenotypic spectrum of these disorders to physicians and patients / families, and (iii) increased scientific knowledge - in terms of genetic, biochemical and cell biological understanding of the pathological basis of the NIMBL-related phenotypes, with obvious implications for the development of directed therapies for these devastating diseases.
+
+Cognisant of the background as set out above, NIMBL was built around eleven work packages (WPs); one (WP1) was concerned with the management of the project as a whole, nine (WP2-10) were focused on research and technology, and a final WP (WP11) was dedicated to the dissemination of NIMBL-related outputs. The results of the NIMBL project in regards of these individual WPs are discussed in the following section.
+
+Project Results:
+3. A description of the main results
+Work Package 2: AGS and RVCL phenotypes
+
+Overall aim: The development of in-depth clinical knowledge of AGS and RVCL in order to inform studies of the molecular and cellular mechanisms of disease, and allow future studies of targeted therapeutics
+
+Involving: B1, B2, B3, B8 (plus B4, B5)
+
+Task 1: Comprehensive characterisation of the phenotype in individuals with mutations in genes known to cause AGS and RVCL.
+
+B1, B3 and B8 have collected extensive clinical data from a cohort of patients with AGS, and other NIMBL-related phenotypes - so-called ‘type I interferonopathies’, in particular SPENCD patients with mutations in ACP5 and a monogenic form of lupus due to mutations in PRKCD:
+
+• Briggs et al. Nat Genet 2011;43:127-131 [B1]
+• Belot et al. Arthritis & Rheum 2013;65:2161-71 [B1]
+
+AGS clinics were held in Manchester, Pavia and Washington DC, and these coincided with four family-scientist conferences. At these clinics, each individual patient / family was assessed, data collected (relating to the patient’s height, weight, head circumference, clinical history, progression and current status) and, where possible, patient and parental samples were taken (most typically DNA, RNA, serum, plasma and peripheral blood mononuclear cells - PBMCs). The families attending the meetings in Manchester and Pavia were predominantly from the UK and Italy respectively, although families also travelled from the Netherlands, Spain, France and Germany. The US families came from various states including Arizona, California, Colorado, Washington DC, Florida, Illinois, Maryland, Michigan, Missouri, New Jersey, New York, North Carolina, South Carolina, Virginia, Wisconsin, Ohio, and Utah.
+
+In an effort towards uniformitivity of data collection, we established a clinical registry using the online database format REDCap (http://www.project-redcap.org/) for recording information on patients with a molecularly confirmed diagnosis of AGS. This resource has been, and will continue to be, accessible (with relevant identification / access restrictions) to members of the NIMBL project, thus serving as a platform for research on clinical natural history and laboratory associations into the long-term. This database includes information on: molecular diagnosis, MRI and CT findings, available biological samples, plus detailed clinical data (pre-natal and birth history, presentation and diagnosis, developmental history, and specific clinical features such skin lesions, haematological abnormalities, gastrointestinal findings, seizures etc.).
+
+By November 2013, data had been recorded from 346 affected individuals (with a confirmed molecular diagnosis of AGS) from 277 families. Of those for whom recent data are available (n=324, 93.6%), 254 (78%) are alive, with the oldest patient currently 36 years of age; for those who have died, the age at death ranges from 0 to over 27 years. This formidable resource, which represents the largest single collection of clinical and radiological data ever accrued for AGS, is expected to form the basis of many subsequent publications, and serve as a resource for assessing natural history – a function crucial to the interpretation of treatment efficacy in future clinical trials.
+
+Figure 1: Molecularly confirmed cases with AGS1-6 (n=346)
+
+The results have been presented at various scientific meetings, and discrete aspects relating to these data have also been published:
+
+• Vogt et al. Am J Med Genet A. 2013;161A:338-42 [B1]
+• Olivieri et al. Lupus. 2013;22:1064-9 [B3]
+• Clifford et al. Blood. 2013 Dec 12 [Epub ahead of print] [B1]
+
+B2 completed the systematic collection and evaluation of clinical data of RVCL TREX1 mutation carriers. In summary, we were able to gather information on a total of 78 RVCL-associated TREX1 mutation-positive patients from 11 unrelated families worldwide. In addition to DNA, there has been an effort to collect plasma and CSF - which will continue after the completion of the NIMBL project. From our analysis, we conclude that RVCL is a progressive, systemic small blood vessel disease characterized by blindness due to vascular retinopathy, relentless neurological decline caused by cerebral mass and white matter lesions, and premature death. In addition, we found that a large percentage of RVCL patients suffered from comorbid neurological conditions such as Raynaud’s phenomenon and migraine. These data represent the largest collection of clinical information yet derived for RVCL, and are currently under review for publication.
+
+Task 2: Establishment of a sample repository
+
+A sample repository was initiated early in the NIMBL project (this is a virtual repository where the samples are recorded as being held by a particular beneficiary), and numerous samples have been added to the collection; for example, B1 has DNA samples on more than 500 AGS patients / family members, and an RNA collection from >150 patients. There have been many transfers between beneficiaries of samples including patients’ primary cells and cell lines, antibodies, mouse models, and data analysis results, and with other laboratories (NIMBL has funded over 144 courier shipments from / to B1 alone).
+
+
+Task 3: Definition of radiologic features seen in AGS and RVCL
+
+Both AGS and RVCL are diseases of the nervous system associated with prominent changes (damage / dysfunction) in the brain. Recognizing these changes on brain scanning is important for diagnostic purposes, and may be important from a therapeutic perspective in the future (where early diagnosis may be relevant to treatment outcomes). Considering both magnetic resonance imaging (MRI) and computed tomography (CT) scans, a multidisciplinary team of highly experienced neuroradiologists, paediatric neurologists and geneticists (from B1, B2, B3, B4, B8) undertook a detailed and comprehensive characterisation of the radiological phenotype of 94 AGS and 48 RVCL patients in our unique cohorts of molecularly defined cases; where available, serial imaging was used to provide information on progression / stability of radiologic features. The particular purpose of this approach was to define disease diagnostic criteria, and highlight new findings. Some of the derived outputs have already been published (see below), whilst further submissions are expected in the near-term:
+
+• Ramesh et al. Dev Med Child Neurol 2010;52:725-32 [B4, B1]
+• Livingston et al. Dev Med Child Neurol 2013;55:46-57 [B4, B1]
+• Livingston et al. J Med Genet. Published on-line 21 November 2013 [B4, B1]
+• Pelzer et al. J Neurol 2013;260:2188-2190 [B2]
+
+
+Task 4: Development of validated diagnostic criteria for AGS and RVCL
+
+In a significant minority of patients with AGS, problems are recognized at birth, i.e. the disease process begins in utero. More frequently, a later-onset presentation of AGS is seen, occurring in some cases after several months of normal development. In either case, over time, severe neurological dysfunction develops - manifesting as progressive microcephaly, spasticity, psychomotor retardation and, in approximately 33% of cases, death in early childhood (by age 8 years).
+
+Figure 2: Known status of molecularly confirmed AGS patients (n=324)
+
+Although the majority of recognized patients conform to the relatively stereotyped ‘classical’ phenotype just described, our studies have revealed a much broader spectrum of disease presentation, progression and outcome than previously anticipated (a genotype-phenotype submission based on our complete data set is in preparation). These ‘non-classical’ cases highlight a remarkable paradox relating to the diagnosis of AGS; that is, patients with mutations in the AGS-associated genes are frequently observed to demonstrate the absence of one or more, and even all - in rare cases, of the original diagnostic criteria as outlined by Aicardi and Goutières in their 1984 paper. Thus, neurological dysfunction is not always severe nor, indeed, necessarily present at all; microcephaly is not invariable; onset is not always in the first year of life; intracranial calcification and white matter changes are not inevitable; and a CSF lymphocytosis is often absent. Importantly, disparity in the clinical phenotype can be seen even within the same family, thus highlighting the role of modifying factors. These issues were discussed in publication form in:
+
+• Crow et al. Clin Exp Immunol. 2014;175:1-8 [B1, B3, B5, B7]
+
+B2’s research efforts have yielded a set of validated diagnostic criteria for RVCL. Characteristic features of RVCL include, i) progressive visual impairment due to vascular retinopathy; ii) focal and global neuropsychiatric symptoms with relentless neurological decline due to cerebral mass and white matter lesions; and iii) premature death. Other frequently associated features are migraine, Raynaud’s phenomenon, and impaired liver and kidney function. The data upon which these criteria have been derived are currently under review for publication.
+
+
+Task 5: Identification of markers of disease as outcome measures in future therapeutic trials
+
+Despite major advances in molecular diagnosis (in large part brought about through NIMBL), the development of disease biomarkers in the context of AGS remains an important aim for at least two reasons: Firstly, it could be helpful in confirming or excluding a diagnosis in genetically undefined / uncertain cases. Secondly, remarkable progress in the understanding the pathogenesis of AGS, brought about through our work and that of other groups in the field, has led to the near-term possibility of therapeutic interventions. Thus, the identification, and characterisation, of reactive biomarkers which can be used to monitor therapeutic efficacy, has become of the highest priority.
+
+Based on our developing understanding of the pathogenesis of AGS, several different candidate biomarkers have been considered including: 1. Cytokine / chemokine analysis and, 2. Immune phenotyping of CSF and blood lymphocytes. Some of these results have been published / presented internationally:
+
+• Takanohashi et al. Neurology 2013;80:997-1002 [B1, B5, B8]
+• Sandza et al. 63rd American Academy of Neurology, Honolulu (April 2011) [B8]
+• Sandza et al. Society for Neuroscience, Washington DC (November 2011) [B7, B8]
+
+Of particular importance has been our characterisation of the upregulation of interferon stimulated genes (ISGs) in the peripheral blood of AGS patients (a so-called interferon signature) – apparently independent of age and of genotype (excepting AGS2). We believe that these data represent a major advance for the future management of AGS:
+
+• Rice et al. Lancet Neurology 2013;12:1159–1169 [B1, B3, B4, B8]
+
+Overall summary: A major aim of this WP was the development of a comprehensive and uniform phenotype data set relating to NIMBL diseases, most particularly AGS and RVCL. These data, collected across participating clinical centres (Manchester, Pavia, Washington DC, Amsterdam and Leiden), have been incorporated within bespoke databases which will continue to be populated beyond the life-time of the NIMBL project. As such, we now have available information on the largest number of AGS and RVCL patients ever collated – worldwide. Linked to our patient-derived biological sample collection, these data have allowed for relationships to be drawn between clinical, laboratory and radiological information and our experimental results. Highlights of this WP have been a greatly enhanced understanding of the AGS and RVCL clinical and radiological phenotypes – both in terms of ‘depth’ (numbers of patients) and ‘breadth’ (phenotypic spectrum), and the identification of biomarkers important for monitoring future therapeutic interventions.
+Work Package 3: Genetic basis of AGS and RVCL
+Overall aim: To develop a comprehensive description of the genetic basis of NIMBL-related disorders, most particularly AGS and RVCL, but also allied type I interferonopathies - recognising that the definition of the mutational spectrum of the NIMBL diseases is crucial to understanding the molecular pathology of these phenotypes, and also allows for uniformitivity of diagnostic laboratory service provision across Europe and elsewhere.
+
+Involving: B1, B2, (plus B3, B5, B8)
+
+
+Task 1: Establishment of mutation databases
+
+Separate mutation databases for AGS1 to AGS6 have been constructed by B2 with the help of B1 within the Leiden Open Variation Database suite (LOVD). These databases are publically available (http://www.lovd.nl/2.0/) and, as such, serve as a source of information for clinicians and molecular geneticists worldwide. In addition, mutation data have been recorded in the REDCap database, with access restricted to members of the NIMBL team.
+
+
+Task 2: Development of deletion / duplication screen technologies
+
+B1 and B4, in collaboration with MRC-Holland, developed a multiplex ligation-dependent probe amplification (MLPA) kit for the identification of deletions / duplications in AGS1-5. A panel of patients with (only) single identifiable mutations in these genes was screened using this kit. This system has now been incorporated into our scanning platform, and into the platforms used in diagnostic laboratories in the UK, mainland Europe and the USA (personal communications).
+
+Our experience indicates that deletions of AGS-related genes, except for SAMHD1, are rare. Once further data have been accrued, we plan to publish a detailed description of our experience with deletion / duplication screening across all AGS-relevant genotypes.
+
+
+Task 3: Mutation scanning in AGS and RVCL
+
+Since the start of the NIMBL project it has become clear that it is not possible to reliably predict AGS genotype from phenotype, and that, although recurrent founder mutations are known, mutations in any of the AGS-related genes are observed across all ethnicities. For these reasons, we now take the approach of Sanger sequencing all genes in a systematic fashion, irrespective of phenotype and ethnicity, combined with MLPA testing in appropriate cases. These observations are captured in the mutation databases that we are curating (see: http://chromium.liacs.nl/lovd2/home.php?action=switch_db) and the quality assessment scheme that we developed (see Task 5). We are currently writing a comprehensive genotype-phenotype paper which will completely capture our AGS-related mutation data. Details of the mutational spectrum in >150 cases were included in the Supplementary Information of the following output:
+
+• Rice et al. Lancet Neurology 2013;12:1159-1169. [B1, B3, B4, B8]
+
+Discussion of specific RNASEH2A mutations was given in:
+
+• Rice et al. Hum Mutat 34:1066-70 [B1, B3]
+
+The identification of eight patients with only a single identifiable heterozygous mutation in RNASEH2B led B1 to search a second ‘occult’ mutation in these patients where we had access to fibroblastoid and / or lymphoblastoid cell lines. An exon 2_5 deletion was identified in a single (A177T heterozygous) patient, whilst retention of the last 11 bases of intron 1_2 was identified as a recurrent mutation in 3 further families (also heterozygous for an A177T mutation). Additionally, a c.136+1del G variant was confirmed to result in a loss of exon 2, and a G146S substitution to cause a deletion of exons 2 to 5, at the cDNA level. These findings are being written up for publication.
+
+B2 continued performing mutation analyses of the TREX1 gene in patients with RVCL or phenotypes resembling RVCL. TREX1 DNA mutation scanning is offered in a diagnostic setting in the Leiden clinical genetics department. B2 has now identified five distinct C-terminal TREX1 frameshift mutations (i.e. V235fs, T236fs, T249fs, R284fs, and L287fs). Six families coming from the Netherlands, North America, or Australia had the same V235fs mutation. T249fs was identified in two families from North America.
+
+
+Task 4: Identification of the AGS6 gene
+
+At the start of the NIMBL project, AGS was known to result from mutations in any one of five genes encoding: the exonuclease TREX1 (AGS1), the three subunits of the RNASEH2 endonuclease protein complex (AGS2, 3 and 4), and the then uncharacterised protein SAMHD1 (AGS5). However, approximately 10 - 15% of AGS families did not have identifiable mutations in AGS1-5, and B1 had already generated genotype data to show that at least one further AGS-causing gene remained to be identified. The absence of a molecular diagnosis in patients with AGS is of clinical importance, meaning that diagnostic uncertainty remains in such cases, and that carrier and prenatal testing are unavailable to affected families.
+
+Using our existing patient cohort, B1 identified AGS6 by whole exome sequencing (a technology which only became available during the second half of the NIMBL project) in patients with a clinical diagnosis of AGS, all of who screened negative for mutations in TREX1, RNASEH2A, RNASEH2B, RNASEH2C and SAMHD1. Visual inspection of the generated data initially identified two patients, each with two non-synonymous coding alterations in ADAR1, a gene we had already highlighted as a candidate for AGS in view of its known role as a suppressor of type I interferon signalling in an animal model. Sanger sequencing confirmed the variants in these patients, as well as in two further affected siblings. We went on to sequence the putative AGS6 gene in other AGS1-5 negative patients from our cohort. In total, ten affected individuals from seven families demonstrated biallelic ADAR1 variants which were considered likely pathogenic on the basis of species conservation and the output of pathogenicity prediction packages. In these families, all parents tested were heterozygous for one putative mutation. Two further unrelated patients demonstrated a single heterozygous mutation which was not present in either parent. These findings were published:
+
+• Rice et al. Nat Genet 2012;44:1243-8 [B1, B3, B4, B8]
+
+There are still patients conforming to a clinical phenotype of AGS who do not have changes in the AGS1-6 genes i.e. further genetic heterogeneity likely exists.
+
+
+Task 5: Establishment of a pilot External Quality Assessment and Proficiency Testing (EQA / PT) exercise for molecular analysis of AGS1-5
+
+In order to enhance the delivery of diagnostic testing for AGS, B1 invited clinical genetics centres in Europe and the USA to take part in a pilot scheme, carried out under the auspices of the European Molecular Genetics Quality Network (EMQN; http://www.emqn.org/emqn/Home), aimed at determining the current availability of screening of the genes involved in AGS and related disorders, and assessing the quality and sensitivity of this screening.
+
+A total of seven laboratories across five countries (UK, USA, France, Germany and Italy) took part in the pilot scheme. Depending on the diagnostic testing offered by participating laboratories, up to three anonymised DNA samples were sent to each laboratory, together with mock clinical case information, for genetic testing. The DNA samples were extracted from established cell lines and genotypes validated in the conducting centre (Manchester). AGS testing has now been fully adopted by the Board of EMQN. The final EQA / PT report was authorised by Dr Simon Patton (EMQN Director) on 31 May 2013.
+
+
+Further aspects of note relating to WP3
+
+1. As B2 is also a major international referral centre for Cerebral Autosomal Dominant Arteriopathy with Subcortical Infarcts and Leukoencephalopathy (CADASIL), a small vessel cerebral disorder with some striking similarities to RVCL, 100 patients were identified who were suspected to have CADASIL but who did not carry a NOTCH3 mutation that defines the disease. Because of the clinical overlap with RVCL, TREX1 mutation screening was considered, and revealed a heterozygous TREX1 mutation in two patients. With the identification of the heterozygous TREX1 mutations p.Tyr305Cys and p.Arg114His in patients with early-onset cerebrovascular disease, these data suggest that (i) (‘mild’) TREX1 dysfunction may cause disease with adult onset, thus potentially broadening the phenotype of TREX1-associated conditions, and (ii) vascular risk factors may explain part of the phenotypic spectrum of TREX1-related disease. These data have been published:
+
+• Pelzer et al. J Neurol 2013;260:2188-90 [B2]
+
+2. As part of further efforts to define AGS overlap conditions, B1 was involved in the molecular definition and cellular characterisation of the type I interferonopathy spondyloenchondrodysplasia (SPENCD), and a novel monogenic form of lupus due to mutations in PRKCD. These data were published:
+
+• Briggs et al. Nat Genet 2011;43:127-131 [B1]
+• Belot et al. Arthritis & Rheum 2013;65:2161-71 [B1]
+
+3. In light of the rapid changes in sequencing technologies that have occurred over the last 3 years, B1 is exploring the possibility of high throughput parallel sequencing of the AGS-related genes. The rationale for such a mutation scanning platform is to capture the advantages (specifically, reduced turn-around time and reduced cost) of next-generation sequencing. Thus, considerable time, effort and resources have been dedicated to the development of an analytical pipeline (expected to come into operation in early 2014).
+
+
+Summary of WP3: NIMBL funding has facilitated the comprehensive description of the genetic basis of AGS and RVCL, the cataloguing of these variants in open-access databases, the harmonisation of genetic testing across diagnostic laboratories internationally, and the identification of new AGS-related / AGS-overlap genes.
+Work Package 4: Development of animal models relevant to NIMBL phenotypes
+Overall aim: To develop a portfolio of mouse models to explore the origin and progression of autoimmune disease in NIMBL-related diseases - these models to be used to interrogate fundamental biological questions relating to NIMBL human phenotypes in allied WPs.
+
+Involving: B2, B4, B6/9
+
+
+Task 1: Development of mice demonstrating conditional Samhd1 deficiency
+
+B4 established a re-derived colony of loxP-flanked Samhd1 mice in collaboration with the laboratories of Dr. Caetano Reis e Sousa at the Cancer Research-UK London Research Institute, Lincoln’s Inn Fields, London and Dr. Jan Rehwinkel (Oxford). We verified by RNA transcript analysis that the presence of the loxP sites did not appear to interfere with gene expression or splicing. This mouse colony was expanded and maintained on a C57Bl/6J background. Extensive genotyping was performed to confirm transmission at expected Mendelian ratios. Initial work in these collaborators’ laboratories indicated that Samhd1-deficient animals were healthy, with no obvious phenotype.
+
+We pursued plans to generate tissue-specific knockouts of Samhd1 using the same floxed founder mouse strain referred to above. Specifically, the Samhd1flox allele was crossed onto the transgenic SCL-Cre-ER(T) line and doubly heterozygous animals identified by genotyping, and cryopreservation performed (149 embryos). This cross could allow specific ablation of Samhd1 in vascular endothelial cells - a tissue of interest given the frequent manifestation of vascular pathology in patients with SAMHD1 deficiency. However, the lack of a prominent phenotype in the Samhd1-null mouse led us to decide that the production of conditional lines would not represent the best use of available resources.
+
+During the NIMBL project, publications appeared indicating that human SAMHD1 acts as a restriction factor for human immunodeficiency virus (HIV-1), blocking early stage virus replication in dendritic and other myeloid cells. Surprisingly, however, the Oxford / London group found that in the murine system, Samhd1 deficiency did not lead to increased infection by pseudotyped HIV-1 vectors. This was despite the presence of a (mild) type I interferon signature in the relevant cells, and an elevation of dNTP levels in Samhd1-deficient cells. Subsequent work indicated that the manifestation of virus restriction by murine Samhd1 depends on the kinetics of the viral reverse transcriptase; a mutant with an elevated Km for dNTPs was restricted in a Samhd1-dependent fashion, unlike the wild-type HIV-1. This work was published:
+
+• Rehwinkel et al. EMBO J. 2013;32:2454-62 [B1, B4]
+
+
+Task 2: Development of an Rnaseh2c knock-in mouse
+
+B4 developed a knock-in Rnaseh2c mouse as a model of AGS3, by introducing the R69W mutation into the coding sequence; R69W is the predominant human mutation in the AGS3 gene, and an important cause of AGS in the UK Pakistani community. This strategy was chosen because biallelic null mutations are notably absent at the AGS2-4 loci (genes encoding the RNASEH2 complex subunits) and likely to be embryonic lethal. At AGS3 (RNASEH2C), the missense mutations observed in AGS patients are all located at conserved residues, suggesting that they could affect the protein structure or its activity in some way. The R69W mutation, in particular, has been shown to significantly reduce the enzymatic activity of RNASEH2C in vitro. By March 2013, homozygous R69W/R69W offspring showed no apparent ill-health. Tissues were harvested from these homozygous animals for molecular analysis (particularly of DNA ribosubstitution) - results are still in preparation.
+
+
+Task 3: Development of mice demonstrating conditional Trex1 deficiency
+
+Trex1 null mice have a shortened life-span due to the development of an immune-driven endocarditis. To obtain further information about AGS, we wanted to explore the genesis of the observed (lethal) endocarditis by considering the different cell types in which Trex1 is expressed. Thus, B6/9 developed a conditional Trex1 knock-out (KO).
+
+As was expected / hoped, these results show that there was no production of Trex1 in macrophages, whilst normal levels of Trex1 were observed in other tissues. We are currently testing other cell types (neutrophils, dendritic cells) to determine the specificity of the conditional model. Trex1 null mice were also crossed with a mouse expressing Socs2-CRE that is expressed in the early stages of development. These results show that Trex1 is lacking in all the tissues tested i.e. that the model represents a true conditional, which could now be used for further studies of the temporal development of the Trex1 null associated phenotype.
+
+
+Task 4: Development of mice expressing Trex1 protein with a human pathogenic RVCL mutation
+
+B2 has developed this mouse model. Characterisation of these mice, from a few months of age to almost two years, suggests that they do not show an obvious disease-relevant phenotype (for more details, please see WP9 Task 2). An extended analysis is now being planned.
+
+
+Further aspects of note relating to WP4
+
+1. In order to compare molecular and neurobiological phenotypes of two clinically overlapping small vessel diseases, i.e. RVCL and CADASIL, B2 had previously generated founders and, towards the end of NIMBL, set out to breed over-expressor CADASIL mutant mice. As migraine is a prominent feature in both RVCL and CADASIL, B2 had the unique opportunity to explore a possible relationship between these conditions. In addition to breeding RVCL knock-in mice in large quantities, CADASIL over-expressor mice, expressing either wild-type human NOTCH3 or mutant R182C NOTCH3, have been successfully bred at B2. As a continuation of this WP, B2 is now backcrossing mutant and wild-type alleles onto a C57/Bl6J background.
+
+
+Summary of WP4: NIMBL has delivered on three of four mouse models. A strategic decision, based on our derivation and characterisation of the Samhd1 null mouse, discouraged us from developing a Samhd1 conditional line (although preparations for this model were made, and floxed / Cre double heterozygote embryos frozen). Outputs relating to our Rnaseh2c knock-in, conditional Trex1 deficient and RVCL-Trex1 knock-in mice are expected in the future – but the absence of an obvious phenotype relating to the first and third of these models meant that we adapted our experimental efforts / publication priorities during the course of the project.
+
+Work Package 5: Use of AGS animal models
+Overall aim: To explore the cell-type specific consequences of AGS-related protein dysfunction, and to generate in vivo systems to track disease from its earliest initiation to pathology.
+
+Involving: B4, B6/9, B7
+
+
+Task 1: Transcriptional profiling in conditional mice
+
+The absence of an obvious phenotype in Samhd1 null mice, and in our Rnaseh2c knock-in model, meant that we took a strategic decision not to pursue comprehensive transcriptional profiling in such animals (see WP4 above for justification).
+
+
+Task 2: Investigations in conditional knock-out mice
+
+Our original plan included the use of a conditional Samhd1 knock-out (KO) and an Rnaseh2c knock-in mouse model. However, our finding that the Samhd1 null mouse does not demonstrate an overt phenotype, indicated to us that it was no longer appropriate to pursue these experiments as originally envisaged. However, using the full Trex1 KO mouse model, we made unexpectedly rapid progress in enhancing our understanding of the central role of interferon in AGS pathogenesis. Thus, the knowledge that we hoped would accrue from this Task was, to a large extent, acquired through Tasks 5.3 and 6.1, where we describe the tissue specific relevance of the these AGS-related proteins.
+
+
+Task 3: Use of novel reporter mice to track the cellular dynamics of cell-intrinsic autoimmune initiation in vivo
+
+B7 used an in vivo reporter of interferon activity in Trex1-deficient mice to explore the cell type-specific consequences of AGS-related protein dysfunction and localize the earliest initiation of disease to non-hematopoietic cells. This groundbreaking work demonstrated that interferons drive T cell-mediated inflammation and a T-cell dependent autoantibody response to abundant, tissue-restricted autoantigens. However, B cells also contribute to mortality, independently of this T cell-mediated tissue inflammation. These findings reveal a stepwise progression of interferon-mediated autoimmune disease in Trex1-deficient mice, with implications for the treatment of AGS and related diseases. Accompanied by a three-page Preview article (Pascual V and Banchereau J. Immunity. 2012;36:7-9), these findings were published:
+
+• Gall et al. Immunity 2012;36:120-31 [B7]
+
+Task 4: Examination of the contribution of TLRs to autoimmune disease in AGS-related protein deficiency
+
+AGS is a type I interferon -associated autoimmune disease, caused by pathogenic mutations in any one of six published genes, leading to loss of function of the associated proteins. Type I interferons and Toll-like receptors (TLRs), proteins that are involved in nucleic acid sensing, have been shown to play central roles in other severe autoimmune diseases, including SLE and psoriasis. B7 investigated the complex pathway that detects cytosolic DNA within mammalian cells, as this is key to understanding the mechanisms involved in AGS and NIMBL-relevant pathology. The interferon stimulated DNA (ISD) response, signals activation of the anti-viral response through a specific cascade, involving a protein known as STING (Stimulator of Interferon Genes). The aim of this Task was to understand the involvement of TLRs in the detection of nucleic acids, as relevant to AGS. B7 found that the type I interferon response associated with Trex1 deficiency is entirely dependent on the STING-dependent ISD pathway and not TLRs. However, our experiments also showed that Myd88 signalling, thus implicating TLRs, is relevant to disease progression / amplification in the Trex1 null mouse. These findings are being prepared for publication.
+
+
+Further aspects of note relating to WP5
+
+Following on from our identification of ADAR1 as the AGS6 gene, B7 obtained mice with a conditional Adar1 allele from Prof Stuart Orkin’s group at Harvard for analysis of AGS-relevant phenotypes. Adar1-deficient mice display embryonic lethality with 100% penetrance by embryonic day 13. This lethality is associated with a massive type I interferon signature in embryonic tissues. To identify the source of the interferon response, and test whether it contributes to early lethality, we generated mice with a complete null allele of Adar1 and then intercrossed Adar1+/- mice on STING-/- and MAVS-/- backgrounds. Importantly, STING deficiency completely rescues Trex1-/- from autoimmune inflammation and from lethality. In contrast, we found that Adar1-/-;STING-/- mice were not rescued from embryonic lethality, and that the interferon response was still present in Adar1-/-;STING-/- embryos at day E11. These studies are ongoing.
+
+
+Summary of WP5: Using mouse and cellular models, and informed by human data, the NIMBL consortium has made exceptional progress in defining the cellular basis of AGS related to Trex1 deficiency in a mouse model. As is inevitably a risk with mouse reverse-genetics (i.e. targeting human-disease related genes in mice without prior knowledge of the animal phenotype), we were disappointed by the lack of obvious disease features related to our RNaseH2C and RVCL-Trex1 knock-ins, and the subtle phenotype associated with our Samhd1 knock-out. However, further work is warranted in all of these three systems.
+
+
+Work Package 6: Cell biology of TREX1 and SAMHD1
+Overall aim: To develop our understanding of the function of TREX1 and SAMHD1, an objective considered crucial to the development of future treatments for NIMBL-related disorders.
+
+Involving: B4, B6/9 (plus B3 and B1)
+
+
+Task 1: Definition of the mechanistic function of TREX1
+
+The cellular mechanisms by which TREX1 deficiency leads to AGS may be multifold. The Trex1 knock-out (KO) mouse model has a dramatically reduced life expectancy due to the development of an inflammatory myocarditis. We, and others, have demonstrated that an increase of intracellular DNA triggers interferon production that causes a so-called anti-viral state, which, in turn, leads to autoimmunity. In an attempt to better understand AGS-relevant inflammation at a cellular level, we undertook an anatomo-pathological study of Trex1-/- mice, with particular emphasis on the macrophage immune cell type.
+
+Summarising, experiments derived by B6/9 showed that in the absence of Trex1, macrophages displayed an overt proinflammatory state. Particularly, following proinflammatory stimulation, Trex1-/- macrophages exhibited increased TNF-a and IFN-a production These results reveal a previously unrecognised function of Trex1 as a negative regulator of macrophage inflammatory activation, and suggest that macrophages may play an important role in TREX1-related AGS. These findings have very recently been published:
+
+• Pereira-Lopes et al. J Immunology published online 11 November 2013 [B6/9]
+
+B6/9 (has been interested to understand factors important in determining the half-life of Trex1. The Trex1 sequence does not contain premature termination codes, ARE (AU-rich element) sequences or PUF (Pumilio and FBF homology protein) motives. To interrogate the role of miRNAs in relation to Trex1 metabolism, B6/9 silenced Dicer1, but no modifications were observed on Trex1 half-life. Pull down experiments with Trex1 binding proteins were also performed and, through sequencing, several candidates have been identified that might be responsible for regulating the half-life of Trex1. Our strategy is to now perform an inhibition of these proteins, with siRNA, in order to investigate this issue further.
+
+B6/9 received mice (generated by B3) with a mutation in the C-terminus of Trex1 associated with autosomal dominant RVCL. Bone marrow-derived macrophages were obtained from these mice. When activated with interferon gamma, Trex1 was induced – but with a decreased size, as expected, compared to controls. When we treated cells with interferon gamma (IFN-?) and measured the expression of ifn-ß, il-1ß, and tnf-a, mutated cells did not show any different activation in relation to controls. Following three days in culture, the percentage of cells that died after IFN-? or lipopolysaccharide treatment was higher if they had mutated Trex1. It was also noted that when treated with IFN-? or H2O2, the number of cells with single DNA breaks was elevated in Trex1 mutated cells. Experiments to investigate these aspects of TREX1 biology are planned.
+
+
+Task 2: Biochemical and structural characterization of SAMHD1
+
+The AGS5 disease locus corresponds to the gene SAMHD1, which encodes a protein of unknown function at the time of its discovery in 2009. Recognizable domains within the encoded protein include a SAM (sterile alpha motif) and HD (hydrolase) domain, but SAMHD1 is the only protein to have these motifs tandemly arranged. SAM domains serve a wide range of functions within the family of proteins containing them, including protein-protein interaction and nucleic acid binding. The latter is of particular interest given that the products of the AGS1-4 genes are nucleic acid-degrading enzymes.
+
+B4 obtained biochemical and structural insights into human SAMHD1 using recombinant proteins, and utilised such information to interpret the results of in vivo studies in Samhd1 mutant mice. The later part of this work was informed by the knowledge that in addition to being the mutated gene in AGS5, SAMHD1 was shown to act as a restriction factor for HIV1, blocking early virus replication in target dendritic cells. During this work, scientists in another laboratory (in collaboration with B1) determined the crystallographic structure of the catalytic domain of SAMHD1, and demonstrated a GTP-stimulated nucleoside triphosphohydrolase activity. This is postulated to be responsible for the inhibition of HIV replication, via depletion of intracellular dNTP levels. In addition, our Samhd1 KO mice have provided some evidence for the proposed mechanism of action of SAMHD1 in retrovirus restriction; these animals display elevated dNTP levels, and increased susceptibility to retrovirus replication with characteristics that support the idea that exact levels of dNTP are a critical determinant. These data have been published:
+
+• Goldstone et al. Nature 2011;480:379-82 [B1]
+• Rehwinkel et al. EMBO J 2013;32:2454-62 [B1, B4]
+
+B1, in collaboration with a research group in Vienna, investigated truncating mutants of SAMHD1 (found in AGS patients). In this way, a previously unrecognised nucleic-acid-binding activity of SAMHD1 was mapped to residues 164-442, thus overlapping with the HD domain. Furthermore, results showed that although wild-type SAMHD1 displays almost exclusive nuclear localization, 11 of 12 SAMHD1 mutants showed at least partial mislocalization to the cytosol. These data were published:
+
+• Goncalves et al. Human Mutation 2012;33:1116–1122 [B1]
+
+B6/9 determined that Samhd1 is induced in different tissues by pro-inflammatory cytokines (IFN-?, IFN-a) and lipopolysaccharide, but not by anti-inflammatory cytokines (IL-4 and IL-10). The induction by IFN-? was STAT1-dependent and required protein synthesis. Because the half-life of mRNA is very long, these data indicate that induction of Samhd1 mRNA by IFN-? is mediated at a transcriptional level. B6/9 cloned 1498 bp of the gene promoter for use in transient transfection experiments. It was found that a fragment of 161 bp is critical for the induction of Samhd1 by IFN-?. Using gel retardation assays, it was also determined that a protein complex bound to the 161 bp fragment under basal conditions. When cells were treated with IFN-?, the nuclear extract produced a protein complex with a reduced relative mass. These data suggest that the expression of Samhd1 may be under negative repression. Further work is actively ongoing relating to these results.
+
+
+Summary of WP6: Considerable progress has been made through our own NIMBL-funded efforts, and the work of others – particularly relating to the solving of the crystal structure of SAMHD1, and the elucidation of the biochemical function of SAMHD1 – which is now known to be a potent dGTP-stimulated triphosphohydrolase, converting deoxynucleoside triphosphates to the constituent deoxynucleoside and inorganic triphosphate. Because of the importance of both TREX1 and SAMHD1 in the biology of HIV-1, our efforts have synergised with the outputs of multiple groups worldwide – so that knowledge of the function of these molecules has proceeded at a rapid pace.
+
+
+Work Package 7: AGS-related nucleic acid substrates
+Overall aim: The aim of this WP was the development of new tools and techniques to define the nucleic acid substrates which accumulate in the NIMBL deficiency states. Since these nucleic acids are postulated to represent the primary trigger of downstream immune system activation, understanding their genesis could be central to the development of rational therapies.
+
+Involving: B7
+
+Task 1: Generation of tandem affinity purification (TAP)-tagged forms of AGS-related proteins and reconstituted AGS-protein deficient cell lines (with these tagged alleles)
+
+B7 developed novel tools to characterize Trex1 nucleic acid substrates; specifically, cell lines expressing TAP-tagged forms of Trex1 for purification of Trex1 and its associated DNA substrates have been generated. B7 also performed yeast 2-hybrid analysis of Trex1 in order to gain insight into interacting proteins and determine the biological processes impacted by Trex1. In addition, B7 generated stable cell lines expressing a form of the Rnase H2 complex in which all three subunits are tagged.
+B7 also developed a method for direct chemical crosslinking of Trex1 to its DNA substrates in live cells using conventional chromatin immunoprecipitation (ChIP) techniques. ChIP relies on the ability of formaldehyde to reversibly crosslink proteins to closely associated DNA. For this method to be effective, the target protein must contain lysines in close proximity to the bound DNA, because the primary amine of the lysine side chain contributes one essential half of the covalent crosslink. Inspection of the co-crystal structure of Trex1 with single-stranded DNA revealed a complete absence of lysines in proximity to the active site. Moreover, purified, WT Trex1 did not crosslink to DNA in solution when treated with formaldehyde. B7 has therefore engineered a modified form of Trex1 in which lysines have been substituted in place of three non-conserved, solvent-exposed amino acids within flexible loops of the protein in proximity to the DNA but sufficiently distant from the catalytic site. This 3lys-modified Trex1 was constructed within the context of both active Trex1 and a dominant catalytic mutant of Trex1 that can tightly bind to DNA but not excise nucleotides. For stringent purification, B7 has added a tandem N-terminal tag consisting of an in vivo biotinylation sequence and a 6x-Histidine tag separated by a cleavage site for tobacco etch virus (TEV) protease. B7 then determined the optimal conditions for recovery of in vivo-biotinylated Trex1 from cell extracts, and found that the addition of supplemental d-biotin to culture media facilitates recovery of almost all Trex1 from extracts in a single, rapid step.
+
+
+Task 2: Development of in vivo cross-linking approaches to capture the nucleic acids that are directly bound to AGS-related proteins in live cells
+
+Prior to the start of NIMBL, B7 developed a novel method to isolate and purify cytosolic DNA directly from heart tissue of Trex1-deficient mice, thus providing initial insights into the nature of Trex1 DNA substrates. However, the exact identity of these nucleic acid substrates remained unclear at that time. During the NIMBL project, B7 has used state-of-the-art methods to define the nucleic acid species which accumulate in this deficiency state, to precisely define the biogenesis and scope of the nucleic acids that likely accumulate in Trex1 deficiency (and possibly other forms of AGS). The ultimate goal after characterizing the nucleic acid substrates will be to determine the enzymatic activities that generate them. Since these nucleic acids are postulated to represent the primary trigger of downstream immune system activation, understanding their genesis is central to the development of rational therapies.
+
+B7 has extended this analysis to more DNA clones. We noticed that while we were able to map much of this recovered DNA unambiguously to the mouse genome, almost none of the recovered fragments precisely matched the published genome sequence. We then catalogued all of the nucleotide changes in the recovered DNA relative to the genome sequence and found a dramatic bias towards C>T transitions, such that a C encoded in the genome was recovered as a T in the cloned DNA fragment. C>T transitions are indicative of deamination of cytosine to uracil (U), which is then copied as a T during PCR amplification. Such DNA deamination can occur spontaneously by chemical hydrolysis, and is estimated to occur randomly at up to 10,000 cytosines per cell per day. However, when we closely examined the sequence context of the C>T transitions, we found a strong signature of TCT in the genomic sequence recovered as TTT in the cloned DNA fragments. This sequence context argues strongly against spontaneous deamination, but instead suggests the presence of an enzymatic activity that deaminates the accumulated DNA. Interestingly, the TCT signature in our recovered clones is distinct from the known sequence preference of the murine APOBEC3 DNA deaminase, suggesting the existence of a novel deaminase that may be relevant for modifying accumulated Trex1 DNA substrates.
+
+These findings reveal a number of important features of Trex1 DNA substrates. First, the differences between the recovered clones and the genomic sequence means that these DNAs are not simply random genomic fragments that we accidentally recovered in our isolation protocol. The DNAs were modified by deamination, likely by a specific enzyme, between the time they were generated and the time we harvested the DNA for analysis. Second, we recovered a strong signature of C>T transitions, but did not find evidence for the corresponding G>A transitions that would be present on the DNA strand complementary to the deaminated cytosine. This strand bias is known to occur during deamination of retroviral and retroelement DNA, where the first strand cDNA is targeted but the second strand is not. Thus, our method for isolation, cloning, and sequencing of Trex1 DNA substrates is strand-specific. Third, the TCT sequence context of the deaminated cytosines suggests a novel enzymatic activity, distinct from the known APOBEC3 DNA deaminase, that modifies Trex1 substrates. Interestingly, this signature most closely matches that of APOBEC1, a deaminase that is known to modify specific RNAs in vivo, but has not yet been demonstrated to act on DNA. Overall, our analysis of Trex1 DNA substrates further supports our hypothesis that these DNAs arise from reverse transcription of cellular RNA into immunostimulatory DNA.
+
+Our method for identifying Trex1 DNA substrates revealed, for the first time, a potential role for retroelements in AGS, and also demonstrated, again for the first time, a means of innate immune recognition of retroelements and retroviruses based on detection of reverse transcribed DNA. More relevant for AGS, we proposed that the genes mutated in AGS would comprise a system of anti-retroviral defence. This proposal has been validated by the identification of the AGS gene SAMHD1 as the principal restriction factor that prevents HIV-1 infection of human monocytes and dendritic cells. SAMHD1 was shown to be a dNTP phosphohydrolase that ‘starves’ the HIV reverse transcriptase of dNTPs, thus preventing reverse transcription. Interestingly, SAMHD1 is targeted for degradation by the Vpx accessory factor of HIV-2 and numerous primate lentiviruses. Moreover, we have also found that RNaseH2 is a potent anti-retroviral enzyme. As such, five of the six known AGS genes have a clear role in the metabolism of retroelement reverse transcription intermediates, thus providing a unifying framework for the study of AGS-related gene / protein function.
+
+To extend this framework, we have also been working on identifying substrates of RNaseH2 – an endonuclease that cleaves the RNA strand of RNA-DNA hybrids. A monoclonal antibody called S9.6 specifically binds to RNA-DNA hybrids in a sequence-independent manner, thus enabling us to enrich for these structures by simple immunoprecipitation of cell lysates. Using S9.6, we have been working to optimize a protocol for immunoprecipitation of RNA-DNA hybrids from AGS patient fibroblasts and control human fibroblasts. Following recovery, we have created a method for ligating unique, barcoded adapters to the DNA strand, copying this strand, amplifying the recovered material, and identifying it using massively parallel next-generation sequencing. We have made substantial progress towards this ambitious goal, on both the practical side of specific and reproducible recovery of RNA-DNA hybrids, as well as the computational strategies required to map these recovered DNAs to the human genome. We have overcome challenges associated with unambiguous identification and absolute quantification of DNA fragments by including a unique molecular identifier (UMI) in the adapter used in the first DNA ligation. We have generated new methods for analysis, including a platform for mapping DNAs to repetitive elements in the human genome. We call this method nascent reverse transcriptase sequencing (NRT-SEQ), and we anticipate that it will be an extremely valuable technique for characterizing the reverse transcription landscape within cells. These data are in preparation for submission.
+
+
+Summary of WP7: This WP was mainly focused on the development of tools to better define the nature of immunostimulatory nucleic acid species presumed to trigger the proximal innate immune response relevant to AGS. Concentrating initially on Trex1 as a paradigm, these tools have allowed us to extend previous results derived by B7. Of major significance, rapid progress has been made in highlighting a likely key role for the AGS-related proteins in retroelement metabolism - which thus represents a central theme in AGS-causation, and has immediately suggested a targeted approach to block retrotransposition of such retroelements as a therapy in AGS.
+
+
+Work Package 8: Cytokines, autoantibodies and astrocytes in the pathology of AGS
+Overall aim: To address the neuropathological aspects of the human AGS phenotype. Following on from NIMBL-related Trex1 mouse work, we also considered the role of autoantibodies and cytokines in the context of AGS, with an aim to understand disease pathology (and thus direct therapeutic approaches).
+
+Involving: B5, B8 and B1
+
+Task 1: Investigation of cytokine and autoantibody profiles in AGS patients
+
+B5 analysed plasma from 22 AGS patients and cerebrospinal fluid (CSF) samples from 11 AGS patients using the MILLIPLEX™ MAP Immunobead system. Significant elevations were seen in FMS-related tyrosine kinase 3 ligand (FLT3L), CXCL10, interleukin (IL)-12p40, IL-15, tumour necrosis factor ? (TNF?), and soluble IL 2 receptor-alpha (IL2R?) in both plasma and CSF of AGS patients as compared to healthy age-matched controls. This work, which was performed in collaboration with B8 and B1, resulted in a joint publication:
+
+• Takanohashi et al. Neurology 2013;80:997-1002 [B1, B5, B8]
+
+Using the same Luminex platform, B5 also assessed the production and release of cytokines in cultures of astrocytes derived from immortalized human neural stem cells (ihNSC). Those astrocytes were chronically treated with interferon alpha. In these cell cultures B5 described a downregulation of pro-angiogenic factors and other cytokines (vascular endothelial growth factor and IL-1). These findings were also confirmed in brain specimens from AGS donors that had become available during the NIMBL project. The disturbed metabolism of such angiogenic factors in the brains of infants affected with AGS might lead to abnormal vessel formation and proliferation. Indeed, B5 observed an aberrant vasculature with an excessive number of capillary-like blood vessels, especially in cortical areas, in AGS brain tissue specimens. These data have been recently reported:
+
+• Cuadrado et al. Brain 2013;136;245–258 [B5]
+
+In parallel to the above, B5 performed a multiplex autoantibody microarray to uncover the presence of autoantibodies in serum samples from 56 genetically confirmed AGS patients. The samples were obtained through exchange and collaboration with B1, B3 and B8. Serum from AGS patients exhibited high levels of IgG against nuclear antigens (gP210, Nup62, PCNA, Ro/SSA, Sm/RNP, SS-A/SS-B), components of the basement membrane (entactin, laminin), the coagulation factor fibrinogen IV, and the wheat protein gliadin. In addition, B5 found that the IgGs were targeting endothelial cells and, more strikingly, astrocytes in brain sections of AGS deceased patients. Furthermore, B8 confirmed, in a proteomics approach, that IgG in serum samples from AGS patients binds to endothelial and astrocytic epitopes present in cerebral white matter. These distinct and novel autoantibody specificities have the potential to provide new insights into the pathogenesis of AGS, and may contribute to the development of therapeutic strategies for the chronic inflammation in AGS. This collaborative work has been submitted for publication.
+
+Finally a large series of patients (n=400) with defined autoimmune diseases (including systemic lupus erythematosus (SLE), neuro-SLE and mixed connective tissue disease) have been analyzed using a new autoantibody array (that includes 95 IgG and IgM autoantibodies). The measurement of autoantibodies in these patients will help to clarify the role and relevance of autoantibodies in the pathology of AGS compared to SLE and, especially, neuro-SLE. B5 is currently analyzing these data prior to submission.
+
+B8 has studied AGS patient CSF and blood immune phenotypes, using FACS sorting, and demonstrated an increase in circulating B cells in the blood of AGS patients, along with an increase in natural killer (NK) cells in the CSF, relative to patients with multiple sclerosis and genetic immune conditions of the brain (NOMID and CANDLE). The role of these cell populations in AGS is at this point not fully elucidated, but the finding of an increased population of B cells is interesting given the possible role of autoantibodies in AGS pathogenesis. Furthermore, NK cells are known to play a role in the viral response, which may be relevant to AGS pathology based on immune stimulatory nucleic acids. A manuscript relating to these data is in preparation.
+
+B8 has also studied neuronal specific autoantibodies in AGS patient plasma relative to controls. B5 is assisting with validation studies of the proposed antigen candidates, and B7 has helped with experimental design and trouble-shooting. A manuscript is in preparation, and the data have been presented at national scientific meetings.
+
+1. Sandza et al. American Academy of Neurology, Honolulu (April 2011) [B8]
+2. Sandza et al. Society for Neuroscience, Washington DC (November 2011) [B7, B8]
+
+
+Task 2: Investigation of astrocyte function in AGS
+
+Using the in vitro system of ihNSC-derived astrocytes, B5 described that chronic exposure of astrocytes to interferon alpha resulted in an alteration of genes and proteins involved in the stability of white matter (ATF4, eIF2B?, Cathepsin D, Cystatin F). Interestingly, withdrawal of interferon alpha for seven days barely reversed these cellular alterations, demonstrating that the interferon alpha mediated effects persist over time. These results were confirmed using brain samples from patients with AGS, and indicate a role for interferon alpha as a key factor in the pathogenesis of AGS relating to the observed leukodystrophy and microangiopathy. Because of a sustained interferon alpha effect, even after withdrawal, therapeutic targets for AGS, and other interferon alpha-mediated encephalopathies, may include downstream interferon alpha signaling cascade effectors rather than interferon alpha alone. These data have been recently published:
+
+• Cuadrado et al. Brain 2013;136;245–258 [B5]
+
+As a continuation of the above investigations, B5 has examined the effect of silencing the expression of TREX1, SAMHD1, RNASEH2A and ADAR1 in ihNSC-derived astrocytes and human brain microvascular endothelial cells (hCMEC/D3). For the experiments in ihNSC and other cell types, B5 produced lentiviral particles to effectively knock-down (KD) gene expression and thus mimic the AGS background in experimental cell models. After testing several clones, those shRNA particles capable of knocking down gene expression more than 80% were selected for subsequent experiments.
+
+KD approaches in astrocytes, once differentiated from ihNSC, resulted in a compromise of the viability and proliferation of those differentiated cells, especially in TREX1 and ADAR1 KD cells. The amount of cell death of these cells was high, and resulted in a reduction of 70-80% of cells compared to the mock control (non-targeting shRNA). RNASEH2A and SAMHD1 KD cells grew and proliferated normally.
+
+The hCMEC/D3 microvascular endothelial cells were obtained through a collaboration with Pierre-Olivier Couraud (Inserm, Institut Cochin, Paris, France). The reason to study the effect of silencing the AGS-related genes in such endothelial cells is because there is now extensive neuropathological data suggesting that AGS may represent a primary microangiopathy (as supported by our experiments described above). Moreover, we, and others, have published (NIMBL-funded) data showing that AGS patients with SAMHD1 mutations suffer from cerebral large vessel disease. B5, in collaboration with B3 and B8, is currently preparing a review article highlighting the importance of intracerebral vascular disease in AGS – not limited to the SAMHD1 genotype.
+
+In contrast to the ihNSC cultures, the same KD strategy did not significantly affect the viability of microvascular endothelial cells. Only TREX1 KD in the hCMC/D3 cells induced a reproducibly and significant decrease in proliferation associated with a partial cell cycle arrest. Interestingly, and supporting our previous findings relating to proliferation and cell cycle arrest, TREX1 KD microvascular endothelial cells showed a slower migration capacity to recover an intact monolayer of cells in-vitro in a classical, so-called, ‘wound healing’ assay. The hCMC/D3 endothelial cells did not increase the production of interferon alpha because of intrinsic limitations of this cell line due to the process of immortalization. On the other hand, TREX1 KD astrocytes demonstrated an increased expression of interferon alpha and of the major histocompatibility complex class I (MHC class I).
+
+Additionally, B5 measured the expression of different interferon-stimulated genes (ISGs) upon KD of the various AGS-related genes. Microvascular brain endothelial cells showed a robust increase in the expression of some of these ISGs, including IFIT1, IFIT2, IFIT3, IRF9, OAS1, IFI27 and RSAD2, after AGS gene silencing. On the other hand, KD strategies in ihNSC-derived astrocytes demonstrated a notable increase of expression only in OAS1 and RSAD2. In both cells types, and for all the genes tested, TREX1 KD cells showed persistently higher transcriptional expression levels of these ISGs compared to other KD tissue cells and healthy untransfected control cells. Conversely, RNASEH2A KD in these cells resulted in constantly lower levels of ISG expression in all cell types - indicating that silencing of this single factor does not impact the cellular programme in a way that results in the typical ‘interferon signature’ seen in (predominately other genotypes of) AGS.
+
+Finally, the levels of proinflammatory cytokines were also measured in these different cell cultures – both by quantitative PCR and on a Luminex platform. Results showed that in endothelial cells there was an increase in the expression of CXCL10, especially in TREX1 KD cells. In astrocytes, there was a general increase of CXCL10 in all KD cells compared to controls, levels being higher on TREX1 KD. Astrocyte KD cells also demonstrated increased release of pro-inflammatory cytokines (IL6, CXCL10, CCL5 and TNF?). Again, TREX1 KD resulted in a maximum release of cytokines to the cell medium. In contrast, and again, RNASEH2A KD cells produced persistently lower levels of cytokines – corresponding well with the relatively milder phenotype of AGS2 among the various AGS subtypes (AGS1-6). The increased expression of ISGs and cytokines in TREX1 KD cells is congruent with previous observations suggesting that TREX1 patients suffer from an earlier disease onset and a more severe disease evolution. The in vitro data suggest a more robust pro-inflammatory profile on TREX1 KD that might determine a greater degree of neuroinflammation and, as a consequence, a worse prognosis. These data are being prepared for submission to an autoimmune-focused journal.
+
+Further aspects of note relating to WP8
+
+During the second half of the project, B2 was able to collect tissue from three TREX1-mutation confirmed RVCL patients living in the Western part of the Netherlands. B2 was able to perform histopathologic examination of the retina at autopsy that consistently showed scattered micro-infarcts – with retinal arteries having thickened hyalinized walls, and focal areas of disruption to ganglion cells and the inner nuclear layer of the retina. In some areas, the pathologic process had progressed to retinal hemorrhage and neovascularization. With regards to the brain, gross pathology at autopsy demonstrated minimal to marked involvement of the periventricular white matter, particularly of the fronto-parietal lobes. Multiple, often confluent, foci of coagulation necrosis were identified in the white matter with sparing of the grey matter. Larger affected areas had extensive necrosis with focal calcification. On microscopic evaluation a striking vasculopathy affecting the medium and small calibre arteries characterized these necrotic foci and adjacent white matter. Fibrinoid necrosis, adventitial fibrosis, luminal narrowing and mural hyalinization with collagenous material were hallmarks of the vasculopathy. Focal calcifications and reactive astrocytosis were frequent findings. Myelin loss was substantial at autopsy. Neurofilament immunolocalization showed concomitant axon loss and large numbers of swollen axonal spheroids, consistent with an ischemic process. Electron microscopy showed irregular thickening and splitting of the basement membranes in vessel walls, especially in the media, with signs of smooth muscle cell and pericyte degeneration. These data will form part of a planned submission for publication.
+
+Summary of WP8: In this WP, we comprehensively addressed the profile of cytokines and autoantibodies in AGS in relation to the AGS inflammatory-associated brain damage. Furthermore, B5 has specifically defined a central role for astrocytes in AGS pathogenesis. Astrocytes are immune cells responsible for the production of many of the pro-inflammatory cytokines that appear elevated in AGS. Of major significance is the discovery that epitopes expressed by astrocytes are targeted by autoantibodies in AGS patients. As programmed, we have also provided a comprehensive description of the neuropathology of RVCL.
+
+Work Package 9: Clinical and animal research in RVCL
+Overall aim: To investigate endothelial function in RVCL, both through clinical testing of affected patients, and by using an RVCL Trex1 knock-in mouse developed in WP4.
+
+Involving: B2
+
+Task 1: Clinical endothelial tests in RVCL patients
+
+As the most prominent phenotype in RVCL patients is a vasculopathy in the retina, the cerebrum, the kidney and other organs, several clinical paradigms to test for vascular / endothelial function (i.e. Pulse Wave Analysis - PWA, Pulse Wave Velocity - PWV, and Flow mediated dilatation - FMD) were performed, in parallel to the clinical characterization of RVCL patients described in WP2. B2 determined the extent of the vasculopathy and assessed whether it is due to impaired endothelium-dependent or -independent (i.e. mediated by direct relaxation of smooth muscle cells) mechanisms. The various vascular tests searched for possible abnormalities in vessel functioning in RVCL patients at different levels of the vascular bed, namely vascular functional changes in arterial stiffness, endothelium-independent vasodilatation of resistance vessels, and endothelial function of conduit arteries. With respect to endothelial profiles in blood, no differences were observed for classical cardiovascular risk profile parameters, such as glucose, total cholesterol, HDL-cholesterol and triglyceride levels. As B2 is also the national referral centre for patients with Cerebral Autosomal Dominant Arteriopathy with Subcortical infarcts and Leukoencephalopathy (CADASIL) - another monogenic cerebral small vessel disease caused by mutations in NOTCH3 - we compared RVCL and CADASIL patients to determine any overlap and differences in endothelial profiles. We conclude that in both disorders there seems to be a reduced vascular functionality – but, unlike in CADASIL, in RVCL the systemic vasculopathy does not seem to involve degeneration of vascular smooth muscle cells. These data are almost ready for submission.
+
+Task 2: Testing phenotypes in mice with an RVCL-related Trex1 knock-in mutation
+
+B2 has begun characterizing the RVCL Trex1 knock-in mice (+Neo and -Neo), which were generated in WP4, at the molecular and neurobiological level. By analysing tail DNA (and, later, DNA obtained from liver), B2 established that the targeting / selection procedure was exactly as designed when making the targeting construct, and that the desired genomic alteration with the RVCL-associated Trex1 V235fs mutation was present at the correct position. In addition, no other sequence alterations were identified (e.g. at LoxP sites and restriction sites that were introduced for cloning purposes), with the neighbouring Atrip and Scotin genes intact. At the RNA level, on northern blots the expected band sizes were seen after probing total RNA of the three genotypes in –Neo mice. Preliminary quantitative PCR of spleen and kidney RNA does not seem to indicate changed expression levels of the neighbouring genes – indicating that the targeting approach had not interfered with sequence elements important for correct expression of these genes. At the protein level, in the homozygous RVCL Trex1 mutants, a smaller-sized product of around 26 kD was seen compared with 33 kD for wild-type (WT). This result confirms that the correct mutant protein is made in the mutant animals, thereby validating the generated mouse model. However, unlike in AGS1 Trex1 null mice, RVCL Trex1 knock-in mice do not show an overt phenotype at first inspection. RVCL knock-in mice seem to breed normally with no deviations from Mendelian distribution in the offspring. A histological analysis with H&E or Nissl staining of several organs (e.g. heart, eye spleen, kidney, liver, skin) does not seem to detect any clear abnormalities. However, at present, it is unclear whether a phenotype in RVCL Trex1 mutant mice will develop with age. Over the course of the NIMBL project, mice of both genders and various ages (young mice and mice well over one year of age) were tested. Already, B2 has searched extensively for possible structural abnormalities, beyond H&E and Nissl staining, with electron microscopy and on an immunohistochemical analysis platform - to test for abnormalities of potentially relevant marker proteins (e.g. Neu, GFAP, Iba1, CD31/PECAM-1 - for neuronal, glial, microglial, and retinal abnormalities, respectively). Additionally, as all tested commercial TREX1 antibodies, and antibodies provided by B1 and B6, failed at the immunohistochemistry level, B2 – in collaboration with B5 - tested four TREX1 antibodies that were newly generated by Biomatik (these antibodies are required in order to interrogate protein intracellular localisation). Epitopes were chosen from the N- (GSQALPPGPMQT and GSQTLPHGHMQT) and C-terminus (DMEATGLPFSQPK and ATLYGLFLASPGQ) of both human and mouse TREX1, respectively, and peptides were synthesized for immunization in rabbits. The antibodies were optimized for use in western blotting and immunohistochemistry – in order to test a range of post-mortem tissues (including cortex) of RVCL patients and controls, as well as tissues from transgenic RVCL and WT mice. However, despite extensive testing, in close collaboration with B5, of these antibodies under various conditions (e.g. differing titres, testing unpurified serum from rabbits, reducing / non-reducing / denaturing, testing different material i.e. human or mouse cells / tissue), no interpretable banding patterns were seen. More recently, B2 has generated multiple recombinant CMV-promoter containing plasmids (i.e. wild-type and V235fs mutant human and mouse constructs), which might allow detection of recombinant proteins. Attempts by B2 to identify functional pathology in RVCL knock-in mice has included ex vivo organ bath measurements of aorta and mesenteric arteries for interrogating differences in endothelial and smooth muscle cell dependent relaxation and constriction. Groups of mutant and wild-type mice of various ages (13, 26 and 52 weeks) are being measured. Finally, given the co-morbidity with migraine, B2 defined an operational platform to undertake neurobiological tests in RVCL Trex1 knock-in mice (e.g. using electrophysiological analysis of cortical spreading depression, CSD - an electrophysiological correlate of migraine). We have also generated, in parallel research, CADASIL mutant mice that may be helpful in identifying an RVCL-relevant phenotype (considering the clinical overlap between these two diseases). The search for a functional phenotype in these mice will continue beyond the end of the NIMBL project.
+
+Further aspects of note relating to WP9
+
+Considering the finding of a robust upregulation of interferon stimulated genes (ISGs) in patients with AGS, B1 looked for an interferon signature in patients with RVCL, but did not find evidence of such. Further work is planned to examine the expression of ISGs in RVCL Trex1 knock-in mice brains, and possibly in human RVCL brain tissue. These data may be important in providing a possible pathological link between AGS and RVCL.
+
+Summary of WP9: In this WP we have comprehensively addressed the clinical features of RVCL. We have also used an RVCL knock-in mouse model to try to better understand the pathology of this devastating adult-onset phenotype. Although initial characterisation of the RVCL mouse has revealed no obvious disease-related features, further work is fully warranted (particularly concentrating on an analysis of older mice).
+
+Work Package 10: Therapeutics in NIMBL phenotypes
+Overall aim: To consider therapeutic options relevant to NIMBL phenotypes, assess such therapies in the context of NIMBL-derived animal and cellular systems, and determine the possibility of translation into human drug trials.
+
+Involving: All beneficiaries
+
+Task 1: Evaluation of current treatments in NIMBL patients
+
+No effective therapies or cures for any NIMBL-related disorders exist at present. That is, treatment is currently based on ameliorating symptoms as they arise, and is not directed to addressing fundamental pathogenesis. During the first half of the NIMBL project, the clinical partners, notably B3, have collected information from patients relating to their current treatments and any side-effects reported; these data will help in the further evaluation of future drug trials (such as the one due to start in April 2014). Data has been collected on:
+
+• Skin lesions: local treatment in order to protect against low temperature, creams and ointments to promote healing, and vasoprotectives; no significant side effects, but also no important benefits
+• Spasticity: baclofen, botulinum toxin; no significant side-effects, but the treatment has shown only a slight improvement in spasticity; in one patient baclofen resulted in a reported significant improved of sleep disturbance
+• Seizures: a variety of anti-epileptic medications were considered, although seizure control in AGS is not a major problem in routine clinical practice
+• Gastrointestinal problems: omeprazole, gastric feeding tube; benefits: weight gain and also better quality of life, with no significant adverse side effects
+• Sleep disorder: antihistamines (niaprazina), benzodiazepines, melatonin: no significant side effects; in two patients sleep disorders apparently improved with niaprazina
+
+
+B1, B3, B5, and B8, with input from B7, prepared a consensus statement regarding treatments options for patients with AGS. This document has been published:
+
+• Crow et al. Clin Exp Immunol 2014;175:1-8 [B1, B3, B5, B8]
+
+Task 2: Testing drugs in NIMBL-derived cellular and animal models
+
+NIMBL associated diseases are severe, so that there is an urgent need to develop effective treatments. The aim of this task was to consider therapeutic options relevant to NIMBL phenotypes, assess such therapies in the context of NIMBL-derived animal and cellular systems, and consider the possibility of translation into human drug trials. Following on from insights derived from other WPs, we have investigated two treatment strategies in our NIMBL-generated disease models, 1. Reverse transcriptase inhibitors (RTIs) in both the Trex1 null mouse, and in a cellular assay of reverse transcription; and 2. Steroid-mediated immunosuppression in the Trex1 null mouse. These data are described more fully in Deliverable 10.2, but summarising:
+
+• Following on from previously published work by Beck-Engeser et al. (Retrovirology 2011), B7 has confirmed the efficacy of RTIs in the Trex1 null mouse (using a combination of Emtricitabine, Tenofovir and Nevirapine)
+• Furthermore, in preparation for human drug trials, B7 has also assessed the efficacy of RTIs in a cellular assay of LINE-1 (L1) retrotransposition
+• Additionally, B6 has demonstrated the positive effect of steroid-mediated immunosuppression in the Trex1 null mouse
+
+These three sets of data are in preparation for submission for publication.
+
+In regards of RVCL, the lack of an animal or cellular phenotype at this stage has so-far precluded the assessment of treatments in our experimental systems.
+
+Further aspects of note relating to WP10
+
+NIMBL associated diseases are severe, so that there is an urgent need to develop effective treatments. Since RVCL is an adult onset disease, it is possible that early intervention following diagnosis (either at the recognition of clinical features, or through family cascade mutation screening) could, in the future, allow for a cure / amelioration of the clinical phenotype. At this time, our understanding of the biology of RVCL is not mature enough to allow for directed therapeutic approaches, so that this phenotype will not be considered further here. In contrast, led by ourselves and by others, understanding of the biology of AGS-related disease has increased remarkably over the last 4 years. In particular, evidence has accrued to implicate the defective control of retroelements as a central theme in disease pathogenesis (Table 1).
+
+Thus, our proposal is that (certain) RTIs will inhibit the reverse transcription of endogenous retroelements deemed to be responsible for initiating the tissue damage seen in AGS. We believe that the current state of knowledge has advanced to the point where a phase II study is warranted to establish the safety of these RTIs in patients with AGS, and assess their effects on type I interferon outputs (prior to a full efficacy study).
+
+Table 1: Evidence supporting a role for AGS-related proteins in retroelement metabolism
+1. TREX1 activity on reverse transcribed DNA
+2. Retroelement DNA accumulation in TREX1-deficient cells
+3. Rescue of the lethal TREX1-null murine phenotype by treatment with reverse transcriptase inhibitors
+4. TREX1 digestion of non-productive HIV reverse transcripts in CD4 T cells and macrophages
+5. Role of RNase H2B in ‘facilitating’ HIV-1 infection (as per TREX1 – point 4 above)
+6. SAMHD1 acting as an HIV restriction factor in cells of the myeloid lineage; and silencing of SAMHD1 in non-permissive cell lines being associated with an accumulation of viral DNA
+7. SAMHD1 regulation of dNTP availability, a recognised limiting factor in retroviral propagation
+8. SAMHD1 regulation of LINE-1 retrotransposition, and defective LINE-1 inhibition associated with SAMHD1 mutated for pathogenic variants seen in AGS
+9. Known role of ADAR1 in editing Alus – retroelements comprising 10% of the human genome
+
+An issue in any drug trial is the assessment of therapeutic efficacy. We have shown that patients with AGS demonstrate an upregulation of interferon stimulated genes (ISGs) in peripheral blood. The features of this AGS-related ‘interferon signature’ include:
+
+1. An association with mutations in any of the known AGS-related genes
+2. Presence of a marked signature beyond the sub-acute encephalopathic stage, and showing no attenuation with patient age
+3. No association with patient sex
+4. The composite of data from a set of markers, thereby increasing the robustness of the assay and allowing for a quantitative score to be derived
+5. Measurement on small volumes of peripheral blood
+6. A turn-around time of less than five days
+
+Thus, for the first time, we have a well-characterised AGS biomarker, which we propose to use in the context of a clinical trial. These results have been published:
+
+• Rice et al. Lancet Neurol 2013;12:1159-69 [B1, B3, B4, B8]
+
+Founded on the remarkable progress enabled by NIMBL support, we are about to pursue a clinical trial of RTIs in AGS (financed through the European Leukodystrophy Association).
+
+
+Summary of WP 10: Specifically in regards of AGS, we have collated phenotypic data on 346 affected (molecular confirmed) patients, providing us with a detailed understanding of the natural history of the disease. Additionally, we have liaised with clinical professionals, patients, and pharmaceutical representatives (MedImmune and GSK) to fully assess treatment options in AGS. Following on from this work, we have investigated two treatment strategies in our NIMBL-generated disease models (RTIs in both the Trex1 null mouse and in a cellular assay of reverse transcription, and steroid-mediated immunosuppression in the Trex1 null mouse). We have also fully characterised a biomarker (the combinatorial read-out of ISGs) for monitoring treatment efficacy in humans. Building on these research assets, and the remarkable progress made by ourselves and others in understanding the biology of AGS, we have now secured funding for a drug trial (of RTIs) in AGS patients, which will begin in April 2014.
+
+Potential Impact:
+4. The potential impact and main dissemination activities
+
+By combining ideas, skills, resources and data from leading European and North American experts based in eight centres, this project set out to define the natural history and pathophysiology of Aicardi-Goutières Syndrome (AGS) and Retinal Vasculopathy with Cerebral Leukodystrophy (RVCL), prototype immune-mediated neurological diseases due to nuclease deficiencies. The overriding aim of the project was to acquire new knowledge, which would enable the development of diagnostic and therapeutic modalities applicable to AGS, RVCL and related phenotypes. Moreover, by providing fundamental insights into a novel mechanism of autoimmunity caused by inappropriate activation of nucleic acid sensors, it was considered that these data would enhance our understanding of more common autoimmune diseases including systemic lupus erythematosus (SLE).
+
+Scientific Impact
+
+This project has provided seminal insights into NIMBL-related diseases.
+
+• We now have to hand a remarkable collection of phenotypic (clinical, radiological and laboratory) data, which has allowed us / will allow us to better define the natural history of AGS and RVCL, and expand the phenotypic spectrum of NIMBL-associated conditions far beyond the original diagnostic parameters. This information will greatly assist clinical diagnostic practice, and improve the quality of data available to patients and their families.
+
+• Through the identification of new genes which, when mutated, cause AGS, we have extended diagnostic capability worldwide. Under the auspices of the European Molecular Genetics Quality Network (EMQN) we have also established quality controlled, diagnostic testing standards, and AGS testing has now been fully adopted by the Board of EMQN. In this way, we have gone some way towards the adoption / availability of best-molecular-practice in Europe and further afield.
+
+• By providing fundamental insights into a mechanism of autoimmunity involving the inappropriate activation of nucleic acid sensors, we have enhanced knowledge of AGS-related disease processes. In particular, we have further highlighted the importance of type I interferons in the pathology of AGS, and derived data which strongly implicate the defective control of retroelement metabolism as central to AGS biology. These concepts are novel, and are likely to have implications for a broader set of human disease states – most particularly the autoimmune diseases.
+
+Our patient studies, and the use of existing and newly-derived cellular and animal models, have helped to define rationale treatment approaches for AGS – so that the first clinical trial for the disease is now in preparation to begin in 2014 – a remarkable NIMBL-related achievement.
+
+Socioeconomic Impact
+
+AGS, RVCL and other overlap conditions are devastating diseases associated with significant morbidity, premature death and high risks of recurrence. By allowing for early diagnosis through enhanced clinical recognition, improved and extended molecular diagnosis, and increased availability of prenatal and carrier testing, our work has had, and will continue to have, significant socioeconomic impact worldwide. Moreover, although not easily quantifiable, our results and our commitment to research in this field are important in providing hope for the hundreds of families affected by these devastating conditions.
+Main dissemination activities
+
+The NIMBL beneficiaries have been involved in a wide range of dissemination activities, most particularly with the following groups: the scientific community including pharmaceutical companies – MedImmune and GSK (though publications and presentations at national and international meetings); key stakeholders (e.g. support groups); patients and their families at clinics (through direct contact and via the website and email); and with the wider community (via the public website). As with many funded projects, many results are disseminated after the end of the study, and this will be true of NIMBL also; research work has continued until the end of the project, and the derived data will continue to be analysed and published / disseminated well beyond the project end-date.
+
+Public website
+The public website (at http://www.nimbl.eu/ni/Home), designed by a subcontractor with input from B1, was launched in May 2011. The website, which has been updated regularly, provides basic information (for families, physicians and scientists, and members of the lay public) about the underlying genetics and biochemistry involved in the NIMBL-related conditions, and also describes how research in the NIMBL project helps to expand scientific knowledge. The website also gives email details for clinicians and newly diagnosed individuals and families to contact key NIMBL personnel.
+
+E-newsletters
+Four issues of the project e-newsletter (June 2011, April 2012, December 2012, and June 2013) have been circulated to families, with their consent, and to recipient organisations - including the British Paediatric Neurology Association, the European Society of Paediatric Neurologists, the British Society of Human Genetics, the European Society of Human Genetics, the British Society for Investigative Dermatology, the International Aicardi-Goutières syndrome Association (IAGSA), the European Leukodystrophy Association (ELA), and Contact-A-Family. These e-newsletters can be downloaded from the public website.
+
+Family conferences and contact with patients
+The clinical partners (B1, B2, B3, B5 and B8) are in regular direct contact with patients and their families, and also with other relevant stakeholders such as patient organisations (most particularly, IAGSA and ELA), to spread awareness of these diseases, discuss wider societal implications, and recruit more patients into the study.
+
+B8, B3 and B1 have held family-scientist conferences (in Washington DC and Manchester, these were held in conjunction with patient clinics) so that families could learn about the project directly from the NIMBL researchers, obtain updates on the current theories of the underlying causes of AGS, and meet other families. These family-scientist conferences give the families – often living far away from any other AGS families – the chance to meet and exchange experiences; they also provide a rare opportunity for the non-clinical scientists to have direct contact with the patients and their families, whose samples form the focus of their research. This can be very inspirational and reinforces the need for these investigations, making the laboratory work even more worthwhile and rewarding.
+
+A total of four such meetings have been held:
+1. Washington DC on 30 April 2011
+2. Pavia on 3 July 2012 (in combination with IAGSA)
+3. Washington DC on 6 October 2012. Patients and families stayed in DC for three days. On the first night there was a family dinner so that families could network and share experiences. During the next two days, each individual family was assessed clinically (see WP2). Speakers also presented on setting up family support groups for rare conditions, and how laboratory-based research might result in future treatments. Links to the presentations are on the NIMBL website:
+• Morning session (duration: 2 hours):
+https://cnmc.webex.com/cnmc/ldr.php?AT=pb&SP=MC&rID=13191317&rKey=8e9c9a39ae098da9
+• Afternoon session (duration: 1 hour)
+https://cnmc.webex.com/cnmc/ldr.php?AT=pb&SP=MC&rID=13191327&rKey=6a5dd026d177c34d
+4. Manchester on 6 March 2013. Patients and families stayed one or two nights (depending on their travel arrangements) and a family dinner, also attended by the NIMBL PIs, was held the night before the conference. The presentations from the final conference were filmed and are available to view on YouTube:
+• NIMBL: an international consortium on AGS: Diana Chase (http://www.youtube.com/watch?v=3gMgXntekxE) [B1]
+• Investigation of astrocyte function in AGS: Taco Kuijpers (http://www.youtube.com/watch?v=kfALmBP9_5Q) and Eloy Cuadrado: (http://www.youtube.com/watch?v=ZsGbUAK4lBo) [B5]
+• How brain scans (CT and MRI) help in the diagnosis of Aicardi-Goutières syndrome: John Livingston (http://www.youtube.com/watch?v=d-wm8QRVIj4) [B4]
+• Investigating the role of RNaseH2 in AGS: Karen McKenzie (Institute of Genetics and Molecular Medicine, Institute of Genetics and Molecular Medicine): (due to the sensitivity of the material presented, this is not on YouTube)
+• Diagnostic mutation testing; 6 years’ experience of providing genetic testing to AGS patients and their families: Teresa Lamb (Yorkshire Regional Genetics Service, Leeds, UK): (http://www.youtube.com/watch?v=nsfjdie2GpI) [B4]
+• The US based AGS experience: mechanisms and biomarkers: Adeline Vanderver: (http://www.youtube.com/watch?v=G147CX0h1ew) [B8]
+• Research Progress and the Future of Treatments in AGS: Yanick Crow: (http://www.youtube.com/watch?v=3HZFFhw-NW0) [B1]
+
+A further family-scientist meeting is planned for October 2014, in Washington DC
+
+Publications in peer-reviewed journals
+By the end of the project, the results from this research study have formed the basis of a total of 30 peer-reviewed publications, one on-line review, and a book chapter (see below for a full list). Several of the publications were in very high-impact journals [Impact Factors quoted from 2012 JCR Science Edition], including Nature (Impact Factor 38.597) in 2011 (Goldstone et al. [B1]); Nature Genetics (Impact Factor 35.209) in 2011 (Briggs et al. [B1]), and in 2012 (Rice et al. [B1, B3 and B8]); Immunity (Impact Factor 19.795) in 2012 (Gall et al. [B7]); and Lancet Neurology (Impact Factor 22.917) in 2013 (Rice et al. [B1, B3 and B8]). Of these, the Goldstone et al. 2011, Gall et al. 2011 and Rice et al. 2012 papers have already amassed 107, 48 and 22 citations respectively, which is impressive considering that they were only published in 2011 / 12.
+
+The Goldstone paper attracted a comment in ScienceDaily (7 Nov 2011) www.sciencedaily.com/releases/2011/11/111107033929.htm, while several other NIMBL publications have attracted editorial comment: Briggs et al. (2011), Gall et al. (2012), Pereira-Lopes et al. (2013) and Rice GI et al. (2013). Indeed, some of the figures from Livingston et al. (e-pub 2013) will be on the front cover of J Med Genet Feb 2014 issue.
+
+
+More papers are expected to be published in the future, following further analysis of more recently derived data.
+
+Presentations at conferences, seminars and workshops.
+During the NIMBL project, a total of 45 oral and 17 poster presentations about the results obtained were given by NIMBL researchers at seminars, workshops, and conferences, both nationally (UK, the Netherlands, Italy, Spain and the USA) and internationally (Turkey, Ireland, Belgium, France, Switzerland, Slovenia, Mexico, and Canada - Toronto and Vancouver). Within the USA, in addition to the ‘home’ locations of Washington DC and Seattle (University of Washington), presentations were given in many other American states, (California, Texas, Maryland, Georgia, Massachusetts, New York, San Diego, Colorado, Illinois and Hawaii).
+
+Other presentations, based on more recently acquired NIMBL data, are expected to be given in the future.
+
+
+Publications: Full NIMBL project (acknowledge NIMBL / EC-funding, N.B. authors directly contributing to NIMBL are shown in bold font). Journal Impact factor (IF) given after journal title:
+
+A. On-line reviews
+1. Aicardi J, Crow YJ, Stephenson JBP. Aicardi-Goutières Syndrome. GeneReviews™ [Internet]. Updated 01/03/12. (doi: ncbi.nlm.nih.gov/books/NBK1475) [B1]
+
+B. Book chapters
+1. Crow YJ. Aicardi-Goutieres Syndrome. Handb Clin Neurol (2013) 113:1629-35 (doi: 10.1016/B978-0-444-59565-2.00031-9) [B1]
+
+C. Full publications in peer-reviewed journals (listed in order of impact factor [IF])
+1. Goldstone DC, Ennis-Adeniran V, Hedden JJ, Groom HC, Rice GI, Christodoulou E, Walker PA, Kelly G, Haire LF, Yap MW, de Carvalho LPS, Stoye JP, Crow YJ, Taylor IA, Webb M. HIV-1 restriction factor SAMHD1 is a deoxynucleoside triphosphate triphosphohydrolase. Nature [IF 38] (2011) 480(7377):379-382 (doi: 10.1038/nature10623) [B1]
+
+2. Rice GI, Kasher PR, Forte GM, Mannion NM, Greenwood SM, Szynkiewicz M, Dickerson JE, Bhaskar SS, Zampini M, Briggs TA, Jenkinson EM, Bacino CA, Battini R, Bertini E, Brogan PA, Brueton LA, Carpanelli M, De Laet C, de Lonlay P, del Toro M, Desguerre I, Fazzi E, Garcia-Cazorla A, Heiberg A, Kawaguchi M, Kumar R, Lin JP, Lourenco CM, Male AM, Marques W Jr, Mignot C, Olivieri I, Orcesi S, Prabhakar P, Rasmussen M, Robinson RA, Rozenberg F, Schmidt JL, Steindl K, Tan TY, van der Merwe WG, Vanderver A, Vassallo G, Wakeling EL, Wassmer E, Whittaker E, Livingston JH, Lebon P, Suzuki T, McLaughlin PJ, Keegan LP, O'Connell MA, Lovell SC, Crow YJ. Mutations in ADAR1 cause Aicardi-Goutières syndrome associated with a type I interferon signature. Nat Genet [IF 35] (2012) 44(11):1243-8 (doi: 10.1038/ng.2414) [B1, B3, B8]
+
+3. Briggs TA, Rice GI, Daly S, Urquhart J, Gornall H, Bader-Meunier B, Baskar K, Baskar S, Baudouin V, Beresford MW, Black GC, Dearman RJ, de Zegher F, Foster ES, Francès C, Hayman AR, Hilton E, Job-Deslandre C, Kulkarni ML, Le Merrer M, Linglart A, Lovell SC, Maurer K, Musset L, Navarro V, Picard C, Puel A, Rieux-Laucat F, Roifman CM, Scholl-Bürgi S, Smith N, Szynkiewicz M, Wiedeman A, Wouters C, Zeef LA, Casanova JL, Elkon KB, Janckila A, Lebon P, Crow YJ. Tartrate resistant acid phosphatase deficiency causes a bone dysplasia with autoimmunity and a type I interferon expression signature. Nat Genet [IF 35] (2011) 43(2):127-131 (doi: 10.1038/ng.748) [B1]
+
+4. Rice GI, Forte GM, Szynkiewicz M, Chase DS, Aeby A, Abdel-Hamid MS, Ackroyd S, Allcock R, Bailey KM, Balottin U, Barnerias C, Bernard G, Bodemer C, Botella MP, Cereda C, Chandler KE, Dabydeen L, Dale RC, De Laet C, De Goede CG, Del Toro M, Effat L, Enamorado NN, Fazzi E, Gener B, Haldre M, Lin JP, Livingston JH, Lourenco CM, Marques W Jr, Oades P, Peterson P, Rasmussen M, Roubertie A, Schmidt JL, Shalev SA, Simon R, Spiegel R, Swoboda KJ, Temtamy SA, Vassallo G, Vilain CN, Vogt J, Wermenbol V, Whitehouse WP, Soler D, Olivieri I, Orcesi S, Aglan MS, Zaki MS, Abdel-Salam GM, Vanderver A, Kisand K, Rozenberg F, Lebon P, Crow YJ. (2013) Assessment of interferon-related biomarkers in Aicardi-Goutières syndrome associated with mutations in TREX1, RNASEH2A, RNASEH2B, RNASEH2C, SAMHD1, and ADAR: a case-control study. Lancet Neurol [IF 23] Dec;12(12):1159-69. (doi: 10.1016/S1474-4422(13)70258-8) [B1, B3, B4, B8]
+
+5. Gall A, Treuting P, Elkon KB, Loo YM, Gale M Jr, Barber GN, Stetson DB. Autoimmunity initiates in nonhematopoietic cells and progresses via lymphocytes in an interferon-dependent autoimmune disease. Immunity [IF 19] (2012) 36(1):120-31 (doi: 10.1016/j.immuni.2011.11.018) [B7]
+
+6. Brunette RL, Young JM, Whitley DG, Brodsky IE, Malik HS, Stetson DB. Extensive evolutionary and functional diversity among mammalian AIM2-like receptors. J Exp Med [IF 13] (2012) 209(11):1969-83. (doi: 10.1084/jem.20121960) [B7]
+
+7. Rehwinkel J, Maelfait J, Bridgeman A, Rigby R, Hayward B, Liberatore RA, Bieniasz PD, Towers GJ, Moita LF, Crow YJ, Bonthron DT and Reis e Sousa C. SAMHD1-dependent retroviral control and escape in mice. The EMBO Journal [IF 10] (2013) 32: 2454–2462 (doi: 10.1038/emboj.2013.163) [B1, B4]
+
+8. Cuadrado E, Jansen MH, Anink J, De Filippis L, Vescovi AL, Watts C, Aronica E, Hol EM, Kuijpers TW. Chronic exposure of astrocytes to interferon-a reveals molecular changes related to Aicardi-Goutieres syndrome. Brain [IF 9.9] (2013) 136(Pt 1):245-58 (doi: 10.1093/brain/aws321) [B5]
+
+9. du Moulin M, Nürnberg P, Crow YJ, Rutsch F. Cerebral vasculopathy is a common feature in Aicardi-Goutieres syndrome associated with SAMHD1 mutations. Proc Natl Acad Sci U S A. [IF 9.7] (2011) 108(26):E232 (doi: 10.1073/pnas.1104699108) [B1]
+
+10. Clifford R, Louis T, Robbe P, Ackroyd S, Burns A, Timbs AT, Colopy GW, Dreau H, Sigaux F, Judde JG, Rotger M, Telenti A, Lin Y-L, Pasero P, Maelfait J, Titsias M, Cohen DR, Henderson SJ, Ross M, Bentley D, Hillmen P, Pettitt A, Rehwinkel J, Knoght SJL, Taylor JC, Crow YJ, Benkirane M, Schuh A. SAMHD1 is mutated recurrently in chronic lymphocytic leukemia and is involved in response to DNA damage. Blood [IF 9.06]. Prepublished online December 12, 2013 (doi:10.1182/blood-2013-04-490847) [B1]
+
+11. Stetson DB. Endogenous retroelements and autoimmune disease. Curr Opin Immunol. [IF 8.77] (2012) 24(6):692-7 (doi: 10.1016/j.coi.2012.09.007) [B7]
+
+12. Takanohashi A, Prust M, Wang J, Gordish-Dressman H, Bloom M, Rice GI, Schmidt JL, Crow YJ, Lebon P, Kuijpers TW, Nagaraju K, Vanderver A. Elevation of proinflammatory cytokines in patients with Aicardi-Goutières syndrome. Neurology [IF 8.2] (2013) 12;80(11):997-1002 (doi: 10.1212/WNL.0b013e3182872694) [B1, B5, B8]
+
+13. Fazzi E, Cattalini M, Orcesi S, Tincani A, Andreoli L, Balottin U, De Simone M, Fredi M, Facchetti F, Galli J, Giliani S, Izzotti A, Meini A, Olivieri I, Plebani A. Aicardi-Goutieres syndrome, a rare neurological disease in children: a new autoimmune disorder? Autoimmun Rev. [IF 7.9] (2013) Feb;12(4):506-9 (doi: 10.1016/j.autrev.2012.08.012)
+
+14. Crow YJ. Lupus: how much “complexity” is really (just) genetic heterogeneity? Arthritis Rheum [IF 7.5] (2011) 63: 3661-3664
+
+15. Belot A, Kasher PR, Trotter EW, Foray AP, Debaud AL, Rice GI, Szynkiewicz M, Zabot MT, Rouvet I, Bhaskar SS, Daly SB, Dickerson JE, Mayer J, O'Sullivan J, Juillard L, Urquhart JE, Fawdar S, Marusiak AA, Stephenson N, Waszkowycz B, W Beresford M, Biesecker LG, C M Black G, René C, Eliaou JF, Fabien N, Ranchin B, Cochat P, Gaffney PM, Rozenberg F, Lebon P, Malcus C, Crow YJ, Brognard J, Bonnefoy N. Protein kinase cd deficiency causes mendelian systemic lupus erythematosus with B cell-defective apoptosis and hyperproliferation. Arthritis Rheum. [IF 7.5] (2013) 65(8):2161-71 (doi: 10.1002/art.38008) [B1]
+
+16. Livingston JH, Lin JP, Dale RC, Gill D, Brogan P, Munnich A, Kurian MA, Gonzalez-Martinez V, De Goede CG, Falconer A, Forte G, Jenkinson EM, Kasher PR, Szynkiewicz M, Rice GI, Crow YJ. (2013) A type I interferon signature identifies bilateral striatal necrosis due to mutations in ADAR1. J Med Genet [IF 5.7] 21 November 2013, Epub ahead of print. (doi: 10.1136/jmedgenet-2013-102038) [B1, B4]
+
+17. Serra M, Forcales S-V, Pereira-Lopes S, Lloberas J, Celada A. Characterization of Trex1 Induction by IFN-g in Murine Macrophages. J Immunol [IF 5.5] (2011) 186(4):2299-2308. (doi: 10.4049/jimmunol.1002364) [B6/9]
+
+18. Pereira-Lopes S, Serra M, Cellar T, Sans-Fons G, Fairhurst AM, Lloberas J and Celada A. The DNA exonuclease Trex1 is a negative feedback control in inflammatory activation of macrophages. J Immunol [IF 5.5] (2013) 191(12):6128-35 (doi: 10.4049/jimmunol.1301603) [B6/9]
+
+19. Rice GI, Reijns MA, Coffin SR, Forte GM, Anderson BH, Szynkiewicz M, Gornall H, Gent D, Leitch A, Botella MP, Fazzi E, Gener B, Lagae L, Olivieri I, Orcesi S, Swoboda KJ, Perrino FW, Jackson AP, Crow YJ. Synonymous mutations in RNASEH2A create cryptic splice sites impairing RNase H2 enzyme function in Aicardi-Goutières syndrome. Hum Mutat [IF 5.2] (2013) 34(8):1066-70 (doi: 10.1002/humu.22336) [B1, B3]
+
+20. Goncalves A, Karayel E, Rice GI, Bennett KL, Crow YJ, Superti-Furga G, Bürckstümmer T. SAMHD1 is a nucleic-acid binding protein that is mislocalized due to aicardi-goutières syndrome-associated mutations. Hum Mutat [IF 5.2] (2012) 33(7):1116-22 (doi: 10.1002/humu.22087) [B1]
+
+21. Pelzer N, de Vries B, Boon EM, Kruit MC, Haan J, Ferrari MD, van den Maagdenberg AM, Terwindt GM. Heterozygous TREX1 mutations in early-onset cerebrovascular disease. J Neurol [IF 3.6] (2013) 260(8):2188-90 (doi: 10.1007/s00415-013-7050-8) [B2]
+
+22. Crow YJ, Vanderver A, Orcesi S, Kuijpers TW, Rice GI. Therapies in Aicardi-Goutières Syndrome. Clin Exp Immunol [IF 3.4] (2014) Jan;175(1):1-8 (doi: 10.1111/cei.12115) [B1, B3, B5, B8]
+
+23. Crow YJ. Type I interferonopathies: a novel set of inborn errors of immunity. In “The Year in Human and Medical Genetics: Inborn Errors of Immunity I.” Jean-Laurent Casanova, Mary Ellen Conley & Luigi Notarangelo, Eds. Ann.N.Y. Acad. Sci. [IF 3.2] (2011) 1238: 91–98 (doi: 10.1111/j.1749-6632.2011.06220.x)
+
+24. Schmidt JL, Olivieri I, Vento JM, Fazzi E, Gordish-Dressman H, Orcesi S, Vanderver A. Family history of autoimmune disease in patients with Aicardi-Goutières syndrome. Clin Dev Immunol [IF 3.0] (2012) 2012:206730 (doi: 10.1155/2012/206730) [B3, B8]
+
+25. Olivieri I, Cattalini M, Tonduti D, Piana RL, Uggetti C, Galli J, Meini A, Tincani A, Moratto D, Fazzi E, Balottin U, Orcesi S. Dysregulation of the immune system in Aicardi-Goutieres syndrome: another example in a TREX1-mutated patient. Lupus [IF 2.78] (2013) 22(10):1064-9 (doi: 10.1177/0961203313498800) [B3]
+
+26. Livingston JH, Stivaros S, van der Knaap MS, Crow YJ. Recognizable phenotypes associated with intracranial calcification. Dev Med Child Neurol [IF 2.77] (2013) 55(1):46-57 (doi: 10.1111/j.1469-8749.2012.04437.x) [B1, B4]
+
+27. Pulliero A, Marengo B, Longoba Asipurdi M, Fazzi E, Orcesi S, Olivieri I, Cereda C, Domenicotti C, Balottin U, Izzotti A. Inhibition of the de-myelinating properties of Aicardi-Goutières Syndrome lymphocytes by cathepsin D silencing. Biochem Biophys Res Commun [IF 2.4] (2013) 430(3):957-62 (doi: 10.1016/j.bbrc.2012.11.131) [B3]
+
+28. La Piana R, Uggetti C, Olivieri I, Tonduti D, Balottin U, Fazzi E, Orcesi S. Bilateral striatal necrosis in two subjects with Aicardi–Goutières syndrome due to mutations in ADAR1 (AGS6) Am J Med Genet Part A [IF 2.3] 2013 Dec 20. (doi: 10.1002/ajmg.a.36360)
+
+29. Vogt J, Agrawal S, Ibrahim Z, Southwood TR, Philip S, Macpherson L, Bhole MV, Crow YJ, Oley C. Striking intrafamilial phenotypic variability in Aicardi-Goutières syndrome associated with the recurrent Asian founder mutation in RNASEH2C. Am J Med Genet A [IF 2.3] (2013) 161A(2):338-42 (doi: 10.1002/ajmg.a.35712) [B1]
+
+30. Ravenscroft JC, Suri M, Rice GI, Szynkiewicz M, Crow YJ. Autosomal dominant inheritance of a heterozygous mutation in SAMHD1 causing familial chilblain lupus Am J Med Genet A [IF 2.3] (2011) 155A(1):235-237 (doi: 10.1002/ajmg.a.33778) [B1]
+
+List of Websites:
+The NIMBL project website is at: http://www.nimbl.eu/ni/Home
+
+For further information about the project, please contact Professor Yanick Crow (project coordinator) at yanickcrow@mac.com or Diana Chase (project manager) at Diana.Chase@manchester.ac.uk.
+
+
+No. Institute Short name Location
+Country Principal Investigator
+Contact e-mail
+1 The University of Manchester UNIMAN Manchester
+UK Prof. Yanick Crow
+yanickcrow@mac.com
+2 Academisch Ziekenhuis Leiden - Leids Universitair Medisch Centrum LUMC Leiden
+Netherlands Prof. Arn van den Maagdenberg
+Maagdenberg@lumc.nl
+3 Fondazione Istituto Neurologico Casimiro Mondino FMPV Pavia
+Italy Dr Simona Orcesi
+simona.orcesi@mondino.it
+4 University of Leeds LEEDS Leeds
+UK Prof David Bonthron
+d.t.bonthron@leeds.ac.uk
+5 Academisch Medisch Centrum bij de Universiteit van Amsterdam AMC Amsterdam
+Netherlands Prof Taco Kuijpers
+t.w.kuijpers@amc.uva.nl
+6 Fundació Privada Institut De Recerca Biomèdica IRB IRB Barcelona
+Spain (Dr Antonio Celada)
+
+7 University of Washington UW Seattle
+USA Prof Dan Stetson
+stetson@uw.edu
+8 Children’s Research Institute (CRI) CNMC Washington DC
+USA Prof Adeline Vanderver
+AVanderv@childrensnational.org
+9 Universitat de Barcelona UB Barcelona
+Spain Prof Antonio Celada
+acelada@ub.edu
+
+‡ Antonio Celada relocated from IRB to UB on 01 January 2013

@@ -1,0 +1,708 @@
+Executive Summary:
+
+The Disc Regeneration Project ended on 31 October 2012. Over its four year research period, all project deliverables and objectives had been achieved. Furthermore, this was a project whose combined energy, creativity and expertise has generated a wealth of knowledge and insights ripe for exploitation. This is a seminal project, destined to make a significant impact in IVD therapeutic and clinical practice and its contiguous areas, where researchers seek to employ tissue engineering and regenerative medicine strategies similar to those devised and adopted in this interdisciplinary study.
+
+The overall objective of the Disc Regeneration Project was to provide a cure for lower back pain by developing porous scaffolds and technology which will repair a damaged intervertebral disc (IVD) by enabling its regeneration to a natural healthy state or better. Injectable acellular and cell-loaded bioactive polymer-based scaffolds were developed. A biomimetic approach conferred the appropriate mechanical and biological properties and enabled the inclusion of the requisite cell signalling factors, to produce a biohybrid structure which closely resembled human tissue in all its essential attributes. For this purpose, cell-loaded and acellular injectable gels have been prepared for nucleus substitutes as well as a custom made scaffolds for IVD based of the inputs from an imaging technique and modeling of the natural IVD. In intervertebral disc tissue, vascularization must be carefully controlled, due to the unique anatomy and physiology of the IVD, with negligible vascularization in the annulus and nucleus regions and moderate vascularisation at the vertebral body level. This was successfully achieved by functionalizing by hyperbranched peptides able to block the vascular endothelial growth factor (VEGF), or by functionalizing materials loaded with stem cells able to secrete soluble VEGF receptors also resulting in the blocking of the growth factor activity. Great effort was devoted to definition of a minimal invasive surgery technique by considering the patient’s safety and health-care costs.
+
+The clinical solution offered by this project will address the most significant medical condition worldwide, namely back pain. Work-related low back disorders, covering both low back pain and low back injuries, are a significant and increasing problem in Europe. Although very common across all types of industries and jobs, several studies have demonstrated that low back disorder rates are particularly prevalent in certain types of industries and within certain occupations. Estimates from EU Member States of the economic costs of all work-related ill health have been estimated to range from 2.6% to 3.8% of GNP. These figures maybe higher, as true social costs are difficult to estimate. It represents the new frontier and one of the strongest market growth opportunity in the medical technology industry. The project will generate innovative science and technical knowledge at international level in the field of spine regeneration and, in general, in regenerative medicine.
+
+The emphasis in biomaterials subsequently shifted from structures which were essentially bioinert, to producing bioactive components capable of eliciting controlled actions and reactions within the body. These materials have been designed so that they could be injected with minimal invasive surgery to induce in situ treatments such as the regeneration of the main intevertebral disc compartments. Development of novel cell culture techniques, synthesis and design of bioresorbable polymers and composites, and tissue engineering strategies have recently emerged as the most advanced therapeutic option presently available in regenerative medicine. There is great potential also for angiogenesis control systems developed for the Disc Regeneration project in areas such as the treatment of articular cartilage degeneration, advanced macular degeneration (which increases rapidly with longevity) and vein thrombosis.
+
+Project Context and Objectives:
+
+2. Summary Description of Project Context and Objectives
+
+2.1 Project Context
+
+The DISC REGENERATION PROJECT was conceived in order to solve patients’ morbidity caused by intervertebral disc (IVD) degeneration, using a Tissue Engineering (TE) approach leading to the regeneration of the different histological compartments of the disc. The clinical solution sought addresses the most significant medical condition worldwide, namely, back pain.
+
+Back pain significantly affects the quality of life and the workforce in industrialized countries, as 80% of people suffer from back pain at some time during their lives. Back pain most frequently occurs between ages 30 and 50, and therefore has enormous economic consequences both on health care spending, absenteeism and productivity loss.
+
+Causes of lower back pain are multifactorial, but in the majority of cases it is linked to clinical evidence of IVD degeneration. As a consequence, curing disc degeneration is one of the most important socioeconomic imperatives facing modern health care. A major factor in our proposing a TE solution to IVD degeneration as a research topic was the absence of any effective current treatment which does not either suffer serious limitations (e.g., spinal fusion) or is unreliable (e.g., prosthetic devices).
+
+The DISC REGENERATION PROJECT sought to realise the concept of producing a TE construct, implanted using minimally invasive surgery (e.g., injection) to induce histologically differentiated in situ regeneration of the main IVD compartments, the nucleous pulposus and the annulus, and their physiological interaction with the surrounding vertebral bodies through temporary end-plate substitutes. Design of materials and biological cues will be tuned to the specific regions of the disc substitute structure to control angiogenesis.
+
+The main objectives of the project were pursued by addressing, in a highly coordinated manner, the specific scientific and technological objectives which are set out below at 2.2.
+
+2.2 Concept and Project Objectives
+
+The concept of the DISC REGENERATION PROJECT was to achieve its overall objectives (a - c, below) through the coordinated pursuit of a set of science and technology objectives (d - h, below).
+
+Overall objectives
+
+(a) Regeneration of a healthy IVD and restoration of a physiological disc-vertebral system through appropriate biomimicking of the anatomy, physiology, cell biology and metabolism of the relative natural structures.
+
+Advances in molecular biology have enabled the adoption of a more rationalized biomimetic tissue engineering approach to this problem where the synergistic action of growth factors, adult notochordal cells, or stem cells is being actively pursued to achieve the regeneration of damaged IVD. Previous works have focused on the replacement, repair or regeneration of the nucleus pulposus only, with little consideration of the annulus scaffold, although the latter also often suffers degeneration. In this project, we sought to rectify this omission and to pursue a comprehensive approach to the regeneration of the disc-vertebral system, addressing the problems related to the degeneration/damage of each of its structural natural components.
+
+The Project Consortium combined the study of the anatomy, physiology, cell biology and metabolism of the natural structures to their biomechanics to restore physiological load distribution, viscoelastic properties and transport properties. The restoration of these parameters was sought by a thorough analysis of a wide variety of highly porous scaffolds, ranging from gel-like to solid polymers and composites. These will be capable of acting as hosts for cells and amenable to decoration or functionalization with the appropriate species required to control angiogenesis (see below).
+
+The scaffolds were designed to be used either as a cell-free implant or following association with progenitor cells.
+
+(b) Development of novel biomaterials capable of controlling angiogenesis such that it can proceed at different extents as required by the different regions of the disc structure.
+
+The required differentiated control of angiogenesis will be sought by the decoration of implanted polymers with three classes of peptides, which are either analogues or antagonists or binders of the vascular endothelial growth factor (VEGF). The first class of peptides will include amino acid sequences of VEGF, which confers bioactivity by stimulating endothelial cells to sprout into new vessels. The study of the effect of using different peptide concentrations and methods of grafting will lead to a decorated polymer system which will induce a moderate degree of angiogenesis within the implanted material, as required for the external lamella of the annulus.
+
+The second type of peptide was based upon VEGF-inactive analogues, obtained from available peptide combinatorial synthesis libraries. These would be able to block the VEGF receptors present on the endothelial cell membrane, thus terminating the cell’s angiogenic potential. The third class included peptides able to bind and inactivate endogenous VEGF.
+
+The controlled release of these factors upon implantation was optimized through different strategies of reversible grafting to the scaffolds.
+
+In an alternative approach, stem cells previously engineered to produce and secrete soluble VEGF receptor-1 (sFlk-1) was used to locally abrogate VEGF signaling, with the aim of ensuring a sustained, long-term expression of this inhibiting factor.
+
+(c) Enhanced integration of the IVD TE construct with the adjacent vertebral body upon implantation.
+
+This objective was addressed by seeking to prevent the formation of interfacial fibrotic tissue. PDGF-BB peptide antagonists were synthesized and grafted to the scaffolds through reversible chemical bonds. These antagonists can potentially block fibroblast proliferation, so impeding the invasion of the implanted substitutes by these types of cells and the consequent development of fibrotic tissue. Moreover, bioadhesives are developed for immediate functionality of the implant and tissue. The development of bioadhesive biomaterials ensure the immediate and long-term functionality of the implant through improved interactions with different tissues were defects are generated by pathological and/or external stimuli. An in vivo study is implemented to verify the functionality of the final cellular and acellular substitutes and surgical technique.
+
+Science and Technology Objectives
+
+(d) To devise injectable scaffolds
+
+- which are biocompatible, stable with appropriate transport, rheological properties and bioactive properties to induce disc regeneration through the use of defined mechanical, chemical and biological signals.
+
+(e) To develop bioactive scaffolds
+
+- which
+
+(a) are able to support cell viability and differentiation,
+(b) are injectable,
+(c) are convertible into gel matrices after implantation,
+(d) are biocompatible and biodegradable,
+(e) could contain adhesive and morphoregulatory immobilised cues within the matrix, and
+(f) could deliver growth factors.
+
+(f) To devise a surgical protocol
+
+- to enable the application in vivo of both acellular and cell-loaded substitutes. This was based upon minimally invasive (percutaneous) surgery, and enabled the study of the impact of injection on the materials and cells. Achievement of this objective required the design of a suitable injection device and the identification of potential adhesives and sealant systems.
+
+(g) To achieve in vivo biofunctionality of the nucleus/annulus substitutes and adhesives.
+
+In vivo models are considered for different animal size in consideration of different stage of substitutes developments.
+
+(h) To devise and execute effective assessment of the clinical feasibility of the proposed materials and techniques.
+
+Clinical feasibility is undertaken by simulating sugery techniques on human cadaver models.
+
+Project Results:
+
+3. Description of main S&T Results/Foregrounds
+
+The fourteen Significant S & T Results/Foregrounds and subsequent interactions between partners are listed below.
+
+Significant S & T Result/Foreground
+
+1 - Injectable bioactive scaffolds,IMCB.ANIKA, 3B’s-UM NUIG, UMC, INEB,UPB, USB, UoB
+2 - One-piece custom polymeric IVD scaffold, IMCB, 3B’s-UM, UULM, IBEC
+3 - Cell type and sources, USB, UMC, KCL, UoB
+4 - Blocking of angiogenesis by using a cell based gene therapy approach, USB,UoB, KCL,NUIG, UMC
+5 - Novel growth factor analogues and antagonists, UoB, 3B’s-UM, USB
+6 - New injection device and surgical technique, SAMO ANIKA, IMCB, UULM
+7 - New sealing system, IMCB, UULM, IBEC, UPB
+8 - Models of disc substitutes, IBEC, UULM, IMCB
+9 - Biomaterial based delivery system for chemoattraction of stem cells,INEB ANIKA, NUIG,3B’s-UM, UMC, UPB
+10 - Two-component cyanaocrylate and polyurethane based adhesive, UA, IMCB, KCL, UoB,UPB
+11 - Collagen microspherese, pH sensitive crosslinker and delivery sytems,NUIG, IMCB, USB, UoB
+12 - Electrospinning technology for micro-nano scaffolds, IVF, INEB, UA, 3B’s-UM
+13 - Animal model and avanced biomechanical characterization, UULM, UPD,USB, NUIG, IMCB
+14 - Design of appropriate packaging, ANIKA, IMCB, SAMO
+
+1. Injectable bioactive scaffolds
+
+Novel biomaterials to be used alone or cell-combined in the treatmentof degenerated IVD that integrate biological, physico-chemical and mechanical properties mimicking the native IVD. These biomaterials are able to modulate angiogenesis according to the various and specific requirements of different IVD regions.
+
+As reported in the literature, many injectable systems, based on synthetic in situ curing polymers such as acrylates have been investigated for the nucleus replacement or augmentation Even though able to restore disc eight and motion, all of them lack in the restoration of physiological biomechanics of the spine and they present surgical technique limitations as well as limited biocompatibility. To overcome these limitations, injectable hydrogels have been already proposed. In many scientific works several natural and synthetic chemically, or physically crosslinked hydrogel-based materials have been taken into consideration. However, none of the systems reported in the literature seem to mimic the required rheological behavior. Furthermore, the injection through clinical catheters may negatively affect their viscoelastic properties. Accordingly, the optimization of cellular and cell-loaded micro/nano-composite gels and semi-interpenetrating polymer networks has been carried out taking into consideration all the above reported features. Several gels have been deeply analyzed, among these Hyadd3, Ionic crosslinked gellan gum/glycidyl methacrylate, collagen/hyaluronic acid/gelatin microspheres and collagen/hyaluronic acid have demonstrate appropriate biofunctionality.
+
+2. One-piece custom polymeric IVD scaffold
+
+The intervertebral disc (IVD) has a very complex structure as it consists of three different tissues: annulus, nucleus and endplate. The one-piece custom made poly(ε-caprolactone) intervertebral disc (IVD) scaffold have been designed taking into account three different regions (annulus, nucleus and endplates) and manufactured through rapid prototyping technique satring from NMR and or CT imgaing techniques. The inferior and superior endplates are properly designed to avoid the leaking out of ionically crosslinked methacrylated gellan gum (iGG-MA), whilst allowing for the injection of gel or reactive solution into and throughout the fully interconnected pore network of the 3D “morphologically controlled” structure.
+
+3 Cells type and sources.
+
+Due to intrinsic difficulty to recruit IVD cells, different cell type and sources for both differentiated chondrocytes and stem cells with a potential for chondrocyte differentiation have been analysed for cell-loaded nucleus substitutes. The sources of progenitor cells to be investigated were the adipose tissue and the bone marrow tissue, differentiated chondrocyte phenotype such as Articular Cartilage Chondrocytes, Nasal Cartilage Chonrdocytes and Nucleous Cartilage Chondrocytes were included as positive control. The selection was done on the basis of i) Donor availability and ethical feasibility, ii) Culture conditions, iii) Specific medium supplements/cell manipulation, iv) Cell proliferation capacity; v) Cell phenotype plasticity.
+
+The full analysis indicates that bone marrow were used as the source of stem cells while the source of differentiated chondrocytes were the nasal cartilage.
+
+4 Blocking of angiogenesis by using a cell based gene therapy approach
+
+Blocking angiogenesis by over-expressing soluble VEGF receptor-2 (sFlk-1)- by using transduced nasal chondrocyted (NC) or bone marrow-derived mesenchymal progenitor cells (BMSC)- efficiently prevents vascular invasion and greatly improves chondrogenesis in vivo by both NC and BMSC.
+
+5 Novel growth factor analogues and antagonists
+
+Application to tissue regeneration of hyperbranched poly(epsilon-lysine) macromolecules (i.e. dendrons) with a molecular root capable of facilitating the interactions with the hydrogel (e.g. gellan gum) polymeric surface and with a linear sequence (WHLPFKC) exposed at the uppermost branching generation that is able to block VEGF activity. The results demonstrated high efficacy interactions with gels (Gellan gum) and appropriate control of angiogenesis in vitro and in a chicken chorioallontoic membrane model CAM. The functionalization of different types of hydrogels was demonstrated with comparable anti-angiogenesis effect.
+
+Anti-angiogenic effect of dendron-modified gellan gum.
+
+Top micrograph shows in vitro endothelial cell sprouting in a 3D Matrigel substrate. Middle micrograph shows cell sprouting on the surface of control gellan gum. Bottom micrograph shows regression of sprouting around the surface of gellan gum functionalised with dendronised VEGF blockers.
+
+6 New injection device and surgical technique
+
+The injection device has been developed according to biomaterial properties. It enables the application of the different biomaterials proposed in the project as the nucleus substitute or the sealing materials and systems.
+
+The functional injectability of such materials clearly plays a crucial role. During the injection through a clinical catheter high strains are normally achieved, thus leading to an alteration of the polymeric network especially in the case of materials characterized by a weak structure or micro/nano-composite materials.
+
+Accordingly, the design of a suitable injection device has to take into account the chemical, physical, biological properties as well as the rheological and flow behaviour of the potential nucleus substitutes together with the employed surgical needs.
+
+For this reason, in order to ensure versatility and to adapt the device to a wide range of potential materials, it was decided to design a syringe for two-component materials
+
+The surgical technique has been defined for minimally invasive and open surgery approach. It has been tested on animal and cadaveric specimens.
+
+7 New sealing system
+
+The less invasive nucleus replacement technique, performed with a synthetic material or a tissue-engineered structure, may restore disc height and spine mobility and preserve the annulus while this and endplates are relatively healthy and still functional. In this field, a mounting research effort has been devoted to the design of appropriate techniques and systems to close the annulus defects, thus avoiding the leaking out of the nucleus substitute. Currently, sealant systems employed to close annulus defects would seem to be not effective. Accordingly, the design of a polymeric balloon plug made of polyurathene has been proposed in the project. The largest part of these balloon plugs must be introduced into the defect through an appropriate cannula and then filled with an injectable material that can harden in situ. This system was developed by integrating different techniques such as 3D modelling and dip casting in polyurathene solution, with those related to the preparation of suitable polymer/solvent solutions, mould and wax mandrel preparation, mandrel removal.
+
+8 Models of disc substitutes
+
+Several computational models were developed to study the biomaterial behavior in a physiological healthy and pathological environment. It has been defiened a poromechanical finite element (FE) model of the intervertebral disc (IVD) coupled to a transport model to study the effect of mechanical and nutritional factors on the diffusion of three fundamental cell solutes, i.e. oxygen, lactate and glucose, strongly related with disc cell metabolism (Malandrino et al. 2011 PLoS Comp Biol).
+
+Such model has been further coupled to cell survival within the disc, taking into account the reported dependency of cell death on low levels of pH and glucose.
+
+In particular, the following knowledge has been generated:
+
+(a) Development of a transport model simulating the movement of solutes within a healthy and degenerated disc when submitted to complex loading conditions.
+(b) Study of the intervertebral disc cell viability in relation to glucose concentration and pH level when submitted to transient loading conditions.
+(c) Determination of the most important design functional parameters for a new disc implant substitute.
+(d) Simulation of the effect of nucleus pulposus disc substitute injection on the compressive capacity of the disc.
+(e) Comparison of four methods to simulate swelling in poroelastic finite element models of intervertebral discs.
+
+9 Biomaterial based delivery system for chemoattraction of stem cells
+
+Incorporation of SDF-1 in Ch-based electrostatic complexes formed by layer-by-layer technique to recruit hMSCs. This provides a biomaterial-based delivery system for chemoattraction of stem cells and related scaffolds. Polyelectrolyte complexes have been also designed to deliver anti-inflammatory drug to promote local action of the anti-inflammatory drug, avoiding possible secondary effects of the drug.
+
+The incorporation of Ch/-PGA nanoparticles with the anti-inflammatory drug Df in ionically-crosslinked Gellan gum hydrogels demonstated an homogeneous distribution of the nanoparticles within the gel net without interfering with the gel crosslinking.
+
+The results demonstrate the efficacy of the delivery of an anti-inflammatory drug while suggests the importance of such an approach to control the inflammatory reaction inherent to an implantable biomaterial.
+
+10 Two-component cyanaocrylate and polyurethane based adhesive
+
+Two-component cyanoacrylate based adhesives able to polymerize in less than one second imparting high adhesion. Furthermore, the adhesive is biocompatible, and the exothermal reaction during curing is less pronounced than in commercial cyanoacrylate adhesives for wound closure. In order to improve the mechanical electrospun polyurethane fibers were added to ethyl cyanoacrylate (ECN) adhesive. By adding the polyurethane nano-fiber, the adhesive strength increases noticeably, the highest adhesion is obtained by adding 5 wt% 100S23N fiber, as well as a reductiinon of the exothermal reaction of the ethyl cyanoacrylate was oberved.
+
+Moreover, these adhesives were also functionalised by poly (ε-lysine) dendron which results in a drastically reduction of exothermal reaction of the ethyl cyanoacrylate, too.
+
+A new family of thermoplastic polyurethane adhesives containing natural moieties chemically incorporated into the soft segments to impart high tack. These provide both initial and final adhesion at low cost, and exhibit controlled biodegradability (through the presence of natural moieties in the structure) and high flexibility. Polyurethanes obtained with mixtures of polyadipate of 1,4 butane diol and tung oil in the chain extender were developed. These adhesives demonstrated appopriate performances and stability that could be optimized by the chain extender composition. However, the degradation of the polyurethane sealants is quite moderate assuring that they are stable for sufficient time to maintain their integrity in the disc defect.
+
+11 Collagen microspherese, pH sensitive crosslinker and delivery sytems
+
+Hollow extra-cellular matrix based nanosphere technology designed to allow for higher pay load capacity for the sustained controlled delivery of therapeutic moieties including but not limited to genes, growth factors and peptides to a target site. Hollow spheres of type I collagen were used for the delivery of synthetic gene vectors as polyplexes and showed promising results. Incorporation of polyplexes as synthetic gene vectors within collagen hollow spheres significantly reduced the cytotoxicity of polyplexes, whilst protecting them from degradation without adversely affecting their transfection efficiency.
+
+Moreover, they showed high loading capacity and efficiency, in fact it was possible to load about 20 µg of pDNA per mg of collagen with an efficiency of 85%.
+
+Concurrently, research activities focused on modifying the novel pH-sensitive crosslinker, to incorporate reactive end groups including N-hydroxysuccinimide (NHS), to facilitate a pH-sensitive sustained release of DNA from collagen sponges.
+
+The stability of pH-sensitive collagen sponges was tested in presence of bacterial collagenase and it was found to be dependent on the ratio of collagen: crosslinker used.
+
+These results correlated with the collagenase assay results confirming that the pH-sensitive polymer can be used as responsive sustained release system.
+
+12 Electrospinning technology for micro-nano scaffolds
+
+The use of electrospinning to create highly porous scaffolds has been investigated. Simultaneous electrospinning of nanofibers and spraying of a hydrogel has been shown to facilitate creation of nanofiber-reinforced hydrogels with high porosity and many possibilities of tuning fiber morphology as well as scaffold assembly. Potential in making injectable functional materials with improved mechanical properties and in tailoring materials properties to facilitate tissue regeneration.
+
+13. Animal model and avanced biomechanical characterization
+
+During the course of the project several animal models have been implemented as function of of the reserach investigaton stage. For screening of in vivo biocompatibility of substitute materials and angiogenic control after ectopic subcutaneous implantation the tests have been performed in rats, rabbits and mice. For biomechanical and histological evaluation of substitute materials in an orthotopic model on sheep. In the sheep model, implants were including cusom made device, gellan gum gels and Hyadd3 gel loaded with BMSCs.
+
+Biomechnaical properties where evaluated with a designed specific mechanical instruments to perform standard flexibility tests. results have been revealed no significant differences in the range of motion between the disc levels, which were implanted with the different hydrogel configurations after nucleotomy and the control levels, which remained unfilled.
+
+14 Design of appropriate packaging
+
+Packaging design takes into account the specific application of HYADD3 hydrogel as cell loaded carrier and Ionic-crosslinked methacrylated gellan gum (iGG-GMA) gel as acellular for one-step surgical approaches.
+
+The requirements for an appropriate packaging have been taken into account in order to guarantee necessary performance, especially considering the use of the material in the surgery room.
+
+The proposed packaging components to meet the requirements are:
+
+1.tray with 5ml syringe with stoppers and end caps
+2.paper package insert (instructions for use) or A demo video on hydrogels preparation will be made available.
+3.label containing lot number and expiration date.
+4.carton box as secondary packaging.
+
+To allow comfortable and controlled injection of the product, a syringe with flange and plunger rod will be used. Moreover, to allow addition of bone marrow derived stem cells via luer adaptor and physical mix through connected syringe, the syringe will be filled up to 3ml.
+
+Scaling-up parameters of both gels have been defined.
+
+Potential Impact:
+
+Potential Impact
+
+1 Impact - overview
+
+The likely areas of impact of the successful achievement of the Disc Regeneration Project’s objectives will be:
+
+• High socioeconomic impact, due to the high prevalence of back pain and its economic consequences through its effect on the workforce, and the shortcomings of current treatment.
+• Meeting the social need for an improved clinical solution to the regeneration of intervertebral disc defects and resultant back pain.
+• Enhancing the competitiveness of the European healthcare industry, by
+
+- generating a step change in the treatment of back pain through the invention and development of new materials;
+- generation of high added value products in the health sector.
+
+• Implementation of decisive knowledge at the interface of diverse technologies and disciplines, not only to generate a novel application - namely a radical new treatment for back pain – but also to contribute to a strategic platform for further development of TE applications.
+
+This project fitted exactly a key strategic priority area for future European biomedical research, as defined in the EC FP7 Framework Programme. It is highly likely that the Disc Regeneration Project will come to be regarded as a seminal project in this area.
+
+2 Economic and Societal Impact
+
+Low back pain is a major health concern and the most common reported pain among the U.S. adult population [1]. Nearly 50% of the 220 million adults in the United States experience an episode of low back pain each year. For 10% to 15% of these people, the pain becomes chronic (lasting for longer than 6 months). The economic burden of low back pain is enormous. The estimated direct healthcare expenditures on patients with back pain in the United States reached $90 billion [2].
+
+Chronic low back pain can be a complex condition with a multitude of potential sources of the pain.
+
+Diagnosis of the cause of the pain is complicated by the fact that a specific diagnosis can only be made in 20% of cases based upon neurological evaluation and imaging studies alone [3]. Conditions diagnosed through these means include intervertebral stenosis, degenerative disc disease, disc herniation or prolapse, spondylothesis, and vertebral compression fractures, among others.
+
+Traditional treatments of these conditions include laminectomy, discectomy, fusion, and kyphoplasty and represent the core of the $3.8 billion orthopedic spine market [4] For the 80% of patients who cannot be diagnosed through imaging and radiographic studies, other diagnostic procedures must be performed. Researchers have utilized diagnostic nerve blocks and disc provocation studies (discography) to discover that in approximately 40% of these cases, or 4 million patients annually, the back pain is attributable to disruptions of the internal structure within the intervertebral discs [5]. This condition, referred to as discogenic pain, currently has no widely accepted therapy other than surgical spinal fusion.
+
+Work-related low back disorders, covering both low back pain and low back injuries, are a significant and increasing problem in Europe. Although very common across all types of industries and jobs, several studies have demonstrated that low back disorder rates are particularly prevalent in certain types of industries and within certain occupations. In the Netherlands was estimated to be 1.7% of the gross national product. In the UK, 12.5% of all sick days are related to low back disorders, this corresponds with data from Sweden, where 13.5% of sick days are reported. A survey from the HSE estimated 4.8 million working days lost in Britain in 1995 due to back disorders. Calculations have estimated that back disorders cost employers between £315 million and £335 million. The Clinical Standards Advisory Group in the UK estimated the lost production costs to be approximately £3.8 billion and social security benefits £1.4 billion. These figures may be higher, and the true social costs are difficult to estimate.
+
+Whatever the true cost, it is certain that the health, social and economic costs of low back disorders are multiplied by a factors associated with shortcomings in care or awareness. Trade Union Congress reported that only 17% of employers had actually calculated the costs of low back disorders, only a third provided treatment, physiotherapy or rehabilitation and fewer than half monitored the number of workers suffering from and the number of days lost due to low back disorders [6].
+
+Although precise figures do not exist, estimates from EU Member States of the economic costs of all work-related ill health have been estimated to range from 2.6% to 3.8% of Gross National Product.
+
+However, despite the fact that some current technology such as spine fusion is used in Europe and other international market from several years, the introduction of innovative technique and materials based on non-fusion techniques to improve the patient outcome will strongly affect the market growth.
+
+The concept of spine motion preservation is an emerging technology in spine surgery and it is forecast to achieve 16% growth per year. The market opportunity for a successful minimally invasive therapy for discogenic pain could conservatively exceed € 2 billion annually. Spine Surgery, based on spine motion preservation and IVD regeneration, is the new frontier of Orthopaedics & Neurosurgery, and it seems to represent one of the strongest market growth opportunities in the medical technology industry.
+
+The project will also have further long term societal impact - in addition improvements in health and quality of life - through increasing future employment opportunities for the many young scientists, just setting off on their careers, who participated in the Disc Regeneration Project. As conceived as a key feature of this project in the original proposal [7], young scientists were offered an excellent training programme, incorporating numerous visits to other partners’ laboratories and extensive conference participation (vide infra, section 4.2, Main Dissemination Activities ). These young scientists took full advantage of these opportunities. Working together in a highly collaborative environment, they made key contributions to the project’s success and creating the positive and vital atmosphere which defined its activities. This is discussed further in section 4.4 Main Dissemination Activities (vide supra). As intended, the Disc Regeneration Project did indeed offer “an unsurpassed networking opportunity and career platform for young TE scientists” [7].
+
+References cited in this section
+
+1. Deyo RA, et al. “Back Pain Prevalence and Visit Rates”. Spine. 2006; 23:2724-2727.
+2. Boswell MV, et al. Interventional Techniques: “Evidence-based Practice Guidelines in the Management of Chronic Spinal Pain. Pain Physician”. 2007; 10:7-111.
+3. Bogduk N. Management of Chronic Low Back Pain. MJA. 2004;180:79-83.
+4. Motion Preservation: “Innovations in Spinal Implants”. First Albany. 2007.
+5. Schwarzer AC, et al. “The Prevalence and Clinical Features of Internal Disc Disruption in Patients with Chronic Low Back Pain”. Spine. 1995; 20:1878-1883.
+6. Lic. Rik Op De Beeck, Dr. Veerle Hermans. “Research on work-related low back disorders” Prevent Institute for Occupational Safety and Health Gachardstraat 88, P.O Box 4 B - 1050 Brussels Belgium. European Agency for Safety and Health at Work, 2000.
+7. Annex; DISC REGENERATION PROJECT, Grant Agreement No. NMP3-LA-2008-213904 – Annex 1 (October 2008)
+
+3 Impact on European Competitiveness
+
+Many experts have recognized that TE and other advanced technologies for the production of "nature-like" structures will, in the next decade and beyond, have a significant impact on medicine and the medical device industry. Not only the European Commission but also the US and Japanese Governments have indicated this to be a area of strategic importance in terms of social, technological and economic impact. The principle has been demonstrated, with the first generation of artificial tissues already approved by both FDA and EC and some products already sold on the market. After some 20 years of painstaking investigation into the processes by which cells grow and differentiate, the nascent field of TE is rapidly maturing, with many start-up companies – predominantly, North American - launching commercial products. Regenerated or lab-grown cartilage, blood vessels, bone and skin as well as embryonic fetal nerve tissue are all being tested in humans, with market forecasts for TE products and processes appearing in the range of €100bn. The present proposal therefore addresses key contemporary issues affecting the competitive position and growth of the European biomedical industry. A further key competitive advantage for Europe gained through this project was the timely leveraging of the EU investments in different related project, not least through stimulating and building a healthy skills base of young TE scientists through networking and research opportunities.
+
+4 Main Dissemination and Training Activities
+
+Dissemination Activities
+
+A summary of the main activities is presented below.
+
+• Publication of 37 scientific papers
+• 2 Articles in book
+• 71 presentations made at scientific conferences
+• Workshop at the TERMIS Conference in Galway, 13-17 June, 2010
+• Participation at the EU-CHINA SCIENCE AND TECHNOLOGY, WEEKWORLD EXPO 2010 SHANGHAI CHINA, 14-18 June 2010
+• Press conference on Regenerative medicine with J. Planell, Turin, Italy, July 2010 (Article in Irish Times: www.irishtimes.com/.../2010/.../1224274192226.html)
+• Keynote lecture at the TissEU (FP6) symposium in Dublin (26-28 May) on the collection of tissue for regenerative research
+• Presentation at the 24th Conference of the European Society of Philosophy in Medicine (18-21 August 2010) on the use of tissue from children in regenerative medicine
+• Keynote speaker at symposium Tissue Engineering Education: Ethics and Laboratory Teaching, TERMIS EU conference, Galway (13-16 July 2010)
+• Disc Regeneration Project Booth at European Society for Biomaterials 24th European Conference on Biomaterials (ESB 2011) Dublin, Ireland 4-8 September 2011
+• Tissue Regeneration Strategies and Innovative Biomaterials in Orthopaedic Surgery: international workshop hosted and organized by UoB Brighton, UK, 3 April 2012.
+• DiscRegeneration Project Symposium at 9th World Biomaterials Congress, Chengdu, China, 1-5 June 2012
+
+Patents Total - 3 (to date; further applications in preparation)
+
+R Gonçalves, MA Barbosa (2011), ‘Biomaterial based delivery system for chemoattraction of stem cells’ UK provisional patent application no. 1104829, 05/03/2011.
+
+J Correia, JMA de Oliveira, JMT de Oliveira, RP de Sousa and RL Reis (2010), ‘Photo-crosslinked gellan gum-based hydrogels: methods and uses thereof’, PT Provisional Patent 20101000026105, 26/03/2010.
+
+A Pandit, G Rethore, H Naik, Y Lang and D Finn (2010), ‘Hollow biodegradable nanospheres and nanoshells for delivery of therapeutic and/or imaging molecules,’ European Patent Application EP2276475A1, 20/09/2010.
+
+Disc Regeneration Project – Training Activities
+
+Major training activities are listed below. These were organized by the project coordinator, IMCB-CNR, unless otherwise stated.
+
+- Training Symposium “Regenerative Medicine Strategies for IVD” Sorrento, May 12-13, 2010
+- Clinical Panel, Sorrento, May 15, 2010
+- Tissue Regeneration Strategies and Innovative Biomaterials in Orthopaedic Surgery: international workshop hosted and organized by UoB Brighton, UK, 3 April 2012
+- Workshop: “From Interdisciplinary Research Projects to Surgical Solution for Repair and Regeneration of the Degenerated Intrevertebral Disc” organized by UPB, venue Ovidius University, Constanta, Romania, 30 - 31 August 2012
+
+In addition to the above there were numerous other training activities relating to individuals and small groups within the project. Full details may be obtained by reference to the Disc Regeneration Project 1st, 2nd and 3rd Periodic Reports by those authorized to do so.
+
+Dissemination and Training Activities – Concluding Remarks
+
+In addition to the major training activities listed, young scientists were offered an extensive training programme, incorporating visits to other partners’ laboratories to gain experience in relevant new techniques and wide conference participation, both reflecting the highly interdisciplinary nature of this project. The young scientists took full advantage of these opportunities, and collectively made great contribution to the success of the project. Evidence for this is apparent in the number of successful submissions of papers to prestigious conferences, in particular WBC 2012 in Chengdu, China. This was the fulfilment of an ambition explicit in the Disc Regeneration Project proposal, that it should offer “an unsurpassed networking opportunity and career platform for young TE scientists.”
+
+5 Exploitation of results
+
+The Disc Regeneration Project results are listed below
+
+Exploitation strategies for each result were subsequently developed interactions between partners. These strategies and other details pertaining to exploiation are outlined at 4.5.1 – 4.5.15, below.
+
+1 Functional bioactive scaffolds
+
+Exploitation – Details and Strategy Outline
+
+Type of exploitable foreground – Commercial exploitation of R&D results
+
+Description of exploitable foreground
+
+Novel biomaterials based on natural/synthetic polymers to be used alone or cell-combined in the treatment of degenerated IVD that integrate biological, physico-chemical and mechanical properties mimicking the native IVD and are able to modulate angiogenesis according to the specific disc regions to treat.
+
+Sector(s) of application
+
+Our potential customers fall into two complementary categories:
+
+(a) long term clinical customers concerned with clinical application of our products,
+(b) short term research-related customers, i.e., research groups and research-driven companies using functional bioactive scaffolds for a wide variety of applications, including research. Also other areas, e.g. coating prostheses, drug delivery systems.
+
+Timetable for commercial use (or any other use)
+
+For the biomedical application of these products, clinical trials must be performed before starting commercial exploitation for human use. Pre-clinical validation for the specific application has been completed. Allocation of appropriate financial & operational resources for product development and clinical studies are to be defined. Market authorization is next step in bringing these biomaterials to market in ca. 3 -5 years.
+
+Patents or other IPR exploitation
+
+Potential partners include a small number of SME’s, such as, for example, StemMatters (Portugal).
+
+2 Injectable biomaterials
+
+Exploitation – Details and Strategy Outline
+
+Type of exploitable foreground – Commercial exploitation of R&D results
+
+Description of exploitable foreground
+
+Novel injectable bioactive natural/synthetic polymers have been developed in orde to mimic the required biologicala nd rheological behavior. Optimization of acellular and cell-loaded micro/nano-composite gels and semi-interpenetrating polymer networks has been carried out taking into consideration all the above reported features.
+
+Sector(s) of application
+
+Biomedical field – Tissue Engineering.
+
+These systems would be not only limited to degenerated disc disease but it could be also considered for a wide range of applications, where the use of an injectable material with tailored and suitable properties is required. Furthermore, a release of appropriate biomolecules should be also taken into account in order to tailor specific biological processes.
+
+Timetable for commercial use (or any other use)
+
+Prior to the biomedical application of these injectable systems in humans, clinical trials will need to be carried out in order to establish the efficacy and safety of the product in patients. Manufacture will be subject to the European Union Medical Device Directive. The injectable systems should be easily developed, however, some costs must be expected in order to bring the systems to market. Accordingly, the indicative time to market would be 4-5 years.
+
+Patents or other IPR exploitation
+
+Agreement will be sought with interested parties to perform clinical trials (to establish clinical evidence proven cost/benefits data) or alternatively to license the technology for exploitation for a specific clinical target.
+
+3 Customized polymeric IVD scaffold
+
+Exploitation – Details and Strategy Outline
+
+Type of exploitable foreground – Commercial exploitation of R&D results
+
+Description of exploitable foreground
+
+Coupling imaging techniques (MRI or CT) and rapid prototyping one-piece poly(ε-caprolactone) intervertebral disc (IVD) scaffold have been designed taking into account three different regions (annulus, nucleus and endplates). The inferior and superior endplates are properly designed to avoid the leaking out of ionically crosslinked methacrylated gellan gum (iGG-MA), whilst allowing for the injection of gel or reactive solution into and throughout the fully interconnected pore network of the 3D “morphologically controlled” structure.
+
+The mechanical/dimensional stability and preliminary in vivo bio-functional properties of the total system were properly evaluated through specific tests.
+
+Sector(s) of application
+
+Biomedical field – Tissue Engineering
+
+The proposed system would not be limited only to degenerated disc disease, as the approach to design custom-made and morphologically controlled scaffolds could be considered for a wide range of tissue engineering applications such as bone, maxifacial, chondral tissues.
+
+Timetable for commercial use (or any other use)
+
+Prior to the biomedical application of the proposed structure needs more preclinical study in order to proceed for clinical trials. Manufacture will be subject to the EU Medical Device Directive. These systems should be easily developed. Accordingly, the likely time to market would be 5-6 years.
+
+Patents or other IPR exploitation
+
+A patent is in preparation in order to protect the proposed gel-loaded IVD scaffolds which has been developed in the project. Licenses would be sought with interested parties to perform clinical trials (to establish clinical evidence proven cost/benefits data) or alternatively to license the technology for exploitation for a specific clinical target.
+
+4 Block of angiogenesis by using a cell based gene therapy approach
+
+Exploitation – Details and Strategy Outline
+
+Type of exploitable foreground – General advancement of knowledge.
+
+Description of exploitable foreground
+
+Blocking angiogenesis by over-expressing soluble VEGF receptor-2 (sFlk-1)- by using transduced nasal chondrocyted (NC) or bone marrow-derived mesenchymal progenitor cells (BMSC)- efficiently prevents vascular invasion and greatly improves chondrogenesis in vivo by both NC and BMSC.
+
+Strategy to investigate the effects of blocking angiogenesis in long term on the fate of proliferating cells, e.g. differentiated cells, such as chondrocytes, and progenitor cells, such as mesenchymal stromal cells. The acquired advance of knowledge will be exploited scientifically by a strong publication, which is currently being prepared, and by the discussion on a possible clinical translation of the generated knowledge.
+
+Sector(s) of application
+
+The most broad application field is in the orthopaedic field, in particular, in the repair/generation of hyaline or hyaline-like cartilage, which is an avascular tissue, e.g. articular cartilage, the inner part of the meniscus or the nucleus pulposus.
+
+Timetable for commercial use (or any other use)
+
+Available 2013 onward.
+
+Patents or other IPR exploitation
+
+Not applicable. All the components of the strategy proposed have been already covered by patents. The broad concept of applying this cell-based gene therapy approach to the blocking of angiogenesis in cartilage formation has been already previously published in Kubo et al. 2009, Matsumoto et al. 2009.
+
+5 Novel growth factor analogues and antagonists
+
+Exploitation – Details and Strategy Outline
+
+Type of exploitable foreground – Commercial exploitation of R&D results
+
+Description of exploitable foreground
+
+Application to tissue regeneration of linear peptide sequences with a bioactivity analogue to that of growth factors and dendrons (hyperbranched) peptides with ability to block VEGF activity.
+
+New intrinsic properties to medical implants and tissue engineering constructs will allow their enhanced performances in several clinical applications thus making products more competitive.
+
+Sector(s) of application
+
+Medical device/tissue engineering companies, pharmaceutical companies.
+
+Timetable for commercial use (or any other use)
+
+2013 onward.
+
+Patents or other IPR exploitation
+
+Yes. Dendron peptide VEGF blockers fall under UoB background IP included in Consortium Agreement. Linear growth factor analogues will not be protected as they are likely to be regarded as pharmaceutical products requiring a high cost/high risk investment.
+
+6 New injection device and surgical technique
+
+Exploitation – Details and Strategy Outline
+
+Type of exploitable foreground – Commercial exploitation of R&D results.
+
+Description of exploitable foreground
+
+The injection device has been developed according to biomaterial properties. It enables the application of the different biomaterials proposed in the project as the nucleus substitute or the glue. The surgical technique has been defined for minimally invasive and open surgery approach. It has been tested on animal and cadaveric specimens.
+
+Sector(s) of application
+
+Minimally invasive and open spine surgery for nucleus replacement as well as in all skeletal applicartions
+
+Timetable for commercial use (or any other use)
+
+The time to market is around 12-24 months without any pre-clinical study. In case of studies (probably required by the biomaterial itself) it is going to vary according to the regulation system of the market/country (about 2-3 years).
+
+Patents or other IPR exploitation
+
+SAMO will evaluate the need to protect the final design of injection device. SAMO provides the parts and has additional expertise in the development of custom-made injection devices and, if the injection device is provided with the biomaterial itself.
+
+7 New sealing system
+
+Exploitation – Details and Strategy Outline
+
+Type of exploitable foreground – Commercial exploitation of R&D results
+
+Description of exploitable foreground
+
+Currently, sealant systems employed to close annulus fibrosis defects thus avoiding the leaking out of the nucleus substitute would seem to be not effective. Accordingly, the design of a polymeric balloon plug has been proposed in the project. The largest part of these balloon plugs must be introduced into the defect through an appropriate cannula and then may be filled with a bioadhesive that can harden in situ..
+
+The mechanical/dimensional stability of the system was properly assessed through specific tests ans surgery technique was validated.
+
+Sector(s) of application
+
+Biomedical field. This system would be not only limited to degenerated disc disease but it could be also considered as sealant system for a wide range of biomedical applications where liquid leaking should be avoided.
+
+Timetable for commercial use (or any other use)
+
+Preclinical study has been performed, however prior to the biomedical application of this sealant system in humans, clinical trials will need to be carried out in order to establish the efficacy and safety of the product in patients. Manufacture will be subject to the EU Medical Device Directive. These sealant systems should be easily developed, however, some costs must be expected in order to bring the systems to market. Accordingly, the indicative time to market would be 3-5 years.
+
+Patents or other IPR exploitation
+
+Following a patent search, A patent application may be prepared to protect the developed system consisting of a polymeric balloon plug filled with a cyanoacrylate-based bioadhesive. Licenses would be sought with interested parties to perform clinical trials (to establish clinical evidence proven cost/benefits data) or alternatively to license the technology for exploitation for a specific clinical target.
+
+8 Various databases: characterisation /properties information on polymer scaffolds, etc.
+
+Exploitation – Details and Strategy Outline
+
+Type of exploitable foreground – General advancement of knowledge
+
+Description of exploitable foreground
+
+The innovation content of results is represented by the complexity and variety of the materials analyzed useful for the different scaffolds made for disc regeneration. The data obtained by various characterization techniques (SEM, FTIR, CM, OM, TEM, and AFM) is quite unique and could be very useful for all the researchers or companies involved in future research of this field because they could extract valuable information about the different materials characteristics and properties.
+
+Another important database could be based on the morphology analysis of different intervertebral disc. Based on the results (macroscopy, optical microscopy, histological, SEM, TEM) on different discs (same area but different ages, sex, clinical conditions,etc) could be made different correlation between disc degeneration rate, age and status of the patients, medical imaging, in order to establish as good as possible, the optimal time for surgery.
+
+Sector(s) of application
+
+Research centres or companies involved in future research on IVD degeneration and materials properties
+
+Timetable for commercial use (or any other use)
+
+2012 onward.
+
+Patents or other IPR exploitation
+
+Not applicable
+
+9 Models of disc substitutes
+
+Exploitation – Details and Strategy Outline
+
+Type of exploitable foreground – General advancement of knowledge
+
+Description of exploitable foreground
+
+Several computational models were developed to study the biomaterial behavior in a physiological healthy and pathological environment by considering the movement of solutes within a healthy and degenerated disc when submitted to complex loading conditions, the disc cell viability in relation to glucose concentration and pH level when submitted to transient loading conditions.
+
+The model has been implemented to predict and verify the functional parameters for a new disc implant substitute.
+
+It is possible to exploit the models that have enabled the generation of this knowledge. However, these models are not patentable. Thus, they must either remain intellectual property to provide a decisive advantage over the competition, or they can be sold to a company interested in the exploitation of such models, or they can be made available freely to the scientific community.
+
+Sector(s) of application
+
+Biomedical engineering, computer science.
+
+Timetable for commercial use (or any other use)
+
+The models are fully developed and are already being used for further research.
+
+Patents or other IPR exploitation
+
+No patent or license is possible: “general advancement of knowledge” category.
+
+10 Biomaterial based delivery system for chemoattraction of stem cells
+
+Exploitation – Details and Strategy Outline
+
+Type of exploitable foreground – Commercial exploitation of R&D results
+
+Description of exploitable foreground
+
+Incorporation of SDF-1 in chitosan-based electrostatic complexes formed by layer-by-layer technique to recruit hMSCs. Biomaterial based delivery system for chemoattract-ion of stem cells and related scaffolds.
+
+Sector(s) of application
+
+Companies developing cell-based therapies for bone/cartilage regeneration
+
+Timetable for commercial use (or any other use)
+
+The proposed system needs more preclinical study to evaluate the efficacy. Since it is likely to be in the class of pharmaceutical products, it may expect a commercial use no before 2020
+
+Patents or other IPR exploitation
+
+One provisional patent application that expired on March 2012. Other applications were found to be relevant to patentability of this invention.
+
+11 Anti-inflammatory polyelectrolyte-based delivery system
+
+Exploitation – Details and Strategy Outline
+
+Type of exploitable foreground – Commercial exploitation of R&D results
+
+Description of exploitable foreground
+
+Polyelectrolyte complexes designed to deliver anti-inflammatory drug to promote local action of the anti-inflammatory drug, avoiding possible secondary effects of the drug (e.g. stomach ulcers, etc).
+
+Sector(s) of application
+
+Pharmaceutical companies
+
+Timetable for commercial use (or any other use)
+
+The proposed system needs more preclinical study to evaluate the efficacy. Since it is in the class of pharmaceutical products, it may expect a commercial use no before 2018
+
+Patents or other IPR exploitation
+
+To be evaluated.
+
+12 New two component cyanaocrylate based adhesive with extremely fast curing rate.
+
+xploitation – Details and Strategy Outline
+
+Type of exploitable foreground – Commercial exploitation of R&D results
+
+Description of exploitable foreground
+
+Two-component cyanoacrylate based adhesives able to polymerize is less than one second imparting high adhesion. Furthermore, the adhesive is biocompatible, and the exothermal reaction during curing is less pronounced than in commercial cyanoacrylate adhesives for wound closure.
+
+Sector(s) of application
+
+The technology would find application in medical emergency wound closure both in hospital and in the field. Furthermore, but not only restricted to, the adhesive can be used in fast joining of hip replacement prostheses.
+
+Timetable for commercial use (or any other use)
+
+Prior to the biomedical application of this technology a new applicator should be developed and for applications in humans, clinical trials will need to be conducted to establish the efficacy and safety of the product in patients. Manufacture will be subject to the European Union Medical Device Directive ISO 13485 to receive CE Mark Certification prior to marketing in the European Union. This will result in significant costs being accrued and investment from Venture Capitalists will be sought in order to bring the technology to market. Thus the indicative time to market would be 5-6 years.
+
+Patents or other IPR exploitation
+
+A patent application will be filed to protect the technology developed. Since our platform technology is proprietary, licenses would be sought with interested parties to manufacture the adhesive at industrial scale-up and to conduct clinical trials (to establish clinical evidence proven cost/benefits data) or alternatively to license the technology for exploitation for a specific clinical target.
+
+13 New biodegradable high adhesion polyurethane adhesive/sealant
+
+Exploitation – Details and Strategy Outline
+
+Type of exploitable foreground – Commercial exploitation of R&D results
+
+Description of exploitable foreground
+
+A new family of thermoplastic polyurethane adhesives containing natural moieties chemically incorporated into the soft segments to impart high tack. These provide both initial and final adhesion at low cost, and exhibit controlled biodegradability (through the presence of natural moieties in the structure) and high flexibility.
+
+Sector(s) of application
+
+The technology would find application in the recycling of industrial goods based on polymers in which adhesives are used. Examples include but are not limited to packaging industry, diapers manufacturing industry and plastic bottles with glued labels.
+
+Timetable for commercial use (or any other use)
+
+Prior to the application of this technology an industrial scale-up of the new polyurethane adhesives should be developed and tests complying with food/sanitary rules should be carried out. Thus the indicative time to market would be 3 years.
+
+Patents or other IPR exploitation
+
+A patent application will be filed to protect the technology developed. Since our platform technology is proprietary, licenses would be sought with interested parties to manufacture the adhesive at industrial scale-up.
+
+14 pH sensitive cross-linker
+
+Exploitation – Details and Strategy Outline
+
+Type of exploitable foreground – Commercial exploitation of R&D results
+
+Description of exploitable foreground
+
+The pH sensitive crosslinker is a biomimetic linker of the natural cellular environment which occurs in the host tissue. Thus degradation of the crosslinked ECM system and release of the therapeutic of interest will be triggered in acidic pH conditions (indicative of the IVD microenvironment) induced by the presence of inflammatory mediators.
+
+Sector(s) of application
+
+The technology would find applicable in a broad range of inflammatory diseases where a triggered release of an anti-inflammatory moiety is desired targeting the inflammatory response. Examples include but are not limited to degenerated disc disease, arthritis, wound healing and neurodegenerative diseases (Multiple Sclerosis, Parkinson’s disease and Alzheimer's disease).
+
+Timetable for commercial use (or any other use)
+
+Preclinical study needs to be completed prior the clinical trials. This will result in significant costs being accrued and investment from Venture Capitalists will be sought in order to bring the technology to market. Thus the indicative time to market would be 5-6 years.
+
+Patents or other IPR exploitation
+
+A patent application will be filed to protect the technology developed. Since our platform technology is proprietary, licenses would be sought with interested parties to conduct clinical trials (to establish clinical evidence proven cost/benefits data) or alternatively to license the technology for exploitation for a specific clinical target.
+
+15 Delivery system
+
+Exploitation – Details and Strategy Outline
+
+Type of exploitable foreground – Commercial exploitation of R&D results
+
+Description of exploitable foreground
+
+This delivery system comprises a novel hollow extra-cellular matrix based sphere technology, which facilitates higher payload capacity for sustained controlled delivery of therapeutic moieties to the desired target site.
+
+These therapeutic moieties include, but are not limited to, genes, growth factors and peptides.
+
+Sector(s) of application
+
+The technology will find application in the medical device and drug delivery sectors including but not limited to intervertebral disc regeneration, wound healing, cardiovascular regeneration, neural regeneration, oral delivery, inflammatory lung diseases and neurodegenerative disease where the development of novel therapies require suitable drug delivery systems that increase bioavailability and target the therapy to the site of interest thus reducing adverse side-effect profiles associated with systemic administration.
+
+Timetable for commercial use (or any other use)
+
+Prior to the biomedical application of this technology in humans, clinical trials will need to be conducted to establish the efficacy and safety of the technology in patients. This will result in significant costs being accrued and investment from Venture Capitalists will be sought in order to bring the technology to market. Thus the indicative time to market would be 5-6 years.
+
+Patents or other IPR exploitation
+
+A US patent (patent application US 12/886492) has been filed to protect the technology. Licences would be negotiated with perspective industry partners through the technology transfer offices at NUI Galway (preference would be given to industry partners in the consortium).
+
+Based on the Innovative concepts developed by the project and the "Demand Pull" from strategical sectors and organization (i.e. Hospitals, industries, ect.) it is important to evidentiate a very clear market drivers wich are mainly related to the aging population, development of novel multifunctional biomaterials for tissue repair/regeneration and non invasive surgery techniques both provide increased efficacy and decreased morbidity. All these will strongly contribute to the reduction of the Health system costs and improvement of quality of life and increase of the employment.
+
+List of Websites:
+
+5. List of Partners and Website address
+
+List of Partners
+
+Number, Name, Contact Person, Email
+
+1 - Istituto per i Materiali Compositi e Biomedici – Consiglio Nazionale delle Ricerche, Luigi Ambrosio, ambrosio@unina.it
+2 - Anika Therapeutics srl (Fidia Advanced Biopolymers srl)*, Cristina Longinotti,CLonginotti@AnikaTherapeutics.com
+3 - Universitätsspital Basel, Andrea Banfi,Andrea.Banfi@usb.ch
+4 - University of Brighton, Matteo Santin, m.santin@brighton.ac.uk
+6 - Instituto Nacional de Engenharia Biomedica, Mario Barbosa, mbarbosa@ineb.up.pt
+7 - Institut de Bioenginyeria de Catalunya, Josep A. Planell, japlanell@ibec.pcb.ub.es
+8 - Swerea IVF AB, Anna Thorvaldsson, Anna.Thorvaldsson@swerea.se
+9 - National University of Ireland, Galway, Abhay Pandit, abhay.pandit@nuigalway.ie
+10 - University of Ulm Anita Ignatius, anita.ignatius@uni-ulm.de
+11 - University of Alicante, Jose Miguel MARTIN MARTINEZ, jm.martin@ua.es
+12 - Università di Padova, Barbara Zavan, barbara.zavan@unipd.it
+13 - University Politehnica Bucharest, Iulian Antoniac, iantoniac@gmail.com
+14 - King’s College London, Lucy Di Silvio, lucy.di_silvio@kcl.ac.uk
+15 - Universidade do Minho, Rui Reis, rgreis@dep.uminho.pt
+16 - SAMO s.p.a., Enrico Sandrini, enrico.sandrini@samobiomedica.com
+17 - Katholieke Universiteit Leuven Kris Dierickx Kris.Dierickx@med.kuleuven.be
+18 (5)* - Universitätsmedizin der Johannes Gutenberg-Universität Mainz (Johannes Gutenberg Universität Mainz)*, James Kirkpatrick, kirkpatrick@pathologie.klinik.mainz.de
+
+* Legal entity change, previous designation in parentheses.
+
+Website address:
+
+www.disc-regeneration.eu

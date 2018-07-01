@@ -1,0 +1,378 @@
+Executive Summary:
+Neurodegeneration with brain iron accumulation (NBIA) is a clinically and genetically heterogeneous group of rare hereditary neurodegenerative disorders characterized by high levels of brain iron. The most common form is pantothenate kinase-associated neurodegeneration (PKAN), caused by mutations in PANK2 gene. Classic PKAN and most other NBIA cases are characterized by early childhood onset and rapid progression to disability and death. When the idea of TIRCON emerged in 2010, there was no proven therapy to halt or reverse PKAN or any other form of NBIA. This was especially unfortunate as both the iron accumulation in NBIA and the biochemical defect in PKAN may be amenable to drug-based treatment. Thus, the absence of randomised clinical trials was not due to a lack of therapeutic options but to the rarity of the disease, the lack of patient registries and the fragmentation of research worldwide With TIRCON, for the first time, we addressed this urgent and unmet need for a therapy for NBIA with an ambitious, rigorous and highly collaborative plan that leveraged worldwide expertise.
+
+In its work package (WP) 4, TIRCON has been conducting a large double-blind, placebo-controlled, randomised clinical trial to establish the safety and efficacy of the iron-chelating drug deferiprone in PKAN. The study duration per patient is 18 months, which allows for an assessment of symptomatic as well as neuroprotective effects. Bringing together leading centres and patient advocacies from Europe and the US, 89 patients were successfully randomised for this trial with the last patient-last visit being scheduled for September 2016.
+
+To prepare the ground for future trials, TIRCON established an internationally harmonised patient registry (WP1). Standardised collection of data is pivotal to catalyse basic and clinical research in the field and to increase trial readiness. Moreover, the registry is designed for a natural history study of all NBIA subtypes. So far, horizontal and longitudinal data of 281 NBIA patients have been collected.
+
+A biomaterial bank is another prerequisite to pave the way for novel treatment studies. Accordingly, TIRCON set up an international biomaterial bank (WP2), providing a repository for consortium partners and collaborators. So far, WP2 collected biomaterial from 216 NBIA patients and 372 controls. This collection has been used in WP3 for genomic, proteomic, transcriptomic and metabolomic analyses in order to identify biomarkers reflecting disease course and treatment effects.
+
+To advance research on next-generation NBIA therapeutics, TIRCON’s WP5 pursued the preclinical development of pantethine and its derivatives which have shown promising effects in a Drosophila PKAN model. WP5 synthesised and investigated different compounds, being able to rescue PKAN in cell, fly and mouse models. One of these compounds (CAB1803) has been patented (EP2868662A1) as part of the exploitation plan. Further preclinical work and the submission of an orphan drug designation application for CAB1803 are ongoing, with the goal of a future clinical trial.
+The impact of TIRCON has been bolstered by complementing the scientific WPs 1-5 with WPs 6-8 focusing on ethics, dissemination and management. WP6 addressed ethical and legal questions concerning the use of patient data and biomaterials, with specific attention to the unique challenges posed by rare disorders.
+
+WP7 generated a dissemination strategy, ran TIRCON’s website, prepared educational materials, and elaborated an exploitation plan. WP8 provided the daily management of the project while ensuring timely and cost-efficient overall coordination. It provided a web-based management tool, organised meetings, and prepared administrative and financial reports in cooperation with the EC.
+
+While TIRCON may have begun in 2011 as a research project in a traditional sense, throughout its four years it has developed into something far larger. In response to a FP7 call for proposals, TIRCON brought together scientists, clinicians and patients from around the world, and grew into a unique NBIA community committed to NBIA research and care. There is a general agreement in the TIRCON group that it is crucial to sustain operations and keep this unique group’s dynamic ongoing in the post-funding period.
+
+Project Context and Objectives:
+TIRCON („Treat Iron-Related Childhood-Onset Neurodegeneration“) is dedicated to a group of rare inherited neurodegenerative diseases known as Neurodegeneration with Brain Iron Accumulation (NBIA). These clinically and genetically heterogeneous disorders are characterised by high levels of brain iron (Figure 1). The most common form, accounting for approximately 50% of NBIA cases, is Pantothenate Kinase-Associated Neurodegeneration (PKAN), caused by mutations in the pantothenate kinase 2 (PANK2) gene (Zhou et al, 2001). Classic PKAN and most other NBIA cases are characterised by early childhood onset and rapid progression to disability and death.
+
+When the idea of TIRCON emerged in 2010, there was no proven therapy to halt or reverse PKAN or any other form of NBIA. This was especially unfortunate as both the iron accumulation in NBIA and the biochemical defect in PKAN may be amenable to drug-based treatment (Figure 2).
+
+Thus, the absence of adequately powered randomised clinical trials was not due to a lack of therapeutic options but to the rarity of the disease, the lack of patient registries and the fragmentation of therapeutic research worldwide. For example, the iron-chelating drug deferiprone had been administered worldwide to NBIA patients on a compassionate use basis or in small pilot trials, both precluding firm conclusions about its efficacy. With TIRCON, for the first time, we wanted to address this urgent and unmet need for a therapy for NBIA with an ambitious, rigorous and highly collaborative plan that leveraged worldwide expertise. Thus, TIRCON’s main objectives were i) to find new approaches for the treatment and care of NBIA patients ii) to facilitate future therapeutic research by the development of an international NBIA patient registry and biobank.
+
+A) New treatment approaches (WP4, WP5)
+A1) Randomised placebo-controlled clinical trial of deferiprone in PKAN (WP4)
+Iron accumulation in brain represented a highly feasible immediate therapeutic target because of recent advances in chelator formulations and their central nervous system penetration. Chelation holds promise to decrease brain iron levels in NBIA and to slow, stop and possibly reverse clinical disease progression. We and others have observed in individual PKAN patients on a compassionate use basis (unpublished) and in a pilot trial in 10 PKAN patients (Zorzi et al, 2011) that treatment with the iron-chelating drug deferiprone (DFP), which is already approved for other indications, leads to reduction of brain iron and partly to clinical improvement. These observations substantiated the urgent need to pursue this treatment, which is strongly supported and endorsed by patients and patient advocacy groups. In view of the rarity of the disease, however, it was obvious that a coordinated joint international effort was critical to avoid fragmentation of research and to answer the question of efficacy and safety. With TIRCON, for the first time, we were able to set up a large multi-centre, randomised, double-blind, placebo-controlled clinical trial on the efficacy and safety of deferiprone in PKAN. To reach the required patient cohort size, TIRCON brought together the leading European and US clinical centres specialised in NBIA clinical research as well as the German (HoBa) and American (NBIADA) patient advocacy groups.
+
+Regarding outcome measures, we decided to use the Barry-Albright Dystonia scale (BAD) as primary endpoint since dystonia is the key symptom of PKAN and since a 20% improvement in the BAD scale translates to a major clinical benefit that justifies the therapeutic intervention (according to a recent consensus meeting). Power analysis showed that a sample size of 72 patients is needed to achieve 80% power in detection of this clinically relevant effect size at a two-sided 0.05 level of significance. In consideration of an expected drop-out rate of 20%, a total of 90 PKAN patients were required for the study. We performed a survey within our consortium which showed that this number of patients can be achieved based on known local cohorts and with support from patient advocacy groups.
+
+The trial has been supported by the manufacturer and partner 13, ApoPharma Inc. (Canada) who acted as a Sponsor and provided a liquid formulation of DFP palatable for children and an indistinguishable placebo formulation. The design of the clinical trial was fit to enable approval of the drug in case of a significantly positive outcome. Iron chelation therapy is not restricted to PKAN; in case of a positive outcome, DFP could be a treatment option for other subtypes of NBIA and even for other, more common disorders with increased brain iron such as Parkinson disease.
+
+A2) The potential of pantethine and pantethine derivatives to treat PKAN (WP5)
+In addition to the clinical trial of deferiprone, TIRCON proposed to pursue preclinical development of pantethine and its derivatives with its partner ACIES BIO, a European SME (small and medium-sized enterprise) specialised in synthesising new metabolite-derived compounds. If brought into clinical development, these compounds represent a biochemically rational treatment in PKAN that targets the primary defect. Before TIRCON, we had already shown that pantethine acts in Drosophila as an alternative precursor for CoA synthesis bypassing PANK2, the defective enzyme in PKAN, and leading to rescue of neurodegeneration and increase in life span (Rana et al, 2010). We therefore proposed further preclinical investigation of these compounds up to first pharmacokinetic studies (WP5).
+
+The objectives of this WP5 were (i) to determine whether pantethine rescues the defect in mammalian PKAN models, (ii) to synthesize and purify stable pantethine derivatives on a small scale for studies in cells and flies (ACIES BIO), (iii) to determine which of the tested compounds (pantethine and its derivatives) is most potent in rescuing PKAN-relevant phenotypes in the various cell and fly models, (iv) to determine which of the compounds has favourable bioactivity and low toxicity in the cell and fly models, and which compound is able to pass the Blood Brain Barrier (BBB), (v) to synthesize the most promising compound(s) that cross the BBB on a large scale for studies in PKAN mouse models (ACIES BIO), and (vi) to perform rescue experiments in available mouse models and determine the pharmacokinetic and toxicity profiles of the most promising pantethine derivative. This approach, together with the outcome of the other WPs, was expected to lead to a firm conclusion of whether it is worthwhile to develop pantethine or pantethine-derivatives into an established drug that could be used alone or in combination with deferiprone to treat PKAN.
+
+B) Corollary measures: Patient registry, natural history study, biomaterial bank, biomarkers (WP1, WP2, WP3)
+In the past, the lack of controlled clinical trials in NBIA was due to rarity and heterogeneity of the disorders and to previous fragmentation of research efforts. These limitations are most effectively overcome by an international patient registry. TIRCON therefore proposed to build an internationally harmonised clinical patient registry for NBIA patients (WP1). Standardised collection of patient data provides the opportunity to overcome fragmentation of local patient collections and thus enable formation of large cohorts to catalyse basic and clinical research in the field and to increase trial readiness of NBIA patients. Moreover, the web-based registry was projected to be fully functional for a natural history study of all NBIA subtypes. A focus has been set on scores that are most appropriate to reflect stage and progression of the disease. Natural history data are pivotal for the design of future controlled trials. A biomaterial bank (WP2) was seen as another prerequisite to pave the way for novel treatment studies. It enables genomic, proteomic, transcriptomic and metabolomic analysis of patient specimens in order to identify factors that underlie disease pathogenesis. Ideally, it leads to biomarker discovery (WP3) which can then be used as surrogate markers to strengthen therapy studies.
+
+Taken together, TIRCON`s concept was to bring together into one cohesive group the existing outstanding but scattered expertise in NBIA research and care at the European and international level (Figure 3). The field of NBIA has advanced largely through strong collegiality and collaboration but has struggled with common obstacles such as limited funding that transcends national boundaries, small numbers of patients, and relative neglect from large pharmaceutical companies. Through our organisational structure and proposal priorities, TIRCON’s goals were to enable the worldwide NBIA community to overcome these obstacles. Our consortium has been composed of clinical centres and basic science laboratories, European, Canadian and US groups, patient advocacy, SME and enterprise. The clinical groups of Drs. Klopstock (LMU), Kmiec (CMHI), Nardocci (FINCB), Hogarth (OHSU), Vichinsky (CHRCO) and Chinnery (UNEW) have a focus on rare neurogenetic disorders, run specialized NBIA clinics in their countries, and have done comprehensive clinical NBIA research. Moreover, they have longstanding experience in running patient registries and biomaterial banks as well as in conducting investigator-driven and industry-driven randomised clinical trials. The clinical groups have been in close contact for many years with the German (HoBa) and American (NBIADA) patient advocacy groups, which were included as partners in TIRCON, contributing to patient recruitment (WP1,4) and ethical issues (WP6) as well as leading WP7 on dissemination. The manufacturer and partner ApoPharma Inc. (Canada) acted as a sponsor and has supported the clinical trial by providing a liquid formulation of DFP palatable for children and an indistinguishable placebo formulation. The basic science groups of Drs. Prokisch and Meitinger (TUM-MED), Tiranti and Garavaglia (FINCB), Sibon (UMCG) and Hayflick (OHSU) have identified four NBIA genes, demonstrated the mitochondrial localization of PANK, and conclusively delineated the clinical features of distinctive forms of NBIA, and developed PKAN mouse and Drosophila models. Rescue of the PKAN phenotype in the Drosophila model by pantethine was the basis for our proposed WP5, which was done in collaboration with our SME partner, ACIES BIO. Apart from the SME, all scientific TIRCON partners have been closely collaborating bi- or multilaterally in the last years, and many previous publications had resulted from this collaboration.
+
+Project Results:
+In summary, TIRCON has enabled:
+• an internationally harmonised clinical patient registry for NBIA patients with good functionality, high acceptance, and the potential for sustainability after the funding period, allowing for transversal and longitudinal studies and increased trial readiness (WP1)
+• an international biomaterial bank for NBIA with good functionality, high acceptance, and the potential for sustainability after the funding period, providing a sample repository for all NBIA researchers in near future (WP2)
+• the development of biomarkers that can be used as surrogate markers for disease course and treatment effects (WP3)
+• an evidence-based conclusion in early 2017 about the efficacy and safety of deferiprone in PKAN which will have a major impact on the assessment of efficacy for the whole class of iron-chelating drugs in all NBIA subtypes (WP4)
+• a definite conclusion about the efficacy of pantethine or its derivatives in PKAN animal models, leading to a decision as to whether pantethine or one of its derivatives should be developed into a clinical drug (WP5)
+• the establishment of appropriate ethical protocols (WP6)
+
+WP1 Standardised patient registry and natural history study
+The main tasks for WP1 were:
+1.1 Agreement on data set in the NBIA registry
+1.2 Technical set-up of the registry
+1.3 Set-up of the biometric concept
+1.4 Data acquisition and storage
+1.5 Statistical analysis of data
+WP1 was involved in the following milestones:
+MS2 Fully operational NBIA registry (Month 07)
+MS5 Baseline biomarkers for PKAN (Month 24)
+MS6 DFP trial randomisation complete (Month 24)
+
+In the 1st reporting period, all clinical partners worked together to define the registry content and the best instruments to collect valuable transversal and longitudinal data on NBIA. The data set was chosen to meet the following requirements:
+• provide detailed data to allow for profound research
+• data entry must be technically easy and accomplishable in a timeframe acceptable to the participating clinicians
+• Emphasis placed on data that reflect the natural course of the disease, which is important both for longitudinal studies and for design and power analysis of controlled clinical trials.
+
+Standardised and validated scales for the examination of the patients’ clinical condition and collection of additional data regarding quality of life as well as level of independence were selected for use in both the registry (WP1) and the clinical trial (WP4). Thus, data can be easily transferred between both databases and will facilitate the workload by not having to enter the same information twice. Additional questions were added to the registry content and aim - together with data collected through validated scales – to provide a very detailed description of the different NBIA forms and their clinical presentation in comparison with etiological findings.
+
+The registry database was set up at the Institute for Medical Statistics and Epidemiology at the TUM MED. It was based on components successfully used in the German rare disease registry mitoNET. The technical set-up of the registry stressed data safety and protection issues, and development of Electronic Case Report Forms for web-based data entry. The registry was fully operational in month 15, thus meeting Milestone 2 of TIRCON with some delay (projected: month 07). Training activities for data acquisition and data entry into the web-based registry were offered on a regular basis by LMU. A self-explanatory manual, as well as a checklist with the registry content have been developed.
+
+Patient information and consent forms as well as documents for submission to Ethics Committees were created and harmonised in English, German, Italian and Polish, according to the participating countries. Three major clinical sites for the registry (LMU, CMHI, OHSU) received their respective IRB approvals, and at the end of the 1st reporting period, the first five patients were enrolled.
+
+In the 2nd Reporting Period, improvements regarding registry content and functionality were identified and implemented, including the export and monitoring of data. All remaining sites were approved by their IRB (FINCB, CHRCO, UNEW). Moreover, the registry was opened to external sites. One external site in Hungary was approved and activated, and 9 additional external centres were identified and supported in preparing their IRB submissions. Until the end of the 2nd Reporting Period, patient enrolment had increased significantly to 155 NBIA patients.
+
+In the 3rd Reporting Period, three further external clinical centres in Serbia, Czech Republic, and Spain were successfully initiated. Patient informed consents were made available in various languages including English, German, Polish, Italian, Catalan, Serbian, Czech, Spanish, and Turkish. Patient enrolment increased further to comprise by month 48 baseline data from 281 NBIA patients (+126 as compared to the end of the 2nd reporting period) as well as 177 follow-up visit data (+127, see Figure 4). Measures were taken to prepare for a new, extended and more suitable platform for a future sustainable TIRCON registry.
+
+WP2 Biomaterial bank
+The main tasks for WP2 were:
+2.1 Harmonisation of SOPs for sampling and preanalytics
+2.2 Sampling, preanalytics and storage
+WP2 was involved in the following milestones:
+MS5 Baseline biomarkers for PKAN (Month 24)
+
+In the 1st Reporting Period, patient information and consent forms as well as IRB submission documents were created and harmonised. The ICFs were approved in five TIRCON centres (TUM MED, LMU, FINCB, CMHI, OHSU). SOPs for sampling, processing and shipment of biomaterials were developed. A “TIRCON kit” was designed containing all necessary equipment needed for urine and blood collection as well as labelled biosample documentation sheets. All tubes and cups are labelled with individual barcodes in order to pseudonymise the material. Special SOPs and sampling kits were also prepared for family conferences with no laboratory available in the location. These kits had to be modified for practical reasons in order to facilitate probe collection at the conferences. 100 kits were provided to clinical centers, and until the end of the 1st Reporting Period, biomaterial of 36 patients was collected. In addition, an observatory function was implemented to survey information from local biobanks.
+
+In the 2nd Reporting Period, the original concept of having local biomaterial banks was discarded in favour of one central biobank in Germany. Thus, the preparation and distribution of sampling kits, the preparation of DNA and RNA from collected blood as well as the storage of biomaterial was from now on all done at this central location. This allowed us to ensure higher standardisation of all consumables and materials necessary for sample collection and pre-processing. As WP1, the biobank was opened to external sites. The biomaterial collection increased to 233 samples from NBIA patients and controls.
+
+Within the observatory function of the biobank, we the TIRCON partners are informed of locally identified patients with specific diagnoses and novel candidate genes. This allowed additional patient samples available at other TIRCON centres to be screened. This interaction resulted in publications defining the phenotype associated with mutations in WDR45, a new causative NBIA gene identified by TIRCON members. (Haack et al, 2013 and Hayflick et al 2013). The observatory function also helped us to define the phenotype that is associated with mutations in C19orf12 causing autosomal recessive mitochondrial membrane protein-associated neurodegeneration (MPAN), which may account for up to 30% of NBIA cases. (Hartig et al, 2013 and Gregory et al, 2014).
+Exome sequencing by TUM-MED of a patient sample from FINCB revealed the presence of recessive missense mutations in COASY, encoding Coenzyme A (CoA) synthase in one NBIA-affected subject. A second unrelated individual carrying mutations in COASY was identified by Sanger sequence analysis of undiagnosed NBIA patients from TIRCON partners. CoA synthase is a bifunctional enzyme that catalyzes the final steps of CoA biosynthesis by coupling phosphopantetheine with ATP to form dephospho-CoA and its subsequent phosphorylation to generate CoA. We demonstrated alterations in RNA and protein expression levels of CoA synthase and CoA amount in fibroblasts derived from the two clinical cases. This is the second inborn error of coenzyme A biosynthesis to be implicated in NBIA and is an important finding for TIRCON. It highlights the importance of CoA in PKAN patients (Dusi et al. 2014).
+
+In the 3rd Reporting Period, ICFs were made available in additional languages including Hungarian, Czech, Serbian, Spanish, and Turkish. A data/biosample user agreement was developed and implemented. Biomaterials were provided to TIRCON partners for functional studies and for genomic, proteomic, transcriptomic and metabolomic analyses in WP3 in order to identify biomarkers reflecting disease course and treatment effects. Moreover WP2 contributed to the discovery of two new NBIA genes. Both genes have been screened in USA, UK, Germany, Poland, and Italy. Currently, functional studies are ongoing to decipher the pathomechanism involved in the new diseases entities. One gene encodes a transporter while the other gene product is involved in autophagy.
+
+In addition, the observatory function supported the exchange of patient cell lines and antibodies necessary for functional studies to better understand the function of C19orf12. By using western blot analysis with specific antibody and confocal studies, it was shown that wild-type C19orf12 protein was not exclusively present in mitochondria, but also in the Endoplasmic Reticulum (ER) and Mitochondria Associated Membrane (MAM), while mutant C19orf12 variants presented a different localisation. Moreover, after induction of oxidative stress, a GFP-tagged C19orf12 wild-type protein was able to relocate to the cytosol. On the contrary, mutant isoforms were not able to respond to oxidative stress. High mitochondrial calcium concentration and increased H2O2 induced apoptosis were found in fibroblasts derived from one patient as compared to controls (Venco et al, 2015).
+
+Taken together, these collaborative studies provided the basis for a better understanding of the pathomechanisms of NBIA diseases. Additionally, these studies have strengthened the TIRCON network and have enabled the discovery and validation of novel NBIA genes.
+
+By month 48, at the end of the 3rd Reporting Period, biomaterial was available from 216 NBIA baseline visits, 241 follow up visits, and 372 controls.
+
+WP3 Molecular biomarkers for disease progression and monitoring therapy
+The main tasks for WP3 were:
+3.1 Identification of biomarkers for PKAN
+3.2 Validation of results via transcriptomic and metabolomic approaches
+3.3 Evaluation of specific biomarkers during therapy
+WP3 was involved in the following milestones:
+MS5 Baseline biomarkers for PKAN (Month 24)
+
+Since WP3 depended on the biomaterial collection of WP2, there were not enough samples to start the projected biomarker analyses in the 1st Reporting Period. Preliminary data demonstrated, however, the feasibility of a metabolomic approach in PKAN.
+
+In the 2nd Reporting Period, a pilot study employing lipidomic analysis of red blood cells from 10 PKAN patients and 12 controls showed differences in phospholipid distribution, representing a first biomarker in blood. The experimental design for whole blood expression profiling was validated, and the value and feasibility of this method was confirmed. A novel RNAseq protocol was established and a bioinformatic pipeline for the analysis of RNAseq data was developed.
+
+In the 3rd Reporting Period, all projected experiments to measure metabolite and transcript levels were performed. High quality RNA samples (RIN>8) were prepared from 270 PAX tubes. 292 RNAseq data sets were generated from 50 PKAN patients at baseline, 70 follow-up visits, 50 healthy controls, 100 patients with other neurological or mitochondrial disorders and 22 fibroblast cell lines. 270 metabolomic data sets were generated from the same blood samples as RNAseq data. The statistical analysis and interpretation of the data is not finished, but remains ongoing and is supported by a new Horizon2020 project (SOUND). Preliminary data include 54 biomarkers (p < 0.005) discovered for PKAN and 14 biomarkers (p < 0.005) discovered for disease severity (needs to be validated and replicated).
+
+WP4 A randomised, double-blind, placebo-controlled trial of deferiprone in patients with PKAN
+The main tasks for WP4 were:
+4.1 Completion and approval of the final study protocol
+4.2 Recruitment of PKAN patients
+4.3 Safety Monitoring
+WP4 was involved in the following milestones:
+MS2 Fully Operational NBIA registry (Month 07)
+MS5 Baseline biomarkers for PKAN (Month 24)
+MS6 DFP trial randomisation complete (Month 24)
+
+In the 1st Reporting Period, the clinical study protocol was finalized in month 10, after thorough discussions between partners and with regulatory authorities (EMA, FDA). Patient information and consent forms as well as documents for submission to IRBs and national authorities were created and harmonised. Sponsorship was transferred to the drug manufacturer, ApoPharma Inc., who was accepted as an additional TIRCON partner by the EC. The trial was registered in month 14 at NCT01741532. A Data and Safety Monitoring Board (DSMB) was responsible for the safety monitoring during the trial. The DSMB is an independent multidisciplinary group consisting of clinicians and researchers that collectively has experience in the management of patients with neurodegenerative conditions or iron chelation and/or in the conduction and monitoring of randomised clinical trials. The DSMB team included 7 members: two paediatric neurologists, one biostatistician, two paediatric haematologists, one neurologist and one pathologist. The first Interim Safety Review Meeting of the DSMB was planned to occur once the 22nd patient has completed 6 weeks of therapy, or 6 months after initiation of enrolment in the trial. At the end of the 1st Reporting Period, two of five clinical study sites (USA, Germany) were fully initiated. Patient enrolment started in month 14 (CHRCO, USA) and month 18 (LMU, Germany), and 10 patients were randomised to deferiprone or placebo.
+
+In the 2nd Reporting Period, the sites in Milan (FINCB, Italy) and Newcastle (UNEW, UK) were approved to start the clinical study, in addition to the already running sites in Oakland (USA) and Munich (Germany). The site in Warsaw (CMHI, Poland) was closed due to insurmountable administrative difficulties, resulting in a total of four actively recruiting study centres (CHRCO, LMU, FINCB, UNEW). At the end of the 2nd reporting period, 63 patients were randomised. As a post TIRCON measure, ApoPharma set up an open-label extension study with deferiprone for patients completing the randomised trial (n = 8 until the end of the 2nd reporting period). Patient compliance to study procedures was excellent. The DSMB performed regular reviews of safety, and did not identify any issues requiring premature unblinding, suspension or termination of the study.
+
+In the 3rd Reporting Period, all four clinical study sites (CHRCO, LMU, FINCB, UNEW) increased their efforts to complete the randomisation. Eleven foreign patients from 5 non-TIRCON countries were included in the trial and permanent collaborations with foreign local physicians were established. The goal of randomising 90 PKAN patients was met in the 3rd reporting period, the last patient (no. 89) being included in March 2015 (MS6, Figure 5). Nearly all patients from the clinical trial have agreed to participate in the TIRCON registry (WP1) and biobank (WP2). Thus, the number of PKAN biosamples in the biobank increased significantly, allowing for the start of the sample analysis for WP3.
+
+As the treatment duration per patient in the clinical trial is 18 months, the last patient-last visit is scheduled for September 2016 (delay of 17 months). Hence, the final results of the randomised trial will be available in early 2017. To counterbalance the delay in the clinical study, the TIRCON group agreed with ApoPharma to set up post-TIRCON measures including an extension study and a compassionate use program (both industry-sponsored) that ensure uninterrupted supply of deferiprone to PKAN patients until the results of the randomised TIRCON trial are available. At the end of the 3rd reporting period, 28 of 30 patients who had completed the randomised trial decided to enrol in the open-label extension study. Review of safety data was performed regularly by the DSMB, and no issues requiring premature unblinding, suspension, or termination of the study were identified.
+
+WP5 Studies to define the potential of pantethine and pantethine derivatives to treat PKAN
+The main tasks for WP5 were:
+5.1 Test efficacy of pantethine in PKAN cell and mouse models
+5.2 Synthesis of pantethine derivatives on a small scale
+5.3 Test efficacy and toxicity of pantethine derivatives in PKAN cell culture and fly models
+5.4 Analysis of Blood-Brain Barrier permeability of pantethine and its derivatives
+5.5 Synthesis of 100 grams of the most promising compound
+5.6 Rescue studies of most promising compounds in mouse
+5.7 Pharmacokinetics and toxicity of most promising compound in mouse
+WP5 was involved in the following milestones:
+MS4 Analysis of efficacy and toxicity of pantethine derivatives in PKAN cell and fly models (Month 24)
+MS7 Pantethine derivative passes BBB (Month 28)
+MS8 Large-scale synthesis of most potent compounds (Month 36)
+MS9 Analysis of efficacy, toxicity and pharmacokinetics of most promising compounds (Month 48)
+
+In the 1st Reporting Period, an optimised PKAN mouse model was developed. Preliminary results showed an improvement of locomotor defects by pantethine. Three pantethine derivatives were synthesized in good purity on a small scale (100 mg). Serum stability of one of these compounds and its rescuing potential was demonstrated in vitro and in a drosophila PKAN model.
+
+In the 2nd Reporting Period, all four proposed pantethine derivatives and an additional compound were synthesized in good purity on a small scale. One compound rescued PKAN cell, fly and C. elegans models. All compounds showed increased serum stability and less toxicity than pantethine in cell models (MS4). Five manuscripts on pantothenate metabolism were published by WP5 partners and supported by TIRCON. A patent regarding pantethine derivative synthesis and possible treatment options for PKAN was submitted for the compound CAB1803.
+
+In the 3rd Reporting Period, the mechanisms whereby cells and organisms can obtain one of the tested compounds from external resources were elucidated. This compound was found to be stable in serum derived from patients. In these tests, patients’ unaffected family members were used as controls. Moreover, it was shown that TM1 passes the BBB in the PAMPA assay (MS7) and that CAB1803 rescues HOPAN-induced lethality in mice. Three manuscripts on pantothenate metabolism were published by WP5 partners and supported by TIRCON, one in the high-impact journal Nature Chemical Biology with an accompanying News and Views issue.
+
+WP6 Ethics
+The main tasks for WP6 were:
+6.1 Risks and contingency plan
+6.2 Overview of the national legal frameworks
+6.3 Addressing specific challenges
+6.4 Informed Consent Forms (ICF)
+6.5 Seeking ethics approval
+6.6 Data Protection and Data Safety monitoring in WP1, WP2, WP3 and WP4
+6.7 Clinical trial monitoring
+WP6 was involved in the following milestones:
+MS2 Fully Operational NBIA registry (Month 07)
+
+In the 1st Reporting Period, a detailed risks and contingency plan for all WPs was elaborated. Legal frameworks as well as ethical, confidentiality, and privacy issues from all participating countries were analyzed. All partners were sensitized to issues of good clinical practice and data protection.
+Since patient identity is more difficult to protect for rare disorders (especially those with a genetic component) than for conditions more abundant in the population, special attention was paid to protect identities and shield privacy. The registry and the biobank benefited from previous experience gained in the project mitoNET where the data safety concept, recommended by the German Telematics Platform for Medical Research Networks (TMF), was successfully used for patient data protection. All partners responsible for patient ascertainment and informed consent were sensitized to issues of coercion.
+
+Particular attention was paid to the informed consent forms (ICFs) in order to provide appropriate information for patients and their families. In all centers and within all work packages (WP1, 2, 4), child-friendly ICFs were made available. All five centers in the USA and Europe received IRB approvals but one in the UK, where, due to local specificities, the approval was delayed. Milestone 2 (fully operational NBIA registry), scheduled for month 07 in Annex 1, was accomplished in month 15. MS2 was especially relevant for WP6 since the registry includes most sensitive patient data.
+The clinical study protocol was redesigned according to the requirements of a Phase III trial seeking for drug approval, reviewed, amended and finalized. Monitoring of the clinical trial started directly after the first patient enrolment. The safety during the clinical trial (WP4) was monitored by a Data and Safety Monitoring Board (DSMB). The DSMB became fully operational on 07-JAN-2013 with the first meeting by telephone conference.
+
+The use of animals has been in conformity with the original plan submitted in the Grant Agreement. The partners participating in WP3 and WP5 received authorization by their respective authorities concerning the use of animals: All appropriate ethical permissions for animal studies are already in hand.
+In the 2nd Reporting Period, safety monitoring of the clinical trial was performed continuously. No major safety concerns were identified by the DSMB. Recommendations on additional procedures were provided for minor safety findings. All DSMB reports were submitted by the sites to local IRBs and regulatory authorities. In addition, regular site monitoring visits have taken place.
+
+All ethics approvals for WP1, WP2 and WP4 have been obtained in the 2nd period. In accordance with the GCP guidelines and as requested by the IRB, ICFs have been translated into each patient’s native language.
+
+In WP5, only the minimum number of mice required to achieve statistical relevance was used.
+In the 3rd Reporting Period, relevant IRB approvals remained valid without major changes (WP1, WP2, WP4). Three further external sites in Serbia, Czech Republic, and Spain (Catalonia) were approved and were recruiting actively patients for WP1 and WP2. Safety monitoring of the clinical trial was performed continuously. In WP5, only the minimum number of mice required to achieve statistical relevance was used. Gender equality remained well-balanced throughout the project.
+
+WP7 Dissemination
+The main tasks for WP7 were:
+7.1 Networking and communication plan (LMU, NBIADA, HoBA)
+7.2 NBIA Network in Europe and USA (LMU, HoBa)
+7.3 Exploitation plan (LMU, NBIADA, HoBA)
+7.4 Dissemination of research results (all TIRCON members)
+7.5 Teaching PKAN/NBIA
+7.6 Steps towards further clinical trial (UMCG, ACIES BIO, BayFOR)
+WP7 was involved in the following milestones:
+MS3 PKAN-Website public (Month 12)
+MS6 DFP trial randomisation complete (Month 24)
+
+In the 1st Reporting Period, the TIRCON website www.TIRCON.eu was launched in month 12, thus meeting Milestone 3 in time. Information leaflets on TIRCON were developed in German and English. An international umbrella patient advocacy “NBIA Alliance” was set up. TIRCON participated in 15 networking events, and organised 6 workshops at national and international meetings. Ten scientific articles were published in international journals.
+
+In the 2nd Reporting Period, the TIRCON webpage was maintained and extended. The international umbrella patient advocacy “NBIA Alliance” was extended to include members from 7 countries. TIRCON travel grants were awarded to young NBIA researchers. Revisions and developments of TIRCON information leaflets were provided in different languages. TIRCON contents were disseminated to various target groups in 4 newsletter issues of the patient organisations, on websites and in 30 non-scientific articles (13 print, 16 online, 1 audio visual). Intensive free telemedicine support was provided for patients and their families. TIRCON participated in 22 networking events, organised 7 workshops at international meetings, and published 11 further scientific articles.
+
+In the 3rd Reporting Period, achievements included:
+(i) further development and expansion of the patient umbrella organisation “NBIA Alliance” with organisation of NBIA Family Conferences in USA (organised by NBIADA) and in Italy (organised by patient advocacy AISNAF);
+(ii) extension of the NBIA clinical network through collaboration with NBIA centers worldwide, and involving 4 of them in the TIRCON patient registry and biobank;
+(iii) extended support provided by the patient organisations facilitating the recruitment of eligible patients for the clinical trial and the completion of the randomisation in WP4 (MS6);
+(iv) maintenance, extension, and full update at project end of the TIRCON webpage (www.TIRCON.eu);
+(v) free intensive telemedicine support for patients / patient families and networking with patients, physicians, and researchers,
+(vi) development of the TIRCON Final Information leaflet detailing TIRCON’s relevance, accomplishments, enhancement, and expected impact;
+(vii) participation at scientific conferences with 12 talks and 2 poster presentations, realization of 3 educational trainings according to an educational protocol, participation at and realisation of 8 events to network with key stakeholders;
+(viii) dissemination of TIRCON contents to various target groups in 5 newsletter issues of the patient organisations, on websites, and in 13 non-scientific articles;
+(ix) winning of the Hertie-Preis für Engagement und Selbsthilfe by HoBa (Oct 2015);
+(x) publication of 10 further scientific articles.
+
+WP8 Management
+The main tasks for WP8 were:
+8.1 Web-based management tool (BayFOR)
+8.2 Meeting Organisation (LMU, BayFOR)
+8.3 Day-to-day management (LMU, BayFOR)
+8.4 Non-scientific reporting (LMU, BayFOR)
+WP8 was involved in the following milestones:
+MS1 Management tool set up and operational (Month 3)
+
+In the 1st Reporting Period, WP8 supported all partners in administrative, technical, legal and financial issues. The web-based management tool Project Place was set up and operational in Month 01, thus meeting milestone 1 in time. Project meetings were executed according to plan. Work progress, deliverables and partners’ obligations were continuously monitored.
+
+In the 2nd and 3rd Reporting Period, WP8 further supported all partners in administrative, technical, legal and financial issues. Project meetings were executed according to plan. Work progress, deliverables and partners’ obligations were continuously monitored. After more than four years of close cooperation, TIRCON is now a consolidated research and care network with significant achievements. There is a general agreement that it is crucial to sustain operations and keep this unique group’s dynamic ongoing. Measures to sustain TIRCON beyond 2015 were established. The group has agreed to remain connected via regular teleconferences. As the results of the clinical trial in WP4 will only be available in the beginning of 2017, WP8 is already working on a solution to enable a second Final Conference at that point.
+
+In summary, TIRCON met nearly all milestones within the project time. The delay in WPs 1-4 due to their huge administrational workload led to a delay in the completion of the clinical trial and the biomarker analysis. These milestones are expected to be completed in 2017.
+
+Potential Impact:
+While TIRCON may have begun in 2011 as a research project in a traditional sense, throughout its four years it has developed into something far larger. In response to a FP7 call for proposals, TIRCON brought together scientists and patients from around the world, and grew into a unique NBIA community committed to NBIA research and care. This community (see TIRCON world map) operates globally across borders, sectors, and generations. One particular strength of TIRCON is the incorporation of groups from a large range of sectors, including those from basic research, clinical research, patient care, patient advocacy, industry (bio-tech SMEs and pharmaceutical companies), and the public sector.
+
+International partners of TIRCON include an EU-wide core team of nine partners from six countries (Germany, Italy, Netherlands, Poland, Slovenia, UK), and four North American partners (USA, Canada). Since 2014, with the further internationalization of TIRCON, more associated partners from EU countries (Spain, Hungary, Czech Republic) joined the group, as well as non EU countries (Serbia, Turkey, Iran, Egypt). This is the result of a systematic mapping that has been conducted over the last five years, and will continue. Additionally, from the very beginning, the TIRCON group put efforts toward training of the next generation of NBIA neurologists to facilitate further research and the transmission of clinical expertise: in five teaching workshops based on a dedicated teaching protocol, an estimate of 100 clinicians were trained for NBIA. This new clinical community increases awareness of the disease, facilitates access to information for the patients and their families, and leads to improved medical care.
+
+This community will keep growing over the next years, using the connecting platforms offered by TIRCON (website, central registry, and central biobank). This is particularly true for the patient advocacies. In the frame of TIRCON, an umbrella association called the NBIA Alliance was created in 2012, uniting the three existing advocacies in Germany (HoBa), Italy (AISNAF) and the USA (NBIADA) with the four advocacies newly emerging advocacies in Canada, France, the Netherlands and Spain. This Alliance is meant to support the development of further patient advocacies worldwide. There are already promising developments in Switzerland and in Iran. This new architecture will ensure in near future the prolongation of TIRCON’s multidimensional research approach towards more and better therapies. For instance, the NBIA Alliance is committed to build on and support TIRCON’s achievements, and will help maintain TIRCON’s registry in the next years.
+
+One of the most sustainable achievements of TIRCON beyond this NBIA community has been the new research infrastructure developed during the course of the project. This is comprised of more than 100 identified PKAN patients, a new registry with 281 patient entries and 177 follow up entries, a new central biobank with 716 samples available, and an approved ethical and regulatory protocol framework in place. The patient data and samples collected in TIRCON are already available for any NBIA research projects upon request. These requests are evaluated by the already established TIRCON steering scientific committee. For example, if a new gene is identified as relevant for NBIA, researchers have the possibility to screen the TIRCON registry for patients with NBIA of unknown cause which can then be tested for the new gene defect. This functionality has already been successfully demonstrated during TIRCON in the case of the NBIA subtypes beta-propeller protein associated neurodegeneration (BPAN; Haack et al, 2012) and Coenzyme A (CoA) synthase protein-associated neurodegeneration (CoPAN; Dusi et al, 2014).
+
+While setting up a clinical trial for deferiprone, TIRCON became a pilot demonstration on how to manage a multi-centre international clinical study in an orphan rare disease. Many best practices are available for such trials in the future, such as the facilitation of patient recruitment through flying doctors and flying patient options, through the growing involvement of patient advocacies, and through the engagement of external centers for expanded patient recruitment. Further best practices include appropriately addressing the ethical, regulatory, insurance and language requirements when cooperating with external centers in clinical trials. Finally, the steering committee created and maintained a lively spirit of cooperation throughout the project, as incorporated in TIRCON’s consortium agreement. In future projects, researchers involved with TIRCON now have vast experience dealing with the recruitment of foreign patients into an EU clinical trial. This has already been used in a new research project on a rare mitochondrial disorder at LMU.
+
+Notably, ACIES BIO, a bio-tech SME in Ljubljana, elaborated an exploitation plan for a promising compound they developed CAB1803, a pantethine derivative) to treat PKAN as a result of their work in one of the TIRCON work packages. This compound has already been patented by two TIRCON partners as part of this exploitation plan (Patent EP2868662A1). This plan comprises further preclinical work, the submission of an orphan-drug designation application for this compound, and plans for a future clinical trial in 2017 based on a new Horizon 2020 call for proposals.
+Accordingly, targeted dissemination activities were performed throughout the duration of the project, including:
+
+- Internet platform with connector function: Figure 5
+
+- Information leaflets
+I) TIRCON – General Information leaflet
+Target group: Physicians, researchers, TIRCON partners, patient families, representatives of health care system, politics, foundations, and media; online available: websites of HoBa, NBIADA, TIRCON, and NBIA Alliance on Rare Connect; distribution: at conferences, at Family Conferences, at Rare Diseases Day, by mail
+II) TIRCON- Information Leaflet for Registry and Biobank
+Target group: Physicians, researchers, TIRCON partners, patient families, representatives of health care system, politics, foundations, and media; online available: websites of HoBa, NBIADA, TIRCON, and NBIA Alliance on Rare Connect; distribution: at conferences, at Family Conferences, at Rare Diseases Day, by mail
+III) TIRCON- Information Leaflet for the Clinical Trial
+Target group: Physicians, researchers, patient families, representatives of health care system, foundations, and media; online available: websites of HoBa, NBIADA, TIRCON; distribution: at conferences, at Family Conferences, at Rare Diseases Day, by mail
+IV) TIRCON - Information Leaflet
+Target group: Patient families, researchers, physicians, TIRCON partners; distribution: at conferences, at Family Conferences, at Rare Diseases Day, by mail
+
+- Patient Information and support (phone calls, translation assistance, family conferences)
+
+- Newsletters by HoBa and NBIADA
+
+The scope of communication activities ranged from one-on-one talks to presentations at conferences to letters and media (i.e.: newsletters and webpages) to scientific publications in high impact journals. These included also:
+
+I. Interface with key international stakeholders
+
+• TIRCON Kick-Off Meeting, Munich-DE, JAN-2012 (all partners)
+• Attendance at the Awarding Ceremony of the Eva Luise Köhler prize for research in RD, Berlin-DE, FEB-2012 (with leaflet, handout, banner, poster) (HoBa)
+• Participation (BayFOR, HoBa) in and presentation (HoBa) at International Rare Diseases Day, Berlin-DE, FEB-2012
+• Participation and presentation (OHSU) at the OHSU Rare Diseases Day Conference, Oakland US, FEB-2012
+• Promoting Rare Disease Day in the USA, FEB-2012, as a member organisation of NORD as part of advocating for a sustainable research and health care policy (NBIADA)
+• Participation at the event “Rare Chronic Diseases in Germany - Rarity as well as Reality” of the “Düsseldorfer Jonges e.V.”, Düsseldorf-DE, MAR-2012 (HoBa)
+• Attendance at the Jubilee Conference of Kindernetzwerk e.V. , Berlin-DE, MAR-2012 (HoBa)
+• TIRCON Poster Presentation at the European Conference on Rare Diseases, Brussels-BE, MAY-2012 (LMU)
+• Organisation of the 6th NBIA Family Conference Germany, JUN-2012 (including Presentation and Distribution of the NBIA Health Care notebook to families and clinicians) (HoBa)
+• Presentation on the topic “Patient organisations and their role in EU-funded projects” at the NA- and NBIA Symposium, Ede-NL, OCT-2012 (HoBa, NBIADA)
+• Presentation on the topic “Experiences of the German NBIA patient organisation “Hoffnungsbaum e.V. as TIRCON-Partner” at the CEF-training, Paris-FR, OCT-2012 (HoBa)
+• Participation in the EURORDIS Council of European Federations 5th Workshop, Paris-FR, OCT-2012 (HoBa, NBIADA)
+• Participation at the 41st Child Neurology Society Conference, Huntington Beach-US, USA to present and discuss the TIRCON clinical trial, NOV-2012 (NBIADA)
+• Presentation on TIRCON and the NBIA Alliance at the ACHSE Symposium, Berlin-DE, NOV 2012 (HoBa)
+• Participation with an information booth on the International RDD, Essen-DE, Germany, FEB 2013 (incl. a talk to a representative of the new German Center for RD in Essen) (HoBa)
+• Participation with an information booth at the 8th International Congress “Forum Life Science” on recent developments and scientific results in Pharma Development, Food & Nutrition, Industrial Biotechnology, Garching-DE, MAR-2013 (BayFOR)
+• Contact with EU-Delegate and ACHSE e.V. concerning the EU Parliamentary Discussion of the General Data Protection Regulation, MAR-2013 (HoBa)
+• Organisation of the 7th International Family Conference, San Antonio-US, APR-2013 including talks of CHRCO and OHSU on TIRCON, (CHRCO, OHSU, NBIADA)
+• TIRCON Poster Presentation at the GNP- German Association of Neuropediatrics Annual Meeting, Innsbruck-AT, APR-2013 (almost 800 potential recipients) (LMU)
+• Talk by Angelika Klucken, award recipient of Kindernetzwerk Award 2011, on “Cooperation is the magic word – From isolation to international collaboration” at the Annual Meeting of Kindernetzwerk e.V. (attendees: almost 100 representatives of patient organisations and health care policy), Aschaffenburg-DE, JUN-2013 (HoBa)
+• Participation with an information booth at the opening ceremony of the Centre for Rare Diseases (attendees: stakeholders from RD policy, lay advocacy and health care system) in Essen-DE, SEP-2013 (HoBa)
+• Talk by Angelika Klucken on “Research and development of drugs – What do patients contribute?” at the meeting “The power of patients in research – Collaboration with academia and industry” organised by ACHSE e.V. and vfa.bio , Berlin-DE, JAN-2014 (HoBa)
+• Participation of Patricia Wood in a panel discussion on “Partnerships with Patient Communities to Get from Data to Clinic (Patient Information, Registries, Trials)” (about 600 participants) at the Cambridge Healthtech Institute’s SCOPE Summit, Miami-US, FEB-2014 (NBIADA)
+• 7th NBIA Family Conference in Germany bringing together 17 NBIA patient families from 5 countries, clinicians and researchers (76 participants in total), organised by HoBa, with talks by TIRCON researchers Caroline Biagosch on “News from NBIA diagnostics and TIRCON biobank”, Boriana Büchner on “The NBIA research project TIRCON: patient registry and trial” and Ivan Karin on “Therapies for NBIA disorders”, with presentation of NBIA Alliance on Rare Connect with hopefully an impact on patient registry, Hohenroda-DE, MAY-2014 (HoBa, LMU, TUM-MED)
+• Poster presentation of the NBIA Alliance on “The international umbrella organisation NBIA Alliance and its mutual empowerment with the EU-FP7-funded collaborative project TIRCON” at the European Conferences on Rare Diseases & Orphan Products 2014 (ECRD) (strong demand for NBIA Alliance’s/ TIRCON’s information leaflets ,contact established with a Norwegian physician treating 5-10 NBIA patients), Berlin-DE, MAY-2014 (HoBa, NBIADA)
+• NBIA Alliance’s talks on its development and poster presentation on “The international umbrella organisation NBIA Alliance and its mutual empowerment with the EU-FP7-funded collaborative project TIRCON” at the 3rd Joint International NA & NBIA Symposium, Stresa-IT, OCT-NOV-2014 (HoBa, NBIADA)
+• Participation of HoBa board member with an information booth at the Rare Diseases Day at the Centre for Rare Diseases at the Hannover Medical School (MHH), Hannover-DE, FEB 2015 (HoBa)
+• Talk by Patricia Wood on NBIA at Retrophin Inc. on Rare Diseases Day 2015, San Diego-US, FEB-2015 (NBIADA)
+• Presentation and information booth at the 9th International Congress “Forum Life Science” on recent developments and scientific results in Pharma Development, Food & Nutrition, Industrial Biotechnology, Garching-DE, MAR-2015 (BayFOR)
+• Poster presentation by Angelika Klucken on “NBIA Alliance - The Impact of the International NBIA Patient Advocacy on NBIA Research and Vice Versa” at the 11th European Paediatric Neurology Society Congress 2015, Vienna-AT, MAY-2015 (HoBa)
+• 8th International NBIA Disorders Association Family Conference bringing together 175 participants from 7 countries including patient families, clinicians, and researchers, with 5 talks by TIRCON partners and gathering of patient data for the NBIA patient registry (OHSU), Minneapolis-US, MAY-2015 (NBIADA)
+• Participation with an information booth at the Congress of the German Society for Neurology, Düsseldorf-DE, SEP-2015 (HoBa)
+• Talk by Angelika Klucken and Patricia Wood on ‘”The NBIA associations in the USA and Germany, TIRCON and the international NBIA Alliance” at the 1st NBIA Family Conference of the Italian patient organisation AISNAF, Bologna-IT, OCT-2015 (HoBa, NBIADA)
+• Public TIRCON Final Conference, Munich-DE, OCT-2015 with 85 attendees, including representatives from all TIRCON partners, TIRCON’s associated external clinical centers, and the extended NBIA Alliance network during the two-day conference (all partners)
+
+II. Conferences
+• Attendance at the GNP Annual Meeting, Münster-DE, APR-2012 (with TIRCON leaflet, banner, HoBa leaflet with disease description and information on TIRCON) (HoBa)
+• Presentation at the 12th International Child Neurology Congress, Brisbane-AU, MAY-2012 (OHSU)
+• Talk by Prof. Dr. Kmieć on “Clinical course and findings results of patients with atypical, late type of NBIA – MPAN with new found mutation C19orf12” at the 5th Symposium – Extrapyramidal Diseases Association of Polish Neurology Society , Wisla-PL, MAY/JUN 2012 (CMHI)
+• Talk by Prof. Dr. Klopstock – Overview of TIRCON, the TIRCON Registry (WP1) and the clinical trial (WP4) at the 6th NBIA Family Conference Germany, JUN-2012
+• Participation and presentation at the mitoNET Congress, Bern-CH, JUL-2012 (LMU, TUM)
+• Talk by Prof. Dr. Kmieć on “Clinical course and findings results in PKAN and MPAN types of NBIA” at the 10. European Conference of Rare Orphan Diseases “Bring nearer Rare Diseases”, Cedzynia-PL, JUL-2012 (CMHI)
+• Talk by Prof. Dr. Kmieć on “Clinical course and findings results of patients with atypical, late type of NBIA – MPAN with new found mutation C19rf12” at the III. Forum of Child Neurology “Progress and barriers in Child Neurology” , Poznań-PL , Oct-2012 (CMHI)
+• Presentation at the 41st Annual Meeting of the Child Neurology Society, Huntington Beach-US, NOV-2012 (CHRCO, OHSU)
+• Moderation and presentation at the Annual Meeting of the ASHG (American Society of Human Genetics) , San Francisco-US, NOV-2012 (OHSU)
+• Talk by Dr. Tiranti at a Scientific Meeting on Pediatric Movement Disorders, Genova IT, NOV-2012, organised by the ”Mariani Foundation”, on “Un approccio integrato alle sindromi neurodegenerative con accumulo di ferro nell'encefalo: non solo una questione di ferro?” (”An integrated approach to neurodegeneration with brain iron accumulation: is it just a matter of iron?”), presenting Pank2mouse model, recently published by Brunetti et al. with TIRCON support (FINCB)
+• Talk by Dr. Prokisch at MRC, Cambridge-UK on: "Exome Sequencing in Mitochondrial Disorders as Tool to Advance our Understanding of the Mitochondrial Physiology" including a presentation of TIRCON, NOV-2012 (TUM)
+• Talk by Dr. Prokisch at European Pediatric Neurology Society (EPNS) Research Meeting 2012, Beuggen/Rheinfelden-DE, DEC-2012 on NBIA and TIRCON (TUM)
+• Talk by Prof. Dr. Kmieć on “NBIA - PKAN and MPAN in Children” at the Pediatric Clinic Conference for International Child Neurologist, Neurometabolic School Oltarzew, Warsaw PL, MAR-2013 (CMHI)
+• Talk by Dr. Haack on “Exome Sequencing in 30 patients with NBIA” at the GNP Annual Meeting, Innsbruck-AT, APR-2013 (TUM)
+• Talk by Prof. Dr. Klopstock on “Therapeutic options in NBIA” at the GNP Annual Meeting, Innsbruck-AT, APR-2013 (LMU)
+• Talk by Dr. Tiranti on “Pantothenate kinase-associated neurodegeneration: investigations of a PANK2 KO mouse model and development of new neuronal cellular systems” at the MBU of the MRC, Cambridge-UK, MAY-2013, (FINCB)
+• Talk by Prof. Dr. Kmieć on “TIRCON – An EU-funded rare disease project dedicated to NBIA” at the XI European Conference on Rare Diseases “Rare Diseases – upcoming challenges” organised by Teresa Matulka, Chief of Polish Association for MPS and Rare Diseases, Spala PL, JUN-2013 (CMHI)
+• Grand rounds of Dr. Vichinsky, Dr. Aguilar and Dr. Martin on TIRCON study and PKAN at Children’s Hospital and Research Center Oakland, Oakland-US, JUL-2013 (CHRCO)
+• Talk by Prof. Dr. Hayflick on “Neurodegeneration with brain iron accumulation” at the 12th International Congress of Inborn Errors of Metabolism (ICIEM), Barcelona-ES, SEP-2013 (OHSU)
+• Talk by Dr. Haack on “WDR45 de novo mutations cause a clinically distinct, x-linked form of NBIA” at the 86th Annual Congress of the German Neurological Society (DGN), Dresden DE, SEP-2013 (TUM-MED)
+• Talk by Prof. Dr. Klopstock on “Neurodegeneration with brain iron accumulation: The TIRCON project” and Prof. Dr. Sibon on “Animal models for neuroacanthocytosis and pantothenate kinase-associated neurodegeneration and therapeutic aspects” at the Meeting on Neuroacanthocytosis Syndromes (EMINA), Vienna-AT, SEP-2013 (LMU, UMCG)
+• Talk by Dr. Tiranti on “Are mitochondrial dysfunctions key mediators in the pathogenesis of NBIA?” at the conference “Mitochondrial Disease: Translating biology into new treatments”, organised by Wellcome Trust, Hinxton, Cambridge-UK, OCT-2013 (FINCB)
+• Poster presentation of Kristen Giambusso and Nancy Sweeters on “Journey of a Rare Disease: From Compassionate Use to Phase III Trial of Neurodegenerative Brain Iron Accumulation (NBIA)” at the 3rd Annual U.S. Conference on Rare Diseases and Orphan products, North Bethesda-US, OCT-2013 (CHRCO)
+• Talk by Prof. Dr. Kmieć on “Deep Brain Stimulation in treatment symptomatic generalized dystonia in PKAN patients” at the conference “IV Forum Neurologii Dzieciecej” (IV Forum Neuropaediatrics), Poznań-Poland, OCT-2013 (CMHI)
+• Talk by Prof. Dr. Sibon on “Drosophila as a tool to identify treatment options for neurodegeneration with brain iron accumulation” at the 23rd European Drosophila Research Conference, Barcelona-ES, OCT-2013 (UMCG)
+• Talk by Dr. Haack on “Neurodegeneration with brain iron accumulation (NBIA)” within the session “New developments in neurometabolic disorders” at the 1st Austrian-Swiss Metabolic Meeting (ASMM) on “Diagnostic and therapeutic challenges in Inborn Errors of Metabolism” , Zürich-CH, JAN-2014 (TUM-MED)
+• Organisation (UMCG) of and chairing sessions (FINCB, OHSU, UMCG) at the biochemical society focused meeting “Coenzyme A and its derivatives in cellular metabolism and disease” with talks by Prof. Dr. Hayflick on “How defects in pantothenate metabolism cause neurodegeneration”, Prof. Dr. Sibon on “Manipulating Coenzyme A metabolism to prevent neurodegeneration” and Dr. Tiranti on “Alteration of Coenzyme A biosynthetic pathway in Neurodegeneration with Brain Iron Association syndromes”, London-UK, MAR-2014 (FINCB, OHSU, UMCG)
+• Talk by Prof. Dr. Klopstock on “NBIA Treatment” at the 22nd Iranian Congress of Neurology, Tehran-IR, MAY-2015 (LMU)
+• Talk by Prof. Dr. Hayflick on “Neurodegeneration with Brain Iron Accumulation Diseases: Presentation in Adolescence and Adulthood” at the 18th International Congress of Parkinson’s Disease and Movement Disorders organised by the International Parkinson and Movement Disorders Society, Stockholm-SE, JUNE-2014 (OHSU)
+• Co-chairmanship and talk by Prof. Dr. Nardocci on “Statuts dystonicus – clinical spectrum, treatment responses and outcomes”, talk by Prof. Dr. Hayflick on “Update NBIA”, talk by Dr. Karin on “TIRCON” and poster presentation of Chiapparini et al. on “Neuroimaging findings in NBIA” at the 4th International Symposium on Paediatric Movement Disorders, Barcelona-ES, FEB-2015 (FINCB, OHSU, LMU)
+• Talk by Prof. Dr. Hayflick on “The Role of Iron Accumulation in Neurodegeneration” at the ACMG Annual Clinical Genetics Meeting, Salt Lake City-US, MAR-2015 (OHSU)
+• Talk by Prof. Dr. Hayflick on “Pathogenesis and phenotypes in iron accumulation on disorders: Can there be a united view of NBIA?” at the 3rd International Conference on Knowledge Gaps in Parkinson’s disease and other movement disorders, Toronto-CA, MAY-2015 (OHSU)
+• Talk by Prof. Dr. Kmieć on “Intraocular pathology in PKAN and MPAN, i.e. main forms of NBIA (formerly Hallervorden-Spatz syndrome)” and poster presentation of Tomasz Kmieć on “Neuroimaging findings in two common NBIA subtypes, PKAN and MPAN” at the 11th European Paediatric Neurology Society Congress 2015, Vienna-AT, MAY-2015 (CMHI)
+• Talk by Allison Gregory on “What’s new in NBIA?”, talk by Dr. Hogarth on “The Pace of Progress”, Jennifer Ferguson on “Deferiprone Trial Update”, talk by Prof. Dr. Hayflick on “Research Updates” and talk by Ody Sibon on “Research towards future possibilities to treat PKAN” at the 8th International NBIA Disorders Association Family Conference, Minneapolis US, MAY-2015 (OHSU, CHRCO, UMCG)
+• Talk by Dr. Tiranti on “Membrane remodeling and phospholipids release I: Disorders with brain iron accumulation (PLA2G6, Fatty acid hydroxylase, PKAN, CoA synthase)” at the meeting of Recordati Rare Diseases – Foundation d’entreprise titled “Classification and diagnostic approach of IEM affecting the synthesis and remodeling of complex-lipids”, Paris-FR, JUN-2015 (FINCB)
+• Talk by Dr. Garavaglia on “The Genetic Biobank: a precious resource for research”, Prof. Dr. Hayflick on “History of NBIA”, talk by Penny Hogarth on “Best clinical practice”, talk by Prof. Dr. Nardocci on “Clinical symptoms” and talk Dr. Tiranti on “Experimental NBIA models: mechanisms, pathogenetic and experimental therapeutic approaches” at the First NBIA Family Conference of the Italian patient organisation AISNAF, Bologna-IT, OCT 2015 (FINCB, OHSU)
+
+III. Educational Training
+• “Neurodegeneration with Brain Iron Accumulation”, Therapietagung München, NBIA Lecture by Prof. Dr. Klopstock, Munich-DE, MAY-2012 (LMU)
+• “Starting into a new era of research and medical care in NBIA”, TIRCON-workshop on 6th NBIA Family Conference Germany, JUN-2012, with approval as continued education (HoBa)
+• Presentation at Cincinnati Children's Hospital, and sharing of information with the child neurology trainees about TIRCON, Cincinnati-US, SEP- 2012 (OHSU)
+• The 2nd Joint International Symposium on Neuroacanthocytosis and Neurodegeneration with Brain Iron Accumulation, OCT-2012 (LMU, OHSU, TUM, UMCG, FINCB with scientific presentations)
+• Grand Rounds at OHSU, EC-2012, by Prof. Dr. Hayflick on BPAN entitled "A new neurodegenerative disorder induces humility”, 30 attendees, mostly geneticists and genetic counselors, as well as trainees, NOV-2012,(OHSU)
+• Teaching workshop on NBIA for neuropediatricians at the GNP Annual Meeting, Innsbruck AT, APR-2013 (ca. 70 attendees) (TUM, LMU, HoBa)
+• Lecture of Nancy Sweeters about TIRCON to approximately 40 nursing students at the School of Nursing of Pacific Union College, Napa- US, MAY-2013 (CHRCO)
+• Talk by Dr. Tiranti on “Defect of Coenzyme A in NBIA” within the course “Novità in Neurologica per l’Infanzia: dalla Ricerca alla Clinica” at the Aula Magna dell’Università degli Studi, organised by the Mariani Foundation, Milan-Italy, SEP-2013 (FINCB)
+• Talk by Prof. Dr. Hayflick on “Treatment of NBIA” at the 10th European Paediatric Neurology Society Congress (EPNS / ICNA) organised by the Belgian Paediatric Neurology Society (Participants: more than 1.000 pediatric neurologists), Brussels-BE, SEP-2013 (OHSU)
+• Talk by Prof. Dr. Hayflick and Dr. Hogarth on “NBIA: genes to pathways to therapeutics” at the University of Washington, Department of Neurology, Seattle-US, DEC-2013 (OHSU)
+• Talk by Prof. Dr. Hayflick on “Neurodegeneration with Brain Iron Accumulation: New Genes and Emerging Therapeutics” at the University of Washington, Department of Medicine, Div Genetics, Seattle-US, DEC-2013 (OHSU)
+• Talk by Nancy Sweeters on the clinical trial and the role of the Research Nurse at Pacific Union College, Napa-US , FEB-2014 (OHSU)
+• Talk by Prof. Dr. Hayflick on “Neurodegeneration with brain iron accumulation from genes to pathways to therapeutics” at the Pediatric Neurology Grand Rounds in New York University School of Medicine, New York-US, APR-2014 (OHSU)
+• Talk by Prof. Dr. Hayflick on “Neurodegeneration with brain iron accumulation from genes to pathways to therapeutics” at the Melvin Yahr Memorial Neurology Grand Rounds in Mount Sinai Hospital School of Medicine, New York-US, APR-2014 (OHSU)
+• Talk by Prof. Dr. Hayflick on “Neurodegeneration with brain iron accumulation genes to pathways to therapeutics” at the Pediatric Grand Round in the Oregon Health & Science University, Portland-US, MAY-2014 (OHSU)
+• NBIA workshop on “Therapeutic Approaches in Neurodegeneration with Brain Iron Accumulation” Prof. Dr. Thomas Klopstock on “Iron chelation therapy in NBIA: State of the Art” at the Joint Congress of European Neurology, Istanbul-TR, JUN-2014 (LMU, FINCB)
+• 3rd Joint International NA & NBIA Symposium organised by FINCB with talks by Prof. Dr. Hayflick, Prof. Dr. Klopstock, Dr. Prokisch, Prof. Dr. Sibon and 15 poster presentations under the direction or with the involvement of TIRCON partners, Stresa-IT, OCT-NOV-2014 (all partners)
+• Talk by Caleb Rogers on “NBIA: Diagnostics Tools and Our Experiences with Exome Sequencing” at Department of Molecular and Medical Genetics Seminar, Oregon Health & Science University, Portland-US, FEB-2015 (OHSU)
+• Lecture of Prof. Dr. Hayflick on “NBIA” at the Neuroscience Grand Rounds, Children’s Hospital of Pittsburgh, Pittsburg-US, MAY-2015 (OHSU)
+• TIRCON Final Conference with talks by Prof. Dr. Klopstock on “TIRCON – Introduction” and “Therapeutic options in NBIA”, Prof. Dr. Hayflick on “NBIA – A heterogeneous disorder”, Holger Prokisch “NBIA – Genetics”, Prof. Dr. Sibon and Dr. Kosec on “New research and therapy pathways for PKAN”, Valeria Tiranti on “Mouse models and experiments in NBIA”, as well as Satellite Workshops on “(1) International NBIA patient registry – future strategy”, “(2) Beyond TIRCON: medical need, scientific strategy, funding opportunities”, “(3) A roadmap for MPAN research”, Munich-DE, OCT-2015 (ACIES BIO, FINCB, LMU, OHSU, TUM MED, UMCG)
+
+Finally, TIRCON led to 35 scientific, peer-reviewed publications with a total impact factor of 143,626. (See Use of Dissemination and Foreground Section A).
+
+In summary, TIRCON had the following impact:
+• structuring of the NBIA research and care community at an international level
+• improvement of clinical practice and clinical research through cooperation
+• generation of knowledge leading to improved drug therapy strategies
+• increasing innovation and competitiveness of European health-related industries and services by attracting higher SME participation
+• social impact: improving the therapeutic options in a progressive, disabling and life-threatening disease
+• economic impact: engaging in a dialogue with public and private health bodies (policy-makers, medical insurance providers, patient advocacies) to translate the scientific results into clinical therapy and cost-effective health care strategies;
+
+In conclusion, the combined efforts of TIRCON’s committed scientists, clinicians, patient organisations and industry representatives in Europe, Canada and the United States enabled the NBIA field to advance to the next stages of scientific discovery and therapeutic developments.
+
+List of Websites:
+Project public website and Contact Details
+www.TIRCON.eu
+
+CONTACT – PROJECT COORDINATOR
+Ludwig-Maximilians-Universität München
+Prof. Dr. med. Thomas Klopstock
+Friedrich-Baur-Institute, Dept. of Neurology
+Email: TIRCON@med.LMU.de
+Phone: +49 (0)89-4400-57421
+
+CONTACT – PATIENT ADVOCACY
+Hoffnungsbaum e.V.
+Angelika Klucken
+Email: hoffnungsbaum@aol.com
+Phone: +49 (0)2051-68075

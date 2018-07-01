@@ -1,0 +1,373 @@
+Executive Summary:
+Mendelian forms of Parkinson’s Disease (PD) are a group of rare diseases which recapitulate many of the clinical, pathological and biochemical features of the common sporadic form of the disorder, and are therefore seen as model diseases which allow to study the underlying pathogenic molecular mechanisms and pathways. Mendelian forms of PD can be divided into two groups: autosomal-dominant forms caused by mutations in the genes for a-synuclein (SNCA) and for leucine rich repeat kinase 2 (LRRK2), and autosomal-recessive forms caused by mutations in the genes for parkin (PRKN), Pten-induced kinase-1 (PINK-1), and the oncogene DJ1. The mutations in the dominant genes are thought to cause PD by a gain-of-function mechanism. SNCA- as well as most cases of LRRK2-related PD are pathologically characterized by aggregates of a-synuclein (“Lewy-pathology”). It is therefore appropriate to assume that the pathogenic mechanisms of SNCA- and LRRK2-related PD interconnect. Research on the pathogenesis of those forms of Mendelian PD was coordinated in subproject 1. Autosomal-recessive mutations in the genes for parkin, PINK-1 and DJ1 are believed to exert their pathogenic effect due to loss of some essential protective function. There is converging evidence suggesting that dysfunction of all recessive PD genes contribute to a state of increased cellular stress due to mitochondrial dysfunction and increased burden of radical oxygen species (ROS) and that at least two of the recessive PD genes, parkin and PINK1, operate within one single pathway. The molecular underpinnings of recessive forms of Mendelian PD has therefore been investigated together, in subproject 2. In subproject 3 MEFOPA established a European registry and biobank for patients with rare Mendelian forms of PD and discovery projects for biomarkers have been carried out.
+
+Major results include:
+Basic research: subprojects 1 and 2
+• aSyn secretion in part occurs through exosomal release and is dependent on intracellular calcium concentration
+• LRRK2 is increased in affected brain region of PD patients, where an increase in aSyn phosphorylation and aggregation is observed;
+• Generated a new model of PD by dual genetic mutation hampering the dopamine storage and therefore exacerbating oxidative damage and at the same time disabling the anti-oxidative defense genes in the neurons
+• LRRK2 inhibits the ubiquitin proteasome system.
+• Asyn inhibits macroautophagy
+• Generation of a zebrafish model for LRRK2 toxicity which enabled screening of a kinase inhibitor library and identification of a lead compound that ameliorates toxicity.
+• we identified Rab11 interactors RAB11-FIP4 and PI4KB as genes that alter mitochondrial morphology in Drosophila cells and impinge on mitophagy in HeLa cells
+• Further evidence of the neuroprotective properties of TRO19622 in a model of alpha-synuclein-induced neuronal cell death.
+• Development of a robust AAV-based α-synuclein rat and mouse model.
+• Generation of PINK1 knockdown transgenic mice using lentiviral vector technology.
+• PINK1 knockout mice display a higher loss of nigral dopaminergic neurons upon α-synuclein overexpression.
+
+Clinical infrastructure and biomarkers: subproject 3
+• Build-up of the world-wide largest cohort of patients with rare Mendelian forms of PD and pre-symptomatic mutation carriers and a respective biomaterial bank.
+• Transcriptomics in LRRK2 blood samples, PARKIN blood samples and LRRK2 G2019S vs. R1441G mutation carrier.
+• Deep sequencing of LRRK2 subgroup analysis of 65 affected / 24 unaffected mutation carrier revealed 58 different rare variants in 25 different genes
+• Proteomics analysis in LRRK2 cohort of 39 patients (symptomatic, asymptomatic, controls) showed that the CSF proteome of iPD and PD-LRRK2 patients was substantially different from healthy controls and from idiopathic PD.
+Most importantely, one of the genetic subcohorts (alpha synuclein mutation carriers) collected through MEFOPA is now being used in another EU funded project (MultISyn) that will develop therapeutic imaging biomarkes and will perform a proof-of-concept study in combination with a therapeutic intervention that applies the antibody therapeutic approach developed by the Austrian SME Affiris.
+Other subcohorts such as the LRRK2 cohort and the recessive mutation carriers will potentially be used for targeted therapeutic intervention studies as well with the latter seeming to be an appropriate cohort for approaches addressing mitochondrial deficits.
+
+Project Context and Objectives:
+Mendelian forms of Parkinson’s Disease (PD) are a group of rare diseases which recapitulate many of the clinical, pathological and biochemical features of the common sporadic form of the disorder, and are therefore seen as model diseases which allow to study the underlying pathogenic molecular mechanisms and pathways. It is the understanding of PD pathways that is the prerequisite for the development of novel disease modifying and neuroprotective treatments. It is likely that those treatments will benefit all PD patients, as it becomes increasingly clear that the gene products and their interaction partners identified in rare Mendelian variants also play a crucial role in the sporadic disease.
+Mendelian forms of PD can be divided into two groups: autosomal-dominant forms caused by mutations in the genes for a-synuclein (SNCA) and for leucine rich repeat kinase 2 (LRRK2), and autosomal-recessive forms caused by mutations in the genes for parkin (PRKN), Pten-induced kinase-1 (PINK-1), and the oncogene DJ1.
+The mutations in the dominant genes are thought to cause PD by a gain-of-function mechanism. SNCA- as well as most cases of LRRK2-related PD are pathologically characterized by aggregates of a-synuclein (“Lewy-pathology”). It is therefore appropriate to assume that the pathogenic mechanisms of SNCA- and LRRK2-related PD interconnect. Research on the pathogenesis of those forms of Mendelian PD is coordinated in subproject 1.
+Autosomal-recessive mutations in the genes for parkin, PINK-1 and DJ1 are believed to exert their pathogenic effect due to loss of some essential protective function. There is converging evidence suggesting that dysfunction of all recessive PD genes contribute to a state of increased cellular stress due to mitochondrial dysfunction and increased burden of radical oxygen species (ROS) and that at least two of the recessive PD genes, parkin and PINK1, operate within one single pathway. The molecular underpinnings of recessive forms of Mendelian PD will therefore also be investigated together, in subproject 2.
+The findings in the basic science work-packages of the first two subprojects will interlink with subproject 3, where a European registry and biobank for patients with rare Mendelian forms of PD will be established in order to advance investigations of biomarkers build a basis for investigation and validation of pathogenic findings and targets. Moreover, the collected cohorts and biomaterial samples may be used for targeted interventional trials as well as (for the generation) of human disease models such human iPS cells, respectively.
+
+Project Results:
+Mendelian forms of Parkinson’s Disease (PD) are a group of rare diseases which recapitulate many of the clinical, pathological and biochemical features of the common sporadic form of the disorder, and are therefore seen as model diseases which allow to study the underlying pathogenic molecular mechanisms and pathways. It is the understanding of PD pathways that is the prerequisite for the development of novel disease modifying and neuroprotective treatments. It is likely that those treatments will benefit all PD patients, as it becomes increasingly clear that the gene products and their interaction partners identified in rare Mendelian variants also play a crucial role in the sporadic disease.
+Mendelian forms of PD can be divided into two groups: autosomal-dominant forms caused by mutations in the genes for a-synuclein (SNCA) and for leucine rich repeat kinase 2 (LRRK2), and autosomal-recessive forms caused by mutations in the genes for parkin (PRKN), Pten-induced kinase-1 (PINK-1), and the oncogene DJ1.
+The mutations in the dominant genes are thought to cause PD by a gain-of-function mechanism. SNCA- as well as most cases of LRRK2-related PD are pathologically characterized by aggregates of a-synuclein (“Lewy-pathology”). It is therefore appropriate to assume that the pathogenic mechanisms of SNCA- and LRRK2-related PD interconnect. Research on the pathogenesis of those forms of Mendelian PD is coordinated in subproject 1.
+Autosomal-recessive mutations in the genes for parkin, PINK-1 and DJ1 are believed to exert their pathogenic effect due to loss of some essential protective function. There is converging evidence suggesting that dysfunction of all recessive PD genes contribute to a state of increased cellular stress due to mitochondrial dysfunction and increased burden of radical oxygen species (ROS) and that at least two of the recessive PD genes, parkin and PINK1, operate within one single pathway. The molecular underpinnings of recessive forms of Mendelian PD will therefore also be investigated together, in subproject 2.
+The basic science work-packages of the first two subprojects have direct access to subproject 3 , where a European registry and biobank for patients with rare Mendelian forms of PD will be established in order to advance investigations of biomarkers.
+
+The results of the workpackages of the MEFOPA project can be summarised as follows:
+
+WP1.1: Effects of oligomeric alpha-synuclein on cellular homeostasis
+Objectives:
+1. Investigate the effect of wild type, G2019S and “kinase dead” LRRK2 molecules, modulators of post translational alpha-synuclein modifications and secreted extracellular alpha-synuclein on alpha-synuclein aggregation-dependent cytotoxicity.
+2. Characterize the gene expression profile during α-synuclein aggregation-dependent degeneration and the impact hereon of inhibitors of aggregation and signalling pathways.
+3. Analyse if the gene expression response translates into protein expression and if their expression modulates the degenerative process.
+4. Test the validity of selected identified gene products as biomarkers in animal models of alpha-synuclein-dependent degeneration.
+5. Translate our results to Subproject 3 with the aim of in the future testing the gene products in human samples.
+
+Important results of this work package
+• Cellular LRRK-2 (wt and G2019S) expression does not precipitate a-syn dependent cytotoxicity
+• Intracellular a-syn dependent cell stress induces expression of IBalpha, which modulate the NF-B transcription factor response in cell lines, primary neuron cultures and oligodendrocytes in vivo and contribute to degeneration in cell lines and primary neuron cultures.
+• NF-B response-dependent chemo/cytokines are expressed in mouse model of multiple system atrophy and CCL2 can be demonstrated in CSF from patients with multiple systems atrophy and idiopathic Parkinson disease. Closer analysis of patterns of NF-B response-dependent chemo/cytokines may reveal specific signatures for early involvement of oligodendroglial pathology (multiple system atrophy), neuronal synucleinopathy (Parkinson disease and Lewy body dementia).
+
+WP1.2: Pathophysiology of secreted alpha-synuclein species
+Objectives:
+1. Identify mechanisms of secretion of SYN.
+2. Examine the contribution of soluble oligomeric High Molecular Weight (HMW) SYN species on the effects of secreted SYN on neuronal and microglial cells.
+3. Examine the signalling pathways involved in the activation of microglial cells by secreted SYN.
+4. Detect by ELISA total and oligomeric SYN species in the interstitial fluid of SYN animal models, and compare to those present in cell-derived conditioned medium and patient CSF.
+5. Evaluate whether CSF from patients with triplication of the SNCA locus exerts oligomer-dependent cytotoxicity in cultured neuronal cells.
+
+Important results of this work package
+• We have established that AS secretion in part occurs through exosomal release and is dependent on intracellular calcium concentration
+• Using in vivo microdialysis we detected extracellular AS in ISF fractions from mouse and human brain.
+• Using Size Exclusion Chromatography we examined the effects of naturally secreted oligomeric ASYN species on neuronal cell homeostasis. We have established that HMW species are in part responsible for the toxic effects of secreted AS on neuronal cells.
+• We established a reverse microdialysis methodology to pharmacologically manipulate specific, non-classical secretory pathways (project funded in part also by the MJFF). Using this approach, AS release was shown to be modified in vivo and in real time following striatal administration of compounds affecting intracellular calcium concentration, ATP-binding cassette (ABC) transporter operation, and lysosome.
+• Lack of significant effect of secreted ASYN on microglial cells, at the same concentrations that it induced significant effects on neuronal cells
+• Correlation of total ASYN levels in CM with that in human CSF and in interstitial fluid from TgA53T mice.
+• Naturally secreted AS can affect membrane fluidity and calcium channels and causes calcium deregulation ultimately leading to neuronal cell death.
+
+WP1.3: Identification of factors that influence α-synuclein oligomerization in cell culture and in vivo
+Objectives:
+1. Identify genetic modulators of αSYN post-translational modifications.
+2. Determine the effect of αSYN post-translational modifications or other PD-associated genes on its misfolding and aggregation.
+3. Track initiation, nucleation and dynamic changes of αSYN aggregate formation in living animals, and validate the effects of αSYN modulators in vivo.
+
+Important results of this work package
+• DYRK2 and CAMK1 knockdown resulted in increased aSYN expression levels that are accompanied by higher levels of aSYN oligomerization, without affecting aSYN S129 phosphorylation levels;
+• CC2D1A, CLK4 and SYTL5 knockdown do not affect aSYN expression levels, but decrease aSYN oligomerization and increase aSYN S129 phosphorylation levels. CLK4 knockdown does not alter the number of cytoplasmic inclusions but promotes the formation of bigger, formless and LB-like aggregates while SYTL5 knockdown increases the number of cytoplasmic inclusions per cell;
+• In both CAD and H4 cells PLK2 co-expression results in significant increase in the aSYN S129 phosphorylation levels with concomitant increase in the size of aSyn aggregates and aSyn BIFC aggregation, respectively;
+• aSyn glycation increases its cytotoxicity and aggregation;
+• glycation impairs aSyn ubiquitylation and therefore its degradation via UPS, and also impairs autophagy and its secretion;
+• Upon MGO injection in a mice model of PD, TH neurons/fibers were significantly loss followed by an increase in aSyn glycation and aggregate formation;
+• acetylation protects against aSyn aggregation and toxicity via SIRT2 KD. Both proteins interact and aSyn is a substrate of SIRT2 deacetylase activity;
+• The acetylation target residues were identified, and the generated mutant forms that constitutively mimic acetylation at those residues are more prone to aggregation, while almost no aggregation is observed upon expression of the acetylation-resistant variants;
+• LRRK2 is increased in affected brain region of PD patients, where an increase in aSyn phosphorylation and aggregation is observed;
+• LRRK2 interacts with aSyn and co-localizes in aSyn inclusions;
+• LRRK2 KD increases the number of smaller aSyn inclusions;
+• AAV vectors for GFP and aSyn BiFC constructs were developed;
+• AAV vectors were validated in primary cell cultures, where oligomerization of aSyn was observed;
+• upon injection of AAV GFP vector, we successfully visualized neuronal expression of GFP by in vivo 2-photon microscopy
+
+WP1.4: Role of oxidative stress and microglial response in α-synuclein-mediated nigral neurodegeneration
+Objectives:
+1. Examine whether excess cytosolic dopamine leads to enhanced dopamine neuron degeneration following nigral injection of WT or A53T AAV-αSYN in VMAT2 hypomorph mice.
+2. Examine whether the lack of the ability to mount a type II antioxidant response in Nrf2 knockout mice renders nigral neurons more sensitive to the toxicity of the injection of WT or A53T AAV-αSYN.
+3. Examine whether microglia are activated prior to nigral neuron degeneration in the AAV-αSYN rat model, and whether select neuroinflammatory components, such as cytokines, can be detected in rat CSF.
+
+Important results of this work package
+• Identified the optimal vector construct, serotype and dose for obtaining robust and reproducible neurodegeneration after overexpression of human a-syn in the nigral dopamine neurons in the mouse.
+• Studied the effect of dopamine handling on the alpha synuclein toxicity and showed that mishandling of dopamine exacerbates synculein mediated cell loss providing first in vivo proof of principle for this hypothesis.
+• Generated a new model of PD by dual genetic mutation hampering the dopamine storage and therefore exacerbating oxidative damage and at the same time disabling the anti-oxidative defense genes in the neurons, which collectively leads to cell loss.
+
+WP1.5: Examination of the role of LRRK2 in cellular pathways: focus on the kinase activity
+Objectives:
+1. Identify cellular pathways that are modulated by LRRK2.
+2. Identify LRRK2 interactors.
+
+Important results of this work package
+• Establishment of purified murine splenic B-cell as a cellular system for exploration of LRRK2-specific biology;
+• RPA analysis after B-cell stimulation failed to show a differential response that could be ascribed to the presence or absence of the LRRK2 protein. Similarly, introduction of the pathogenic G2019S mutation in the mouse LRRK2 gene did not significantly modify the reactivity of the B cell cultures;
+• Generation of inducible SH-SY5Y stable cell lines, expressing LRRK2 WT/G2019S/ D1994S;
+• Proteomics and RNA chip (HG-U133plus_2) studies did not identify consistent LRRK2 or genotype (G2019S/ D1994S) dependent changes in the inducible SH-SY5Y stable cell lines;
+• Using a combination of chemical genetic and phosphoproteomic approaches we identified LRRK2 specific substrates from brain and kidney lysates, several of which could be validated in vitro;
+• We have generated a list of LRRK2 candidate interactors, identified from HEK 293 cells using affinity purification of LRRK2 complexes, followed by mass spectrometry analysis.
+
+WP1.6: Beyond kinase activity: Examination of other factors influencing LRRK2 neurotoxicity
+Objectives:
+1. Examine whether LRRK2-mediated toxicity is mediated via protein aggregation.
+2. Examine whether the cellular phenotype of LRRK2 toxicity is influenced by other PD-related genes.
+3. Identify kinases and phosphatases that regulate LRRK2 and modulate its toxicity.
+4. Examine the induction of autophagy following LRRK2 overexpression, and investigate the mechanisms involved.
+
+Important results of this work package
+• LRRK2 inhibits the ubiquitin proteasome system.
+• Alpha-synuclein inhibits macroautophagy
+• Generation of a zebrafish model for LRRK2 toxicity which enabled screening of a kinase inhibitor library and identification of a lead compound that ameliorates toxicity.
+
+WP1.7
+Objectives:
+1. Generation of LRRK2 transgenic rats that express human wildtype and mutated LRRK2.
+2. Characterization of LRRK2 transgenic rats by neuropathology, neurohistochemistry, kinase activity, behavioural studies, and imaging studies.
+3. Establish a set of markers that will serve as read-outs for kinase activity and pre-clinical trials.
+
+Important results of this work package
+• generation of two independent human G2019S mutated LRRK2 transgenic lines;
+• both lines did not show any “Parkinson specific” alteration in TH- and alpha-synuclein expression;
+• the G2019S hLRRK2 transgene does not affect the expression and phosphorylation of various key signalling proteins in both rat lines tested;
+• generation of three independent Lrrk2 knock out rats (basic for further experiments).
+
+WP2.1: Regulation of parkin E3 ubiquitin ligase activities
+Objectives:
+1. determine the entire complement of parkin E2/E3/E4 co-enzymes
+2. define the functional consequences of parkin complex formation on substrates within the focus of this consortium (α-synuclein, SCHAD, and MOM components)
+3. in vivo screening and validation of regulators using C. elegans as a model
+4. validate in vivo the role of parkin higher order structures on α-synuclein aggregation and mitochondrial function
+5. modulators of parkin activity as potential drug targets
+
+Important results of this work package
+• UBE2N, UBE2L3 and UBE2D2/3 Ubiquitin-Conjugating Enzymes are Essential for Parkin-Dependent Mitophagy.
+• FAS-dependent cell death in α-synuclein transgenic oligodendrocyte models of multiple system atrophy.
+• Loss of DJ-1 protein stability and cytoprotective function by Parkinson's disease-associated proline-158 deletion.
+
+
+WP2.2: Dissecting the molecular mechanisms involved in the Parkin-dependent modulation of mitochondrial functions
+Objectives:
+1. Characterize the molecular interactions between Parkin, SCAHD and PINK1
+2. Study the effect of SCHAD, Parkin and PINK1 on mitochondrial shape and dynamics
+3. Validate other components of the PINK1/Parkin pathway
+4. Contribute to the validation of potential small compound therapeutics
+
+Important results of this work package
+• Identification of the TOM machinery as a primary docking site for Parkin on the outer mitochondrial membrane and a molecular switch involved in initiation of mitophagy.
+• Maintenance of appropriate levels of the mitochondrial PD-linked neuroprotective enzyme SCHAD/HSD17B10: a new mechanism by which Parkin preserves mitochondrial physiology.
+• Identification of the TOM machinery and the mitochondrial protein import process as putative targets for regulation by the PINK1/Parkin pathway.
+• A first hint towards a mechanism underlying coordination between mitochondrial fission and initiation of PINK1 and Parkin-dependent mitophagy: involvement of Parkin and PINK1 in the mitochondrial recruitment of Drp1.
+• Impaired ER-mitochondria interface and calcium homeostasis: a new mechanism underlying cell vulnerability in parkin-linked PD.
+• Evidence of moderate alterations in mitochondrial respiration in Parkin-deficient mice.
+
+WP2.3: Genetic analysis of PINK1/Parkin function in Drosophila
+Objectives:
+1. Whole genome RNAi screen for Parkin and PINK1 modifiers
+2. Characterise components of PINK1/Parkin pathway
+3. Test candidate interactors and hypotheses
+4. Validate potential small compound therapeutics
+
+Important results of this work package
+• we identified Rab11 interactors RAB11-FIP4 and PI4KB as genes that alter mitochondrial morphology in Drosophila cells and impinge on mitophagy in HeLa cells
+• a whole-genome screen identified the SREBF1 lipogenesis pathway as regulators of Parkin translocation and mitophagy.
+• scully does not genetically interact with Parkin
+• several potential phosphorylation sites (S65, T415) do not reveal obvious major regulatory mechanisms for Parkin.
+• TRO19622 is not efficacious in robustly suppressing phenotypes Drosophila
+
+WP2.4: Assessment of the activity of mitochondrial targeted compounds in relevant models of recessive inherited PD
+Objectives:
+1. Assess the efficacy of mitochondrial targeted compounds in PINK1/Parkin models.
+2. Assess the impact on mitochondrial respiratory chain function of PINK1/Parkin mutations.
+3. Explore variations in the proteome Parkin knock-out mice due to the use of mitochondrial targeted compounds
+
+Important results of this work package
+• Discovery of respiratory deficits in striatal neurons from parkin-/- mice. These results show that under highly stressed conditions, for example when cells are rapidly firing, they may not be able to keep up with the demands for ATP needed to maintain ion homeostasis.
+• Further evidence of the neuroprotective properties of TRO19622 in a model of alpha-synuclein-induced neuronal cell death. These results further demonstrate that TRO19622 prevents mitochondrial permeabilization and release of cytochrome c, which would be expected to maintain mitochondrial OXPHOS capacity in cells overexpressing alpha-synuclein. Both basal and alpha-synuclein-induced caspase activation was also reduced when cells were treated with TRO19622.
+• Establishment of a screening model based on neuronal toxicity due to alpha-synuclein overexpression. This model was used to elaborate the structure-activity relationship of TRO19622. The model also permits screening drugs and pharmacological tools to identify novel compounds and targets that could be useful for treating and understanding the role of alpha-synuclein in Parkinson’s disease.
+
+WP2.5: Exploration of the neuroprotective role of parkin and PINK1 in vivo with viral vector technology
+Objectives:
+1. Characterization of the in vivo function of parkin and PINK1 by viral vector-mediated knock-down in rodent brain
+2. Characterization of the neuroprotective effect of PINK1 in rodent brain
+3. Validation of parkin as gene therapeutic agent in animal models of PD
+
+Important results of this work package
+• Efficient viral vector-mediated knockdown of PINK1 and parkin in rodent brain did not induce dopaminergic degeneration.
+• Development of a robust AAV-based α-synuclein rat and mouse model.
+• Generation of PINK1 knockdown transgenic mice using lentiviral vector technology.
+• PINK1 knockout mice display a higher loss of nigral dopaminergic neurons upon α-synuclein overexpression.
+• Overexpression of human wild-type parkin and mutant T240R parkin in the rat SN induces dopaminergic degeneration.
+
+WP3.1: MEFOPA-Registry
+Objectives:
+1. to design and implement a European registry of patients and families with rare Mendelian forms of Parkinson’s Disease (MEFOPA-R) using a tested internet-based platform, which will include genetic and clinical information.
+2. to enrol at least 260 patients with different Mendelian forms of PD, both symptomatic and presymptomatic and conduct a follow-up examination after 2 years.
+3. The registry will ensure standardized data acquisition and centralized statistical analyses. It will also provide rapid access to continuously updated data to MEFOPA centres. MEFOPA-R will serve as a powerful tool for future trial activities.
+
+Important results of this work package
+• Ascertainment of high-level expertise by joining the major European groups focusing on genetic forms of PD.
+• Build-up of the world-wide largest cohort of patients with rare Mendelian forms of PD and pre-symptomatic mutation carriers.
+• Pooling genetically well-defined homogenous subgroups.
+• Focusing on different disease causing genes in order to analyze various disease-specific pathways which in turn might come up with different drug-targets.
+• Using standardized operating procedures with regard to clinical data sets and collection of biomaterial from subjects throughout Europe, thereby ascertainment of high quality data.
+• Using patient derived biomaterial since this better recapitulate human disease mechanisms than animal models.
+• Collecting different types of biomaterial including CSF and fibroblasts (iPS-cell lines) in order to (i) reflect not only peripheral processes but especially the CNS milieu and (ii) evaluate pathways on a transcriptomic, proteomic and biochemical level followed by focused analysis of candidate proteins to define suitable markers as read-outs for rationally designed drug trials.
+• Conducting longitudinal investigations in order to (i) define biomarkers for disease progression in affected PD patients, (ii) study the prodromal phase of PD in yet pre-symptomatic mutation carriers, and (iii) evaluate potential protective mechanisms in those mutation carriers who remain asymptomatic in high age despite carrying a mutation.
+• Using these genetic cohorts as role model which recapitulate many of the clinical, pathological and biochemical features of the common sporadic form of PD in order to extend the knowledge on molecular mechanisms and potential drug-targets to sporadic PD.
+• Additionally, the consortium implemented latest findings of genetic influence on Parkinson’s disease. Heterozygous mutations in the gene glucocerebrosidase (GBA) represent the most common genetic risk factor for sporadic Parkinson’s disease so far. As a consortium we were able to recruit 70 affected patients carrying a heterozygous GBA mutation and to collect the respective biomaterial according to the MEFOPA SOP’s. That will help to establish more specific phenotypes in PD to better understand pathogenesis and develop specific therapeutic concepts even for the sporadic form of this disorder.
+
+WP3.2: MEFOPA-biobank
+Objectives:
+1. To establish a decentralized biobank for body fluids, cells, and tissues from patients with rare Mendelian forms of PD and their presymptomatic mutation-carrying relatives for further studies of the transcriptomic and proteomic alterations both cross-sectionally and longitudinally, in order to identify biomarkers, which are either common or specific, respectively, for the different monogenic forms of PD.
+
+Important results of this work package
+• Ascertainment of high-level expertise by joining the major European groups focusing on genetic forms of PD.
+• Build-up of the world-wide largest cohort of patients with rare Mendelian forms of PD and pre-symptomatic mutation carriers.
+• Pooling genetically well-defined homogenous subgroups.
+• Focusing on different disease causing genes in order to analyze various disease-specific pathways which in turn might come up with different drug-targets.
+• Using standardized operating procedures with regard to clinical data sets and collection of biomaterial from subjects throughout Europe, thereby ascertainment of high quality data.
+• Using patient derived biomaterial since this better recapitulate human disease mechanisms than animal models.
+• Collecting different types of biomaterial including CSF and fibroblasts (iPS-cell lines) in order to (i) reflect not only peripheral processes but especially the CNS milieu and (ii) evaluate pathways on a transcriptomic, proteomic and biochemical level followed by focused analysis of candidate proteins to define suitable markers as read-outs for rationally designed drug trials.
+• Using patient derived biomaterial since this better recapitulate human disease mechanisms than animal models.
+• Conducting longitudinal investigations in order to (i) define biomarkers for disease progression in affected PD patients, (ii) study the prodromal phase of PD in yet pre-symptomatic mutation carriers, and (iii) evaluate potential protective mechanisms in those mutation carriers who remain asymptomatic in high age despite carrying a mutation.
+• Using these genetic cohorts as role model which recapitulate many of the clinical, pathological and biochemical features of the common sporadic form of PD in order to extend the knowledge on molecular mechanisms and potential drug-targets to sporadic PD.
+
+WP3.3 A: Transcpritional changes in ex vivo cells from patients with rare Mendelian forms of PD
+Objectives:
+1. To detect changes in the transcriptome in whole blood samples using Affymetrix Arrays from patients with different rare Mendelian forms of PD in comparison to healthy controls both cross-sectionally and longitudinally in a follow-up investigation, and to compare the findings to the results of second generation sequencing in a subset of patients
+
+Important results of this work package - transcriptomics
+• List of regulated transcripts in LRRK2 blood samples vs. Control samples.
+• List of regulated transcripts in PARKIN blood samples vs. Control samples.
+• List of regulated transcripts in LRRK2 G2019S vs. R1441G mutation carrier.
+• First time, overlapping results of blood expression profiles from LRRK2 and PARKIN samples.
+Important results of this work package - genomics
+Sequencing performance values for all 237 samples
+Sequencing parameter Value Value description
+Sequencing depth (on target) 808 ± 211 Mean / SN
+% of bases covered ≥ 20x 97,3 (94,6 - 98,4) Mean (Min. /Max.)
+% of reads mapped on target region 98,63 (96,72 - 99,74) Mean (Min. /Max.)
+% of reads on target 81,95 ± 2,23 Mean / SN
+• Percentage low covered regions (<20 reads): 2,7%
+• In 29 of 38 target genes the coding region is completely (100%) sequenced which includes almost every monogenic PD gene (except LRRK2 with 1.6% of bases covered <20x).
+Confirmed reported mutations by NGS: 215 out of 237
+• 3 samples reported with a heterozygous PARK2 mutation were detected to be homozygous for this mutation.
+• remaining 22 mutations could not be confirmed at this moment due to low sequencing coverage or the inability to identify heterozygous exon copy number variations.
+Number of variants
+• Overall: 601 / Per sample: 70 ± 6 [52 - 86]
+Number of filtered variants
+• Overall: 168 / Per sample: 0 - 5
+LRRK2 subgroup analysis of 65 affected / 24 unaffected mutation carrier:
+• 58 different rare variants in 25 different genes
+Detection of 47 reported PARK2 exon CNVs by our in -house CNV detection tool:
+• all homozygous deletions / duplications could be confirmed
+• heterozygous CNV: just 89% of deletions and only 66% duplications have been detected, so far
+
+
+WP3.4: Proteomic changes in body fluids and ex vivo cells from patients with rare Mendelian forms of PD
+Objectives:
+1. Discover novel disease related candidate protein biomarkers (early detection, stratification, progression),
+2. Provide biomarker–related tools, such as antibodies for large scale follow-up, and
+3. Provide insight into disease mechanisms and discovery of novel protein targets for therapeutic intervention
+
+Important results of this work package
+Biomarkers from CSF
+• Analysed in LRRK2 cohort of 39 patients (symptomatic, asymptomatic, controls)
+• A total of 2154 proteins were identified across all the samples.
+• We could show that the CSF proteome of iPD and PD-LRRK2 patients was substantially different from healthy controls and from idiopathic PD.
+• PD-LRRK2 patients showed a strong up-regulation of immune response-related proteins.
+Proteomic analysis of CSF exosomes
+• A protocol to specifically isolate microvesicles (MV) from CSF has been established
+• iIdentification of around ~1500 proteins in the MV fraction.
+• Feasibility and promise of CSF MV proteomics for minimally-invasive exploration of brain biology/ pathophysiology shown
+Tissue proteomics of PD animal model.
+• Comparison of the “wildtype” LRRK2 synaptosome proteomes from cortex and hippocampus with the corresponding proteomes of the mutated LRRK2. BAC transgenic rats that express G2019S mutated human LRRK2 were used.
+• About 1000 proteins were identified. Statistical analysis revealed, only a few proteins with significant differences between mutant and wild type rats suggesting that the mutation has minor impact on the synapse.
+Interaction proteomics of LRRK2
+• Use of three anti-LRRK2 antibodies from the Michael J. Fox Foundation and a lab generated monoclonal antibody for immuno-precipitation. Only one out of 4 antibodies was able to immune-precipitate LRRK2 from hippocampal synapse enriched extract, but the mass spectrometric protein identification score was low
+
+Potential Impact:
+MEFOPA has aimed to bring about an impact for all of its main stakeholder groups namely patients and their families, pharmaceutical industry, respective scientific community and society at large (in terms of socioeconomic impact).
+(i) Impact on translational approach towards interventional trials
+The MEFOPA consortium has investigated relevant pathogenic pathways and specific biomarkers for rare Mendelian forms of PD. This and the creation of the world-wide largest registry for PD mutation carriers has set the stage for inteventional trials.
+For example, the world-wide largest group of patients and presymptomatic mutation carriers with -synuclein mutations are now being used in a new FP7 EU project, MultIsyn that will develop therapeutic imaging biomarker and will perform a proof of principle study by performing an exploratory interventional study with the antibody therapeutic approach of the company Affiris targeting alpha synuclein. Thus, a major impact of MEFOPA that is to set in motion a rationally designed disease-modifying controlled drug trial in a genetically defined form of PD will be achieved. This might serve as a proof of principle study for pharmaceutical industry and the biomedical scientific community that disease modification is in fact possible in neurodegenerative diseases, it will have an obvious major impact on the affected patients and pre-symptomatic mutation carriers, as well as a potential future impact on the overall health-care costs if this principle turns out to be applicable to the large group of patients with sporadic PD.
+
+(ii) Impact through establishment of the world wide largest registry for PD mutation carriers and a respective biobank
+Main goals in nowadays Parkinson’s disease research are the understanding of relevant disease-related molecular pathways and the identification of biomarkers for disease susceptibility and disease progression which in turn serve as basis for modifying drug-targets. In this context, the combination of the MEFOPA-Registry and the MEFOPA-Biobank of our consortium offers unique possibilities and the basis for future early phase II disease-modifying trials in patients with rare Mendelian forms of PD by:
+
+• Ascertainment of high-level expertise by joining the major European groups focusing on genetic forms of PD.
+• Build-up of the world-wide largest cohort of patients with rare Mendelian forms of PD and pre-symptomatic mutation carriers.
+• Pooling genetically well-defined homogenous subgroups.
+• Focusing on different disease causing genes in order to analyze various disease-specific pathways which in turn might come up with different drug-targets.
+• Using standardized operating procedures with regard to clinical data sets and collection of biomaterial from subjects throughout Europe, thereby ascertainment of high quality data.
+• Using patient derived biomaterial since this better recapitulate human disease mechanisms than animal models.
+• Collecting different types of biomaterial including CSF and fibroblasts (iPS-cell lines) in order to (i) reflect not only peripheral processes but especially the CNS milieu and (ii) evaluate pathways on a transcriptomic, proteomic and biochemical level followed by focused analysis of candidate proteins to define suitable markers as read-outs for rationally designed drug trials.
+• Conducting longitudinal investigations in order to (i) define biomarkers for disease progression in affected PD patients, (ii) study the prodromal phase of PD in yet pre-symptomatic mutation carriers, and (iii) evaluate potential protective mechanisms in those mutation carriers who remain asymptomatic in high age despite carrying a mutation.
+• Using these genetic cohorts as role model which recapitulate many of the clinical, pathological and biochemical features of the common sporadic form of PD in order to extend the knowledge on molecular mechanisms and potential drug-targets to sporadic PD.
+Most importantely, one of the genetic subcohorts (alpha synuclein mutation carriers) collected through MEFOPA is now being used in another EU funded project (MultISyn) that will develop therapeutic imaging biomarkes and will perform a proof-of-concept study in combination with a therapeutic intervention that applies the antibody therapeutic approach developed by the Austrian SME Affiris.
+Other subcohorts such as the LRRK2 cohort and the recessive mutation carriers will potentially be used for targeted therapeutic intervention studies as well with the latter seeming to be an appropriate cohort for approaches addressing mitochondrial deficits.
+
+(ii) Foreground fit for translational research of Mendelian forms of PD
+MEFOPA has generated foreground that is of high value for further translational research. This forground includes:
+• A new model of PD by dual genetic mutation hampering the dopamine storage and therefore exacerbating oxidative damage and at the same time disabling the anti-oxidative defense genes in the neurons
+• Generation of a zebrafish model for LRRK2 toxicity which enabled screening of a kinase inhibitor library and identification of a lead compound that ameliorates toxicity.
+• Identification of Rab11 interactors RAB11-FIP4 and PI4KB as genes that alter mitochondrial morphology in Drosophila cells and impinge on mitophagy in HeLa cells
+• Further evidence of the neuroprotective properties of TRO19622 in a model of alpha-synuclein-induced neuronal cell death.
+• Development of a robust AAV-based α-synuclein rat and mouse model.
+• Generation of PINK1 knockdown transgenic mice using lentiviral vector technology.
+• Proteomics analysis in LRRK2 cohort of 39 patients (symptomatic, asymptomatic, controls) showed that the CSF proteome of iPD and PD-LRRK2 patients was substantially different from healthy controls and from idiopathic PD.
+
+(iv) Direct impact for pharmaceutical industry
+Two companies have participated in MEFOPA, Trophos a French SME and Novartis.
+
+Trophos could achieve further evidence of the neuroprotective properties of TRO19622 in a model of alpha-synuclein-induced neuronal cell death. These results further demonstrate that TRO19622 prevents mitochondrial permeabilization and release of cytochrome c, which would be expected to maintain mitochondrial OXPHOS capacity in cells overexpressing alpha-synuclein. Both basal and alpha-synuclein-induced caspase activation was also reduced when cells were treated with TRO19622.
+
+Also Trophos established a screening model based on neuronal toxicity due to alpha-synuclein overexpression. This model was used to elaborate the structure-activity relationship of TRO19622. The model also permits screening drugs and pharmacological tools to identify novel compounds and targets that could be useful for treating and understanding the role of alpha-synuclein in Parkinson’s disease.
+
+The participation of Novartis was overshadowed by the decision of this company to close down the Novartis neuroscience research centre at Basel. Nevertheless, very intersting and promising results could be attained which were presented openly to the MEFOPA consortium. However, the potential translation of these results into a rational drug develoemnt will not be carried out within Novartis.
+
+Impact to the scientific community
+MEFOPA partners have published few publications in high ranked peer reviewed scientific journals. (see publication list)
+Moreover, MEFOPA has been served as the basis for four major scientific applications of two were awarded. The funded projects are MultISyn (FP7, EU) and Courage-PD (JPND).
+
+Main dissemination activities and exploitation of results
+The main dissemination activities included
+• Imperative dissemination of knowledge towards the scientific community and principal stakeholders;
+• Mention of the EC co-funding of the project for any publication, poster, leaflets related to the project, etc.;
+• Mention of the project during related workshops, scientific meetings;
+• Communication of the project internally and externally through a dedicated website.
+
+Data and results will be made public through the standard scientific community approaches: oral and poster presentation at local and international scientific meetings, publication in peer-reviewed journals. (see publication list and dissemniantion activities list)
+A newsletters and an articel was diestributed to patients’ associations. This will be followed up inthe case that a follow-up proect of MEFOPA recruits patients for a clinical trial.
+Additionally, publicity to a wider audience has been achieved by press release at the local, and national level as well as through the MEFOPA web site.
+
+Commercial exploitation
+The procedures have been agreed on in the Consortium Agreement that was signed by all partners. Measures for the protection of foreground has been implemented at local level through the partners.
+
+Contribution to policy developments
+Not applicable.
+
+Risk assessment and related communication strategy
+Not applicable.
+
+List of Websites:
+
+Web site: www.mefopa.eu
+
+Address of the Co-ordinator:
+Prof. Dr. Thomas Gasser
+Centre for Neurology and Hertie Institute
+for Clinical Brain Research
+University of Tübingen
+Hoppe-Seyler-Straße 3
+D 72076 Tübingen, Germany
+Phone: +49-7071-2986529
+Email : thomas.gasser@uni-tuebingen.de
