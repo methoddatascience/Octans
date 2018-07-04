@@ -23,3 +23,12 @@ What diseases have not seen a breakthrough in treatment. Meaning that a disease 
   * 'scrape_cordis.ipynb' finds funded projects
   * How do we use funding data?
     * Use search terms as above and identify trends in funding over last 20 years
+
+## Predicting Innovation
+* Uzzi: atypical combinations of citations
+  * create full citation network based on collected data
+  * pairwise combinations of referneces in bibliograph of each paper. So link between focal paper and paper in reference list. this is done for all papers in the reference list. 
+  * frequency of journal pairing is counted
+  * frequency of each co-citation pairs. Compare this frequency with expected change using randomized citation networks
+    * switching algorithm: monte carlo simulations (MCMC)
+  * aggregate counts of paper pairs into journals
