@@ -101,14 +101,18 @@ class ArticleParser:
             # gets the article author(s)
             authors = []
 
-            author_list = article['MedlineCitation']['Article']['AuthorList']
-            for author in author_list:
-                if 'CollectiveName' not in author:
-                    authors.append('{} {} {}'.format(author['ForeName'],
-                                                     author['LastName'],
-                                                     author.get('Suffix', '')).strip())
+            try:
+                author_list = article['MedlineCitation']['Article']['AuthorList']
+                for author in author_list:
+                    if 'CollectiveName' not in author:
+                        authors.append('{} {} {}'.format(author['ForeName'],
+                                                         author['LastName'],
+                                                         author.get('Suffix', '')).strip())
+            except KeyError:
+                print("There's no author info for article {}\n".format(idx))
+            
             authors = ', '.join(authors)
-
+            
             # gets the title of the journal the article was published in
             journal = ''
 
