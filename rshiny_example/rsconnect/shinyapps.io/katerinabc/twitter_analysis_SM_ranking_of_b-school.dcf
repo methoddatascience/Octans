@@ -1,0 +1,12 @@
+name: twitter_analysis_SM_ranking_of_b-school
+title: twitter_analysis_SM_ranking_of_b-school
+username:
+account: katerinabc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 359312
+bundleId: 1424615
+url: https://katerinabc.shinyapps.io/twitter_analysis_SM_ranking_of_b-school/
+when: 1528796946.67681
+asMultiple: FALSE
+asStatic: FALSE
