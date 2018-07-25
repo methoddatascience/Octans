@@ -30,15 +30,15 @@ app.layout = html.Div([
                     mode='markers',
                     opacity=0.7,
                     marker={
-                        'size': df[j] * 1.5,
-                        'line': {'width': 0.5, 'color': 'white'}
-                    },
+                        'size': df[j] * 1.15,
+                        'sizemin': 3},
                 ) for j in journals
             ],
             'layout': go.Layout(
-                xaxis={'fixedrange': False, 'title': 'Year'},
+                xaxis={'title': 'Year'},
                 yaxis={'type': 'log', 'title': 'Number of publications'},
-                title='Journal Publications per Year Since 1969',
+                title='Journal Publications per Year Since 1969<br>' +
+                      '(on a logarithmic scale)',
                 margin={'l': 70, 'b': 100, 't': 100, 'r': 25},
                 hovermode='closest'
             )
