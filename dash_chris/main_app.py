@@ -9,6 +9,8 @@ import pandas as pd
 import plotly.graph_objs as go
 import numpy as np
 import flask
+import os
+import sys
 
 # load the data
 # eventually the app should allow generating a data file via a query
@@ -23,7 +25,11 @@ available_drugs = [x.capitalize() for x in df_drugs.columns.values[1:]]
 journals = sorted(df_publications.columns[1:])
 
 # the network png directory
-image_directory = '/static/'
+static_dir = '/static/'
+if not sys.platform.startswith('win'):
+    image_directory = os.getcwd() + static_dir
+else:
+    image_directory = static_dir
 
 app = dash.Dash()
 
