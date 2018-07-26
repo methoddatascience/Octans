@@ -1,5 +1,5 @@
 """
-This dash app displays 
+This dash app displays
 """
 import dash
 import dash_core_components as dcc
@@ -23,13 +23,13 @@ available_drugs = [x.capitalize() for x in df_drugs.columns.values[1:]]
 journals = sorted(df_publications.columns[1:])
 
 # the network png directory
-image_directory = '/home/chris/MDS/Octans/dash_chris/'
+image_directory = '/static/'
 
 app = dash.Dash()
 
 app.layout = html.Div( # the top most div gives the left and right margins
     className='ten columns offset-by-one',
-    children = [ 
+    children = [
         html.Div( # this div contains the title
             className='row',
             children = [
@@ -81,7 +81,7 @@ app.layout = html.Div( # the top most div gives the left and right margins
                             style={'width': '500px', 'margin':'auto'}
                         )
                     ]
-                )                    
+                )
             ],
             style={'margin-top': '20px', 'margin-bottom':'30px'}
         ),
@@ -100,16 +100,16 @@ app.layout = html.Div( # the top most div gives the left and right margins
                                 value=[df_drugs.year.min(), df_drugs.year.max()],
                                 step=1,
                                 # Only show every 5th year in the slider
-                                marks={str(year): {'label': str(year), 
+                                marks={str(year): {'label': str(year),
                                                 'style':{'font-family':['Verdana', 'Times']}
                                                 } for year in df_drugs.year.values if year%5==0
-                                }                         
+                                }
                             )
-                        ])                
+                        ])
                     ],
                     style={'margin-top': '20px', 'margin-bottom':'30px'}
-                )                
-            ]            
+                )
+            ]
         ),
         html.Div( # a row with dropdown menus
             className='row',
@@ -125,7 +125,7 @@ app.layout = html.Div( # the top most div gives the left and right margins
                                 value=['Levodopa', 'Amantadine'],
                                 multi=True
                             )
-                        ], style = {'font-family': ['Verdana', 'Times']})                                
+                        ], style = {'font-family': ['Verdana', 'Times']})
                     ]
                 ),
                 html.Div(
@@ -140,7 +140,7 @@ app.layout = html.Div( # the top most div gives the left and right margins
                                     'Acta neurologica Scandinavica'],
                                 multi=True
                             )
-                        ], style = {'font-family': ['Verdana', 'Times']})                                
+                        ], style = {'font-family': ['Verdana', 'Times']})
                     ]
                 )
             ]
@@ -201,7 +201,7 @@ app.layout = html.Div( # the top most div gives the left and right margins
                     className='six columns',
                     children = [
                         dcc.Graph(
-                            id='top-journals-bar'                            
+                            id='top-journals-bar'
                         )
                     ]
                 )
@@ -224,10 +224,10 @@ def callback_a(year_values, drug_name_values):
     filtered_df = df_drugs.loc[(df_drugs.year >= year_values[0]) & (df_drugs.year <= year_values[1])]
     traces = []
     for i in drug_name_values:
-        # create a bar graph for each drug in the dropdown menu 
+        # create a bar graph for each drug in the dropdown menu
         traces.append(go.Bar(
             x=filtered_df.year,
-            y=filtered_df[i.upper()], # in the csv file the drugs are uppercase 
+            y=filtered_df[i.upper()], # in the csv file the drugs are uppercase
             name=i
         ))
 
@@ -272,7 +272,7 @@ def callback_b(years, journal_names):
             legend={'x': 0.8, 'y': 1},
             hovermode='closest'
         )
-    }    
+    }
 
 # the network bar graph callback
 @app.callback(
