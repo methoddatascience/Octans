@@ -66,7 +66,7 @@ app.layout = html.Div( # the top most div gives the left and right margins
             className='row',
             children = [
                 html.H5('All data is derived from a PubMed query on \
-                Parkinson\'s papers from 1969 to 2018')
+                Parkinson\'s papers from 1969 to 2018, circa 200 per year.')
             ]
         ),
         html.Div( # this div contains the title
