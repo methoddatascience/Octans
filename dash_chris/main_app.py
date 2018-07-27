@@ -11,18 +11,23 @@ import numpy as np
 import flask
 import os
 import sys
+from collections import defaultdict, Counter
 
 # load the data
 # eventually the app should allow generating a data file via a query
 df_drugs = pd.read_csv('named_drugs.csv')
 df_authors = pd.read_csv('authors_metrics.csv')
 df_publications = pd.read_csv('pubs_per_year.csv')
+df_topjr = pd.read_csv('top_jr_counts.csv')
 
 # the list of drugs in the dataframe to populate the dropdown menu with
 available_drugs = [x.capitalize() for x in df_drugs.columns.values[1:]]
 
 # the list of journals in the dataframe to populate the dropdown menu with
 journals = sorted(df_publications.columns[1:])
+
+# dictionary for hover in top_journals graph
+topjr_hover = pd.read_csv('topjr_hover.csv')
 
 # the network png directory
 static_dir = '/static/'
@@ -42,22 +47,44 @@ app.layout = html.Div( # the top most div gives the left and right margins
                 html.Div(
                     className='eight columns',
                     children = [
-                        html.H1('Title')
+                        html.H1('Analysis of a Scientific Research Field - Parkinson\'s')
                         ]
                 ),
                 html.Div(
                     className='one columns',
                     children = [
-                        html.H3('logo')
+                        html.Img(
+                            src='{}MDS_logo.png'.format(image_directory),
+                            style={'width':'100px'}
+                        )
                     ],
-                    style = {'float': 'right'}
+                    style = {'float': 'right', 'margin':'auto'}
                 )
             ]
         ),
         html.Div( # sub header
             className='row',
             children = [
-                html.H5('Some general statistics about the datasets used(?)')
+                html.H5('All data is derived from a PubMed query on \
+                Parkinson\'s papers from 1969 to 2018')
+            ]
+        ),
+        html.Div( # this div contains the title
+            className='row',
+            children = [
+                html.Div(
+                    className='four columns',
+                    children = [
+                        html.P('Query:'),
+                        dcc.Input(
+                            placeholder='Enter a pubmed query here... Disabled for this prototype',
+                            disabled=True,
+                            type='text',
+                            size = 50
+                        )
+                    ],
+                    style = {'margin-top': '20px', 'margin-bottom':'30px'}
+                )
             ]
         ),
         html.Div( # network metrics
@@ -207,7 +234,24 @@ app.layout = html.Div( # the top most div gives the left and right margins
                     className='six columns',
                     children = [
                         dcc.Graph(
-                            id='top-journals-bar'
+                            id='top-journals-bar',
+                            figure={
+                                'data': [
+                                    go.Bar(
+                                        x=df_topjr.date,
+                                        y=df_topjr.top_percentage,
+                                        text = topjr_hover.journal_counts,
+                                        hoverinfo = 'text'    
+                                    )
+                                ],
+                                'layout': go.Layout(
+                                    xaxis={'title': 'Year'},
+                                    yaxis={'title': 'Percentage of publications (%)'},
+                                    title='Percentage of Publications in Top-Ranking Journals per Year Since 1999',
+                                    margin= {'l': 70, 'b': 100, 't': 70, 'r': 25},
+                                    hovermode='closest'
+                                )
+                            }
                         )
                     ]
                 )
