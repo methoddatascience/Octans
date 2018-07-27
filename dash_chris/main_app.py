@@ -87,21 +87,33 @@ app.layout = html.Div( # the top most div gives the left and right margins
                 )
             ]
         ),
+        
+        html.Div( # explanation for network picutre
+            className='row',
+            children = [
+                        html.H5('Author Networks: Innovations require collaboration. These two graphs give you insights about the collaboration between researchers.'),
+            ]
+        ),
+                
         html.Div( # network metrics
             className='row',
             children =[
-                html.Div(
+                    
+                    html.Div(
                     className='seven columns',
                     children = [
                         html.Div([ # the network metrics graph lives in this div
+                            
                             dcc.Graph(id='author_metrics'),
                             html.Div([
+                                
                                 dcc.RadioItems(
                                     id='metric',
                                     options = [{'label':i, 'value':i} for i in ['Degree', 'Betweenness']],
                                     value='Betweenness'
                                 )
-                            ], style = {'font-family': ['Verdana', 'Times']})
+                            ], style = {'font-family': ['Verdana', 'Times']}),
+                           html.P('Degree indicates popularity. Betweenness measures researchers ability to span different groups. By knowing key players in a domain, it is easier to find expert partners and advisors.')
                         ])
                     ]
                 ),
@@ -112,12 +124,22 @@ app.layout = html.Div( # the top most div gives the left and right margins
                         html.Img(
                             src='{}networkx_graph_3.png'.format(image_directory),
                             style={'width': '500px', 'margin':'auto'}
-                        )
+                        ),
+                       html.P('The network graph on the right shows a hairball of researchers working with each other. This is good for cohesion, and sharing knowledge, but limits the introduction of new ideas into research. New ideas and new knowledge comes from the members on the outside.')
                     ]
                 )
             ],
             style={'margin-top': '20px', 'margin-bottom':'30px'}
         ),
+        
+        html.Div( # row for explanation for next grapsh
+            className='row',
+            children = [
+                 html.H5('Analysing researchers output to find areas rife for innovations'),
+                 html.P('To find diseases and treatments that are over-or underresearched, four graphs are produced based on analyzes of research output across journals. Use the slider to limit the analysis to a specific year range for the first two graphs.')
+                 ]
+        ),
+                
         html.Div( # a row for the year slider
             className='row',
             children = [
@@ -158,7 +180,8 @@ app.layout = html.Div( # the top most div gives the left and right margins
                                 value=['Levodopa', 'Amantadine'],
                                 multi=True
                             )
-                        ], style = {'font-family': ['Verdana', 'Times']})
+                        ], style = {'font-family': ['Verdana', 'Times']}
+                                 )
                     ]
                 ),
                 html.Div(
@@ -184,13 +207,15 @@ app.layout = html.Div( # the top most div gives the left and right margins
                 html.Div(
                     className='six columns',
                     children = [
-                        dcc.Graph(id='drug-graph')
+                        dcc.Graph(id='drug-graph'),
+                        html.P('This graph shows which treatments are heavenly researched. The list of drugs have been taken from FDA site.')
                     ]
                 ),
                 html.Div(
                     className='six columns',
                     children = [
-                        dcc.Graph(id='journals-bar')
+                        dcc.Graph(id='journals-bar'),
+                        html.P('Research output per publications provides information about what journals are influential for sharing research progress on a disease. In addition, the time interval indicates changes in popularity for a journal, and hence the research topic it specializes in.')
                     ]
                 )
             ],
@@ -221,13 +246,14 @@ app.layout = html.Div( # the top most div gives the left and right margins
                                 'layout': go.Layout(
                                     xaxis={'title': 'Year'},
                                     yaxis={'type': 'log', 'title': 'Number of publications'},
-                                    title='Journal Publications per Year Since 1969<br>' +
+                                    title='Journal publications per year<br>' +
                                         '(on a logarithmic scale)',
                                     margin={'l': 70, 'b': 100, 't': 100, 'r': 25},
                                     hovermode='closest'
                                 )
                             }
-                        )
+                        ),
+                    html.P('This graph indicates trends in popularity of a journal. Journals are color coded, and scaled by the number of publications researching Parkinson.')
                     ]
                 ),
                 html.Div(
@@ -247,12 +273,14 @@ app.layout = html.Div( # the top most div gives the left and right margins
                                 'layout': go.Layout(
                                     xaxis={'title': 'Year'},
                                     yaxis={'title': 'Percentage of publications (%)'},
-                                    title='Percentage of Publications in Top-Ranking Journals per Year Since 1999',
+                                    title='Publications in top journals per year since 1999 <br>'+
+                                                    ('(in percentage)'),
                                     margin= {'l': 70, 'b': 100, 't': 70, 'r': 25},
                                     hovermode='closest'
                                 )
                             }
-                        )
+                        ),
+                    html.P('To get an idea of what disease is being investigated by top-class researcher, we look at publication in top-ranking journals. This graph shows the percentage of research on Parkinson that has been published in top journals. ')
                     ]
                 )
             ],
@@ -287,7 +315,7 @@ def callback_a(year_values, drug_name_values):
             barmode='group',
             xaxis={'title': 'Year'},
             yaxis={'title': 'Number of mentions'},
-            title='Drug Mentions in Scientific Abstracts per Year Since 1969',
+            title='Drug mentions in scientific abstracts per year since 1969',
             margin={'l': 70, 'b': 100, 't': 100, 'r': 25},
             legend={'x': 0.8, 'y': 1},
             hovermode='closest'
@@ -317,7 +345,7 @@ def callback_b(years, journal_names):
             barmode='group',
             xaxis={'title': 'Year'},
             yaxis={'title': 'Number of publications'},
-            title='Journal Publications per Year Since 1969',
+            title='Journal publications per year since 1969',
             margin={'l': 70, 'b': 100, 't': 100, 'r': 25},
             legend={'x': 0.8, 'y': 1},
             hovermode='closest'
