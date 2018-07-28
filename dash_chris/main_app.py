@@ -392,7 +392,7 @@ def serv_image(path):
     image_name = '{}.png'.format(path)
     return flask.send_from_directory(image_directory, image_name)
 
-app.css.append_css({
+app.css.append_css({ # custom css hosted by the guy who wrote dash. If the app gets a lot of traffic it should be hosted somewhere else than chriddyp's codepen site.
     "external_url": "https://codepen.io/chriddyp/pen/bWLwgP.css"
 })
 
