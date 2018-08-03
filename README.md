@@ -7,8 +7,8 @@ This repository contains the working files of Team Octan, 1st [Method Data Scien
 * Great-grandchildren of root folder: scripts, Jupyter notebooks
 
 ## Project notes:
-* [Project 1]('projects/project1/notes/')
-* [Project 2]('projects/project2/notes/')
+* [Project 1](projects/project1/notes/)
+* [Project 2](projects/project2/notes/)
 
 ### Pull request protocol:
 * file owner tests for conflicts with master branch.
