@@ -11,7 +11,7 @@ import pandas as pd
 
 app = dash.Dash()
 
-df = pd.read_csv('top_jr_counts.csv', index_col='date')
+df = pd.read_csv('../../static/dash_data/top_jr_counts.csv', index_col='date')
 
 radio_values = ['Total Number of Publications',
                 'Number of Publications in Top-Ranking Journals',

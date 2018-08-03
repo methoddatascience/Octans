@@ -15,10 +15,10 @@ from collections import defaultdict, Counter
 
 # load the data
 # eventually the app should allow generating a data file via a query
-df_drugs = pd.read_csv('named_drugs.csv')
-df_authors = pd.read_csv('authors_metrics.csv')
-df_publications = pd.read_csv('pubs_per_year.csv')
-df_topjr = pd.read_csv('top_jr_counts.csv')
+df_drugs = pd.read_csv('../../static/dash_data/named_drugs.csv')
+df_authors = pd.read_csv('../../static/dash_data/authors_metrics.csv')
+df_publications = pd.read_csv('../../static/dash_data/pubs_per_year.csv')
+df_topjr = pd.read_csv('../../static/dash_data/top_jr_counts.csv')
 
 # the list of drugs in the dataframe to populate the dropdown menu with
 available_drugs = [x.capitalize() for x in df_drugs.columns.values[1:]]
@@ -27,14 +27,10 @@ available_drugs = [x.capitalize() for x in df_drugs.columns.values[1:]]
 journals = sorted(df_publications.columns[1:])
 
 # dictionary for hover in top_journals graph
-topjr_hover = pd.read_csv('topjr_hover.csv')
+topjr_hover = pd.read_csv('../../static/dash_data/topjr_hover.csv')
 
 # the network png directory
-static_dir = '/static/'
-if not sys.platform.startswith('win'):
-    image_directory = os.getcwd() + static_dir
-else:
-    image_directory = static_dir
+static_dir = '/../../static/images/'
 
 app = dash.Dash()
 
@@ -87,26 +83,26 @@ app.layout = html.Div( # the top most div gives the left and right margins
                 )
             ]
         ),
-        
+
         html.Div( # explanation for network picutre
             className='row',
             children = [
                         html.H5('Author Networks: Innovations require collaboration. These two graphs give you insights about the collaboration between researchers.'),
             ]
         ),
-                
+
         html.Div( # network metrics
             className='row',
             children =[
-                    
+
                     html.Div(
                     className='seven columns',
                     children = [
                         html.Div([ # the network metrics graph lives in this div
-                            
+
                             dcc.Graph(id='author_metrics'),
                             html.Div([
-                                
+
                                 dcc.RadioItems(
                                     id='metric',
                                     options = [{'label':i, 'value':i} for i in ['Degree', 'Betweenness']],
@@ -131,7 +127,7 @@ app.layout = html.Div( # the top most div gives the left and right margins
             ],
             style={'margin-top': '20px', 'margin-bottom':'30px'}
         ),
-        
+
         html.Div( # row for explanation for next grapsh
             className='row',
             children = [
@@ -139,7 +135,7 @@ app.layout = html.Div( # the top most div gives the left and right margins
                  html.P('To find diseases and treatments that are over-or underresearched, four graphs are produced based on analyzes of research output across journals. Use the slider to limit the analysis to a specific year range for the first two graphs.')
                  ]
         ),
-                
+
         html.Div( # a row for the year slider
             className='row',
             children = [
@@ -267,7 +263,7 @@ app.layout = html.Div( # the top most div gives the left and right margins
                                         x=df_topjr.date,
                                         y=df_topjr.top_percentage,
                                         text = topjr_hover.journal_counts,
-                                        hoverinfo = 'text'    
+                                        hoverinfo = 'text'
                                     )
                                 ],
                                 'layout': go.Layout(

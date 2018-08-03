@@ -1,8 +1,8 @@
 library(rdrop2)
 
 rawData <- (function(){ #for some reason it saves the last input. 
- # userTL <- drop_read_csv("sm_bschool.csv", dtoken = token)
- userTL <-read.csv("sm_bschool.csv", header=T)
+ # userTL <- drop_read_csv("../../static/sm_bschool.csv", dtoken = token)
+ userTL <-read.csv("../../static/sm_bschool.csv", header=T)
 })
 
 shinyServer(function(input,output){

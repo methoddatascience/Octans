@@ -110,9 +110,9 @@ class ArticleParser:
                                                          author.get('Suffix', '')).strip())
             except KeyError:
                 print("There's no author info for article {}\n".format(idx))
-            
+
             authors = ', '.join(authors)
-            
+
             # gets the title of the journal the article was published in
             journal = ''
 
@@ -170,7 +170,7 @@ class ArticleParser:
         df = df[df.abstract != ''].sort_values(by='date',
                                                ascending=sort_order)\
                                   .reset_index(drop=True)
-        df.to_csv(filename, index_label='id')
+        df.to_csv('../../static/' + filename, index_label='id')
 
 
 def main():

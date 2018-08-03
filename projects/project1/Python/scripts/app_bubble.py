@@ -13,7 +13,7 @@ import numpy as np
 app = dash.Dash()
 
 # based on the Parkinson's data
-df = pd.read_csv('pubs_per_year.csv')
+df = pd.read_csv('../../static/dash_data/pubs_per_year.csv')
 
 journals = sorted(df.columns[1:])
 
