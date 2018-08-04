@@ -1,10 +1,10 @@
 # Project 2 Notes
 
-# Client: Provenance Digital
-Provenance Digital (https://www.provenance.digital/) is a private equity fund that invests exclusively in consumer products / apparel businesses. Fast and aggressive growth isn't their thing, rather prudent growth. Invest in brands (consumer products and services) who have sound strategies and do not engage in risky endavours that can unnecessarily harm the financial stability of the company. A sound strategy means a balanced approach to growth and profitability.  
+# Client: 
+Client is a private equity fund that invests exclusively in consumer products / apparel businesses. Fast and aggressive growth isn't their thing, rather prudent growth. Invest in brands (consumer products and services) who have sound strategies and do not engage in risky endavours that can unnecessarily harm the financial stability of the company. A sound strategy means a balanced approach to growth and profitability.  
 
 # Customer Lifetime Value
-Customer lifetime value is a *prediction of the net profit* that can be gained from the entire future relationship with a customer. It is Provenance Digital's meain KPI (key performance indicator). As an equity firm, Provenance Digital is an active investors. This means they are actively providing input for the strategy of the firm, without pushing their views. They consider maximizig customer lifetime value as the main goal to align leader's opinion on how to manage the company. 
+Customer lifetime value is a *prediction of the net profit* that can be gained from the entire future relationship with a customer. It is the client's KPI (key performance indicator). As an equity firm, the client is an active investors. This means they are actively providing input for the strategy of the firm, without pushing their views. 
 
 Customers = individuals who buy products and services from the brands in which Provenance Digital invests in.
 
